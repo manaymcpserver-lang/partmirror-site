@@ -1,6 +1,8 @@
 import type { MetadataRoute } from 'next';
 import { sectionPath, supportedLocales, type SiteSection } from './content';
 
+export const dynamic = 'force-static';
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const sections: SiteSection[] = ['home', 'support', 'privacy', 'terms'];
   const localized = supportedLocales.flatMap((locale) =>
