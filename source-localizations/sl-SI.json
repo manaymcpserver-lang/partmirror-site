@@ -1,0 +1,25 @@
+{
+  "locale": "sl-SI",
+  "language": "Slovenian",
+  "app_name": "PartMirror: Vodnik za prečko",
+  "subtitle": "Sredinska in stranska prečka",
+  "tagline": "Poiščite svojo prečko. Sledite črti.",
+  "promotional_text": "Preizkusite sredinsko in stransko prečko z vodilom v živo. Natančno nastavite položaj in obliko ter najljubše videze zasebno shranite v iPhone.",
+  "description": "Poiščite prečko, ki vam pristaja, še preden primete za glavnik. PartMirror s sprednjo kamero TrueDepth v združljivih iPhonih čez lase prikaže vodilo v živo, da lahko primerjate sredinsko, levo in desno prečko.\n\nIzberite položaj\n• Preklapljajte med sredino, levo in desno stranjo.\n• Položaj natančno nastavite v milimetrih.\n• Izberite ravno, diagonalno ali nežno C-oblikovano črto od lasne meje do temena.\n\nUjemite svoj videz\nPosnemite fotografije ali kratke videoposnetke ter v Mojih videzih primerjajte čist prikaz s prikazom z vodilom. Shranjeni videzi ostanejo v vašem iPhonu, razen če jih delite ali izvozite.\n\nZasebna obdelava kamere\nSledenje glavi in obdelava kamere potekata v iPhonu. Za uporabo vodila ne potrebujete računa ali nalaganja podatkov.\n\nPartMirror zahteva iOS 17 ali novejši in iPhone s sprednjo kamero TrueDepth.",
+  "keywords": "pričeska,prečka,sredina,simetrija,kite,razdelki,glavnik,lasišče,oblikovanje",
+  "ui": {
+    "left": "Levo", "middle": "Sredina", "right": "Desno",
+    "center_position": "Sredinski položaj", "centered": "Na sredini",
+    "your_left": "Vaša leva", "center": "Sredina", "your_right": "Vaša desna",
+    "part_position": "Položaj prečke", "side": "Stran", "shape": "Oblika",
+    "straight": "Ravna", "diagonal": "Diagonalna", "soft_c": "Nežna C",
+    "customize_shape": "Prilagodi obliko…", "photo": "Fotografija", "video": "Video"
+  },
+  "screenshots": [
+    {"position": 1, "headline": "Poiščite svojo popolno prečko", "supporting": "Vodilo v živo sledi vaši glavi v realnem času"},
+    {"position": 2, "headline": "Sredina, levo ali desno", "supporting": "Izberite položaj, ki pristaja vašemu videzu"},
+    {"position": 3, "headline": "Nastavite natančen položaj", "supporting": "Prečko natančno prilagodite do milimetra"},
+    {"position": 4, "headline": "Ravna, diagonalna ali ukrivljena", "supporting": "Oblikujte črto od lasne meje do temena"},
+    {"position": 5, "headline": "Posnemite fotografijo ali video", "supporting": "Vsak videz prečke zasebno shranite v iPhone"}
+  ]
+}

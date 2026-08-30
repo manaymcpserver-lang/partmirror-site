@@ -1,0 +1,56 @@
+{
+  "locale": "hu",
+  "language": "Hungarian",
+  "app_name": "PartMirror: Választéksegéd",
+  "subtitle": "Közép- és oldalválaszték",
+  "tagline": "Találd meg a választékod. Kövesd a vonalat.",
+  "promotional_text": "Próbálj ki közép- és oldalválasztékokat élő segédvonallal. Finomítsd a helyet és a formát, majd mentsd kedvenc frizuráidat privátan az iPhone-odra.",
+  "description": "Találd meg a hozzád illő hajválasztékot, mielőtt a fésűért nyúlnál. A PartMirror a kompatibilis iPhone-ok TrueDepth előlapi kamerájával élő segédvonalat helyez a hajadra, így összehasonlíthatod a középső, bal és jobb oldali választékot.\n\nVálassz elhelyezést\n• Válts a középső, bal és jobb oldali választék között.\n• Finomhangold a helyet milliméteres pontossággal.\n• Válassz Egyenes, Átlós vagy Lágy C vonalat a hajvonaltól a fejtetőig.\n\nÖrökítsd meg a frizurád\nKészíts fényképeket vagy rövid videókat, majd a Saját frizurák között hasonlítsd össze a tiszta és a segédvonalas nézetet. A mentett frizurák az iPhone-odon maradnak, hacsak nem döntesz a megosztásuk vagy exportálásuk mellett.\n\nPrivát kamerafeldolgozás\nA fej követése és a kamerakép feldolgozása az iPhone-odon történik. A segédvonalhoz nincs szükség fiókra vagy feltöltésre.\n\nA PartMirror használatához iOS 17 vagy újabb rendszer és TrueDepth előlapi kamerával rendelkező iPhone szükséges.",
+  "keywords": "frizura,szimmetria,fonás,tincselés,fésű,fejbőr,formázás,szépség,igazítás",
+  "ui": {
+    "left": "Bal",
+    "middle": "Közép",
+    "right": "Jobb",
+    "center_position": "Középső pozíció",
+    "centered": "Középen",
+    "your_left": "Bal oldalad",
+    "center": "Közép",
+    "your_right": "Jobb oldalad",
+    "part_position": "Választék helye",
+    "side": "Oldal",
+    "shape": "Forma",
+    "straight": "Egyenes",
+    "diagonal": "Átlós",
+    "soft_c": "Lágy C",
+    "customize_shape": "Forma testreszabása…",
+    "photo": "Fotó",
+    "video": "Videó"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Találd meg a tökéletes választékod",
+      "supporting": "Az élő segédvonal valós időben követi a fejed"
+    },
+    {
+      "position": 2,
+      "headline": "Középen, balra vagy jobbra",
+      "supporting": "Válaszd ki a frizurádhoz illő helyet"
+    },
+    {
+      "position": 3,
+      "headline": "Állítsd be a pontos helyet",
+      "supporting": "Finomhangold a választékot milliméterre pontosan"
+    },
+    {
+      "position": 4,
+      "headline": "Egyenes, átlós vagy ívelt",
+      "supporting": "Formázd a vonalat a hajvonaltól a fejtetőig"
+    },
+    {
+      "position": 5,
+      "headline": "Készíts fotót vagy videót",
+      "supporting": "Mentsd minden választékos frizurád privátan az iPhone-odra"
+    }
+  ]
+}

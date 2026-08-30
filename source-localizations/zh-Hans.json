@@ -1,0 +1,56 @@
+{
+  "locale": "zh-Hans",
+  "language": "Chinese (Simplified)",
+  "app_name": "PartMirror：头发分缝指南",
+  "subtitle": "中分与侧分辅助工具",
+  "tagline": "找到适合你的分缝。沿线造型。",
+  "promotional_text": "通过实时辅助线预览中分和侧分效果。微调位置与形状，然后将喜爱的造型私密保存在 iPhone 上。",
+  "description": "拿起梳子前，先找到最适合你的头发分缝。PartMirror 使用兼容 iPhone 上的 TrueDepth 前置摄像头，在头发上显示实时辅助线，帮助你比较中分、左分和右分。\n\n选择分缝位置\n• 在中分、左分和右分之间切换。\n• 以毫米为单位微调位置。\n• 从发际线到头顶选择直线、斜线或柔和 C 形线条。\n\n记录你的造型\n拍摄照片或短视频，然后在“我的造型”中比较无辅助线画面和带辅助线画面。除非你选择分享或导出，否则保存的造型只会留在你的 iPhone 上。\n\n私密的相机处理\n头部跟踪和相机处理均在你的 iPhone 上完成。使用辅助线无需帐户，也无需上传内容。\n\nPartMirror 需要 iOS 17 或更高版本，以及配备 TrueDepth 前置摄像头的 iPhone。",
+  "keywords": "发型设计,中分发型,侧分发型,脸型对称,编发造型,头发分区,头皮护理",
+  "ui": {
+    "left": "左侧",
+    "middle": "中间",
+    "right": "右侧",
+    "center_position": "中间位置",
+    "centered": "居中",
+    "your_left": "你的左侧",
+    "center": "中间",
+    "your_right": "你的右侧",
+    "part_position": "分缝位置",
+    "side": "侧边",
+    "shape": "分缝形状",
+    "straight": "直线",
+    "diagonal": "斜线",
+    "soft_c": "柔和 C 形",
+    "customize_shape": "自定义形状…",
+    "photo": "照片",
+    "video": "视频"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "找到最适合你的分缝",
+      "supporting": "实时辅助线随头部同步移动"
+    },
+    {
+      "position": 2,
+      "headline": "中分、左分或右分",
+      "supporting": "选择最适合你造型的位置"
+    },
+    {
+      "position": 3,
+      "headline": "精确调整位置",
+      "supporting": "以毫米为单位微调分缝"
+    },
+    {
+      "position": 4,
+      "headline": "直线、斜线或曲线",
+      "supporting": "从发际线到头顶塑造线条"
+    },
+    {
+      "position": 5,
+      "headline": "拍摄照片或视频",
+      "supporting": "将每个分缝造型私密保存在 iPhone 上"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "locale": "fr-CA",
+  "language": "French (Canada)",
+  "app_name": "PartMirror : Guide de raie",
+  "subtitle": "Raie au centre ou sur le côté",
+  "tagline": "Trouvez votre raie. Suivez la ligne.",
+  "promotional_text": "Essayez une raie au centre ou sur le côté avec un guide en direct. Réglez sa position et sa forme, puis gardez vos looks en privé sur votre iPhone.",
+  "description": "Trouvez la raie qui vous convient avant de prendre votre peigne. PartMirror utilise la caméra avant TrueDepth des iPhone compatibles pour placer un guide en direct sur vos cheveux et vous aider à comparer les raies au centre, à gauche et à droite.\n\nChoisissez l'emplacement\n• Passez d'une raie au centre à une raie à gauche ou à droite.\n• Réglez précisément sa position au millimètre.\n• Choisissez une ligne Droite, Diagonale ou en C doux, de la ligne des cheveux au sommet de la tête.\n\nCapturez votre look\nPrenez des photos ou de courtes vidéos, puis comparez la vue sans guide et la vue guidée dans Mes looks. Vos looks enregistrés restent sur votre iPhone, sauf si vous choisissez de les partager ou de les exporter.\n\nTraitement privé de la caméra\nLe suivi de la tête et le traitement de la caméra se font sur votre iPhone. Aucun compte ni téléversement n'est nécessaire pour utiliser le guide.\n\nPartMirror nécessite iOS 17 ou une version ultérieure et un iPhone muni d'une caméra avant TrueDepth.",
+  "keywords": "coiffure,cheveux,symétrie,tresses,séparation,peigne,cuir chevelu,style,beauté",
+  "ui": {
+    "left": "Gauche",
+    "middle": "Centre",
+    "right": "Droite",
+    "center_position": "Position au centre",
+    "centered": "Au centre",
+    "your_left": "Votre gauche",
+    "center": "Centre",
+    "your_right": "Votre droite",
+    "part_position": "Position de la raie",
+    "side": "Côté",
+    "shape": "Forme",
+    "straight": "Droite",
+    "diagonal": "Diagonale",
+    "soft_c": "C doux",
+    "customize_shape": "Personnaliser la forme…",
+    "photo": "Photo",
+    "video": "Vidéo"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Trouvez votre raie parfaite",
+      "supporting": "Un guide suit votre tête en temps réel"
+    },
+    {
+      "position": 2,
+      "headline": "Au centre, à gauche ou à droite",
+      "supporting": "Choisissez l'emplacement adapté à votre look"
+    },
+    {
+      "position": 3,
+      "headline": "Réglez la position exacte",
+      "supporting": "Ajustez votre raie au millimètre près"
+    },
+    {
+      "position": 4,
+      "headline": "Droite, diagonale ou courbe",
+      "supporting": "Modelez la ligne des cheveux jusqu'au sommet"
+    },
+    {
+      "position": 5,
+      "headline": "Prenez une photo ou une vidéo",
+      "supporting": "Gardez chaque look en privé sur votre iPhone"
+    }
+  ]
+}

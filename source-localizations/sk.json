@@ -1,0 +1,25 @@
+{
+  "locale": "sk",
+  "language": "Slovak",
+  "app_name": "PartMirror: Vlasová cestička",
+  "subtitle": "Stredová a bočná cestička",
+  "tagline": "Nájdite svoju cestičku. Sledujte čiaru.",
+  "promotional_text": "Vyskúšajte stredovú aj bočnú cestičku so živým vodidlom. Upravte polohu a tvar a obľúbené vzhľady si súkromne uložte v iPhone.",
+  "description": "Nájdite si cestičku, ktorá vám pristane, ešte skôr, než vezmete do ruky hrebeň. PartMirror používa prednú kameru TrueDepth v kompatibilných iPhonoch a zobrazuje na vlasoch živé vodidlo, aby ste mohli porovnať stredovú, ľavú a pravú cestičku.\n\nVyberte polohu\n• Prepínajte medzi stredovou, ľavou a pravou stranou.\n• Dolaďte polohu v milimetroch.\n• Vyberte si rovnú, diagonálnu alebo jemne C-zakrivenú čiaru od vlasovej línie po temeno.\n\nZachyťte svoj vzhľad\nZhotovte fotografie alebo krátke videá a v Mojich vzhľadoch porovnajte čistý záber so záberom s vodidlom. Uložené vzhľady zostanú vo vašom iPhone, kým sa ich nerozhodnete zdieľať alebo exportovať.\n\nSúkromné spracovanie kamery\nSledovanie hlavy a spracovanie kamery prebiehajú v iPhone. Vodidlo nevyžaduje účet ani nahrávanie údajov.\n\nPartMirror vyžaduje iOS 17 alebo novší a iPhone s prednou kamerou TrueDepth.",
+  "keywords": "účes,cestička,stred,symetria,vrkoče,sekcie,hrebeň,pokožka,styling,krása",
+  "ui": {
+    "left": "Vľavo", "middle": "Stred", "right": "Vpravo",
+    "center_position": "Poloha v strede", "centered": "V strede",
+    "your_left": "Vaša ľavá", "center": "Stred", "your_right": "Vaša pravá",
+    "part_position": "Poloha cestičky", "side": "Strana", "shape": "Tvar",
+    "straight": "Rovná", "diagonal": "Diagonálna", "soft_c": "Jemné C",
+    "customize_shape": "Upraviť tvar…", "photo": "Fotografia", "video": "Video"
+  },
+  "screenshots": [
+    {"position": 1, "headline": "Nájdite svoju ideálnu cestičku", "supporting": "Živé vodidlo sleduje vašu hlavu v reálnom čase"},
+    {"position": 2, "headline": "Stred, vľavo alebo vpravo", "supporting": "Vyberte si polohu, ktorá pristane vášmu vzhľadu"},
+    {"position": 3, "headline": "Upravte presnú polohu", "supporting": "Dolaďte cestičku na milimeter presne"},
+    {"position": 4, "headline": "Rovná, diagonálna či zakrivená", "supporting": "Tvarujte čiaru od vlasovej línie po temeno"},
+    {"position": 5, "headline": "Zhotovte fotografiu alebo video", "supporting": "Každý vzhľad si súkromne uložte v iPhone"}
+  ]
+}

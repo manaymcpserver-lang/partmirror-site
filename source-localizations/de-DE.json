@@ -1,0 +1,56 @@
+{
+  "locale": "de-DE",
+  "language": "German",
+  "app_name": "PartMirror: Scheitelhilfe",
+  "subtitle": "Mittel- und Seitenscheitel",
+  "tagline": "Finde deinen Scheitel. Folge der Linie.",
+  "promotional_text": "Teste Mittel- und Seitenscheitel mit einer Live-Hilfslinie. Passe Position und Form an und speichere deine Lieblingslooks privat auf deinem iPhone.",
+  "description": "Finde den Scheitel, der zu dir passt, noch bevor du zum Kamm greifst. PartMirror nutzt die TrueDepth-Frontkamera kompatibler iPhones, um eine Live-Hilfslinie auf dein Haar zu legen. So kannst du Mittel-, Links- und Rechtsscheitel vergleichen.\n\nWähle die Position\n• Wechsle zwischen Mitte, links und rechts.\n• Passe die Position millimetergenau an.\n• Wähle vom Haaransatz bis zum Oberkopf eine Gerade, Diagonale oder sanfte C-Linie.\n\nHalte deinen Look fest\nNimm Fotos oder kurze Videos auf und vergleiche anschließend in „Meine Looks“ die Ansicht ohne Linie mit der geführten Ansicht. Gespeicherte Looks bleiben auf deinem iPhone, bis du sie selbst teilst oder exportierst.\n\nPrivate Kameraverarbeitung\nKopfverfolgung und Kameraverarbeitung erfolgen auf deinem iPhone. Für die Hilfslinie sind weder ein Konto noch ein Upload erforderlich.\n\nPartMirror erfordert iOS 17 oder neuer sowie ein iPhone mit TrueDepth-Frontkamera.",
+  "keywords": "Frisur,Symmetrie,Zöpfe,Abteilen,Kamm,Kopfhaut,Styling,Schönheit,Ausrichtung",
+  "ui": {
+    "left": "Links",
+    "middle": "Mitte",
+    "right": "Rechts",
+    "center_position": "Position in der Mitte",
+    "centered": "Mittig",
+    "your_left": "Deine linke Seite",
+    "center": "Mitte",
+    "your_right": "Deine rechte Seite",
+    "part_position": "Scheitelposition",
+    "side": "Seite",
+    "shape": "Form",
+    "straight": "Gerade",
+    "diagonal": "Diagonal",
+    "soft_c": "Sanftes C",
+    "customize_shape": "Form anpassen…",
+    "photo": "Foto",
+    "video": "Video"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Finde deinen perfekten Scheitel",
+      "supporting": "Eine Live-Linie folgt deinem Kopf in Echtzeit"
+    },
+    {
+      "position": 2,
+      "headline": "Mitte, links oder rechts",
+      "supporting": "Wähle die Position, die zu deinem Look passt"
+    },
+    {
+      "position": 3,
+      "headline": "Passe die Position genau an",
+      "supporting": "Stelle deinen Scheitel millimetergenau ein"
+    },
+    {
+      "position": 4,
+      "headline": "Gerade, diagonal oder gebogen",
+      "supporting": "Forme die Linie vom Haaransatz bis zum Oberkopf"
+    },
+    {
+      "position": 5,
+      "headline": "Nimm ein Foto oder Video auf",
+      "supporting": "Speichere jeden Scheitel-Look privat auf deinem iPhone"
+    }
+  ]
+}

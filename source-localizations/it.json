@@ -1,0 +1,56 @@
+{
+  "locale": "it",
+  "language": "Italian",
+  "app_name": "PartMirror: Guida alla riga",
+  "subtitle": "Riga centrale e laterale",
+  "tagline": "Trova la tua riga. Segui la linea.",
+  "promotional_text": "Prova la riga centrale o laterale con una guida live. Regola posizione e forma, poi salva i tuoi look preferiti in privato sul tuo iPhone.",
+  "description": "Trova la riga che ti valorizza prima ancora di prendere il pettine. PartMirror usa la fotocamera frontale TrueDepth degli iPhone compatibili per mostrare una guida live sui tuoi capelli e aiutarti a confrontare la riga centrale, a sinistra e a destra.\n\nScegli la posizione\n• Passa dalla riga centrale a quella a sinistra o a destra.\n• Regola con precisione la posizione in millimetri.\n• Scegli una linea Dritta, Diagonale o a C morbida dall'attaccatura fino alla sommità della testa.\n\nCattura il tuo look\nScatta foto o brevi video, poi confronta la vista pulita con quella guidata in I miei look. I look salvati restano sul tuo iPhone, a meno che tu non scelga di condividerli o esportarli.\n\nElaborazione privata della fotocamera\nIl tracciamento della testa e l'elaborazione della fotocamera avvengono sul tuo iPhone. Per usare la guida non servono un account né caricamenti.\n\nPartMirror richiede iOS 17 o versioni successive e un iPhone con fotocamera frontale TrueDepth.",
+  "keywords": "acconciatura,simmetria,trecce,sezioni,pettine,cuoio capelluto,styling,bellezza",
+  "ui": {
+    "left": "Sinistra",
+    "middle": "Centro",
+    "right": "Destra",
+    "center_position": "Posizione centrale",
+    "centered": "Al centro",
+    "your_left": "La tua sinistra",
+    "center": "Centro",
+    "your_right": "La tua destra",
+    "part_position": "Posizione della riga",
+    "side": "Lato",
+    "shape": "Forma",
+    "straight": "Dritta",
+    "diagonal": "Diagonale",
+    "soft_c": "C morbida",
+    "customize_shape": "Personalizza forma…",
+    "photo": "Foto",
+    "video": "Video"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Trova la tua riga perfetta",
+      "supporting": "Una guida live segue la tua testa in tempo reale"
+    },
+    {
+      "position": 2,
+      "headline": "Al centro, a sinistra o a destra",
+      "supporting": "Scegli la posizione più adatta al tuo look"
+    },
+    {
+      "position": 3,
+      "headline": "Regola la posizione esatta",
+      "supporting": "Perfeziona la riga fino al millimetro"
+    },
+    {
+      "position": 4,
+      "headline": "Dritta, diagonale o curva",
+      "supporting": "Modella la linea dall'attaccatura alla sommità"
+    },
+    {
+      "position": 5,
+      "headline": "Scatta una foto o un video",
+      "supporting": "Salva ogni look con la riga in privato sul tuo iPhone"
+    }
+  ]
+}

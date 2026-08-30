@@ -1,0 +1,56 @@
+{
+  "locale": "id",
+  "language": "Indonesian",
+  "app_name": "PartMirror: Panduan Belahan",
+  "subtitle": "Belah Tengah & Samping",
+  "tagline": "Temukan belahanmu. Ikuti garisnya.",
+  "promotional_text": "Coba belah tengah dan samping dengan panduan langsung. Sesuaikan posisi dan bentuknya, lalu simpan gaya favorit secara privat di iPhone.",
+  "description": "Temukan belahan rambut yang cocok untukmu sebelum meraih sisir. PartMirror menggunakan kamera depan TrueDepth di iPhone yang kompatibel untuk menampilkan panduan langsung di rambutmu, sehingga kamu dapat membandingkan belahan tengah, kiri, dan kanan.\n\nPilih posisi\n• Beralih antara tengah, kiri, dan kanan.\n• Sesuaikan posisi secara akurat dalam milimeter.\n• Pilih garis Lurus, Diagonal, atau C Lembut dari garis rambut hingga ubun-ubun.\n\nAbadikan gayamu\nAmbil foto atau video singkat, lalu bandingkan tampilan bersih dengan tampilan berpanduan di Gaya Saya. Gaya yang disimpan tetap berada di iPhone kecuali kamu memilih untuk membagikan atau mengekspornya.\n\nPemrosesan kamera yang privat\nPelacakan kepala dan pemrosesan kamera berlangsung di iPhone. Panduan ini tidak memerlukan akun atau pengunggahan.\n\nPartMirror memerlukan iOS 17 atau versi lebih baru dan iPhone dengan kamera depan TrueDepth.",
+  "keywords": "gaya rambut,simetri,kepang,sectioning,sisir,kulit kepala,penataan,kecantikan",
+  "ui": {
+    "left": "Kiri",
+    "middle": "Tengah",
+    "right": "Kanan",
+    "center_position": "Posisi tengah",
+    "centered": "Di tengah",
+    "your_left": "Sisi kirimu",
+    "center": "Tengah",
+    "your_right": "Sisi kananmu",
+    "part_position": "Posisi belahan",
+    "side": "Samping",
+    "shape": "Bentuk",
+    "straight": "Lurus",
+    "diagonal": "Diagonal",
+    "soft_c": "C Lembut",
+    "customize_shape": "Sesuaikan bentuk…",
+    "photo": "Foto",
+    "video": "Video"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Temukan belahan sempurnamu",
+      "supporting": "Panduan langsung mengikuti kepalamu secara real time"
+    },
+    {
+      "position": 2,
+      "headline": "Tengah, kiri, atau kanan",
+      "supporting": "Pilih posisi yang cocok dengan gayamu"
+    },
+    {
+      "position": 3,
+      "headline": "Atur posisi yang tepat",
+      "supporting": "Sesuaikan belahanmu hingga hitungan milimeter"
+    },
+    {
+      "position": 4,
+      "headline": "Lurus, diagonal, atau melengkung",
+      "supporting": "Bentuk garis dari garis rambut hingga ubun-ubun"
+    },
+    {
+      "position": 5,
+      "headline": "Ambil foto atau video",
+      "supporting": "Simpan setiap gaya belahan secara privat di iPhone"
+    }
+  ]
+}

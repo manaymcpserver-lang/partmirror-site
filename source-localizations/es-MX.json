@@ -1,0 +1,25 @@
+{
+  "locale": "es-MX",
+  "language": "Spanish (Mexico)",
+  "app_name": "PartMirror: Guía de Raya",
+  "subtitle": "Raya central y lateral",
+  "tagline": "Encuentra tu raya. Sigue la línea.",
+  "promotional_text": "Prueba rayas centrales y laterales con una guía en vivo. Ajusta la posición y la forma, y guarda tus looks favoritos de forma privada en tu iPhone.",
+  "description": "Encuentra la raya que mejor te queda antes de tomar el peine. PartMirror usa la cámara frontal TrueDepth de los iPhone compatibles para colocar una guía en vivo sobre tu cabello y ayudarte a comparar la raya central, izquierda y derecha.\n\nElige la posición\n• Cambia entre el centro, la izquierda y la derecha.\n• Ajusta la posición en milímetros.\n• Elige una línea Recta, Diagonal o C Suave desde el nacimiento del cabello hasta la coronilla.\n\nCaptura tu look\nToma fotos o videos cortos y compara la vista limpia con la vista guiada en Mis Looks. Tus looks guardados permanecen en tu iPhone a menos que decidas compartirlos o exportarlos.\n\nProcesamiento privado de la cámara\nEl seguimiento de la cabeza y el procesamiento de la cámara ocurren en tu iPhone. La guía no requiere una cuenta ni subir contenido.\n\nPartMirror requiere iOS 17 o posterior y un iPhone con cámara frontal TrueDepth.",
+  "keywords": "raya,cabello,peinado,simetría,trenzas,secciones,peine,cuero cabelludo,estilo",
+  "ui": {
+    "left": "Izquierda", "middle": "Centro", "right": "Derecha",
+    "center_position": "Posición central", "centered": "Centrada",
+    "your_left": "Tu izquierda", "center": "Centro", "your_right": "Tu derecha",
+    "part_position": "Posición de la raya", "side": "Lado", "shape": "Forma",
+    "straight": "Recta", "diagonal": "Diagonal", "soft_c": "C suave",
+    "customize_shape": "Personalizar forma…", "photo": "Foto", "video": "Video"
+  },
+  "screenshots": [
+    {"position": 1, "headline": "Encuentra tu raya perfecta", "supporting": "Una guía en vivo sigue tu cabeza en tiempo real"},
+    {"position": 2, "headline": "Al centro, izquierda o derecha", "supporting": "Elige la posición que mejor le queda a tu look"},
+    {"position": 3, "headline": "Ajusta la posición exacta", "supporting": "Perfecciona tu raya al milímetro"},
+    {"position": 4, "headline": "Recta, diagonal o curva", "supporting": "Da forma a la línea desde el nacimiento hasta la coronilla"},
+    {"position": 5, "headline": "Toma una foto o video", "supporting": "Guarda cada look de forma privada en tu iPhone"}
+  ]
+}

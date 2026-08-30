@@ -1,0 +1,56 @@
+{
+  "locale": "ro",
+  "language": "Romanian",
+  "app_name": "PartMirror: Ghid de cărare",
+  "subtitle": "Cărare pe mijloc și lateral",
+  "tagline": "Găsește-ți cărarea. Urmează linia.",
+  "promotional_text": "Previzualizează cărarea pe mijloc și lateral cu un ghid live. Reglează poziția și forma, apoi salvează privat lookurile preferate pe iPhone.",
+  "description": "Găsește cărarea care ți se potrivește înainte să iei pieptenele. PartMirror folosește camera frontală TrueDepth a modelelor iPhone compatibile pentru a afișa un ghid live peste păr, ajutându-te să compari cărarea pe mijloc, în stânga și în dreapta.\n\nAlege poziția\n• Comută între mijloc, stânga și dreapta.\n• Reglează fin poziția în milimetri.\n• Alege o linie Dreaptă, Diagonală sau C Delicat de la linia părului până la creștet.\n\nSurprinde-ți lookul\nFă fotografii sau videoclipuri scurte, apoi compară imaginea curată cu cea ghidată în My Looks. Lookurile salvate rămân pe iPhone, dacă nu alegi să le distribui sau să le exporți.\n\nProcesare privată a camerei\nUrmărirea capului și procesarea camerei au loc pe iPhone. Ghidul nu necesită cont sau încărcare.\n\nPartMirror necesită iOS 17 sau o versiune ulterioară și un iPhone cu cameră frontală TrueDepth.",
+  "keywords": "coafură,cărare,mijloc,lateral,simetrie,împletituri,pieptene,scalp,stilizare",
+  "ui": {
+    "left": "Stânga",
+    "middle": "Mijloc",
+    "right": "Dreapta",
+    "center_position": "Poziție centrală",
+    "centered": "Centrat",
+    "your_left": "Stânga ta",
+    "center": "Centru",
+    "your_right": "Dreapta ta",
+    "part_position": "Poziția cărării",
+    "side": "Lateral",
+    "shape": "Formă",
+    "straight": "Dreaptă",
+    "diagonal": "Diagonală",
+    "soft_c": "C delicat",
+    "customize_shape": "Personalizează forma…",
+    "photo": "Foto",
+    "video": "Video"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Găsește cărarea perfectă",
+      "supporting": "Un ghid live îți urmărește capul în timp real"
+    },
+    {
+      "position": 2,
+      "headline": "Mijloc, stânga sau dreapta",
+      "supporting": "Alege poziția potrivită lookului tău"
+    },
+    {
+      "position": 3,
+      "headline": "Reglează poziția exactă",
+      "supporting": "Ajustează cărarea până la ultimul milimetru"
+    },
+    {
+      "position": 4,
+      "headline": "Dreaptă, diagonală sau curbată",
+      "supporting": "Modelează linia de la linia părului până la creștet"
+    },
+    {
+      "position": 5,
+      "headline": "Fă o fotografie sau un videoclip",
+      "supporting": "Salvează privat fiecare look cu cărare pe iPhone"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "locale": "fi",
+  "language": "Finnish",
+  "app_name": "PartMirror: Hiusjakauksen opas",
+  "subtitle": "Keski- ja sivujakaukset",
+  "tagline": "Löydä jakauksesi. Seuraa viivaa.",
+  "promotional_text": "Kokeile keski- ja sivujakauksia reaaliaikaisen apuviivan avulla. Säädä sijaintia ja muotoa ja tallenna suosikkityylisi yksityisesti iPhoneen.",
+  "description": "Löydä sinulle sopiva hiusjakaus ennen kuin tartut kampaan. PartMirror käyttää yhteensopivan iPhonen TrueDepth-etukameraa ja näyttää hiuksillasi reaaliaikaisen apuviivan, jonka avulla voit vertailla keski-, vasen- ja oikeapuoleisia jakauksia.\n\nValitse jakauksen paikka\n• Vaihda keski-, vasemman ja oikean jakauksen välillä.\n• Hienosäädä paikka millimetrin tarkkuudella.\n• Valitse hiusrajalta päälaelle kulkevan viivan muodoksi Suora, Vino tai Pehmeä C.\n\nTallenna tyylisi\nOta kuvia tai lyhyitä videoita ja vertaa sitten puhdasta näkymää apuviivalliseen näkymään Omat tyylit -osiossa. Tallennetut tyylit pysyvät iPhonessasi, ellet itse jaa tai vie niitä.\n\nYksityinen kamerakäsittely\nPään seuranta ja kamerakuvan käsittely tapahtuvat iPhonessasi. Apuviivan käyttäminen ei vaadi tiliä eikä tiedostojen lähettämistä.\n\nPartMirror vaatii iOS 17:n tai uudemman sekä iPhonen, jossa on TrueDepth-etukamera.",
+  "keywords": "kampaus,jakaus,symmetria,letit,osiointi,kampa,päänahka,muotoilu,kauneus",
+  "ui": {
+    "left": "Vasen",
+    "middle": "Keskellä",
+    "right": "Oikea",
+    "center_position": "Keskikohdan sijainti",
+    "centered": "Keskellä",
+    "your_left": "Vasemmalle",
+    "center": "Keskelle",
+    "your_right": "Oikealle",
+    "part_position": "Jakauksen sijainti",
+    "side": "Sivu",
+    "shape": "Muoto",
+    "straight": "Suora",
+    "diagonal": "Vino",
+    "soft_c": "Pehmeä C",
+    "customize_shape": "Muokkaa muotoa…",
+    "photo": "Kuva",
+    "video": "Video"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Löydä täydellinen jakauksesi",
+      "supporting": "Reaaliaikainen apuviiva seuraa päätäsi"
+    },
+    {
+      "position": 2,
+      "headline": "Keskelle, vasemmalle tai oikealle",
+      "supporting": "Valitse tyyliisi sopiva paikka"
+    },
+    {
+      "position": 3,
+      "headline": "Säädä tarkka paikka",
+      "supporting": "Hienosäädä jakaus millimetrin tarkkuudella"
+    },
+    {
+      "position": 4,
+      "headline": "Suora, vino tai kaareva",
+      "supporting": "Muotoile viiva hiusrajalta päälaelle"
+    },
+    {
+      "position": 5,
+      "headline": "Ota kuva tai video",
+      "supporting": "Tallenna jokainen jakaustyyli yksityisesti iPhoneen"
+    }
+  ]
+}

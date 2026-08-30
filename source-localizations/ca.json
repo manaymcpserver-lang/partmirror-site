@@ -1,0 +1,56 @@
+{
+  "locale": "ca",
+  "language": "Catalan",
+  "app_name": "PartMirror: Guia de ratlla",
+  "subtitle": "Ratlla al mig o al costat",
+  "tagline": "Troba la teva ratlla. Segueix la línia.",
+  "promotional_text": "Previsualitza ratlles al mig i al costat amb una guia en directe. Ajusta'n la posició i la forma i desa els teus looks preferits de manera privada a l'iPhone.",
+  "description": "Troba la ratlla dels cabells que més t'afavoreix abans d'agafar la pinta. PartMirror utilitza la càmera frontal TrueDepth dels iPhone compatibles per col·locar una guia en directe sobre els cabells i ajudar-te a comparar la ratlla al mig, a l'esquerra i a la dreta.\n\nTria la posició\n• Canvia entre el mig, l'esquerra i la dreta.\n• Ajusta la posició al mil·límetre.\n• Tria una línia recta, diagonal o en C suau des de la línia d'implantació fins a la coroneta.\n\nCaptura el teu look\nFes fotos o vídeos curts i compara la vista sense guia amb la vista guiada a Els meus looks. Els looks desats es queden a l'iPhone tret que decideixis compartir-los o exportar-los.\n\nProcessament privat de la càmera\nEl seguiment del cap i el processament de la càmera es fan a l'iPhone. No cal cap compte ni pujar res per utilitzar la guia.\n\nPartMirror requereix iOS 17 o posterior i un iPhone amb càmera frontal TrueDepth.",
+  "keywords": "pentinat,ratlla,simetria,trenes,seccions,pinta,cuir cabellut,estil,bellesa,alineació",
+  "ui": {
+    "left": "Esquerra",
+    "middle": "Mig",
+    "right": "Dreta",
+    "center_position": "Posició central",
+    "centered": "Al centre",
+    "your_left": "La teva esquerra",
+    "center": "Centre",
+    "your_right": "La teva dreta",
+    "part_position": "Posició de la ratlla",
+    "side": "Costat",
+    "shape": "Forma de la ratlla",
+    "straight": "Recta",
+    "diagonal": "Diagonal",
+    "soft_c": "C suau",
+    "customize_shape": "Personalitza la forma…",
+    "photo": "Foto",
+    "video": "Vídeo"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Troba la teva ratlla perfecta",
+      "supporting": "Una guia en directe segueix el teu cap en temps real"
+    },
+    {
+      "position": 2,
+      "headline": "Al mig, a l'esquerra o a la dreta",
+      "supporting": "Tria la posició que més afavoreix el teu look"
+    },
+    {
+      "position": 3,
+      "headline": "Ajusta la posició exacta",
+      "supporting": "Afina la ratlla al mil·límetre"
+    },
+    {
+      "position": 4,
+      "headline": "Recta, diagonal o corba",
+      "supporting": "Dona forma a la línia des de la implantació fins a la coroneta"
+    },
+    {
+      "position": 5,
+      "headline": "Fes una foto o un vídeo",
+      "supporting": "Desa cada look de ratlla de manera privada a l'iPhone"
+    }
+  ]
+}

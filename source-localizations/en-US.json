@@ -1,0 +1,56 @@
+{
+  "locale": "en-US",
+  "language": "English (U.S.)",
+  "app_name": "PartMirror: Hair Part Guide",
+  "subtitle": "Middle & Side Parting Tool",
+  "tagline": "Find your part. Follow the line.",
+  "promotional_text": "Preview middle and side parts with a live guide. Fine-tune the position and shape, then save your favorite looks privately on your iPhone.",
+  "description": "Find the hair part that suits you before you reach for a comb. PartMirror uses the TrueDepth front camera on compatible iPhones to place a live guide over your hair, helping you compare middle, left, and right partings.\n\nChoose your placement\n• Switch between middle, left, and right.\n• Fine-tune the position in millimeters.\n• Choose a Straight, Diagonal, or Soft C line from hairline to crown.\n\nCapture your look\nTake photos or short videos, then compare a clean view with the guided view in My Looks. Your saved looks stay on your iPhone unless you choose to share or export them.\n\nPrivate camera processing\nHead tracking and camera processing happen on your iPhone. No account or upload is required for the guide.\n\nPartMirror requires iOS 17 or later and an iPhone with a TrueDepth front camera.",
+  "keywords": "hairstyle,center,symmetry,braids,sectioning,comb,scalp,styling,beauty,alignment",
+  "ui": {
+    "left": "Left",
+    "middle": "Middle",
+    "right": "Right",
+    "center_position": "Center position",
+    "centered": "Centered",
+    "your_left": "Your left",
+    "center": "Center",
+    "your_right": "Your right",
+    "part_position": "Part position",
+    "side": "Side",
+    "shape": "Shape",
+    "straight": "Straight",
+    "diagonal": "Diagonal",
+    "soft_c": "Soft C",
+    "customize_shape": "Customize Shape…",
+    "photo": "Photo",
+    "video": "Video"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Find your perfect part",
+      "supporting": "A live guide follows your head in real time"
+    },
+    {
+      "position": 2,
+      "headline": "Middle, left or right",
+      "supporting": "Choose the placement that suits your look"
+    },
+    {
+      "position": 3,
+      "headline": "Adjust the exact position",
+      "supporting": "Fine-tune your part to the millimeter"
+    },
+    {
+      "position": 4,
+      "headline": "Straight, diagonal or curved",
+      "supporting": "Shape the line from hairline to crown"
+    },
+    {
+      "position": 5,
+      "headline": "Take a photo or video",
+      "supporting": "Save each parting look privately on your iPhone"
+    }
+  ]
+}

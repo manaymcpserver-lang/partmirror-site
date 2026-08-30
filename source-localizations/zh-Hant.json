@@ -1,0 +1,56 @@
+{
+  "locale": "zh-Hant",
+  "language": "Chinese (Traditional)",
+  "app_name": "PartMirror：頭髮分線指南",
+  "subtitle": "中分與側分輔助工具",
+  "tagline": "找到適合你的分線。沿線造型。",
+  "promotional_text": "透過即時輔助線預覽中分和側分效果。微調位置與形狀，然後將喜愛的造型私密儲存在 iPhone 上。",
+  "description": "拿起梳子前，先找到最適合你的頭髮分線。PartMirror 使用相容 iPhone 上的 TrueDepth 前置相機，在頭髮上顯示即時輔助線，協助你比較中分、左分和右分。\n\n選擇分線位置\n• 在中分、左分和右分之間切換。\n• 以毫米為單位微調位置。\n• 從髮際線到頭頂選擇直線、斜線或柔和 C 形線條。\n\n記錄你的造型\n拍攝照片或短片，然後在「我的造型」中比較無輔助線畫面和有輔助線畫面。除非你選擇分享或匯出，否則儲存的造型只會留在你的 iPhone 上。\n\n私密的相機處理\n頭部追蹤和相機處理均在你的 iPhone 上完成。使用輔助線無需帳號，也無需上傳內容。\n\nPartMirror 需要 iOS 17 或以上版本，以及配備 TrueDepth 前置相機的 iPhone。",
+  "keywords": "髮型設計,中分髮型,側分髮型,臉型對稱,編髮造型,頭髮分區,頭皮護理",
+  "ui": {
+    "left": "左側",
+    "middle": "中間",
+    "right": "右側",
+    "center_position": "中央位置",
+    "centered": "置中",
+    "your_left": "你的左側",
+    "center": "中央",
+    "your_right": "你的右側",
+    "part_position": "分線位置",
+    "side": "側邊",
+    "shape": "分線形狀",
+    "straight": "直線",
+    "diagonal": "斜線",
+    "soft_c": "柔和 C 形",
+    "customize_shape": "自訂形狀…",
+    "photo": "照片",
+    "video": "影片"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "找到最適合你的分線",
+      "supporting": "即時輔助線會隨頭部同步移動"
+    },
+    {
+      "position": 2,
+      "headline": "中分、左分或右分",
+      "supporting": "選擇最適合你造型的位置"
+    },
+    {
+      "position": 3,
+      "headline": "精確調整位置",
+      "supporting": "以毫米為單位微調分線"
+    },
+    {
+      "position": 4,
+      "headline": "直線、斜線或曲線",
+      "supporting": "從髮際線到頭頂塑造線條"
+    },
+    {
+      "position": 5,
+      "headline": "拍攝照片或影片",
+      "supporting": "將每個分線造型私密儲存在 iPhone 上"
+    }
+  ]
+}

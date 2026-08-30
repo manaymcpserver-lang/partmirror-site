@@ -1,0 +1,56 @@
+{
+  "locale": "ms",
+  "language": "Malay",
+  "app_name": "PartMirror: Panduan Belahan",
+  "subtitle": "Alat Belahan Tengah & Sisi",
+  "tagline": "Cari belahan anda. Ikut garisan.",
+  "promotional_text": "Pratonton belahan tengah dan sisi dengan panduan langsung. Laraskan kedudukan dan bentuk, kemudian simpan gaya kegemaran secara peribadi pada iPhone anda.",
+  "description": "Cari belahan rambut yang sesuai untuk anda sebelum mencapai sikat. PartMirror menggunakan kamera hadapan TrueDepth pada iPhone yang serasi untuk memaparkan panduan langsung pada rambut anda, supaya anda boleh membandingkan belahan tengah, kiri dan kanan.\n\nPilih kedudukan anda\n• Tukar antara tengah, kiri dan kanan.\n• Laraskan kedudukan dengan tepat dalam milimeter.\n• Pilih garisan Lurus, Diagonal atau C Lembut dari garis rambut hingga ke ubun-ubun.\n\nRakam gaya anda\nAmbil foto atau video pendek, kemudian bandingkan paparan bersih dengan paparan berpanduan dalam My Looks. Gaya yang disimpan kekal pada iPhone anda melainkan anda memilih untuk berkongsi atau mengeksportnya.\n\nPemprosesan kamera peribadi\nPenjejakan kepala dan pemprosesan kamera dilakukan pada iPhone anda. Tiada akaun atau muat naik diperlukan untuk menggunakan panduan.\n\nPartMirror memerlukan iOS 17 atau lebih baharu dan iPhone dengan kamera hadapan TrueDepth.",
+  "keywords": "gaya rambut,belahan tengah,belahan sisi,simetri,sikat,garis rambut,dandanan",
+  "ui": {
+    "left": "Kiri",
+    "middle": "Tengah",
+    "right": "Kanan",
+    "center_position": "Kedudukan tengah",
+    "centered": "Di tengah",
+    "your_left": "Kiri anda",
+    "center": "Tengah",
+    "your_right": "Kanan anda",
+    "part_position": "Kedudukan belahan",
+    "side": "Sisi",
+    "shape": "Bentuk",
+    "straight": "Lurus",
+    "diagonal": "Diagonal",
+    "soft_c": "C Lembut",
+    "customize_shape": "Sesuaikan Bentuk…",
+    "photo": "Foto",
+    "video": "Video"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Cari belahan sempurna anda",
+      "supporting": "Panduan langsung mengikuti kepala anda dalam masa nyata"
+    },
+    {
+      "position": 2,
+      "headline": "Tengah, kiri atau kanan",
+      "supporting": "Pilih kedudukan yang sesuai dengan gaya anda"
+    },
+    {
+      "position": 3,
+      "headline": "Laraskan kedudukan tepat",
+      "supporting": "Perhalus belahan anda hingga ke milimeter"
+    },
+    {
+      "position": 4,
+      "headline": "Lurus, diagonal atau melengkung",
+      "supporting": "Bentuk garisan dari garis rambut ke ubun-ubun"
+    },
+    {
+      "position": 5,
+      "headline": "Ambil foto atau video",
+      "supporting": "Simpan setiap gaya belahan secara peribadi pada iPhone"
+    }
+  ]
+}

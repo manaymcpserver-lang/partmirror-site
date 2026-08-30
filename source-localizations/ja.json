@@ -1,0 +1,56 @@
+{
+  "locale": "ja",
+  "language": "Japanese",
+  "app_name": "PartMirror: 分け目ガイド",
+  "subtitle": "中央・左右の分け目ツール",
+  "tagline": "似合う分け目を見つけて、ラインに沿うだけ。",
+  "promotional_text": "ライブガイドで中央分けやサイド分けを試せます。位置と形を細かく調整し、お気に入りのスタイルをiPhoneに非公開で保存しましょう。",
+  "description": "くしを手に取る前に、自分に似合う髪の分け目を見つけましょう。PartMirrorは、対応するiPhoneのTrueDepthフロントカメラを使って髪の上にライブガイドを表示し、中央・左・右の分け目を比較できるようにします。\n\n位置を選択\n• 中央、左、右を切り替えられます。\n• ミリ単位で位置を細かく調整できます。\n• 生え際から頭頂部までのラインを、ストレート、斜め、緩やかなC字から選べます。\n\nスタイルを撮影\n写真や短い動画を撮影し、「マイルック」でガイドなしの表示とガイド付きの表示を比較できます。保存したスタイルは、自分で共有または書き出さない限りiPhone内に保管されます。\n\nプライバシーに配慮したカメラ処理\n頭部のトラッキングとカメラ処理はiPhone上で行われます。ガイドの使用にアカウントやアップロードは必要ありません。\n\nPartMirrorを利用するには、iOS 17以降とTrueDepthフロントカメラ搭載のiPhoneが必要です。",
+  "keywords": "髪型選び,ヘアスタイル,左右対称,三つ編み,ブロッキング,頭皮ケア",
+  "ui": {
+    "left": "左",
+    "middle": "中央",
+    "right": "右",
+    "center_position": "中央位置",
+    "centered": "中央",
+    "your_left": "自分の左",
+    "center": "中央",
+    "your_right": "自分の右",
+    "part_position": "分け目の位置",
+    "side": "サイド",
+    "shape": "形状",
+    "straight": "ストレート",
+    "diagonal": "斜め",
+    "soft_c": "緩やかなC字",
+    "customize_shape": "形状をカスタマイズ…",
+    "photo": "写真",
+    "video": "動画"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "理想の分け目を見つけよう",
+      "supporting": "ライブガイドが頭の動きをリアルタイムで追跡"
+    },
+    {
+      "position": 2,
+      "headline": "中央、左、右から選択",
+      "supporting": "スタイルに合う位置を選べます"
+    },
+    {
+      "position": 3,
+      "headline": "正確な位置に調整",
+      "supporting": "分け目をミリ単位で微調整できます"
+    },
+    {
+      "position": 4,
+      "headline": "ストレート、斜め、カーブ",
+      "supporting": "生え際から頭頂部までラインを整えます"
+    },
+    {
+      "position": 5,
+      "headline": "写真や動画を撮影",
+      "supporting": "分け目スタイルをiPhoneに非公開で保存"
+    }
+  ]
+}

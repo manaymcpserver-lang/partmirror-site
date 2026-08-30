@@ -1,0 +1,56 @@
+{
+  "locale": "pl",
+  "language": "Polish",
+  "app_name": "PartMirror: Przedziałek",
+  "subtitle": "Przedziałek: środek i bok",
+  "tagline": "Znajdź swój przedziałek. Podążaj za linią.",
+  "promotional_text": "Podejrzyj przedziałek na środku i z boku dzięki prowadnicy na żywo. Dopasuj położenie i kształt, a ulubione stylizacje zapisz prywatnie na iPhonie.",
+  "description": "Znajdź przedziałek, który Ci pasuje, zanim sięgniesz po grzebień. PartMirror korzysta z przedniego aparatu TrueDepth w zgodnych iPhone’ach, aby wyświetlić na włosach prowadnicę na żywo i pomóc Ci porównać przedziałek na środku, po lewej i po prawej stronie.\n\nWybierz położenie\n• Przełączaj między środkiem, lewą i prawą stroną.\n• Precyzyjnie ustaw położenie w milimetrach.\n• Wybierz linię Prostą, Ukośną lub Łagodne C od linii włosów do czubka głowy.\n\nUchwyć swoją stylizację\nRób zdjęcia lub krótkie filmy, a następnie porównuj czysty widok z widokiem z prowadnicą w My Looks. Zapisane stylizacje pozostają na iPhonie, chyba że zdecydujesz się je udostępnić lub wyeksportować.\n\nPrywatne przetwarzanie obrazu\nŚledzenie głowy i przetwarzanie obrazu z aparatu odbywa się na iPhonie. Prowadnica nie wymaga konta ani przesyłania danych.\n\nPartMirror wymaga systemu iOS 17 lub nowszego oraz iPhone’a z przednim aparatem TrueDepth.",
+  "keywords": "fryzura,przedziałek,środek,boczny,symetria,warkocze,grzebień,stylizacja",
+  "ui": {
+    "left": "Lewo",
+    "middle": "Środek",
+    "right": "Prawo",
+    "center_position": "Położenie środka",
+    "centered": "Wyśrodkowany",
+    "your_left": "Twoja lewa",
+    "center": "Środek",
+    "your_right": "Twoja prawa",
+    "part_position": "Położenie przedziałka",
+    "side": "Bok",
+    "shape": "Kształt",
+    "straight": "Prosta",
+    "diagonal": "Ukośna",
+    "soft_c": "Łagodne C",
+    "customize_shape": "Dostosuj kształt…",
+    "photo": "Zdjęcie",
+    "video": "Wideo"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Znajdź idealny przedziałek",
+      "supporting": "Prowadnica na żywo podąża za ruchem Twojej głowy"
+    },
+    {
+      "position": 2,
+      "headline": "Środek, lewa lub prawa strona",
+      "supporting": "Wybierz położenie pasujące do Twojej stylizacji"
+    },
+    {
+      "position": 3,
+      "headline": "Ustaw dokładne położenie",
+      "supporting": "Dopasuj przedziałek z dokładnością do milimetra"
+    },
+    {
+      "position": 4,
+      "headline": "Prosta, ukośna lub zakrzywiona",
+      "supporting": "Nadaj linii kształt od linii włosów do czubka głowy"
+    },
+    {
+      "position": 5,
+      "headline": "Zrób zdjęcie lub nagraj film",
+      "supporting": "Zapisuj każdą stylizację prywatnie na iPhonie"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "locale": "pt-BR",
+  "language": "Portuguese (Brazil)",
+  "app_name": "PartMirror: Guia de Risca",
+  "subtitle": "Risca no Meio e Lateral",
+  "tagline": "Encontre sua risca. Siga a linha.",
+  "promotional_text": "Veja como ficam a risca no meio e a lateral com um guia ao vivo. Ajuste a posição e o formato e salve seus looks favoritos com privacidade no iPhone.",
+  "description": "Encontre a risca de cabelo que mais combina com você antes de pegar o pente. O PartMirror usa a câmera frontal TrueDepth de iPhones compatíveis para exibir um guia ao vivo sobre o cabelo e ajudar você a comparar a risca no meio, à esquerda e à direita.\n\nEscolha a posição\n• Alterne entre meio, esquerda e direita.\n• Ajuste a posição com precisão milimétrica.\n• Escolha uma linha Reta, Diagonal ou em C Suave, da linha do cabelo ao topo da cabeça.\n\nRegistre seu look\nTire fotos ou faça vídeos curtos e compare a visualização sem guia com a visualização guiada em My Looks. Seus looks salvos ficam no iPhone, a menos que você decida compartilhá-los ou exportá-los.\n\nProcessamento privado da câmera\nO rastreamento da cabeça e o processamento da câmera acontecem no iPhone. Não é preciso ter conta nem fazer upload para usar o guia.\n\nO PartMirror requer iOS 17 ou posterior e um iPhone com câmera frontal TrueDepth.",
+  "keywords": "risca,cabelo,risca no meio,risca lateral,penteado,simetria,tranças,pente,divisão,beleza",
+  "ui": {
+    "left": "Esquerda",
+    "middle": "Centro",
+    "right": "Direita",
+    "center_position": "Posição central",
+    "centered": "Ao centro",
+    "your_left": "À esquerda",
+    "center": "Centro",
+    "your_right": "À direita",
+    "part_position": "Posição da risca",
+    "side": "Lado",
+    "shape": "Forma da risca",
+    "straight": "Reto",
+    "diagonal": "Diagonal",
+    "soft_c": "C suave",
+    "customize_shape": "Personalizar forma…",
+    "photo": "Foto",
+    "video": "Vídeo"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Encontre a risca perfeita",
+      "supporting": "Um guia ao vivo acompanha sua cabeça em tempo real"
+    },
+    {
+      "position": 2,
+      "headline": "Meio, esquerda ou direita",
+      "supporting": "Escolha a posição que mais combina com seu look"
+    },
+    {
+      "position": 3,
+      "headline": "Ajuste a posição exata",
+      "supporting": "Acerte sua risca com precisão milimétrica"
+    },
+    {
+      "position": 4,
+      "headline": "Reta, diagonal ou curva",
+      "supporting": "Modele a linha do cabelo até o topo da cabeça"
+    },
+    {
+      "position": 5,
+      "headline": "Tire uma foto ou faça um vídeo",
+      "supporting": "Salve cada look de risca com privacidade no iPhone"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "locale": "vi",
+  "language": "Vietnamese",
+  "app_name": "PartMirror: Hướng dẫn ngôi tóc",
+  "subtitle": "Công cụ ngôi giữa và bên",
+  "tagline": "Tìm ngôi tóc. Đi theo đường dẫn.",
+  "promotional_text": "Thử ngôi giữa và ngôi bên với đường dẫn trực tiếp. Tinh chỉnh vị trí, hình dáng rồi lưu riêng tư các kiểu bạn thích trên iPhone.",
+  "description": "Tìm kiểu rẽ ngôi hợp với bạn trước khi cầm lược. PartMirror dùng camera trước TrueDepth trên iPhone tương thích để đặt đường dẫn trực tiếp lên tóc, giúp bạn so sánh ngôi giữa, ngôi trái và ngôi phải.\n\nChọn vị trí\n• Chuyển giữa ngôi giữa, trái và phải.\n• Tinh chỉnh vị trí theo milimét.\n• Chọn đường Thẳng, Chéo hoặc Cong C Nhẹ từ chân tóc đến đỉnh đầu.\n\nLưu lại diện mạo\nChụp ảnh hoặc quay video ngắn, sau đó so sánh hình sạch với hình có đường dẫn trong Kiểu của tôi. Các kiểu đã lưu vẫn nằm trên iPhone trừ khi bạn chọn chia sẻ hoặc xuất chúng.\n\nXử lý camera riêng tư\nViệc theo dõi đầu và xử lý camera diễn ra trên iPhone. Đường dẫn không yêu cầu tài khoản hoặc tải dữ liệu lên.\n\nPartMirror yêu cầu iOS 17 trở lên và iPhone có camera trước TrueDepth.",
+  "keywords": "ngôi tóc,kiểu tóc,ngôi giữa,ngôi bên,đối xứng,tết tóc,lược,tạo kiểu",
+  "ui": {
+    "left": "Trái", "middle": "Giữa", "right": "Phải",
+    "center_position": "Vị trí chính giữa", "centered": "Đã căn giữa",
+    "your_left": "Bên trái bạn", "center": "Giữa", "your_right": "Bên phải bạn",
+    "part_position": "Vị trí ngôi tóc", "side": "Bên", "shape": "Hình dáng",
+    "straight": "Thẳng", "diagonal": "Chéo", "soft_c": "Cong C nhẹ",
+    "customize_shape": "Tùy chỉnh hình dáng…", "photo": "Ảnh", "video": "Video"
+  },
+  "screenshots": [
+    {"position": 1, "headline": "Tìm ngôi tóc hoàn hảo", "supporting": "Đường dẫn trực tiếp theo đầu bạn theo thời gian thực"},
+    {"position": 2, "headline": "Giữa, trái hoặc phải", "supporting": "Chọn vị trí phù hợp với diện mạo của bạn"},
+    {"position": 3, "headline": "Điều chỉnh vị trí chính xác", "supporting": "Tinh chỉnh ngôi tóc đến từng milimét"},
+    {"position": 4, "headline": "Thẳng, chéo hoặc cong", "supporting": "Tạo hình đường từ chân tóc đến đỉnh đầu"},
+    {"position": 5, "headline": "Chụp ảnh hoặc quay video", "supporting": "Lưu riêng tư từng kiểu ngôi tóc trên iPhone"}
+  ]
+}

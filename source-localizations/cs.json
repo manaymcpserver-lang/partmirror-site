@@ -1,0 +1,56 @@
+{
+  "locale": "cs",
+  "language": "Czech",
+  "app_name": "PartMirror: Průvodce pěšinky",
+  "subtitle": "Pěšinka uprostřed či na boku",
+  "tagline": "Najděte svou pěšinku. Sledujte linii.",
+  "promotional_text": "Prohlédněte si pěšinku uprostřed i na straně s živým vodítkem. Dolaďte polohu a tvar a oblíbené účesy si soukromě uložte na iPhone.",
+  "description": "Najděte pěšinku, která vám sluší, ještě než sáhnete po hřebenu. PartMirror používá přední kameru TrueDepth na kompatibilních zařízeních iPhone a přes vlasy umístí živé vodítko, abyste mohli porovnat pěšinku uprostřed, vlevo a vpravo.\n\nVyberte polohu\n• Přepínejte mezi středem, levou a pravou stranou.\n• Dolaďte polohu s přesností na milimetry.\n• Zvolte rovnou, šikmou nebo jemnou linii ve tvaru C od vlasové hranice až po temeno.\n\nZachyťte svůj účes\nPořiďte fotografie nebo krátká videa a v části Moje účesy porovnejte záběr bez vodítka se záběrem s vodítkem. Uložené účesy zůstanou na vašem zařízení iPhone, dokud se je nerozhodnete sdílet nebo exportovat.\n\nSoukromé zpracování kamery\nSledování hlavy a zpracování obrazu probíhá na vašem zařízení iPhone. Pro použití vodítka nepotřebujete účet ani nic nahrávat.\n\nPartMirror vyžaduje iOS 17 nebo novější a iPhone s přední kamerou TrueDepth.",
+  "keywords": "účes,pěšinka,symetrie,copánky,prameny,hřeben,pokožka,styling,krása,zarovnání",
+  "ui": {
+    "left": "Vlevo",
+    "middle": "Střed",
+    "right": "Vpravo",
+    "center_position": "Poloha uprostřed",
+    "centered": "Uprostřed",
+    "your_left": "Vaše levá strana",
+    "center": "Střed",
+    "your_right": "Vaše pravá strana",
+    "part_position": "Poloha pěšinky",
+    "side": "Strana",
+    "shape": "Tvar pěšinky",
+    "straight": "Rovná",
+    "diagonal": "Šikmá",
+    "soft_c": "Jemné C",
+    "customize_shape": "Přizpůsobit tvar…",
+    "photo": "Fotografie",
+    "video": "Video"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Najděte svou dokonalou pěšinku",
+      "supporting": "Živé vodítko sleduje vaši hlavu v reálném čase"
+    },
+    {
+      "position": 2,
+      "headline": "Uprostřed, vlevo nebo vpravo",
+      "supporting": "Vyberte polohu, která sedí vašemu účesu"
+    },
+    {
+      "position": 3,
+      "headline": "Nastavte přesnou polohu",
+      "supporting": "Dolaďte pěšinku na milimetr přesně"
+    },
+    {
+      "position": 4,
+      "headline": "Rovná, šikmá nebo zakřivená",
+      "supporting": "Tvarujte linii od vlasové hranice po temeno"
+    },
+    {
+      "position": 5,
+      "headline": "Pořiďte fotografii nebo video",
+      "supporting": "Každý účes s pěšinkou soukromě uložte na iPhone"
+    }
+  ]
+}

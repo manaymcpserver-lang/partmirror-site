@@ -1,0 +1,56 @@
+{
+  "locale": "ko",
+  "language": "Korean",
+  "app_name": "PartMirror: 가르마 가이드",
+  "subtitle": "가운데·옆 가르마 도구",
+  "tagline": "내게 맞는 가르마를 찾고 선을 따라보세요.",
+  "promotional_text": "실시간 가이드로 가운데와 옆 가르마를 미리 확인하세요. 위치와 모양을 세밀하게 조정한 뒤 마음에 드는 스타일을 iPhone에 비공개로 저장할 수 있습니다.",
+  "description": "빗을 들기 전에 나에게 어울리는 가르마를 찾아보세요. PartMirror는 호환되는 iPhone의 TrueDepth 전면 카메라를 사용해 머리 위에 실시간 가이드를 표시하므로 가운데, 왼쪽, 오른쪽 가르마를 비교할 수 있습니다.\n\n위치 선택\n• 가운데, 왼쪽, 오른쪽을 전환하세요.\n• 위치를 밀리미터 단위로 세밀하게 조정하세요.\n• 헤어라인부터 정수리까지 직선, 대각선 또는 부드러운 C자 라인을 선택하세요.\n\n스타일 촬영\n사진이나 짧은 동영상을 촬영한 뒤 My Looks에서 가이드 없는 화면과 가이드 화면을 비교하세요. 저장한 스타일은 공유하거나 내보내지 않는 한 iPhone에만 보관됩니다.\n\n비공개 카메라 처리\n머리 추적과 카메라 처리는 iPhone에서 이루어집니다. 가이드 사용에 계정이나 업로드가 필요하지 않습니다.\n\nPartMirror를 사용하려면 iOS 17 이상 및 TrueDepth 전면 카메라가 탑재된 iPhone이 필요합니다.",
+  "keywords": "가르마,헤어스타일,중앙가르마,옆가르마,좌우대칭,빗질법,스타일링",
+  "ui": {
+    "left": "왼쪽",
+    "middle": "가운데",
+    "right": "오른쪽",
+    "center_position": "중앙 위치",
+    "centered": "중앙",
+    "your_left": "내 왼쪽",
+    "center": "가운데",
+    "your_right": "내 오른쪽",
+    "part_position": "가르마 위치",
+    "side": "옆",
+    "shape": "모양",
+    "straight": "직선",
+    "diagonal": "대각선",
+    "soft_c": "부드러운 C",
+    "customize_shape": "모양 사용자화…",
+    "photo": "사진",
+    "video": "비디오"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "완벽한 가르마 찾기",
+      "supporting": "실시간 가이드가 머리 움직임을 따라갑니다"
+    },
+    {
+      "position": 2,
+      "headline": "가운데, 왼쪽 또는 오른쪽",
+      "supporting": "내 스타일에 맞는 위치를 선택하세요"
+    },
+    {
+      "position": 3,
+      "headline": "정확한 위치 조정",
+      "supporting": "가르마를 밀리미터 단위로 세밀하게 맞추세요"
+    },
+    {
+      "position": 4,
+      "headline": "직선, 대각선 또는 곡선",
+      "supporting": "헤어라인부터 정수리까지 선 모양을 정하세요"
+    },
+    {
+      "position": 5,
+      "headline": "사진 또는 동영상 촬영",
+      "supporting": "각 가르마 스타일을 iPhone에 비공개로 저장하세요"
+    }
+  ]
+}

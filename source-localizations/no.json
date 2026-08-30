@@ -1,0 +1,56 @@
+{
+  "locale": "no",
+  "language": "Norwegian",
+  "app_name": "PartMirror: Guide for hårskill",
+  "subtitle": "Verktøy for midt- og sideskill",
+  "tagline": "Finn skillen din. Følg linjen.",
+  "promotional_text": "Forhåndsvis midt- og sideskill med en guide i sanntid. Finjuster plassering og form, og lagre favorittfrisyrene privat på iPhone.",
+  "description": "Finn hårskillen som passer deg før du tar frem kammen. PartMirror bruker TrueDepth-frontkameraet på kompatible iPhone-modeller til å legge en guide i sanntid over håret, slik at du kan sammenligne midtskill, venstreskill og høyreskill.\n\nVelg plassering\n• Bytt mellom midten, venstre og høyre.\n• Finjuster plasseringen i millimeter.\n• Velg en rett, diagonal eller myk C-linje fra hårfestet til issen.\n\nTa vare på frisyren\nTa bilder eller korte videoer, og sammenlign deretter en ren visning med visningen med guide i My Looks. Lagrede frisyrer blir på iPhone med mindre du velger å dele eller eksportere dem.\n\nPrivat kamerabehandling\nHodesporing og kamerabehandling skjer på iPhone. Guiden krever ingen konto eller opplasting.\n\nPartMirror krever iOS 17 eller nyere og en iPhone med TrueDepth-frontkamera.",
+  "keywords": "frisyre,midtskill,sideskill,symmetri,fletter,inndeling,kam,hodebunn,styling",
+  "ui": {
+    "left": "Venstre",
+    "middle": "Midten",
+    "right": "Høyre",
+    "center_position": "Midtstilling",
+    "centered": "Midtstilt",
+    "your_left": "Din venstre",
+    "center": "Midten",
+    "your_right": "Din høyre",
+    "part_position": "Skillplassering",
+    "side": "Side",
+    "shape": "Form",
+    "straight": "Rett",
+    "diagonal": "Diagonal",
+    "soft_c": "Myk C",
+    "customize_shape": "Tilpass form…",
+    "photo": "Bilde",
+    "video": "Video"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Finn din perfekte skill",
+      "supporting": "En guide følger hodet ditt i sanntid"
+    },
+    {
+      "position": 2,
+      "headline": "Midten, venstre eller høyre",
+      "supporting": "Velg plasseringen som passer frisyren din"
+    },
+    {
+      "position": 3,
+      "headline": "Juster nøyaktig plassering",
+      "supporting": "Finjuster skillen helt ned til millimeteren"
+    },
+    {
+      "position": 4,
+      "headline": "Rett, diagonal eller buet",
+      "supporting": "Form linjen fra hårfestet til issen"
+    },
+    {
+      "position": 5,
+      "headline": "Ta et bilde eller en video",
+      "supporting": "Lagre hver skillfrisyre privat på iPhone"
+    }
+  ]
+}

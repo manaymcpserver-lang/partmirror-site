@@ -1,0 +1,56 @@
+{
+  "locale": "hr",
+  "language": "Croatian",
+  "app_name": "PartMirror: Vodič razdjeljka",
+  "subtitle": "Srednji i bočni razdjeljak",
+  "tagline": "Pronađite razdjeljak. Pratite liniju.",
+  "promotional_text": "Pregledajte srednje i bočne razdjeljke uz vodič uživo. Precizno podesite položaj i oblik, a omiljene stilove privatno spremite na iPhone.",
+  "description": "Pronađite razdjeljak koji vam pristaje prije nego što posegnete za češljem. PartMirror koristi prednju kameru TrueDepth na kompatibilnim iPhone uređajima kako bi preko vaše kose postavio vodič uživo i pomogao vam usporediti srednji, lijevi i desni razdjeljak.\n\nOdaberite položaj\n• Prebacujte se između sredine, lijeve i desne strane.\n• Precizno podesite položaj u milimetrima.\n• Odaberite ravnu, dijagonalnu ili blagu C-liniju od linije kose do tjemena.\n\nSnimite svoj stil\nSnimite fotografije ili kratke videozapise pa u Mojim stilovima usporedite prikaz bez vodiča s prikazom uz vodič. Spremljeni stilovi ostaju na vašem iPhone uređaju osim ako ih odlučite podijeliti ili izvesti.\n\nPrivatna obrada kamere\nPraćenje glave i obrada kamere odvijaju se na vašem iPhone uređaju. Za vodič nisu potrebni račun ni prijenos sadržaja.\n\nPartMirror zahtijeva iOS 17 ili noviji te iPhone s prednjom kamerom TrueDepth.",
+  "keywords": "frizura,razdjeljak,simetrija,pletenice,češljanje,tjeme,stil,ljepota,poravnanje",
+  "ui": {
+    "left": "Lijevo",
+    "middle": "Sredina",
+    "right": "Desno",
+    "center_position": "Središnji položaj",
+    "centered": "Na sredini",
+    "your_left": "Vaša lijeva strana",
+    "center": "Sredina",
+    "your_right": "Vaša desna strana",
+    "part_position": "Položaj razdjeljka",
+    "side": "Strana",
+    "shape": "Oblik razdjeljka",
+    "straight": "Ravan",
+    "diagonal": "Dijagonalan",
+    "soft_c": "Blagi C",
+    "customize_shape": "Prilagodi oblik…",
+    "photo": "Fotografija",
+    "video": "Video"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Pronađite savršen razdjeljak",
+      "supporting": "Vodič uživo prati vašu glavu u stvarnom vremenu"
+    },
+    {
+      "position": 2,
+      "headline": "Sredina, lijevo ili desno",
+      "supporting": "Odaberite položaj koji odgovara vašem stilu"
+    },
+    {
+      "position": 3,
+      "headline": "Precizno podesite položaj",
+      "supporting": "Fino podesite razdjeljak do milimetra"
+    },
+    {
+      "position": 4,
+      "headline": "Ravna, dijagonalna ili zakrivljena",
+      "supporting": "Oblikujte liniju od linije kose do tjemena"
+    },
+    {
+      "position": 5,
+      "headline": "Snimite fotografiju ili video",
+      "supporting": "Svaki stil razdjeljka privatno spremite na iPhone"
+    }
+  ]
+}

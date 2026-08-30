@@ -1,0 +1,56 @@
+{
+  "locale": "nl-NL",
+  "language": "Dutch",
+  "app_name": "PartMirror: Haarscheidingsgids",
+  "subtitle": "Voor midden- en zijscheidingen",
+  "tagline": "Vind je scheiding. Volg de lijn.",
+  "promotional_text": "Bekijk midden- en zijscheidingen met een live hulplijn. Stel positie en vorm precies af en bewaar je favoriete looks privé op je iPhone.",
+  "description": "Vind de haarscheiding die bij je past voordat je de kam pakt. PartMirror gebruikt de TrueDepth-camera aan de voorkant van compatibele iPhone-modellen om een live hulplijn over je haar te plaatsen, zodat je een midden-, linker- en rechterscheiding kunt vergelijken.\n\nKies de positie\n• Wissel tussen midden, links en rechts.\n• Stel de positie tot op de millimeter af.\n• Kies een rechte, diagonale of zachte C-lijn van haargrens tot kruin.\n\nLeg je look vast\nMaak foto's of korte video's en vergelijk daarna de weergave zonder hulplijn met de begeleide weergave in Mijn kapsels. Je bewaarde looks blijven op je iPhone, tenzij je ze zelf deelt of exporteert.\n\nPrivéverwerking van camerabeelden\nHoofdtracking en cameraverwerking vinden plaats op je iPhone. Voor de hulplijn zijn geen account en uploads nodig.\n\nPartMirror vereist iOS 17 of nieuwer en een iPhone met een TrueDepth-camera aan de voorkant.",
+  "keywords": "kapsel,scheiding,symmetrie,vlechten,secties,kam,hoofdhuid,styling,beauty,uitlijning",
+  "ui": {
+    "left": "Links",
+    "middle": "Midden",
+    "right": "Rechts",
+    "center_position": "Middenpositie",
+    "centered": "Gecentreerd",
+    "your_left": "Jouw linkerkant",
+    "center": "Midden",
+    "your_right": "Jouw rechterkant",
+    "part_position": "Positie van scheiding",
+    "side": "Kant",
+    "shape": "Vorm van scheiding",
+    "straight": "Recht",
+    "diagonal": "Diagonaal",
+    "soft_c": "Zachte C",
+    "customize_shape": "Vorm aanpassen…",
+    "photo": "Foto",
+    "video": "Video"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Vind je perfecte haarscheiding",
+      "supporting": "Een live hulplijn volgt je hoofd in realtime"
+    },
+    {
+      "position": 2,
+      "headline": "Midden, links of rechts",
+      "supporting": "Kies de positie die bij je look past"
+    },
+    {
+      "position": 3,
+      "headline": "Stel de exacte positie in",
+      "supporting": "Stel je scheiding tot op de millimeter af"
+    },
+    {
+      "position": 4,
+      "headline": "Recht, diagonaal of gebogen",
+      "supporting": "Vorm de lijn van haargrens tot kruin"
+    },
+    {
+      "position": 5,
+      "headline": "Maak een foto of video",
+      "supporting": "Bewaar elke look met scheiding privé op je iPhone"
+    }
+  ]
+}

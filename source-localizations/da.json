@@ -1,0 +1,56 @@
+{
+  "locale": "da",
+  "language": "Danish",
+  "app_name": "PartMirror: Hårskilningsguide",
+  "subtitle": "Til midter- og sideskilning",
+  "tagline": "Find din skilning. Følg linjen.",
+  "promotional_text": "Se midter- og sideskilninger med en liveguide. Finjuster placering og form, og gem derefter dine favoritlooks privat på din iPhone.",
+  "description": "Find den hårskilning, der klæder dig, før du griber kammen. PartMirror bruger TrueDepth-frontkameraet på kompatible iPhone-modeller til at lægge en liveguide over dit hår, så du kan sammenligne skilning i midten, til venstre og til højre.\n\nVælg placering\n• Skift mellem midten, venstre og højre.\n• Finjuster placeringen i millimeter.\n• Vælg en lige, diagonal eller blød C-linje fra hårgrænsen til issen.\n\nFang dit look\nTag billeder eller korte videoer, og sammenlign derefter visningen uden guide med visningen med guide i Mine frisurer. Dine gemte looks bliver på din iPhone, medmindre du vælger at dele eller eksportere dem.\n\nPrivat kamerabehandling\nHovedsporing og kamerabehandling foregår på din iPhone. Guiden kræver hverken en konto eller upload.\n\nPartMirror kræver iOS 17 eller nyere og en iPhone med TrueDepth-frontkamera.",
+  "keywords": "frisure,skilning,symmetri,fletninger,sektioner,kam,hovedbund,styling,skønhed,justering",
+  "ui": {
+    "left": "Venstre",
+    "middle": "Midten",
+    "right": "Højre",
+    "center_position": "Midterplacering",
+    "centered": "Centreret",
+    "your_left": "Din venstre side",
+    "center": "Midten",
+    "your_right": "Din højre side",
+    "part_position": "Skilningens placering",
+    "side": "Side",
+    "shape": "Skilningens form",
+    "straight": "Lige",
+    "diagonal": "Diagonal",
+    "soft_c": "Blød C",
+    "customize_shape": "Tilpas form…",
+    "photo": "Foto",
+    "video": "Video"
+  },
+  "screenshots": [
+    {
+      "position": 1,
+      "headline": "Find din perfekte skilning",
+      "supporting": "En liveguide følger dit hoved i realtid"
+    },
+    {
+      "position": 2,
+      "headline": "Midten, venstre eller højre",
+      "supporting": "Vælg den placering, der passer til dit look"
+    },
+    {
+      "position": 3,
+      "headline": "Juster den præcise placering",
+      "supporting": "Finjuster din skilning på millimeteren"
+    },
+    {
+      "position": 4,
+      "headline": "Lige, diagonal eller buet",
+      "supporting": "Form linjen fra hårgrænsen til issen"
+    },
+    {
+      "position": 5,
+      "headline": "Tag et billede eller en video",
+      "supporting": "Gem hvert look med skilning privat på din iPhone"
+    }
+  ]
+}
