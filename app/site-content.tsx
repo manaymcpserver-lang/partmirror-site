@@ -112,6 +112,8 @@ const supportFaqKeys = [
   ['faqDeleteQ', 'faqDeleteA'],
 ] as const;
 
+const supportEmail = 'support@partmirror.com';
+
 function Support({ content }: { content: LocaleContent }) {
   const m = content.messages;
   return (
@@ -125,7 +127,7 @@ function Support({ content }: { content: LocaleContent }) {
         <span className="contact-icon" aria-hidden="true">@</span>
         <div>
           <h2>{m.contactTitle}</h2>
-          <p>{m.contactPending}</p>
+          <p><a href={`mailto:${supportEmail}`}>{m.contactPending}</a></p>
         </div>
       </section>
       <section className="faq-section">
@@ -190,7 +192,11 @@ function LegalDocument({ content, kind }: { content: LocaleContent; kind: 'priva
             <span>{String(index + 1).padStart(2, '0')}</span>
             <div>
               <h2>{m[title]}</h2>
-              <p>{m[body]}</p>
+              <p>
+                {body === 'privacyContactPending' || body === 'termsContactPending' ? (
+                  <a href={`mailto:${supportEmail}`}>{m[body]}</a>
+                ) : m[body]}
+              </p>
             </div>
           </section>
         ))}
