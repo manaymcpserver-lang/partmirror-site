@@ -110,6 +110,8 @@ const supportFaqKeys = [
   ['faqLooksQ', 'faqLooksA'],
   ['faqMirrorQ', 'faqMirrorA'],
   ['faqDeleteQ', 'faqDeleteA'],
+  ['faqAdsQ', 'faqAdsA'],
+  ['faqPrivacyQ', 'faqPrivacyA'],
 ] as const;
 
 const supportEmail = 'support@partmirror.com';
@@ -152,6 +154,7 @@ const privacySections = [
   ['privacyPhotosTitle', 'privacyPhotosBody'],
   ['privacyRetentionTitle', 'privacyRetentionBody'],
   ['privacyAdsTitle', 'privacyAdsBody'],
+  ['privacyPurchasesTitle', 'privacyPurchasesBody'],
   ['privacyChildrenTitle', 'privacyChildrenBody'],
   ['privacyChangesTitle', 'privacyChangesBody'],
   ['privacyContactTitle', 'privacyContactPending'],

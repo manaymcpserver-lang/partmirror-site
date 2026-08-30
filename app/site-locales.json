@@ -71,7 +71,7 @@
       "effectiveDate": "اعتبارًا من 30 أغسطس 2026",
       "privacyIntro": "تصف هذه السياسة تطبيق PartMirror iPhone الحالي وموقع الويب هذا.",
       "privacyCollectionTitle": "جمع البيانات",
-      "privacyCollectionBody": "PartMirror الإصدار 1.0.0 لا يجمع البيانات الشخصية. لا يحتوي على نظام حساب، أو تحليلات، أو SDK إعلاني، أو تحميل خادم بعيد.",
+      "privacyCollectionBody": "يستخدم الجزء الأوسط Google AdMob وأدوات موافقة Google لتقديم إعلانات بانر غير مخصصة. قد تتلقى الخدمات الإعلانية معلومات عن الجهاز والشبكة، لكن PartMirror لا توفر مطلقًا صور الكاميرا أو هندسة الوجه أو المظاهر المحفوظة أو الأسماء أو الوصفات الجزئية لاستهداف الإعلانات.",
       "privacyCameraTitle": "تتبع الكاميرا والوجه",
       "privacyCameraBody": "تتم معالجة إطارات الكاميرا الأمامية ومعلومات تتبع الوجه على iPhone الخاص بك لوضع الدليل. PartMirror لا يرسل إلينا إطارات الكاميرا أو هندسة الوجه أو معلومات التتبع.",
       "privacyMediaTitle": "الصور ومقاطع الفيديو وMy Looks",
@@ -81,7 +81,7 @@
       "privacyRetentionTitle": "الاحتفاظ والحذف",
       "privacyRetentionBody": "نظرًا لأن التطبيق لا يرسل أي بيانات خاصة بالكاميرا أو الوسائط إلينا، فإننا لا نحتفظ بهذه البيانات. يمكنك حذف المظاهر المحفوظة داخل التطبيق أو إزالة جميع بيانات التطبيق المحلية عن طريق إلغاء تثبيت PartMirror.",
       "privacyAdsTitle": "الإعلان والتحليلات",
-      "privacyAdsBody": "الإصدار الحالي لا يعرض إعلانات ولا يتضمن خدمات إعلانية أو تحليلية. سنقوم بتحديث هذه السياسة قبل تمكين أي خدمة مستقبلية تغير هذه الممارسات.",
+      "privacyAdsBody": "يستخدم الإصدار المجاني أدوات موافقة Google AdMob وGoogle لعرض إعلانات البانر غير المخصصة. يجوز لشركة Google معالجة عنوان IP ومعرفات الأجهزة وبيانات الإعلان وتفاعلات المنتج وبيانات الأداء والتشخيصات. لا يوفر PartMirror مطلقًا صور الكاميرا أو هندسة الوجه أو المظهر المحفوظ أو الأسماء أو الوصفات الجزئية للإعلان. لا يتلقى المشتركون إعلانات، ولا يقوم PartMirror بتشغيل AdMob أثناء تنشيط الوصول بدون إعلانات.",
       "privacyChildrenTitle": "الأطفال",
       "privacyChildrenBody": "PartMirror غير موجه على وجه التحديد للأطفال دون سن 13 عامًا، ونحن لا نجمع بيانات شخصية من الأطفال عن قصد.",
       "privacyChangesTitle": "التغييرات في هذه السياسة",
@@ -109,7 +109,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple اتفاقية ترخيص المستخدم النهائي القياسية",
       "legalTranslationNote": "يتم توفير الترجمات للراحة. إذا تعارضت النسخة المترجمة مع النسخة الإنجليزية، فإن النسخة الإنجليزية تتحكم حيثما يسمح القانون بذلك.",
-      "footerRights": "جميع الحقوق محفوظة."
+      "footerRights": "جميع الحقوق محفوظة.",
+      "faqAdsQ": "PartMirror بدون إعلانات",
+      "faqAdsA": "قم بإزالة جميع الإعلانات عبر PartMirror.",
+      "faqPrivacyQ": "الإعلان",
+      "faqPrivacyA": "يمكنك إدارة اختيارات خصوصية الإعلان في الإعدادات عندما تكون خيارات خصوصية Google متاحة، وإدارة الاشتراكات أو إلغاؤها من خلال App Store، وإلغاء إذن الصور في إعدادات iOS، وحذف المظاهر المحفوظة داخل PartMirror.",
+      "privacyPurchasesTitle": "PartMirror بدون إعلانات",
+      "privacyPurchasesBody": "تقوم Apple بمعالجة عمليات الشراء وإدارة الاشتراكات بدون إعلانات في PartMirror. يقرأ PartMirror حالة الاشتراك الذي تم التحقق منه بواسطة Apple فقط لإزالة الإعلانات أو استعادتها. لا يقوم PartMirror بتشغيل نظام حساب أو تخزين تفاصيل بطاقة الدفع."
     }
   },
   "bn-BD": {
@@ -184,7 +190,7 @@
       "effectiveDate": "30 আগস্ট, 2026 থেকে কার্যকর হবে",
       "privacyIntro": "এই নীতিটি বর্তমান PartMirror iPhone অ্যাপ এবং এই ওয়েবসাইটকে বর্ণনা করে।",
       "privacyCollectionTitle": "তথ্য সংগ্রহ",
-      "privacyCollectionBody": "PartMirror সংস্করণ 1.0.0 ব্যক্তিগত তথ্য সংগ্রহ করে না। এটিতে কোনো অ্যাকাউন্ট সিস্টেম, বিশ্লেষণ, বিজ্ঞাপন SDK, বা দূরবর্তী সার্ভার আপলোড নেই৷",
+      "privacyCollectionBody": "মিডল পার্ট অ-ব্যক্তিগত ব্যানার বিজ্ঞাপনগুলি সরবরাহ করতে Google AdMob এবং Google এর সম্মতি সরঞ্জাম ব্যবহার করে৷ বিজ্ঞাপন পরিষেবাগুলি ডিভাইস এবং নেটওয়ার্কের তথ্য পেতে পারে, কিন্তু মিডল পার্ট কখনই ক্যামেরার ছবি, মুখের জ্যামিতি, সংরক্ষিত চেহারা, নাম বা বিজ্ঞাপন লক্ষ্য করার জন্য অংশ রেসিপি সরবরাহ করে না।",
       "privacyCameraTitle": "ক্যামেরা এবং ফেস ট্র্যাকিং",
       "privacyCameraBody": "সামনের-ক্যামেরা ফ্রেম এবং ফেস-ট্র্যাকিং তথ্য আপনার iPhone এ নির্দেশিকা রাখার জন্য প্রক্রিয়া করা হয়৷ PartMirror আমাদের কাছে ক্যামেরা ফ্রেম, মুখের জ্যামিতি, বা ট্র্যাকিং তথ্য পাঠায় না।",
       "privacyMediaTitle": "ফটো, ভিডিও এবং My Looks",
@@ -194,7 +200,7 @@
       "privacyRetentionTitle": "ধরে রাখা এবং মুছে ফেলা",
       "privacyRetentionBody": "যেহেতু অ্যাপটি আমাদের কাছে কোনো ক্যামেরা বা মিডিয়া ডেটা পাঠায় না, আমরা সেই ডেটা ধরে রাখি না। আপনি অ্যাপের মধ্যে সংরক্ষিত চেহারা মুছে ফেলতে পারেন বা PartMirror আনইনস্টল করে সমস্ত স্থানীয় অ্যাপ ডেটা মুছে ফেলতে পারেন।",
       "privacyAdsTitle": "বিজ্ঞাপন এবং বিশ্লেষণ",
-      "privacyAdsBody": "বর্তমান রিলিজ বিজ্ঞাপন প্রদর্শন করে না এবং বিজ্ঞাপন বা বিশ্লেষণ পরিষেবা অন্তর্ভুক্ত করে না। এই অনুশীলনগুলিকে পরিবর্তন করে এমন ভবিষ্যতের পরিষেবা সক্রিয় করার আগে আমরা এই নীতিটি আপডেট করব৷",
+      "privacyAdsBody": "বিনামূল্যের সংস্করণটি ব্যক্তিগতকৃত ব্যানার বিজ্ঞাপনগুলি সরবরাহ করতে Google AdMob এবং Google এর সম্মতি সরঞ্জামগুলি ব্যবহার করে৷ Google একটি IP ঠিকানা, ডিভাইস শনাক্তকারী, বিজ্ঞাপনের ডেটা, পণ্যের ইন্টারঅ্যাকশন, পারফরম্যান্স ডেটা এবং ডায়াগনস্টিকস প্রক্রিয়া করতে পারে। PartMirror কখনই বিজ্ঞাপনের জন্য ক্যামেরার ছবি, মুখের জ্যামিতি, সংরক্ষিত চেহারা, নাম বা অংশ রেসিপি সরবরাহ করে না। গ্রাহকরা বিজ্ঞাপনগুলি পান না এবং যাচাইকৃত বিজ্ঞাপন-মুক্ত অ্যাক্সেস সক্রিয় থাকাকালীন PartMirror AdMob শুরু করে না।",
       "privacyChildrenTitle": "শিশুরা",
       "privacyChildrenBody": "PartMirror বিশেষভাবে 13 বছরের কম বয়সী শিশুদের জন্য নির্দেশিত নয় এবং আমরা জেনেশুনে শিশুদের কাছ থেকে ব্যক্তিগত তথ্য সংগ্রহ করি না।",
       "privacyChangesTitle": "এই নীতি পরিবর্তন",
@@ -222,7 +228,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple স্ট্যান্ডার্ড EULA",
       "legalTranslationNote": "অনুবাদ সুবিধার জন্য প্রদান করা হয়. যদি একটি অনূদিত সংস্করণ ইংরেজি সংস্করণের সাথে বিরোধিতা করে, তবে আইন দ্বারা অনুমোদিত যেখানে ইংরেজী সংস্করণ নিয়ন্ত্রণ করে।",
-      "footerRights": "সর্বস্বত্ব সংরক্ষিত"
+      "footerRights": "সর্বস্বত্ব সংরক্ষিত",
+      "faqAdsQ": "পার্ট মিরর বিজ্ঞাপন-মুক্ত",
+      "faqAdsA": "PartMirror জুড়ে সমস্ত বিজ্ঞাপন সরান।",
+      "faqPrivacyQ": "বিজ্ঞাপন",
+      "faqPrivacyA": "আপনি সেটিংসে বিজ্ঞাপন গোপনীয়তা পছন্দগুলি পরিচালনা করতে পারেন যখন Google এর গোপনীয়তা বিকল্পগুলি উপলব্ধ থাকে, অ্যাপ স্টোরের মাধ্যমে সদস্যতাগুলি পরিচালনা বা বাতিল করতে, iOS সেটিংসে ফটোর অনুমতি প্রত্যাহার করতে এবং PartMirror-এর মধ্যে সংরক্ষিত চেহারাগুলি মুছে ফেলতে পারেন৷",
+      "privacyPurchasesTitle": "পার্ট মিরর বিজ্ঞাপন-মুক্ত",
+      "privacyPurchasesBody": "Apple PartMirror বিজ্ঞাপন-মুক্ত কেনাকাটা এবং সদস্যতা ব্যবস্থাপনা প্রক্রিয়া করে। PartMirror শুধুমাত্র বিজ্ঞাপন অপসারণ বা পুনরুদ্ধার করতে Apple-যাচাইকৃত সদস্যতার স্থিতি পড়ে। PartMirror কোনো অ্যাকাউন্ট সিস্টেম পরিচালনা করে না বা পেমেন্ট-কার্ডের বিবরণ সঞ্চয় করে না।"
     }
   },
   "ca": {
@@ -297,7 +309,7 @@
       "effectiveDate": "En vigor el 30 d'agost de 2026",
       "privacyIntro": "Aquesta política descriu l'aplicació actual PartMirror iPhone i aquest lloc web.",
       "privacyCollectionTitle": "Recollida de dades",
-      "privacyCollectionBody": "PartMirror versió 1.0.0 no recull dades personals. No té cap sistema de comptes, anàlisi, SDK publicitari ni càrrega de servidor remot.",
+      "privacyCollectionBody": "PartMirror utilitza Google AdMob i les eines de consentiment de Google per publicar anuncis de bàners no personalitzats. Els serveis publicitaris poden rebre informació sobre el dispositiu i la xarxa, però PartMirror mai no ofereix imatges de càmera, geometria facial, aspectes desats, noms o receptes de peces per a l'orientació d'anuncis.",
       "privacyCameraTitle": "Seguiment de la càmera i la cara",
       "privacyCameraBody": "Els marcs de la càmera frontal i la informació de seguiment de cares es processen al vostre iPhone per col·locar la guia. PartMirror no ens envia fotogrames de càmera, geometria facial ni informació de seguiment.",
       "privacyMediaTitle": "Fotos, vídeos i My Looks",
@@ -307,7 +319,7 @@
       "privacyRetentionTitle": "Retenció i supressió",
       "privacyRetentionBody": "Com que l'aplicació no ens envia dades de càmera ni de mitjans, no les conservem. Pots suprimir aspectes desats dins de l'aplicació o eliminar totes les dades de l'aplicació local desinstal·lant PartMirror.",
       "privacyAdsTitle": "Publicitat i analítica",
-      "privacyAdsBody": "La versió actual no mostra publicitat i no inclou publicitat ni serveis d'anàlisi. Actualitzarem aquesta política abans d'habilitar qualsevol servei futur que canviï aquestes pràctiques.",
+      "privacyAdsBody": "La versió gratuïta utilitza Google AdMob i les eines de consentiment de Google per publicar bàners publicitaris no personalitzats. Google pot processar una adreça IP, identificadors de dispositius, dades publicitàries, interaccions amb productes, dades de rendiment i diagnòstics. PartMirror mai proporciona imatges de càmera, geometria facial, aspectes desats, noms o receptes de peces per a la publicitat. Els subscriptors no reben anuncis i PartMirror no inicia AdMob mentre l'accés sense anuncis verificat està actiu.",
       "privacyChildrenTitle": "Nens",
       "privacyChildrenBody": "PartMirror no es dirigeix específicament als menors de 13 anys i no recollim dades personals dels nens de manera conscient.",
       "privacyChangesTitle": "Canvis a aquesta política",
@@ -335,7 +347,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple CLUF estàndard",
       "legalTranslationNote": "Les traduccions es proporcionen per comoditat. Si una versió traduïda entra en conflicte amb la versió en anglès, la versió en anglès controla quan ho permet la llei.",
-      "footerRights": "Tots els drets reservats."
+      "footerRights": "Tots els drets reservats.",
+      "faqAdsQ": "PartMirror Sense anuncis",
+      "faqAdsA": "Elimina tota la publicitat a PartMirror.",
+      "faqPrivacyQ": "Publicitat",
+      "faqPrivacyA": "Podeu gestionar les opcions de privadesa dels anuncis a Configuració quan les opcions de privadesa de Google estiguin disponibles, gestionar o cancel·lar les subscripcions a l'App Store, revocar el permís de Fotos a Configuració d'iOS i suprimir aspectes desats a PartMirror.",
+      "privacyPurchasesTitle": "PartMirror Sense anuncis",
+      "privacyPurchasesBody": "Apple processa les compres i la gestió de subscripcions de PartMirror Ad-Free. PartMirror només llegeix l'estat de subscripció verificat per Apple per eliminar o restaurar la publicitat. PartMirror no opera un sistema de comptes ni emmagatzema els detalls de la targeta de pagament."
     }
   },
   "cs": {
@@ -410,7 +428,7 @@
       "effectiveDate": "Účinné od 30. srpna 2026",
       "privacyIntro": "Tyto zásady popisují aktuální aplikaci PartMirror iPhone a tento web.",
       "privacyCollectionTitle": "Sběr dat",
-      "privacyCollectionBody": "PartMirror verze 1.0.0 neshromažďuje osobní údaje. Nemá žádný systém účtů, analytiku, reklamní sadu SDK ani nahrávání na vzdálený server.",
+      "privacyCollectionBody": "PartMirror využívá Google AdMob a nástroje Google pro získávání souhlasu k zobrazování nepersonalizovaných bannerových reklam. Reklamní služby mohou přijímat informace o zařízení a síti, ale PartMirror nikdy nedodává obrázky z kamery, geometrii obličeje, uložené vzhledy, jména ani receptury dílů pro cílení reklam.",
       "privacyCameraTitle": "Kamera a sledování obličeje",
       "privacyCameraBody": "Rámečky přední kamery a informace o sledování obličeje jsou zpracovány na vašem iPhone za účelem umístění průvodce. PartMirror nám neposílá snímky z kamer, geometrii obličejů ani informace o sledování.",
       "privacyMediaTitle": "Fotky, videa a My Looks",
@@ -420,7 +438,7 @@
       "privacyRetentionTitle": "Uchování a vymazání",
       "privacyRetentionBody": "Protože nám aplikace neposílá žádná data z fotoaparátu nebo médií, tato data neuchováváme. Můžete smazat uložené vzhledy v aplikaci nebo odstranit všechna data místní aplikace odinstalováním PartMirror.",
       "privacyAdsTitle": "Reklama a analytika",
-      "privacyAdsBody": "Aktuální verze nezobrazuje reklamu a nezahrnuje reklamní ani analytické služby. Před povolením jakékoli budoucí služby, která tyto postupy změní, tyto zásady aktualizujeme.",
+      "privacyAdsBody": "Bezplatná verze využívá Google AdMob a nástroje Google pro získávání souhlasu k zobrazování nepersonalizovaných bannerových reklam. Google může zpracovávat IP adresu, identifikátory zařízení, reklamní údaje, interakce s produkty, údaje o výkonu a diagnostiku. PartMirror nikdy nedodává obrázky z kamery, geometrii obličeje, uložené vzhledy, jména ani receptury dílů pro reklamu. Předplatitelé nedostávají reklamy a PartMirror nespustí AdMob, dokud je aktivní ověřený přístup bez reklam.",
       "privacyChildrenTitle": "Děti",
       "privacyChildrenBody": "PartMirror není zaměřeno konkrétně na děti mladší 13 let a vědomě neshromažďujeme osobní údaje od dětí.",
       "privacyChangesTitle": "Změny těchto zásad",
@@ -448,7 +466,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Standardní EULA",
       "legalTranslationNote": "Pro pohodlí jsou poskytovány překlady. Pokud je přeložená verze v rozporu s anglickou verzí, platí anglická verze tam, kde to povoluje zákon.",
-      "footerRights": "Všechna práva vyhrazena."
+      "footerRights": "Všechna práva vyhrazena.",
+      "faqAdsQ": "PartMirror bez reklam",
+      "faqAdsA": "Odstraňte veškerou reklamu v celém PartMirror.",
+      "faqPrivacyQ": "Reklama",
+      "faqPrivacyA": "Možnosti ochrany osobních údajů pro reklamy můžete spravovat v Nastavení, když jsou dostupné možnosti ochrany osobních údajů Google, spravovat nebo rušit předplatná prostřednictvím App Store, zrušit oprávnění pro Fotky v Nastavení iOS a mazat uložené vzhledy v PartMirror.",
+      "privacyPurchasesTitle": "PartMirror bez reklam",
+      "privacyPurchasesBody": "Apple zpracovává nákupy PartMirror Ad-Free a správu předplatného. PartMirror čte stav předplatného ověřeného společností Apple pouze za účelem odstranění nebo obnovení reklamy. PartMirror neprovozuje systém účtů ani neukládá údaje o platebních kartách."
     }
   },
   "da": {
@@ -523,7 +547,7 @@
       "effectiveDate": "Gælder den 30. august 2026",
       "privacyIntro": "Denne politik beskriver den aktuelle PartMirror iPhone-app og denne hjemmeside.",
       "privacyCollectionTitle": "Dataindsamling",
-      "privacyCollectionBody": "PartMirror version 1.0.0 indsamler ikke personlige data. Det har intet kontosystem, analytics, reklame-SDK eller ekstern serverupload.",
+      "privacyCollectionBody": "Midterste del bruger Google AdMob og Googles samtykkeværktøjer til at levere ikke-tilpassede bannerannoncer. Annoncetjenesterne modtager muligvis enheds- og netværksoplysninger, men PartMirror leverer aldrig kamerabilleder, ansigtsgeometri, gemte udseende, navne eller deleopskrifter til annoncemålretning.",
       "privacyCameraTitle": "Kamera og ansigtssporing",
       "privacyCameraBody": "Frontkamerarammer og oplysninger om ansigtssporing behandles på din iPhone for at placere guiden. PartMirror sender ikke kamerarammer, ansigtsgeometri eller sporingsoplysninger til os.",
       "privacyMediaTitle": "Fotos, videoer og My Looks",
@@ -533,7 +557,7 @@
       "privacyRetentionTitle": "Fastholdelse og sletning",
       "privacyRetentionBody": "Fordi appen ikke sender kamera- eller mediedata til os, beholder vi ikke disse data. Du kan slette gemte udseender inde i appen eller fjerne alle lokale appdata ved at afinstallere PartMirror.",
       "privacyAdsTitle": "Annoncering og analyse",
-      "privacyAdsBody": "Den aktuelle udgivelse viser ikke reklamer og inkluderer ikke reklame- eller analysetjenester. Vi vil opdatere denne politik, før vi aktiverer enhver fremtidig tjeneste, der ændrer denne praksis.",
+      "privacyAdsBody": "Den gratis version bruger Google AdMob og Googles samtykkeværktøjer til at levere ikke-tilpassede bannerannoncer. Google kan behandle en IP-adresse, enhedsidentifikatorer, annoncedata, produktinteraktioner, ydeevnedata og diagnostik. PartMirror leverer aldrig kamerabilleder, ansigtsgeometri, gemte udseende, navne eller deleopskrifter til annoncering. Abonnenter modtager ikke annoncer, og PartMirror starter ikke AdMob, mens bekræftet annoncefri adgang er aktiv.",
       "privacyChildrenTitle": "Børn",
       "privacyChildrenBody": "PartMirror er ikke rettet specifikt til børn under 13 år, og vi indsamler ikke bevidst personlige data fra børn.",
       "privacyChangesTitle": "Ændringer i denne politik",
@@ -561,7 +585,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Standard EULA",
       "legalTranslationNote": "Oversættelser leveres for nemheds skyld. Hvis en oversat version er i konflikt med den engelske version, styrer den engelske version, hvor det er tilladt ved lov.",
-      "footerRights": "Alle rettigheder forbeholdes."
+      "footerRights": "Alle rettigheder forbeholdes.",
+      "faqAdsQ": "PartMirror reklamefri",
+      "faqAdsA": "Fjern al reklame i PartMirror.",
+      "faqPrivacyQ": "Annoncering",
+      "faqPrivacyA": "Du kan administrere annoncebeskyttelsesvalg i Indstillinger, når Googles privatlivsindstillinger er tilgængelige, administrere eller annullere abonnementer via App Store, tilbagekalde Fotos-tilladelse i iOS-indstillinger og slette gemte udseender i PartMirror.",
+      "privacyPurchasesTitle": "PartMirror reklamefri",
+      "privacyPurchasesBody": "Apple behandler PartMirror Ad-Free-køb og abonnementsadministration. PartMirror læser kun Apple-verificeret abonnementsstatus for at fjerne eller gendanne annoncering. PartMirror driver ikke et kontosystem eller gemmer betalingskortoplysninger."
     }
   },
   "de-DE": {
@@ -636,7 +666,7 @@
       "effectiveDate": "Gültig ab 30. August 2026",
       "privacyIntro": "Diese Richtlinie beschreibt die aktuelle PartMirror iPhone-App und diese Website.",
       "privacyCollectionTitle": "Datenerfassung",
-      "privacyCollectionBody": "PartMirror Version 1.0.0 sammelt keine personenbezogenen Daten. Es gibt kein Kontosystem, keine Analysen, kein Werbe-SDK und keinen Remote-Server-Upload.",
+      "privacyCollectionBody": "PartMirror verwendet Google AdMob und die Einwilligungstools von Google, um nicht personalisierte Bannerwerbung bereitzustellen. Die Werbedienste erhalten möglicherweise Geräte- und Netzwerkinformationen, PartMirror liefert jedoch niemals Kamerabilder, Gesichtsgeometrie, gespeicherte Looks, Namen oder Teilerezepte für die Anzeigenausrichtung.",
       "privacyCameraTitle": "Kamera- und Gesichtsverfolgung",
       "privacyCameraBody": "Frontkamerabilder und Gesichtsverfolgungsinformationen werden auf Ihrem iPhone verarbeitet, um den Leitfaden zu platzieren. PartMirror sendet keine Kamerabilder, Gesichtsgeometrie oder Tracking-Informationen an uns.",
       "privacyMediaTitle": "Fotos, Videos und My Looks",
@@ -646,7 +676,7 @@
       "privacyRetentionTitle": "Aufbewahrung und Löschung",
       "privacyRetentionBody": "Da die App keine Kamera- oder Mediendaten an uns sendet, speichern wir diese Daten nicht. Sie können gespeicherte Looks in der App löschen oder alle lokalen App-Daten entfernen, indem Sie PartMirror deinstallieren.",
       "privacyAdsTitle": "Werbung und Analytik",
-      "privacyAdsBody": "Die aktuelle Version zeigt keine Werbung an und beinhaltet keine Werbe- oder Analysedienste. Wir werden diese Richtlinie aktualisieren, bevor wir einen zukünftigen Dienst aktivieren, der diese Praktiken ändert.",
+      "privacyAdsBody": "Die kostenlose Version nutzt Google AdMob und die Einwilligungstools von Google, um nicht personalisierte Bannerwerbung bereitzustellen. Google verarbeitet möglicherweise eine IP-Adresse, Gerätekennungen, Werbedaten, Produktinteraktionen, Leistungsdaten und Diagnosen. PartMirror liefert niemals Kamerabilder, Gesichtsgeometrie, gespeicherte Looks, Namen oder Teilerezepte für Werbezwecke. Abonnenten erhalten keine Werbung und PartMirror startet AdMob nicht, während der verifizierte werbefreie Zugriff aktiv ist.",
       "privacyChildrenTitle": "Kinder",
       "privacyChildrenBody": "PartMirror richtet sich nicht speziell an Kinder unter 13 Jahren und wir erfassen wissentlich keine personenbezogenen Daten von Kindern.",
       "privacyChangesTitle": "Änderungen an dieser Richtlinie",
@@ -674,7 +704,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Standard-EULA",
       "legalTranslationNote": "Der Einfachheit halber werden Übersetzungen bereitgestellt. Wenn eine übersetzte Version im Widerspruch zur englischen Version steht, hat die englische Version Vorrang, soweit gesetzlich zulässig.",
-      "footerRights": "Alle Rechte vorbehalten."
+      "footerRights": "Alle Rechte vorbehalten.",
+      "faqAdsQ": "PartMirror werbefrei",
+      "faqAdsA": "Entfernen Sie sämtliche Werbung in PartMirror.",
+      "faqPrivacyQ": "Werbung",
+      "faqPrivacyA": "Sie können die Datenschutzoptionen für Anzeigen in den Einstellungen verwalten, wenn die Datenschutzoptionen von Google verfügbar sind, Abonnements über den App Store verwalten oder kündigen, die Fotos-Berechtigung in den iOS-Einstellungen widerrufen und gespeicherte Looks in PartMirror löschen.",
+      "privacyPurchasesTitle": "PartMirror werbefrei",
+      "privacyPurchasesBody": "Apple verarbeitet werbefreie PartMirror-Käufe und die Abonnementverwaltung. PartMirror liest den von Apple bestätigten Abonnementstatus nur, um Werbung zu entfernen oder wiederherzustellen. PartMirror betreibt kein Kontosystem und speichert keine Zahlungskartendaten."
     }
   },
   "el": {
@@ -749,7 +785,7 @@
       "effectiveDate": "Σε ισχύ 30 Αυγούστου 2026",
       "privacyIntro": "Αυτή η πολιτική περιγράφει την τρέχουσα εφαρμογή PartMirror iPhone και αυτόν τον ιστότοπο.",
       "privacyCollectionTitle": "Συλλογή δεδομένων",
-      "privacyCollectionBody": "Η PartMirror έκδοση 1.0.0 δεν συλλέγει προσωπικά δεδομένα. Δεν έχει σύστημα λογαριασμού, αναλυτικά στοιχεία, διαφημιστικό SDK ή απομακρυσμένη μεταφόρτωση διακομιστή.",
+      "privacyCollectionBody": "Το PartMirror χρησιμοποιεί το Google AdMob και τα εργαλεία συναίνεσης της Google για την προβολή μη εξατομικευμένων διαφημίσεων banner. Οι υπηρεσίες διαφημίσεων ενδέχεται να λαμβάνουν πληροφορίες συσκευής και δικτύου, αλλά το PartMirror δεν παρέχει ποτέ εικόνες κάμερας, γεωμετρία προσώπων, αποθηκευμένες εμφανίσεις, ονόματα ή συνταγές τμημάτων για στόχευση διαφημίσεων.",
       "privacyCameraTitle": "Κάμερα και παρακολούθηση προσώπου",
       "privacyCameraBody": "Τα πλαίσια της μπροστινής κάμερας και οι πληροφορίες παρακολούθησης προσώπου υποβάλλονται σε επεξεργασία στο iPhone σας για να τοποθετηθεί ο οδηγός. Το PartMirror δεν μας στέλνει καρέ κάμερας, γεωμετρία προσώπου ή πληροφορίες παρακολούθησης.",
       "privacyMediaTitle": "Φωτογραφίες, βίντεο και My Looks",
@@ -759,7 +795,7 @@
       "privacyRetentionTitle": "Διατήρηση και διαγραφή",
       "privacyRetentionBody": "Επειδή η εφαρμογή δεν μας στέλνει δεδομένα κάμερας ή πολυμέσων, δεν διατηρούμε αυτά τα δεδομένα. Μπορείτε να διαγράψετε αποθηκευμένες εμφανίσεις μέσα στην εφαρμογή ή να καταργήσετε όλα τα τοπικά δεδομένα εφαρμογών καταργώντας την εγκατάσταση του PartMirror.",
       "privacyAdsTitle": "Διαφήμιση και αναλυτικά στοιχεία",
-      "privacyAdsBody": "Η τρέχουσα έκδοση δεν εμφανίζει διαφημίσεις και δεν περιλαμβάνει διαφημίσεις ή υπηρεσίες ανάλυσης. Θα ενημερώσουμε αυτήν την πολιτική προτού ενεργοποιήσουμε οποιαδήποτε μελλοντική υπηρεσία που αλλάζει αυτές τις πρακτικές.",
+      "privacyAdsBody": "Η δωρεάν έκδοση χρησιμοποιεί το Google AdMob και τα εργαλεία συναίνεσης της Google για την προβολή μη εξατομικευμένων διαφημίσεων banner. Η Google μπορεί να επεξεργαστεί μια διεύθυνση IP, αναγνωριστικά συσκευής, δεδομένα διαφήμισης, αλληλεπιδράσεις προϊόντων, δεδομένα απόδοσης και διαγνωστικά. Το PartMirror δεν παρέχει ποτέ εικόνες κάμερας, γεωμετρία προσώπου, αποθηκευμένες εμφανίσεις, ονόματα ή ανταλλακτικές συνταγές για διαφήμιση. Οι συνδρομητές δεν λαμβάνουν διαφημίσεις και το PartMirror δεν εκκινεί το AdMob όσο είναι ενεργή η επαληθευμένη πρόσβαση χωρίς διαφημίσεις.",
       "privacyChildrenTitle": "Παιδιά",
       "privacyChildrenBody": "Το PartMirror δεν απευθύνεται ειδικά σε παιδιά κάτω των 13 ετών και δεν συλλέγουμε εν γνώσει μας προσωπικά δεδομένα από παιδιά.",
       "privacyChangesTitle": "Αλλαγές σε αυτήν την πολιτική",
@@ -787,7 +823,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Τυπική EULA",
       "legalTranslationNote": "Παρέχονται μεταφράσεις για διευκόλυνση. Εάν μια μεταφρασμένη έκδοση έρχεται σε αντίθεση με την αγγλική έκδοση, η αγγλική έκδοση ελέγχει όπου επιτρέπεται από το νόμο.",
-      "footerRights": "Με την επιφύλαξη παντός δικαιώματος."
+      "footerRights": "Με την επιφύλαξη παντός δικαιώματος.",
+      "faqAdsQ": "PartMirror Χωρίς διαφημίσεις\nΤο",
+      "faqAdsA": "Καταργήστε όλες τις διαφημίσεις στο PartMirror.",
+      "faqPrivacyQ": "Διαφήμιση",
+      "faqPrivacyA": "Μπορείτε να διαχειριστείτε τις επιλογές απορρήτου διαφημίσεων στις Ρυθμίσεις όταν είναι διαθέσιμες οι επιλογές απορρήτου της Google, να διαχειριστείτε ή να ακυρώσετε συνδρομές μέσω του App Store, να ανακαλέσετε την άδεια Φωτογραφίες στις Ρυθμίσεις iOS και να διαγράψετε αποθηκευμένες εμφανίσεις μέσα στο PartMirror.",
+      "privacyPurchasesTitle": "PartMirror Χωρίς διαφημίσεις\nΤο",
+      "privacyPurchasesBody": "Η Apple επεξεργάζεται αγορές PartMirror χωρίς διαφημίσεις και διαχείριση συνδρομών. Το PartMirror διαβάζει την κατάσταση συνδρομής επαληθευμένη από την Apple μόνο για την κατάργηση ή την επαναφορά διαφημίσεων. Το PartMirror δεν λειτουργεί σύστημα λογαριασμού ούτε αποθηκεύει στοιχεία κάρτας πληρωμής."
     }
   },
   "en-AU": {
@@ -857,12 +899,16 @@
       "faqMirrorA": "PartMirror intentionally saves the same mirror orientation shown in the live camera preview.",
       "faqDeleteQ": "How do I delete a saved look?",
       "faqDeleteA": "Open My Looks, open the look menu, and choose Delete. Removing the app also removes its private local library.",
+      "faqAdsQ": "PartMirror Ad-Free",
+      "faqAdsA": "Remove all advertising throughout PartMirror.",
+      "faqPrivacyQ": "Advertising",
+      "faqPrivacyA": "You can manage ad privacy choices in Settings when Google's privacy options are available, manage or cancel subscriptions through the App Store, revoke Photos permission in iOS Settings, and delete saved looks inside PartMirror.",
       "privacyEyebrow": "Your data",
       "privacyTitle": "Privacy Policy",
       "effectiveDate": "Effective August 30, 2026",
-      "privacyIntro": "This policy describes the current PartMirror iPhone app and this website.",
+      "privacyIntro": "This policy describes the PartMirror iPhone app, its advertising and subscription features, and this website.",
       "privacyCollectionTitle": "Data collection",
-      "privacyCollectionBody": "PartMirror version 1.0.0 does not collect personal data. It has no account system, analytics, advertising SDK, or remote server upload.",
+      "privacyCollectionBody": "PartMirror uses Google AdMob and Google's consent tools to deliver non-personalized banner ads. The ad services may receive device and network information, but PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for ad targeting.",
       "privacyCameraTitle": "Camera and face tracking",
       "privacyCameraBody": "Front-camera frames and face-tracking information are processed on your iPhone to place the guide. PartMirror does not send camera frames, face geometry, or tracking information to us.",
       "privacyMediaTitle": "Photos, videos, and My Looks",
@@ -872,7 +918,9 @@
       "privacyRetentionTitle": "Retention and deletion",
       "privacyRetentionBody": "Because the app sends no camera or media data to us, we do not retain that data. You can delete saved looks inside the app or remove all local app data by uninstalling PartMirror.",
       "privacyAdsTitle": "Advertising and analytics",
-      "privacyAdsBody": "The current release does not display advertising and does not include advertising or analytics services. We will update this policy before enabling any future service that changes these practices.",
+      "privacyAdsBody": "The free version uses Google AdMob and Google's consent tools to deliver non-personalized banner ads. Google may process an IP address, device identifiers, advertising data, product interactions, performance data, and diagnostics. PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for advertising. Subscribers do not receive ads, and PartMirror does not start AdMob while verified ad-free access is active.",
+      "privacyPurchasesTitle": "PartMirror Ad-Free",
+      "privacyPurchasesBody": "Apple processes PartMirror Ad-Free purchases and subscription management. PartMirror reads Apple-verified subscription status only to remove or restore advertising. PartMirror does not operate an account system or store payment-card details.",
       "privacyChildrenTitle": "Children",
       "privacyChildrenBody": "PartMirror is not directed specifically to children under 13, and we do not knowingly collect personal data from children.",
       "privacyChangesTitle": "Changes to this policy",
@@ -889,7 +937,7 @@
       "termsContentTitle": "Your photos and videos",
       "termsContentBody": "You keep ownership of media you create. You are responsible for content you capture, share, or export and for respecting the rights and privacy of other people.",
       "termsSubscriptionTitle": "PartMirror Ad-Free",
-      "termsSubscriptionBody": "If PartMirror Ad-Free is offered, it costs $9.99 per year unless the App Store shows another localized price. Payment is charged to your Apple Account and renews automatically unless cancelled at least 24 hours before the current period ends. You can restore purchases and manage or cancel the subscription in your Apple Account settings. Apple billing, grace-period, refund, and revocation rules apply.",
+      "termsSubscriptionBody": "PartMirror Ad-Free costs $9.99 per year in the United States unless the App Store shows another localized price. Payment is charged to your Apple Account and renews automatically unless cancelled at least 24 hours before the current period ends. Cancelling stops the next renewal but keeps access through the paid period unless Apple refunds or revokes it. You can restore purchases and manage or cancel the subscription in your Apple Account settings. Apple billing, grace-period, refund, and revocation rules apply.",
       "termsUseTitle": "Acceptable use",
       "termsUseBody": "Do not misuse PartMirror, interfere with the app, attempt unauthorized access, reverse engineer it where prohibited, or use it in a way that violates law or another person’s rights.",
       "termsDisclaimerTitle": "Availability and disclaimers",
@@ -970,12 +1018,16 @@
       "faqMirrorA": "PartMirror intentionally saves the same mirror orientation shown in the live camera preview.",
       "faqDeleteQ": "How do I delete a saved look?",
       "faqDeleteA": "Open My Looks, open the look menu, and choose Delete. Removing the app also removes its private local library.",
+      "faqAdsQ": "PartMirror Ad-Free",
+      "faqAdsA": "Remove all advertising throughout PartMirror.",
+      "faqPrivacyQ": "Advertising",
+      "faqPrivacyA": "You can manage ad privacy choices in Settings when Google's privacy options are available, manage or cancel subscriptions through the App Store, revoke Photos permission in iOS Settings, and delete saved looks inside PartMirror.",
       "privacyEyebrow": "Your data",
       "privacyTitle": "Privacy Policy",
       "effectiveDate": "Effective August 30, 2026",
-      "privacyIntro": "This policy describes the current PartMirror iPhone app and this website.",
+      "privacyIntro": "This policy describes the PartMirror iPhone app, its advertising and subscription features, and this website.",
       "privacyCollectionTitle": "Data collection",
-      "privacyCollectionBody": "PartMirror version 1.0.0 does not collect personal data. It has no account system, analytics, advertising SDK, or remote server upload.",
+      "privacyCollectionBody": "PartMirror uses Google AdMob and Google's consent tools to deliver non-personalized banner ads. The ad services may receive device and network information, but PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for ad targeting.",
       "privacyCameraTitle": "Camera and face tracking",
       "privacyCameraBody": "Front-camera frames and face-tracking information are processed on your iPhone to place the guide. PartMirror does not send camera frames, face geometry, or tracking information to us.",
       "privacyMediaTitle": "Photos, videos, and My Looks",
@@ -985,7 +1037,9 @@
       "privacyRetentionTitle": "Retention and deletion",
       "privacyRetentionBody": "Because the app sends no camera or media data to us, we do not retain that data. You can delete saved looks inside the app or remove all local app data by uninstalling PartMirror.",
       "privacyAdsTitle": "Advertising and analytics",
-      "privacyAdsBody": "The current release does not display advertising and does not include advertising or analytics services. We will update this policy before enabling any future service that changes these practices.",
+      "privacyAdsBody": "The free version uses Google AdMob and Google's consent tools to deliver non-personalized banner ads. Google may process an IP address, device identifiers, advertising data, product interactions, performance data, and diagnostics. PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for advertising. Subscribers do not receive ads, and PartMirror does not start AdMob while verified ad-free access is active.",
+      "privacyPurchasesTitle": "PartMirror Ad-Free",
+      "privacyPurchasesBody": "Apple processes PartMirror Ad-Free purchases and subscription management. PartMirror reads Apple-verified subscription status only to remove or restore advertising. PartMirror does not operate an account system or store payment-card details.",
       "privacyChildrenTitle": "Children",
       "privacyChildrenBody": "PartMirror is not directed specifically to children under 13, and we do not knowingly collect personal data from children.",
       "privacyChangesTitle": "Changes to this policy",
@@ -1002,7 +1056,7 @@
       "termsContentTitle": "Your photos and videos",
       "termsContentBody": "You keep ownership of media you create. You are responsible for content you capture, share, or export and for respecting the rights and privacy of other people.",
       "termsSubscriptionTitle": "PartMirror Ad-Free",
-      "termsSubscriptionBody": "If PartMirror Ad-Free is offered, it costs $9.99 per year unless the App Store shows another localized price. Payment is charged to your Apple Account and renews automatically unless cancelled at least 24 hours before the current period ends. You can restore purchases and manage or cancel the subscription in your Apple Account settings. Apple billing, grace-period, refund, and revocation rules apply.",
+      "termsSubscriptionBody": "PartMirror Ad-Free costs $9.99 per year in the United States unless the App Store shows another localized price. Payment is charged to your Apple Account and renews automatically unless cancelled at least 24 hours before the current period ends. Cancelling stops the next renewal but keeps access through the paid period unless Apple refunds or revokes it. You can restore purchases and manage or cancel the subscription in your Apple Account settings. Apple billing, grace-period, refund, and revocation rules apply.",
       "termsUseTitle": "Acceptable use",
       "termsUseBody": "Do not misuse PartMirror, interfere with the app, attempt unauthorized access, reverse engineer it where prohibited, or use it in a way that violates law or another person’s rights.",
       "termsDisclaimerTitle": "Availability and disclaimers",
@@ -1083,12 +1137,16 @@
       "faqMirrorA": "PartMirror intentionally saves the same mirror orientation shown in the live camera preview.",
       "faqDeleteQ": "How do I delete a saved look?",
       "faqDeleteA": "Open My Looks, open the look menu, and choose Delete. Removing the app also removes its private local library.",
+      "faqAdsQ": "PartMirror Ad-Free",
+      "faqAdsA": "Remove all advertising throughout PartMirror.",
+      "faqPrivacyQ": "Advertising",
+      "faqPrivacyA": "You can manage ad privacy choices in Settings when Google's privacy options are available, manage or cancel subscriptions through the App Store, revoke Photos permission in iOS Settings, and delete saved looks inside PartMirror.",
       "privacyEyebrow": "Your data",
       "privacyTitle": "Privacy Policy",
       "effectiveDate": "Effective August 30, 2026",
-      "privacyIntro": "This policy describes the current PartMirror iPhone app and this website.",
+      "privacyIntro": "This policy describes the PartMirror iPhone app, its advertising and subscription features, and this website.",
       "privacyCollectionTitle": "Data collection",
-      "privacyCollectionBody": "PartMirror version 1.0.0 does not collect personal data. It has no account system, analytics, advertising SDK, or remote server upload.",
+      "privacyCollectionBody": "PartMirror uses Google AdMob and Google's consent tools to deliver non-personalized banner ads. The ad services may receive device and network information, but PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for ad targeting.",
       "privacyCameraTitle": "Camera and face tracking",
       "privacyCameraBody": "Front-camera frames and face-tracking information are processed on your iPhone to place the guide. PartMirror does not send camera frames, face geometry, or tracking information to us.",
       "privacyMediaTitle": "Photos, videos, and My Looks",
@@ -1098,7 +1156,9 @@
       "privacyRetentionTitle": "Retention and deletion",
       "privacyRetentionBody": "Because the app sends no camera or media data to us, we do not retain that data. You can delete saved looks inside the app or remove all local app data by uninstalling PartMirror.",
       "privacyAdsTitle": "Advertising and analytics",
-      "privacyAdsBody": "The current release does not display advertising and does not include advertising or analytics services. We will update this policy before enabling any future service that changes these practices.",
+      "privacyAdsBody": "The free version uses Google AdMob and Google's consent tools to deliver non-personalized banner ads. Google may process an IP address, device identifiers, advertising data, product interactions, performance data, and diagnostics. PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for advertising. Subscribers do not receive ads, and PartMirror does not start AdMob while verified ad-free access is active.",
+      "privacyPurchasesTitle": "PartMirror Ad-Free",
+      "privacyPurchasesBody": "Apple processes PartMirror Ad-Free purchases and subscription management. PartMirror reads Apple-verified subscription status only to remove or restore advertising. PartMirror does not operate an account system or store payment-card details.",
       "privacyChildrenTitle": "Children",
       "privacyChildrenBody": "PartMirror is not directed specifically to children under 13, and we do not knowingly collect personal data from children.",
       "privacyChangesTitle": "Changes to this policy",
@@ -1115,7 +1175,7 @@
       "termsContentTitle": "Your photos and videos",
       "termsContentBody": "You keep ownership of media you create. You are responsible for content you capture, share, or export and for respecting the rights and privacy of other people.",
       "termsSubscriptionTitle": "PartMirror Ad-Free",
-      "termsSubscriptionBody": "If PartMirror Ad-Free is offered, it costs $9.99 per year unless the App Store shows another localized price. Payment is charged to your Apple Account and renews automatically unless cancelled at least 24 hours before the current period ends. You can restore purchases and manage or cancel the subscription in your Apple Account settings. Apple billing, grace-period, refund, and revocation rules apply.",
+      "termsSubscriptionBody": "PartMirror Ad-Free costs $9.99 per year in the United States unless the App Store shows another localized price. Payment is charged to your Apple Account and renews automatically unless cancelled at least 24 hours before the current period ends. Cancelling stops the next renewal but keeps access through the paid period unless Apple refunds or revokes it. You can restore purchases and manage or cancel the subscription in your Apple Account settings. Apple billing, grace-period, refund, and revocation rules apply.",
       "termsUseTitle": "Acceptable use",
       "termsUseBody": "Do not misuse PartMirror, interfere with the app, attempt unauthorized access, reverse engineer it where prohibited, or use it in a way that violates law or another person’s rights.",
       "termsDisclaimerTitle": "Availability and disclaimers",
@@ -1196,12 +1256,16 @@
       "faqMirrorA": "PartMirror intentionally saves the same mirror orientation shown in the live camera preview.",
       "faqDeleteQ": "How do I delete a saved look?",
       "faqDeleteA": "Open My Looks, open the look menu, and choose Delete. Removing the app also removes its private local library.",
+      "faqAdsQ": "PartMirror Ad-Free",
+      "faqAdsA": "Remove all advertising throughout PartMirror.",
+      "faqPrivacyQ": "Advertising",
+      "faqPrivacyA": "You can manage ad privacy choices in Settings when Google's privacy options are available, manage or cancel subscriptions through the App Store, revoke Photos permission in iOS Settings, and delete saved looks inside PartMirror.",
       "privacyEyebrow": "Your data",
       "privacyTitle": "Privacy Policy",
       "effectiveDate": "Effective August 30, 2026",
-      "privacyIntro": "This policy describes the current PartMirror iPhone app and this website.",
+      "privacyIntro": "This policy describes the PartMirror iPhone app, its advertising and subscription features, and this website.",
       "privacyCollectionTitle": "Data collection",
-      "privacyCollectionBody": "PartMirror version 1.0.0 does not collect personal data. It has no account system, analytics, advertising SDK, or remote server upload.",
+      "privacyCollectionBody": "PartMirror uses Google AdMob and Google's consent tools to deliver non-personalized banner ads. The ad services may receive device and network information, but PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for ad targeting.",
       "privacyCameraTitle": "Camera and face tracking",
       "privacyCameraBody": "Front-camera frames and face-tracking information are processed on your iPhone to place the guide. PartMirror does not send camera frames, face geometry, or tracking information to us.",
       "privacyMediaTitle": "Photos, videos, and My Looks",
@@ -1211,7 +1275,9 @@
       "privacyRetentionTitle": "Retention and deletion",
       "privacyRetentionBody": "Because the app sends no camera or media data to us, we do not retain that data. You can delete saved looks inside the app or remove all local app data by uninstalling PartMirror.",
       "privacyAdsTitle": "Advertising and analytics",
-      "privacyAdsBody": "The current release does not display advertising and does not include advertising or analytics services. We will update this policy before enabling any future service that changes these practices.",
+      "privacyAdsBody": "The free version uses Google AdMob and Google's consent tools to deliver non-personalized banner ads. Google may process an IP address, device identifiers, advertising data, product interactions, performance data, and diagnostics. PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for advertising. Subscribers do not receive ads, and PartMirror does not start AdMob while verified ad-free access is active.",
+      "privacyPurchasesTitle": "PartMirror Ad-Free",
+      "privacyPurchasesBody": "Apple processes PartMirror Ad-Free purchases and subscription management. PartMirror reads Apple-verified subscription status only to remove or restore advertising. PartMirror does not operate an account system or store payment-card details.",
       "privacyChildrenTitle": "Children",
       "privacyChildrenBody": "PartMirror is not directed specifically to children under 13, and we do not knowingly collect personal data from children.",
       "privacyChangesTitle": "Changes to this policy",
@@ -1228,7 +1294,7 @@
       "termsContentTitle": "Your photos and videos",
       "termsContentBody": "You keep ownership of media you create. You are responsible for content you capture, share, or export and for respecting the rights and privacy of other people.",
       "termsSubscriptionTitle": "PartMirror Ad-Free",
-      "termsSubscriptionBody": "If PartMirror Ad-Free is offered, it costs $9.99 per year unless the App Store shows another localized price. Payment is charged to your Apple Account and renews automatically unless cancelled at least 24 hours before the current period ends. You can restore purchases and manage or cancel the subscription in your Apple Account settings. Apple billing, grace-period, refund, and revocation rules apply.",
+      "termsSubscriptionBody": "PartMirror Ad-Free costs $9.99 per year in the United States unless the App Store shows another localized price. Payment is charged to your Apple Account and renews automatically unless cancelled at least 24 hours before the current period ends. Cancelling stops the next renewal but keeps access through the paid period unless Apple refunds or revokes it. You can restore purchases and manage or cancel the subscription in your Apple Account settings. Apple billing, grace-period, refund, and revocation rules apply.",
       "termsUseTitle": "Acceptable use",
       "termsUseBody": "Do not misuse PartMirror, interfere with the app, attempt unauthorized access, reverse engineer it where prohibited, or use it in a way that violates law or another person’s rights.",
       "termsDisclaimerTitle": "Availability and disclaimers",
@@ -1314,7 +1380,7 @@
       "effectiveDate": "A partir del 30 de agosto de 2026",
       "privacyIntro": "Esta política describe la aplicación PartMirror iPhone actual y este sitio web.",
       "privacyCollectionTitle": "Recopilación de datos",
-      "privacyCollectionBody": "PartMirror versión 1.0.0 no recopila datos personales. No tiene sistema de cuentas, análisis, SDK de publicidad ni carga de servidor remoto.",
+      "privacyCollectionBody": "PartMirror utiliza Google AdMob y las herramientas de consentimiento de Google para ofrecer anuncios publicitarios no personalizados. Los servicios publicitarios pueden recibir información del dispositivo y de la red, pero PartMirror nunca proporciona imágenes de cámaras, geometría facial, apariencias guardadas, nombres o recetas de piezas para la orientación de anuncios.",
       "privacyCameraTitle": "Seguimiento de cámara y rostro",
       "privacyCameraBody": "Los marcos de la cámara frontal y la información de seguimiento facial se procesan en su iPhone para colocar la guía. PartMirror no nos envía fotogramas de cámara, geometría facial ni información de seguimiento.",
       "privacyMediaTitle": "Fotos, vídeos y My Looks",
@@ -1324,7 +1390,7 @@
       "privacyRetentionTitle": "Retención y eliminación",
       "privacyRetentionBody": "Debido a que la aplicación no nos envía datos de la cámara o de los medios, no conservamos esos datos. Puede eliminar looks guardados dentro de la aplicación o eliminar todos los datos de la aplicación local desinstalando PartMirror.",
       "privacyAdsTitle": "Publicidad y análisis",
-      "privacyAdsBody": "La versión actual no muestra publicidad y no incluye publicidad ni servicios de análisis. Actualizaremos esta política antes de habilitar cualquier servicio futuro que cambie estas prácticas.",
+      "privacyAdsBody": "La versión gratuita utiliza Google AdMob y las herramientas de consentimiento de Google para ofrecer anuncios publicitarios no personalizados. Google puede procesar una dirección IP, identificadores de dispositivos, datos publicitarios, interacciones con productos, datos de rendimiento y diagnósticos. PartMirror nunca proporciona imágenes de cámaras, geometría de rostros, apariencias guardadas, nombres o recetas de piezas para publicidad. Los suscriptores no reciben anuncios y PartMirror no inicia AdMob mientras el acceso verificado sin publicidad está activo.",
       "privacyChildrenTitle": "niños",
       "privacyChildrenBody": "PartMirror no está dirigido específicamente a niños menores de 13 años y no recopilamos intencionalmente datos personales de niños.",
       "privacyChangesTitle": "Cambios a esta política",
@@ -1352,7 +1418,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple CLUF estándar",
       "legalTranslationNote": "Se proporcionan traducciones para su comodidad. Si una versión traducida entra en conflicto con la versión en inglés, la versión en inglés prevalece cuando lo permita la ley.",
-      "footerRights": "Reservados todos los derechos."
+      "footerRights": "Reservados todos los derechos.",
+      "faqAdsQ": "PartMirror sin publicidad",
+      "faqAdsA": "Elimine toda la publicidad en PartMirror.",
+      "faqPrivacyQ": "Publicidad",
+      "faqPrivacyA": "Puede administrar las opciones de privacidad de anuncios en Configuración cuando las opciones de privacidad de Google estén disponibles, administrar o cancelar suscripciones a través de App Store, revocar el permiso de Fotos en Configuración de iOS y eliminar looks guardados dentro de PartMirror.",
+      "privacyPurchasesTitle": "PartMirror sin publicidad",
+      "privacyPurchasesBody": "Apple procesa las compras y la gestión de suscripciones de PartMirror Ad-Free. PartMirror lee el estado de suscripción verificado por Apple solo para eliminar o restaurar publicidad. PartMirror no opera un sistema de cuentas ni almacena datos de tarjetas de pago."
     }
   },
   "es-MX": {
@@ -1427,7 +1499,7 @@
       "effectiveDate": "A partir del 30 de agosto de 2026",
       "privacyIntro": "Esta política describe la aplicación PartMirror iPhone actual y este sitio web.",
       "privacyCollectionTitle": "Recopilación de datos",
-      "privacyCollectionBody": "PartMirror versión 1.0.0 no recopila datos personales. No tiene sistema de cuentas, análisis, SDK de publicidad ni carga de servidor remoto.",
+      "privacyCollectionBody": "PartMirror utiliza Google AdMob y las herramientas de consentimiento de Google para ofrecer anuncios publicitarios no personalizados. Los servicios publicitarios pueden recibir información del dispositivo y de la red, pero PartMirror nunca proporciona imágenes de cámaras, geometría facial, apariencias guardadas, nombres o recetas de piezas para la orientación de anuncios.",
       "privacyCameraTitle": "Seguimiento de cámara y rostro",
       "privacyCameraBody": "Los marcos de la cámara frontal y la información de seguimiento facial se procesan en su iPhone para colocar la guía. PartMirror no nos envía fotogramas de cámara, geometría facial ni información de seguimiento.",
       "privacyMediaTitle": "Fotos, vídeos y My Looks",
@@ -1437,7 +1509,7 @@
       "privacyRetentionTitle": "Retención y eliminación",
       "privacyRetentionBody": "Debido a que la aplicación no nos envía datos de la cámara o de los medios, no conservamos esos datos. Puede eliminar looks guardados dentro de la aplicación o eliminar todos los datos de la aplicación local desinstalando PartMirror.",
       "privacyAdsTitle": "Publicidad y análisis",
-      "privacyAdsBody": "La versión actual no muestra publicidad y no incluye publicidad ni servicios de análisis. Actualizaremos esta política antes de habilitar cualquier servicio futuro que cambie estas prácticas.",
+      "privacyAdsBody": "La versión gratuita utiliza Google AdMob y las herramientas de consentimiento de Google para ofrecer anuncios publicitarios no personalizados. Google puede procesar una dirección IP, identificadores de dispositivos, datos publicitarios, interacciones con productos, datos de rendimiento y diagnósticos. PartMirror nunca proporciona imágenes de cámaras, geometría de rostros, apariencias guardadas, nombres o recetas de piezas para publicidad. Los suscriptores no reciben anuncios y PartMirror no inicia AdMob mientras el acceso verificado sin publicidad está activo.",
       "privacyChildrenTitle": "niños",
       "privacyChildrenBody": "PartMirror no está dirigido específicamente a niños menores de 13 años y no recopilamos intencionalmente datos personales de niños.",
       "privacyChangesTitle": "Cambios a esta política",
@@ -1465,7 +1537,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple CLUF estándar",
       "legalTranslationNote": "Se proporcionan traducciones para su comodidad. Si una versión traducida entra en conflicto con la versión en inglés, la versión en inglés prevalece cuando lo permita la ley.",
-      "footerRights": "Reservados todos los derechos."
+      "footerRights": "Reservados todos los derechos.",
+      "faqAdsQ": "PartMirror sin publicidad",
+      "faqAdsA": "Elimine toda la publicidad en PartMirror.",
+      "faqPrivacyQ": "Publicidad",
+      "faqPrivacyA": "Puede administrar las opciones de privacidad de anuncios en Configuración cuando las opciones de privacidad de Google estén disponibles, administrar o cancelar suscripciones a través de App Store, revocar el permiso de Fotos en Configuración de iOS y eliminar looks guardados dentro de PartMirror.",
+      "privacyPurchasesTitle": "PartMirror sin publicidad",
+      "privacyPurchasesBody": "Apple procesa las compras y la gestión de suscripciones de PartMirror Ad-Free. PartMirror lee el estado de suscripción verificado por Apple solo para eliminar o restaurar publicidad. PartMirror no opera un sistema de cuentas ni almacena datos de tarjetas de pago."
     }
   },
   "fi": {
@@ -1540,7 +1618,7 @@
       "effectiveDate": "Voimassa 30. elokuuta 2026",
       "privacyIntro": "Tämä käytäntö kuvaa nykyistä PartMirror iPhone -sovellusta ja tätä verkkosivustoa.",
       "privacyCollectionTitle": "Tiedonkeruu",
-      "privacyCollectionBody": "PartMirror versio 1.0.0 ei kerää henkilötietoja. Sillä ei ole tilijärjestelmää, analytiikkaa, mainonta-SDK:ta tai etäpalvelimen latausta.",
+      "privacyCollectionBody": "PartMirror käyttää Google AdMobin ja Googlen suostumustyökaluja personoimattomien bannerimainosten näyttämiseen. The ad services may receive device and network information, but PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for ad targeting.",
       "privacyCameraTitle": "Kameran ja kasvojen seuranta",
       "privacyCameraBody": "Etukameran kehyksiä ja kasvojen seurantatietoja käsitellään iPhone-puhelimessa oppaan sijoittamiseksi. PartMirror ei lähetä meille kameran kehyksiä, kasvojen geometriaa tai seurantatietoja.",
       "privacyMediaTitle": "Valokuvia, videoita ja My Looks",
@@ -1550,7 +1628,7 @@
       "privacyRetentionTitle": "Säilytys ja poistaminen",
       "privacyRetentionBody": "Koska sovellus ei lähetä meille kamera- tai mediatietoja, emme säilytä niitä. Voit poistaa tallennettuja ulkoasuja sovelluksen sisällä tai poistaa kaikki paikalliset sovellustiedot poistamalla PartMirror.",
       "privacyAdsTitle": "Mainonta ja analytiikka",
-      "privacyAdsBody": "Nykyinen julkaisu ei näytä mainoksia eikä sisällä mainonta- tai analytiikkapalveluita. Päivitämme tämän käytännön ennen kuin otamme käyttöön palvelun, joka muuttaa näitä käytäntöjä.",
+      "privacyAdsBody": "Ilmainen versio käyttää Google AdMobia ja Googlen suostumustyökaluja personoimattomien bannerimainosten näyttämiseen. Google voi käsitellä IP-osoitetta, laitetunnisteita, mainontatietoja, tuotevuorovaikutuksia, suorituskykytietoja ja diagnostiikkatietoja. PartMirror ei koskaan toimita mainontaan kamerakuvia, kasvojen geometriaa, tallennettuja ulkoasuja, nimiä tai osien reseptejä. Tilaajat eivät saa mainoksia, eivätkä PartMirror käynnistä AdMobia, kun varmennettu mainokseton pääsy on aktiivinen.",
       "privacyChildrenTitle": "Lapset",
       "privacyChildrenBody": "PartMirror ei ole suunnattu erityisesti alle 13-vuotiaille lapsille, emmekä tietoisesti kerää henkilötietoja lapsilta.",
       "privacyChangesTitle": "Muutoksia tähän käytäntöön",
@@ -1578,7 +1656,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Normaali EULA",
       "legalTranslationNote": "Käännökset tarjotaan mukavuuden vuoksi. Jos käännetty versio on ristiriidassa englanninkielisen version kanssa, englanninkielinen versio hallitsee lain sallimissa rajoissa.",
-      "footerRights": "Kaikki oikeudet pidätetään."
+      "footerRights": "Kaikki oikeudet pidätetään.",
+      "faqAdsQ": "Osapeili ilman mainoksia",
+      "faqAdsA": "Poista kaikki mainokset PartMirrorista.",
+      "faqPrivacyQ": "Mainonta",
+      "faqPrivacyA": "Voit hallita mainosten tietosuojavalintoja Asetuksissa, kun Googlen tietosuoja-asetukset ovat käytettävissä, hallita tai peruuttaa tilauksia App Storen kautta, peruuttaa Kuvien käyttöoikeudet iOS-asetuksissa ja poistaa tallennettuja ulkoasuja PartMirrorissa.",
+      "privacyPurchasesTitle": "Osapeili ilman mainoksia",
+      "privacyPurchasesBody": "Apple käsittelee PartMirror Ad-Free -ostokset ja tilausten hallinnan. PartMirror lukee Applen vahvistaman tilauksen tilan vain poistaakseen tai palauttaakseen mainoksia. PartMirror ei käytä tilijärjestelmää eikä tallenna maksukorttitietoja."
     }
   },
   "fr-CA": {
@@ -1653,7 +1737,7 @@
       "effectiveDate": "En vigueur le 30 août 2026",
       "privacyIntro": "Cette politique décrit l'application PartMirror iPhone actuelle et ce site Web.",
       "privacyCollectionTitle": "Collecte de données",
-      "privacyCollectionBody": "PartMirror version 1.0.0 ne collecte pas de données personnelles. Il n'a pas de système de compte, d'analyse, de SDK publicitaire ou de téléchargement sur un serveur distant.",
+      "privacyCollectionBody": "PartMirror utilise Google AdMob et les outils de consentement de Google pour diffuser des bannières publicitaires non personnalisées. Les services publicitaires peuvent recevoir des informations sur les appareils et le réseau, mais PartMirror ne fournit jamais d'images de caméra, de géométrie de visage, d'apparences enregistrées, de noms ou de recettes de pièces pour le ciblage publicitaire.",
       "privacyCameraTitle": "Suivi de la caméra et du visage",
       "privacyCameraBody": "Les images de la caméra frontale et les informations de suivi du visage sont traitées sur votre iPhone pour placer le guide. PartMirror ne nous envoie pas de cadres de caméra, de géométrie de visage ou d'informations de suivi.",
       "privacyMediaTitle": "Photos, vidéos et My Looks",
@@ -1663,7 +1747,7 @@
       "privacyRetentionTitle": "Conservation et suppression",
       "privacyRetentionBody": "Étant donné que l'application ne nous envoie aucune donnée de caméra ou multimédia, nous ne conservons pas ces données. Vous pouvez supprimer les looks enregistrés dans l'application ou supprimer toutes les données de l'application locale en désinstallant PartMirror.",
       "privacyAdsTitle": "Publicité et analyses",
-      "privacyAdsBody": "La version actuelle n'affiche pas de publicité et n'inclut pas de services de publicité ou d'analyse. Nous mettrons à jour cette politique avant d’activer tout service futur modifiant ces pratiques.",
+      "privacyAdsBody": "La version gratuite utilise Google AdMob et les outils de consentement de Google pour diffuser des bannières publicitaires non personnalisées. Google peut traiter une adresse IP, des identifiants d'appareil, des données publicitaires, des interactions avec des produits, des données de performances et des diagnostics. PartMirror ne fournit jamais d'images de caméra, de géométrie de visage, d'apparences enregistrées, de noms ou de recettes de pièces à des fins publicitaires. Les abonnés ne reçoivent pas de publicités et PartMirror ne démarre pas AdMob tant que l'accès vérifié sans publicité est actif.",
       "privacyChildrenTitle": "Enfants",
       "privacyChildrenBody": "PartMirror ne s'adresse pas spécifiquement aux enfants de moins de 13 ans et nous ne collectons pas sciemment de données personnelles auprès des enfants.",
       "privacyChangesTitle": "Modifications de cette politique",
@@ -1691,7 +1775,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple CLUF standard",
       "legalTranslationNote": "Des traductions sont fournies pour plus de commodité. Si une version traduite entre en conflit avec la version anglaise, la version anglaise prévaudra là où la loi le permet.",
-      "footerRights": "Tous droits réservés."
+      "footerRights": "Tous droits réservés.",
+      "faqAdsQ": "PartMirror sans publicité",
+      "faqAdsA": "Supprimez toutes les publicités dans PartMirror.",
+      "faqPrivacyQ": "Publicité",
+      "faqPrivacyA": "Vous pouvez gérer les choix de confidentialité des publicités dans les paramètres lorsque les options de confidentialité de Google sont disponibles, gérer ou annuler les abonnements via l'App Store, révoquer l'autorisation des photos dans les paramètres iOS et supprimer les looks enregistrés dans PartMirror.",
+      "privacyPurchasesTitle": "PartMirror sans publicité",
+      "privacyPurchasesBody": "Apple traite les achats et la gestion des abonnements PartMirror Ad-Free. PartMirror lit le statut d'abonnement vérifié par Apple uniquement pour supprimer ou restaurer la publicité. PartMirror n'exploite pas de système de compte et ne stocke pas les détails des cartes de paiement."
     }
   },
   "fr-FR": {
@@ -1766,7 +1856,7 @@
       "effectiveDate": "En vigueur le 30 août 2026",
       "privacyIntro": "Cette politique décrit l'application PartMirror iPhone actuelle et ce site Web.",
       "privacyCollectionTitle": "Collecte de données",
-      "privacyCollectionBody": "PartMirror version 1.0.0 ne collecte pas de données personnelles. Il n'a pas de système de compte, d'analyse, de SDK publicitaire ou de téléchargement sur un serveur distant.",
+      "privacyCollectionBody": "PartMirror utilise Google AdMob et les outils de consentement de Google pour diffuser des bannières publicitaires non personnalisées. Les services publicitaires peuvent recevoir des informations sur les appareils et le réseau, mais PartMirror ne fournit jamais d'images de caméra, de géométrie de visage, d'apparences enregistrées, de noms ou de recettes de pièces pour le ciblage publicitaire.",
       "privacyCameraTitle": "Suivi de la caméra et du visage",
       "privacyCameraBody": "Les images de la caméra frontale et les informations de suivi du visage sont traitées sur votre iPhone pour placer le guide. PartMirror ne nous envoie pas de cadres de caméra, de géométrie de visage ou d'informations de suivi.",
       "privacyMediaTitle": "Photos, vidéos et My Looks",
@@ -1776,7 +1866,7 @@
       "privacyRetentionTitle": "Conservation et suppression",
       "privacyRetentionBody": "Étant donné que l'application ne nous envoie aucune donnée de caméra ou multimédia, nous ne conservons pas ces données. Vous pouvez supprimer les looks enregistrés dans l'application ou supprimer toutes les données de l'application locale en désinstallant PartMirror.",
       "privacyAdsTitle": "Publicité et analyses",
-      "privacyAdsBody": "La version actuelle n'affiche pas de publicité et n'inclut pas de services de publicité ou d'analyse. Nous mettrons à jour cette politique avant d’activer tout service futur modifiant ces pratiques.",
+      "privacyAdsBody": "La version gratuite utilise Google AdMob et les outils de consentement de Google pour diffuser des bannières publicitaires non personnalisées. Google peut traiter une adresse IP, des identifiants d'appareil, des données publicitaires, des interactions avec des produits, des données de performances et des diagnostics. PartMirror ne fournit jamais d'images de caméra, de géométrie de visage, d'apparences enregistrées, de noms ou de recettes de pièces à des fins publicitaires. Les abonnés ne reçoivent pas de publicités et PartMirror ne démarre pas AdMob tant que l'accès vérifié sans publicité est actif.",
       "privacyChildrenTitle": "Enfants",
       "privacyChildrenBody": "PartMirror ne s'adresse pas spécifiquement aux enfants de moins de 13 ans et nous ne collectons pas sciemment de données personnelles auprès des enfants.",
       "privacyChangesTitle": "Modifications de cette politique",
@@ -1804,7 +1894,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple CLUF standard",
       "legalTranslationNote": "Des traductions sont fournies pour plus de commodité. Si une version traduite entre en conflit avec la version anglaise, la version anglaise prévaudra là où la loi le permet.",
-      "footerRights": "Tous droits réservés."
+      "footerRights": "Tous droits réservés.",
+      "faqAdsQ": "PartMirror sans publicité",
+      "faqAdsA": "Supprimez toutes les publicités dans PartMirror.",
+      "faqPrivacyQ": "Publicité",
+      "faqPrivacyA": "Vous pouvez gérer les choix de confidentialité des publicités dans les paramètres lorsque les options de confidentialité de Google sont disponibles, gérer ou annuler les abonnements via l'App Store, révoquer l'autorisation des photos dans les paramètres iOS et supprimer les looks enregistrés dans PartMirror.",
+      "privacyPurchasesTitle": "PartMirror sans publicité",
+      "privacyPurchasesBody": "Apple traite les achats et la gestion des abonnements PartMirror Ad-Free. PartMirror lit le statut d'abonnement vérifié par Apple uniquement pour supprimer ou restaurer la publicité. PartMirror n'exploite pas de système de compte et ne stocke pas les détails des cartes de paiement."
     }
   },
   "gu-IN": {
@@ -1879,7 +1975,7 @@
       "effectiveDate": "30 ઓગસ્ટ, 2026 થી અમલમાં આવશે",
       "privacyIntro": "આ નીતિ વર્તમાન PartMirror iPhone એપ્લિકેશન અને આ વેબસાઇટનું વર્ણન કરે છે.",
       "privacyCollectionTitle": "ડેટા સંગ્રહ",
-      "privacyCollectionBody": "PartMirror સંસ્કરણ 1.0.0 વ્યક્તિગત ડેટા એકત્રિત કરતું નથી. તેની પાસે કોઈ એકાઉન્ટ સિસ્ટમ, એનાલિટિક્સ, જાહેરાત SDK અથવા રિમોટ સર્વર અપલોડ નથી.",
+      "privacyCollectionBody": "મધ્ય ભાગ બિન-વ્યક્તિગત બેનર જાહેરાતો વિતરિત કરવા માટે Google AdMob અને Google ના સંમતિ સાધનોનો ઉપયોગ કરે છે. જાહેરાત સેવાઓ ઉપકરણ અને નેટવર્ક માહિતી પ્રાપ્ત કરી શકે છે, પરંતુ મિડલ પાર્ટ ક્યારેય કૅમેરાની છબીઓ, ચહેરાની ભૂમિતિ, સાચવેલ દેખાવ, નામો અથવા જાહેરાત લક્ષ્યીકરણ માટે ભાગની વાનગીઓ પ્રદાન કરતું નથી.",
       "privacyCameraTitle": "કેમેરા અને ફેસ ટ્રેકિંગ",
       "privacyCameraBody": "માર્ગદર્શિકા મૂકવા માટે તમારા iPhone પર ફ્રન્ટ-કેમેરા ફ્રેમ્સ અને ફેસ-ટ્રેકિંગ માહિતીની પ્રક્રિયા કરવામાં આવે છે. PartMirror અમને કેમેરા ફ્રેમ્સ, ચહેરાની ભૂમિતિ અથવા ટ્રેકિંગ માહિતી મોકલતું નથી.",
       "privacyMediaTitle": "ફોટા, વીડિયો અને My Looks",
@@ -1889,7 +1985,7 @@
       "privacyRetentionTitle": "રીટેન્શન અને કાઢી નાખવું",
       "privacyRetentionBody": "કારણ કે એપ્લિકેશન અમને કોઈ કેમેરા અથવા મીડિયા ડેટા મોકલતી નથી, અમે તે ડેટા જાળવી રાખતા નથી. તમે PartMirror ને અનઇન્સ્ટોલ કરીને એપ્લિકેશનની અંદર સાચવેલા દેખાવને કાઢી શકો છો અથવા તમામ સ્થાનિક એપ્લિકેશન ડેટાને દૂર કરી શકો છો.",
       "privacyAdsTitle": "જાહેરાત અને વિશ્લેષણ",
-      "privacyAdsBody": "વર્તમાન પ્રકાશન જાહેરાત પ્રદર્શિત કરતું નથી અને તેમાં જાહેરાત અથવા વિશ્લેષણ સેવાઓનો સમાવેશ થતો નથી. આ પ્રથાઓમાં ફેરફાર કરતી કોઈપણ ભાવિ સેવાને સક્ષમ કરતા પહેલા અમે આ નીતિને અપડેટ કરીશું.",
+      "privacyAdsBody": "બિન-વ્યક્તિગત બેનર જાહેરાતો વિતરિત કરવા માટે મફત સંસ્કરણ Google AdMob અને Google ના સંમતિ સાધનોનો ઉપયોગ કરે છે. Google IP સરનામું, ઉપકરણ ઓળખકર્તાઓ, જાહેરાત ડેટા, ઉત્પાદન ક્રિયાપ્રતિક્રિયાઓ, પ્રદર્શન ડેટા અને ડાયગ્નોસ્ટિક્સ પર પ્રક્રિયા કરી શકે છે. PartMirror ક્યારેય કૅમેરા ઇમેજ, ચહેરાની ભૂમિતિ, સાચવેલ દેખાવ, નામો અથવા જાહેરાત માટે પાર્ટ રેસિપી આપતું નથી. સબ્સ્ક્રાઇબર્સને જાહેરાતો પ્રાપ્ત થતી નથી અને જ્યારે ચકાસાયેલ જાહેરાત-મુક્ત ઍક્સેસ સક્રિય હોય ત્યારે PartMirror AdMob શરૂ કરતું નથી.",
       "privacyChildrenTitle": "બાળકો",
       "privacyChildrenBody": "PartMirror ખાસ કરીને 13 વર્ષથી ઓછી ઉંમરના બાળકો માટે નિર્દેશિત નથી, અને અમે જાણી જોઈને બાળકો પાસેથી વ્યક્તિગત ડેટા એકત્રિત કરતા નથી.",
       "privacyChangesTitle": "આ નીતિમાં ફેરફારો",
@@ -1917,7 +2013,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple માનક EULA",
       "legalTranslationNote": "ભાષાંતર સુવિધા માટે આપવામાં આવે છે. જો ભાષાંતરિત સંસ્કરણ અંગ્રેજી સંસ્કરણ સાથે વિરોધાભાસી હોય, તો અંગ્રેજી સંસ્કરણ કાયદા દ્વારા જ્યાં મંજૂરી આપવામાં આવે છે તેનું નિયંત્રણ કરે છે.",
-      "footerRights": "સર્વાધિકાર આરક્ષિત."
+      "footerRights": "સર્વાધિકાર આરક્ષિત.",
+      "faqAdsQ": "PartMirror જાહેરાત-મુક્ત",
+      "faqAdsA": "સમગ્ર PartMirror માં બધી જાહેરાતો દૂર કરો.",
+      "faqPrivacyQ": "જાહેરાત",
+      "faqPrivacyA": "જ્યારે Google ના ગોપનીયતા વિકલ્પો ઉપલબ્ધ હોય ત્યારે તમે સેટિંગ્સમાં જાહેરાત ગોપનીયતા પસંદગીઓને મેનેજ કરી શકો છો, એપ સ્ટોર દ્વારા સબ્સ્ક્રિપ્શન્સને મેનેજ કરી શકો છો અથવા રદ કરી શકો છો, iOS સેટિંગ્સમાં ફોટોની પરવાનગી રદ કરી શકો છો અને PartMirror ની અંદર સાચવેલા દેખાવને કાઢી શકો છો.",
+      "privacyPurchasesTitle": "PartMirror જાહેરાત-મુક્ત",
+      "privacyPurchasesBody": "Apple PartMirror જાહેરાત-મુક્ત ખરીદીઓ અને સબ્સ્ક્રિપ્શન મેનેજમેન્ટની પ્રક્રિયા કરે છે. PartMirror માત્ર જાહેરાતને દૂર કરવા અથવા પુનઃસ્થાપિત કરવા માટે Apple-ચકાસાયેલ સબ્સ્ક્રિપ્શન સ્ટેટસ વાંચે છે. PartMirror એકાઉન્ટ સિસ્ટમ ઓપરેટ કરતું નથી અથવા પેમેન્ટ-કાર્ડની વિગતો સ્ટોર કરતું નથી."
     }
   },
   "he": {
@@ -1992,7 +2094,7 @@
       "effectiveDate": "החל מ-30 באוגוסט 2026",
       "privacyIntro": "מדיניות זו מתארת את האפליקציה הנוכחית של PartMirror iPhone ואת האתר הזה.",
       "privacyCollectionTitle": "איסוף נתונים",
-      "privacyCollectionBody": "PartMirror גרסה 1.0.0 אינה אוספת נתונים אישיים. אין לו מערכת חשבונות, ניתוח נתונים, SDK לפרסום או העלאת שרת מרחוק.",
+      "privacyCollectionBody": "PartMirror משתמש ב-Google AdMob ובכלי ההסכמה של Google כדי להציג מודעות באנר לא מותאמות אישית. שירותי המודעות עשויים לקבל מידע על המכשיר והרשת, אך PartMirror לעולם לא מספקת תמונות מצלמה, גיאומטריית פנים, מראה שמורים, שמות או מתכוני חלקים למיקוד מודעות.",
       "privacyCameraTitle": "מצלמה ומעקב פנים",
       "privacyCameraBody": "מסגרות מצלמה קדמית ומידע מעקב פנים מעובדים ב-iPhone כדי למקם את המדריך. PartMirror אינו שולח לנו מסגרות מצלמה, גיאומטריית פנים או מידע מעקב.",
       "privacyMediaTitle": "תמונות, סרטונים ו-My Looks",
@@ -2002,7 +2104,7 @@
       "privacyRetentionTitle": "שמירה ומחיקה",
       "privacyRetentionBody": "מכיוון שהאפליקציה לא שולחת אלינו נתוני מצלמה או מדיה, אנחנו לא שומרים את הנתונים האלה. אתה יכול למחוק מבטים שמורים בתוך האפליקציה או להסיר את כל נתוני האפליקציה המקומית על ידי הסרת ההתקנה של PartMirror.",
       "privacyAdsTitle": "פרסום וניתוח",
-      "privacyAdsBody": "המהדורה הנוכחית אינה מציגה פרסום ואינה כוללת שירותי פרסום או ניתוח. אנו נעדכן מדיניות זו לפני הפעלת כל שירות עתידי שישנה נהלים אלה.",
+      "privacyAdsBody": "הגרסה החינמית משתמשת ב-Google AdMob ובכלי ההסכמה של Google כדי להציג מודעות באנר לא מותאמות אישית. Google עשויה לעבד כתובת IP, מזהי מכשירים, נתוני פרסום, אינטראקציות עם מוצרים, נתוני ביצועים ואבחון. PartMirror לעולם לא מספקת תמונות מצלמה, גיאומטריית פנים, מראה שמורים, שמות או מתכוני חלקים לפרסום. מנויים אינם מקבלים מודעות, ו-PartMirror לא מפעילה את AdMob בזמן שגישה מאומתת ללא פרסומות פעילה.",
       "privacyChildrenTitle": "ילדים",
       "privacyChildrenBody": "PartMirror אינו מכוון במיוחד לילדים מתחת לגיל 13, ואיננו אוספים ביודעין נתונים אישיים מילדים.",
       "privacyChangesTitle": "שינויים במדיניות זו",
@@ -2030,7 +2132,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple EULA סטנדרטי",
       "legalTranslationNote": "תרגומים מסופקים מטעמי נוחות. אם גרסה מתורגמת מתנגשת עם הגרסה האנגלית, הגרסה האנגלית שולטת היכן שהחוק מותר.",
-      "footerRights": "כֹּל הַזְכוּיוֹת שְׁמוּרוֹת."
+      "footerRights": "כֹּל הַזְכוּיוֹת שְׁמוּרוֹת.",
+      "faqAdsQ": "PartMirror ללא פרסומות",
+      "faqAdsA": "הסר את כל הפרסומות ברחבי PartMirror.",
+      "faqPrivacyQ": "פרסום",
+      "faqPrivacyA": "אתה יכול לנהל את אפשרויות הפרטיות של המודעה בהגדרות כאשר אפשרויות הפרטיות של Google זמינות, לנהל או לבטל מנויים דרך ה-App Store, לבטל את הרשאת תמונות בהגדרות iOS ולמחוק מבטים שמורים בתוך PartMirror.",
+      "privacyPurchasesTitle": "PartMirror ללא פרסומות",
+      "privacyPurchasesBody": "אפל מעבדת רכישות ללא פרסומות של PartMirror וניהול מנויים. PartMirror קורא סטטוס מנוי מאומת על ידי אפל רק כדי להסיר או לשחזר פרסום. PartMirror אינה מפעילה מערכת חשבונות או מאחסנת פרטי כרטיס תשלום."
     }
   },
   "hi": {
@@ -2105,7 +2213,7 @@
       "effectiveDate": "30 अगस्त, 2026 से प्रभावी",
       "privacyIntro": "यह नीति वर्तमान PartMirror iPhone ऐप और इस वेबसाइट का वर्णन करती है।",
       "privacyCollectionTitle": "डेटा संग्रह",
-      "privacyCollectionBody": "PartMirror संस्करण 1.0.0 व्यक्तिगत डेटा एकत्र नहीं करता है। इसमें कोई अकाउंट सिस्टम, एनालिटिक्स, विज्ञापन एसडीके या रिमोट सर्वर अपलोड नहीं है।",
+      "privacyCollectionBody": "मध्य भाग गैर-वैयक्तिकृत बैनर विज्ञापन वितरित करने के लिए Google AdMob और Google के सहमति टूल का उपयोग करता है। विज्ञापन सेवाएँ डिवाइस और नेटवर्क जानकारी प्राप्त कर सकती हैं, लेकिन मध्य भाग कभी भी विज्ञापन लक्ष्यीकरण के लिए कैमरा छवियों, चेहरे की ज्यामिति, सहेजे गए रूप, नाम या भाग व्यंजनों की आपूर्ति नहीं करता है।",
       "privacyCameraTitle": "कैमरा और फेस ट्रैकिंग",
       "privacyCameraBody": "गाइड को रखने के लिए फ्रंट-कैमरा फ़्रेम और फेस-ट्रैकिंग जानकारी को आपके iPhone पर संसाधित किया जाता है। PartMirror हमें कैमरा फ्रेम, फेस ज्योमेट्री, या ट्रैकिंग जानकारी नहीं भेजता है।",
       "privacyMediaTitle": "फ़ोटो, वीडियो और My Looks",
@@ -2115,7 +2223,7 @@
       "privacyRetentionTitle": "अवधारण और विलोपन",
       "privacyRetentionBody": "क्योंकि ऐप हमें कोई कैमरा या मीडिया डेटा नहीं भेजता है, हम उस डेटा को बरकरार नहीं रखते हैं। आप PartMirror को अनइंस्टॉल करके ऐप के अंदर सहेजे गए लुक को हटा सकते हैं या सभी स्थानीय ऐप डेटा को हटा सकते हैं।",
       "privacyAdsTitle": "विज्ञापन और विश्लेषण",
-      "privacyAdsBody": "वर्तमान रिलीज़ में विज्ञापन प्रदर्शित नहीं होता है और इसमें विज्ञापन या विश्लेषण सेवाएँ शामिल नहीं हैं। हम इन प्रथाओं को बदलने वाली किसी भी भविष्य की सेवा को सक्षम करने से पहले इस नीति को अपडेट करेंगे।",
+      "privacyAdsBody": "मुफ़्त संस्करण गैर-वैयक्तिकृत बैनर विज्ञापन वितरित करने के लिए Google AdMob और Google के सहमति टूल का उपयोग करता है। Google आईपी पता, डिवाइस पहचानकर्ता, विज्ञापन डेटा, उत्पाद इंटरैक्शन, प्रदर्शन डेटा और डायग्नोस्टिक्स संसाधित कर सकता है। पार्टमिरर कभी भी विज्ञापन के लिए कैमरा इमेज, चेहरे की ज्यामिति, सहेजे गए रूप, नाम या भाग व्यंजनों की आपूर्ति नहीं करता है। सब्सक्राइबर्स को विज्ञापन प्राप्त नहीं होते हैं, और सत्यापित विज्ञापन-मुक्त पहुंच सक्रिय होने पर पार्टमिरर AdMob प्रारंभ नहीं करता है।",
       "privacyChildrenTitle": "बच्चे",
       "privacyChildrenBody": "PartMirror विशेष रूप से 13 वर्ष से कम उम्र के बच्चों के लिए निर्देशित नहीं है, और हम जानबूझकर बच्चों से व्यक्तिगत डेटा एकत्र नहीं करते हैं।",
       "privacyChangesTitle": "इस नीति में परिवर्तन",
@@ -2143,7 +2251,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple मानक EULA",
       "legalTranslationNote": "सुविधा के लिए अनुवाद उपलब्ध कराये गये हैं। यदि कोई अनुवादित संस्करण अंग्रेजी संस्करण के साथ टकराव करता है, तो अंग्रेजी संस्करण नियंत्रित करता है जहां कानून द्वारा अनुमति दी गई है।",
-      "footerRights": "सर्वाधिकार सुरक्षित।"
+      "footerRights": "सर्वाधिकार सुरक्षित।",
+      "faqAdsQ": "पार्टमिरर विज्ञापन-मुक्त",
+      "faqAdsA": "पार्टमिरर से सभी विज्ञापन हटाएँ।",
+      "faqPrivacyQ": "विज्ञापन",
+      "faqPrivacyA": "Google के गोपनीयता विकल्प उपलब्ध होने पर आप सेटिंग में विज्ञापन गोपनीयता विकल्प प्रबंधित कर सकते हैं, ऐप स्टोर के माध्यम से सदस्यता प्रबंधित या रद्द कर सकते हैं, iOS सेटिंग्स में फ़ोटो की अनुमति रद्द कर सकते हैं, और पार्टमिरर के अंदर सहेजे गए लुक को हटा सकते हैं।",
+      "privacyPurchasesTitle": "पार्टमिरर विज्ञापन-मुक्त",
+      "privacyPurchasesBody": "Apple पार्टमिरर विज्ञापन-मुक्त खरीदारी और सदस्यता प्रबंधन की प्रक्रिया करता है। पार्टमिरर केवल विज्ञापन हटाने या पुनर्स्थापित करने के लिए ऐप्पल-सत्यापित सदस्यता स्थिति पढ़ता है। पार्टमिरर खाता प्रणाली संचालित नहीं करता है या भुगतान-कार्ड विवरण संग्रहीत नहीं करता है।"
     }
   },
   "hr": {
@@ -2218,7 +2332,7 @@
       "effectiveDate": "Na snazi od 30. kolovoza 2026",
       "privacyIntro": "Ova pravila opisuju trenutnu aplikaciju PartMirror iPhone i ovu web stranicu.",
       "privacyCollectionTitle": "Prikupljanje podataka",
-      "privacyCollectionBody": "PartMirror verzija 1.0.0 ne prikuplja osobne podatke. Nema sustav računa, analitiku, SDK za oglašavanje ili prijenos na udaljeni poslužitelj.",
+      "privacyCollectionBody": "Srednji dio koristi Google AdMob i Googleove alate za pristanak za isporuku neprilagođenih banner oglasa. Oglasne usluge mogu primati informacije o uređaju i mreži, ali PartMirror nikada ne dostavlja slike kamere, geometriju lica, spremljene izglede, imena ili dijelove recepta za ciljanje oglasa.",
       "privacyCameraTitle": "Kamera i praćenje lica",
       "privacyCameraBody": "Okviri prednje kamere i informacije o praćenju lica obrađuju se na vašem iPhone radi postavljanja vodiča. PartMirror ne šalje nam okvire kamere, geometriju lica ili informacije o praćenju.",
       "privacyMediaTitle": "Fotografije, videozapisi i My Looks",
@@ -2228,7 +2342,7 @@
       "privacyRetentionTitle": "Zadržavanje i brisanje",
       "privacyRetentionBody": "Budući da nam aplikacija ne šalje podatke o kameri ili medijima, ne zadržavamo te podatke. Možete izbrisati spremljene izglede unutar aplikacije ili ukloniti sve lokalne podatke aplikacije tako da deinstalirate PartMirror.",
       "privacyAdsTitle": "Oglašavanje i analitika",
-      "privacyAdsBody": "Trenutno izdanje ne prikazuje oglašavanje i ne uključuje usluge oglašavanja ili analitike. Ažurirat ćemo ova pravila prije omogućavanja bilo koje buduće usluge koja mijenja ove prakse.",
+      "privacyAdsBody": "Besplatna inačica koristi Google AdMob i Googleove alate za pristanak za isporuku nepersonaliziranih banner oglasa. Google može obraditi IP adresu, identifikatore uređaja, podatke o oglašavanju, interakcije proizvoda, podatke o izvedbi i dijagnostiku. PartMirror nikada ne isporučuje slike kamere, geometriju lica, spremljene izglede, imena ili dijelove recepata za oglašavanje. Pretplatnici ne primaju oglase, a PartMirror ne pokreće AdMob dok je aktivan provjereni pristup bez oglasa.",
       "privacyChildrenTitle": "djeca",
       "privacyChildrenBody": "PartMirror nije usmjeren posebno na djecu mlađu od 13 godina i ne prikupljamo svjesno osobne podatke od djece.",
       "privacyChangesTitle": "Promjene ove politike",
@@ -2256,7 +2370,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Standardni EULA",
       "legalTranslationNote": "Prijevodi su osigurani radi praktičnosti. Ako je prevedena verzija u sukobu s engleskom verzijom, engleska verzija ima prednost tamo gdje je to dopušteno zakonom.",
-      "footerRights": "Sva prava pridržana."
+      "footerRights": "Sva prava pridržana.",
+      "faqAdsQ": "PartMirror bez oglasa",
+      "faqAdsA": "Uklonite sve reklame u cijelom PartMirroru.",
+      "faqPrivacyQ": "Oglašavanje",
+      "faqPrivacyA": "Možete upravljati odabirom privatnosti oglasa u postavkama kada su Googleove opcije privatnosti dostupne, upravljati ili otkazati pretplate putem App Storea, opozvati dopuštenje za fotografije u postavkama iOS-a i izbrisati spremljene izglede unutar PartMirrora.",
+      "privacyPurchasesTitle": "PartMirror bez oglasa",
+      "privacyPurchasesBody": "Apple obrađuje PartMirror Ad-Free kupnje i upravljanje pretplatama. PartMirror čita status pretplate koju je potvrdio Apple samo da ukloni ili vrati oglašavanje. PartMirror ne upravlja sustavom računa niti pohranjuje podatke o platnoj kartici."
     }
   },
   "hu": {
@@ -2331,7 +2451,7 @@
       "effectiveDate": "Hatályos: 2026. augusztus 30",
       "privacyIntro": "Ez a szabályzat a jelenlegi PartMirror iPhone alkalmazást és ezt a webhelyet írja le.",
       "privacyCollectionTitle": "Adatgyűjtés",
-      "privacyCollectionBody": "A PartMirror 1.0.0-s verziója nem gyűjt személyes adatokat. Nem rendelkezik fiókrendszerrel, elemzésekkel, hirdetési SDK-val vagy távoli szerver feltöltéssel.",
+      "privacyCollectionBody": "A PartMirror a Google AdMob és a Google hozzájárulási eszközeit használja a nem személyre szabott szalaghirdetések megjelenítéséhez. A hirdetési szolgáltatások kaphatnak eszköz- és hálózati információkat, de a PartMirror soha nem ad kameraképeket, arcgeometriát, mentett megjelenést, neveket vagy részrecepteket a hirdetések célzásához.",
       "privacyCameraTitle": "Kamera és arckövetés",
       "privacyCameraBody": "Az elülső kamera kereteit és az arckövetési információkat feldolgozza az iPhone az útmutató elhelyezéséhez. A PartMirror nem küld nekünk kamerakereteket, arcgeometriát vagy nyomkövetési információkat.",
       "privacyMediaTitle": "Fényképek, videók és My Looks",
@@ -2341,7 +2461,7 @@
       "privacyRetentionTitle": "Megtartás és törlés",
       "privacyRetentionBody": "Mivel az alkalmazás nem küld nekünk kamera- vagy médiaadatokat, ezeket az adatokat nem őrizzük meg. Törölheti a mentett megjelenéseket az alkalmazáson belül, vagy eltávolíthatja az összes helyi alkalmazásadatot a PartMirror eltávolításával.",
       "privacyAdsTitle": "Reklám és elemzés",
-      "privacyAdsBody": "A jelenlegi kiadás nem jelenít meg hirdetéseket, és nem tartalmaz hirdetési vagy elemzési szolgáltatásokat. Frissíteni fogjuk ezt az irányelvet, mielőtt bármilyen jövőbeli szolgáltatást engedélyeznénk, amely megváltoztatja ezeket a gyakorlatokat.",
+      "privacyAdsBody": "Az ingyenes verzió a Google AdMob és a Google beleegyezési eszközeit használja a nem személyre szabott szalaghirdetések megjelenítéséhez. A Google feldolgozhat IP-címeket, eszközazonosítókat, hirdetési adatokat, termékinterakciókat, teljesítményadatokat és diagnosztikai adatokat. A PartMirror soha nem ad kameraképeket, arcgeometriát, mentett megjelenéseket, neveket vagy részrecepteket reklámozáshoz. Az előfizetők nem kapnak hirdetéseket, és a PartMirror nem indítja el az AdMob szolgáltatást, amíg az ellenőrzött hirdetésmentes hozzáférés aktív.",
       "privacyChildrenTitle": "Gyerekek",
       "privacyChildrenBody": "A PartMirror nem kifejezetten 13 év alatti gyermekeknek szól, és nem gyűjtünk tudatosan személyes adatokat gyermekektől.",
       "privacyChangesTitle": "A szabályzat változásai",
@@ -2369,7 +2489,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Normál EULA",
       "legalTranslationNote": "A kényelem érdekében fordításokat biztosítunk. Ha egy lefordított verzió ütközik az angol verzióval, az angol nyelvű változat az irányadó, ahol ezt a törvény lehetővé teszi.",
-      "footerRights": "Minden jog fenntartva."
+      "footerRights": "Minden jog fenntartva.",
+      "faqAdsQ": "PartMirror hirdetésmentes",
+      "faqAdsA": "Távolítson el minden hirdetést a PartMirrorból.",
+      "faqPrivacyQ": "Hirdetések",
+      "faqPrivacyA": "A Beállításokban kezelheti a hirdetések adatvédelmi beállításait, ha elérhetők a Google adatvédelmi beállításai, kezelheti vagy lemondhatja az előfizetéseket az App Store-on keresztül, visszavonhatja a Photos engedélyt az iOS-beállításokban, és törölheti a mentett megjelenéseket a PartMirrorban.",
+      "privacyPurchasesTitle": "PartMirror hirdetésmentes",
+      "privacyPurchasesBody": "Az Apple feldolgozza a PartMirror Ad-Free vásárlásait és az előfizetések kezelését. A PartMirror csak a hirdetések eltávolításához vagy visszaállításához olvassa be az Apple által igazolt előfizetés állapotát. A PartMirror nem üzemeltet számlarendszert és nem tárolja a fizetési kártya adatait."
     }
   },
   "id": {
@@ -2444,7 +2570,7 @@
       "effectiveDate": "Efektif tanggal 30 Agustus 2026",
       "privacyIntro": "Kebijakan ini menjelaskan aplikasi PartMirror iPhone saat ini dan situs web ini.",
       "privacyCollectionTitle": "Pengumpulan data",
-      "privacyCollectionBody": "PartMirror versi 1.0.0 tidak mengumpulkan data pribadi. Ia tidak memiliki sistem akun, analitik, SDK periklanan, atau unggahan server jarak jauh.",
+      "privacyCollectionBody": "Bagian Tengah menggunakan Google AdMob dan alat izin Google untuk menayangkan iklan spanduk yang tidak dipersonalisasi. Layanan iklan mungkin menerima informasi perangkat dan jaringan, namun Bagian Tengah tidak pernah menyediakan gambar kamera, geometri wajah, tampilan tersimpan, nama, atau resep bagian untuk penargetan iklan.",
       "privacyCameraTitle": "Pelacakan kamera dan wajah",
       "privacyCameraBody": "Bingkai kamera depan dan informasi pelacakan wajah diproses di iPhone Anda untuk menempatkan panduan. PartMirror tidak mengirimkan bingkai kamera, geometri wajah, atau informasi pelacakan kepada kami.",
       "privacyMediaTitle": "Foto, video, dan My Looks",
@@ -2454,7 +2580,7 @@
       "privacyRetentionTitle": "Retensi dan penghapusan",
       "privacyRetentionBody": "Karena aplikasi tidak mengirimkan data kamera atau media kepada kami, kami tidak menyimpan data tersebut. Anda dapat menghapus tampilan tersimpan di dalam aplikasi atau menghapus semua data aplikasi lokal dengan menghapus instalasi PartMirror.",
       "privacyAdsTitle": "Periklanan dan analitik",
-      "privacyAdsBody": "Rilis saat ini tidak menampilkan iklan dan tidak menyertakan layanan periklanan atau analisis. Kami akan memperbarui kebijakan ini sebelum mengaktifkan layanan apa pun di masa mendatang yang mengubah praktik ini.",
+      "privacyAdsBody": "Versi gratisnya menggunakan Google AdMob dan alat izin Google untuk menayangkan iklan spanduk yang tidak dipersonalisasi. Google dapat memproses alamat IP, pengidentifikasi perangkat, data iklan, interaksi produk, data kinerja, dan diagnostik. PartMirror tidak pernah menyediakan gambar kamera, geometri wajah, penampilan tersimpan, nama, atau resep bagian untuk iklan. Pelanggan tidak menerima iklan, dan PartMirror tidak memulai AdMob saat akses bebas iklan terverifikasi aktif.",
       "privacyChildrenTitle": "Anak-anak",
       "privacyChildrenBody": "PartMirror tidak ditujukan khusus untuk anak-anak di bawah 13 tahun, dan kami tidak dengan sengaja mengumpulkan data pribadi dari anak-anak.",
       "privacyChangesTitle": "Perubahan pada kebijakan ini",
@@ -2482,7 +2608,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple EULA Standar",
       "legalTranslationNote": "Terjemahan disediakan untuk kenyamanan. Jika versi terjemahan bertentangan dengan versi bahasa Inggris, versi bahasa Inggris akan berlaku jika diizinkan oleh hukum.",
-      "footerRights": "Semua hak dilindungi undang-undang."
+      "footerRights": "Semua hak dilindungi undang-undang.",
+      "faqAdsQ": "PartMirror Bebas Iklan",
+      "faqAdsA": "Hapus semua iklan di seluruh PartMirror.",
+      "faqPrivacyQ": "Periklanan",
+      "faqPrivacyA": "Anda dapat mengelola pilihan privasi iklan di Pengaturan ketika opsi privasi Google tersedia, mengelola atau membatalkan langganan melalui App Store, mencabut izin Foto di Pengaturan iOS, dan menghapus tampilan tersimpan di dalam PartMirror.",
+      "privacyPurchasesTitle": "PartMirror Bebas Iklan",
+      "privacyPurchasesBody": "Apple memproses pembelian dan manajemen langganan PartMirror Bebas Iklan. PartMirror membaca status langganan terverifikasi Apple hanya untuk menghapus atau memulihkan iklan. PartMirror tidak mengoperasikan sistem akun atau menyimpan detail kartu pembayaran."
     }
   },
   "it": {
@@ -2557,7 +2689,7 @@
       "effectiveDate": "In vigore dal 30 agosto 2026",
       "privacyIntro": "Questa politica descrive l'attuale app PartMirror iPhone e questo sito web.",
       "privacyCollectionTitle": "Raccolta dati",
-      "privacyCollectionBody": "PartMirror versione 1.0.0 non raccoglie dati personali. Non ha un sistema di account, analisi, SDK pubblicitario o caricamento su server remoto.",
+      "privacyCollectionBody": "PartMirror utilizza Google AdMob e gli strumenti di consenso di Google per fornire banner pubblicitari non personalizzati. I servizi pubblicitari possono ricevere informazioni sul dispositivo e sulla rete, ma PartMirror non fornisce mai immagini della fotocamera, geometria del viso, aspetti salvati, nomi o ricette di parti per il targeting degli annunci.",
       "privacyCameraTitle": "Tracciamento della fotocamera e del volto",
       "privacyCameraBody": "I fotogrammi della fotocamera frontale e le informazioni di rilevamento del volto vengono elaborati sul tuo iPhone per posizionare la guida. PartMirror non ci invia inquadrature della fotocamera, geometria del volto o informazioni di tracciamento.",
       "privacyMediaTitle": "Foto, video e My Looks",
@@ -2567,7 +2699,7 @@
       "privacyRetentionTitle": "Conservazione e cancellazione",
       "privacyRetentionBody": "Poiché l'app non ci invia dati multimediali o della fotocamera, non conserviamo tali dati. Puoi eliminare i look salvati all'interno dell'app o rimuovere tutti i dati dell'app locale disinstallando PartMirror.",
       "privacyAdsTitle": "Pubblicità e analisi",
-      "privacyAdsBody": "La versione attuale non mostra pubblicità e non include servizi pubblicitari o di analisi. Aggiorneremo questa politica prima di abilitare qualsiasi servizio futuro che modifichi queste pratiche.",
+      "privacyAdsBody": "La versione gratuita utilizza Google AdMob e gli strumenti di consenso di Google per fornire banner pubblicitari non personalizzati. Google può elaborare indirizzi IP, identificatori di dispositivi, dati pubblicitari, interazioni con i prodotti, dati sulle prestazioni e dati diagnostici. PartMirror non fornisce mai immagini della fotocamera, geometria del viso, aspetti salvati, nomi o ricette di parti per la pubblicità. Gli abbonati non ricevono annunci pubblicitari e PartMirror non avvia AdMob mentre è attivo l'accesso senza annunci verificato.",
       "privacyChildrenTitle": "Bambini",
       "privacyChildrenBody": "PartMirror non è rivolto specificamente ai bambini di età inferiore a 13 anni e non raccogliamo consapevolmente dati personali dei bambini.",
       "privacyChangesTitle": "Modifiche a questa politica",
@@ -2595,7 +2727,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Contratto di licenza standard",
       "legalTranslationNote": "Le traduzioni sono fornite per comodità. Se una versione tradotta è in conflitto con la versione inglese, la versione inglese prevale dove consentito dalla legge.",
-      "footerRights": "Tutti i diritti riservati."
+      "footerRights": "Tutti i diritti riservati.",
+      "faqAdsQ": "PartMirror senza pubblicità",
+      "faqAdsA": "Rimuovi tutta la pubblicità in PartMirror.",
+      "faqPrivacyQ": "Pubblicità",
+      "faqPrivacyA": "Puoi gestire le scelte sulla privacy degli annunci nelle Impostazioni quando le opzioni sulla privacy di Google sono disponibili, gestire o annullare gli abbonamenti tramite l'App Store, revocare l'autorizzazione per le Foto nelle Impostazioni iOS ed eliminare i look salvati all'interno di PartMirror.",
+      "privacyPurchasesTitle": "PartMirror senza pubblicità",
+      "privacyPurchasesBody": "Apple elabora gli acquisti PartMirror senza pubblicità e la gestione degli abbonamenti. PartMirror legge lo stato dell'abbonamento verificato da Apple solo per rimuovere o ripristinare la pubblicità. PartMirror non gestisce un sistema di account né memorizza i dettagli delle carte di pagamento."
     }
   },
   "ja": {
@@ -2670,7 +2808,7 @@
       "effectiveDate": "2026 年 8 月 30 日発効",
       "privacyIntro": "このポリシーでは、現在の PartMirror iPhone アプリとこの Web サイトについて説明します。",
       "privacyCollectionTitle": "データ収集",
-      "privacyCollectionBody": "PartMirror バージョン 1.0.0 は個人データを収集しません。アカウント システム、分析、広告 SDK、リモート サーバー アップロードはありません。",
+      "privacyCollectionBody": "中間パートでは、Google AdMob と Google の同意ツールを使用して、パーソナライズされていないバナー広告を配信します。広告サービスはデバイスおよびネットワーク情報を受信する場合がありますが、ミドル パートがカメラ画像、顔のジオメトリ、保存された外観、名前、または広告ターゲティング用のパーツ レシピを提供することはありません。",
       "privacyCameraTitle": "カメラと顔の追跡",
       "privacyCameraBody": "フロントカメラのフレームと顔追跡情報が iPhone 上で処理されてガイドが配置されます。 PartMirror は、カメラ フレーム、顔のジオメトリ、または追跡情報を当社に送信しません。",
       "privacyMediaTitle": "写真、ビデオ、My Looks",
@@ -2680,7 +2818,7 @@
       "privacyRetentionTitle": "保存と削除",
       "privacyRetentionBody": "アプリはカメラやメディアのデータを当社に送信しないため、当社はそのデータを保持しません。 PartMirror をアンインストールすることで、アプリ内に保存されている外観を削除したり、ローカル アプリ データをすべて削除したりできます。",
       "privacyAdsTitle": "広告と分析",
-      "privacyAdsBody": "現在のリリースには広告は表示されず、広告サービスや分析サービスも含まれていません。これらの慣行を変更する今後のサービスを有効にする前に、このポリシーを更新します。",
+      "privacyAdsBody": "無料版では、Google AdMob と Google の同意ツールを使用して、パーソナライズされていないバナー広告を配信します。 Google は、IP アドレス、デバイス識別子、広告データ、製品の操作、パフォーマンス データ、診断を処理する場合があります。 PartMirror は、カメラ画像、顔の形状、保存された外観、名前、またはパーツのレシピを広告のために提供することはありません。購読者は広告を受信せず、検証済みの広告なしアクセスがアクティブである間、PartMirror は AdMob を開始しません。",
       "privacyChildrenTitle": "子供たち",
       "privacyChildrenBody": "PartMirror は、特に 13 歳未満の子供を対象としたものではなく、当社が故意に子供から個人データを収集することはありません。",
       "privacyChangesTitle": "このポリシーの変更",
@@ -2708,7 +2846,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple 標準 EULA",
       "legalTranslationNote": "便宜上、翻訳が提供されています。翻訳版が英語版と矛盾する場合、法律で許可されている場合には英語版が優先されます。",
-      "footerRights": "無断転載を禁じます。"
+      "footerRights": "無断転載を禁じます。",
+      "faqAdsQ": "PartMirror 広告なし",
+      "faqAdsA": "PartMirror 全体からすべての広告を削除します。",
+      "faqPrivacyQ": "広告",
+      "faqPrivacyA": "Google のプライバシー オプションが利用可能な場合は、[設定] で広告プライバシーの選択を管理したり、App Store を通じてサブスクリプションを管理またはキャンセルしたり、iOS 設定で写真の権限を取り消したり、PartMirror 内で保存された外観を削除したりできます。",
+      "privacyPurchasesTitle": "PartMirror 広告なし",
+      "privacyPurchasesBody": "Apple は PartMirror Ad-Free の購入とサブスクリプション管理を処理します。 PartMirror は、広告を削除または復元するためにのみ Apple 検証済みのサブスクリプション ステータスを読み取ります。 PartMirror はアカウント システムを運用したり、支払いカードの詳細を保存したりしません。"
     }
   },
   "kn-IN": {
@@ -2783,7 +2927,7 @@
       "effectiveDate": "ಆಗಸ್ಟ್ 30, 2026 ರಿಂದ ಜಾರಿಗೆ ಬರಲಿದೆ",
       "privacyIntro": "ಈ ನೀತಿಯು ಪ್ರಸ್ತುತ PartMirror iPhone ಅಪ್ಲಿಕೇಶನ್ ಮತ್ತು ಈ ವೆಬ್‌ಸೈಟ್ ಅನ್ನು ವಿವರಿಸುತ್ತದೆ.",
       "privacyCollectionTitle": "ಡೇಟಾ ಸಂಗ್ರಹಣೆ",
-      "privacyCollectionBody": "PartMirror ಆವೃತ್ತಿ 1.0.0 ವೈಯಕ್ತಿಕ ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ. ಇದು ಯಾವುದೇ ಖಾತೆ ವ್ಯವಸ್ಥೆ, ವಿಶ್ಲೇಷಣೆ, ಜಾಹೀರಾತು SDK ಅಥವಾ ರಿಮೋಟ್ ಸರ್ವರ್ ಅಪ್‌ಲೋಡ್ ಅನ್ನು ಹೊಂದಿಲ್ಲ.",
+      "privacyCollectionBody": "ಮಧ್ಯ ಭಾಗವು ವೈಯಕ್ತಿಕಗೊಳಿಸದ ಬ್ಯಾನರ್ ಜಾಹೀರಾತುಗಳನ್ನು ತಲುಪಿಸಲು Google AdMob ಮತ್ತು Google ನ ಸಮ್ಮತಿ ಪರಿಕರಗಳನ್ನು ಬಳಸುತ್ತದೆ. ಜಾಹೀರಾತು ಸೇವೆಗಳು ಸಾಧನ ಮತ್ತು ನೆಟ್‌ವರ್ಕ್ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯಬಹುದು, ಆದರೆ ಮಧ್ಯ ಭಾಗವು ಎಂದಿಗೂ ಕ್ಯಾಮರಾ ಚಿತ್ರಗಳು, ಮುಖದ ಜ್ಯಾಮಿತಿ, ಉಳಿಸಿದ ನೋಟ, ಹೆಸರುಗಳು ಅಥವಾ ಜಾಹೀರಾತು ಗುರಿಗಾಗಿ ಭಾಗ ಪಾಕವಿಧಾನಗಳನ್ನು ಪೂರೈಸುವುದಿಲ್ಲ.",
       "privacyCameraTitle": "ಕ್ಯಾಮೆರಾ ಮತ್ತು ಫೇಸ್ ಟ್ರ್ಯಾಕಿಂಗ್",
       "privacyCameraBody": "ಮಾರ್ಗದರ್ಶಿಯನ್ನು ಇರಿಸಲು ನಿಮ್ಮ iPhone ನಲ್ಲಿ ಫ್ರಂಟ್-ಕ್ಯಾಮೆರಾ ಫ್ರೇಮ್‌ಗಳು ಮತ್ತು ಫೇಸ್-ಟ್ರ್ಯಾಕಿಂಗ್ ಮಾಹಿತಿಯನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲಾಗುತ್ತದೆ. PartMirror ನಮಗೆ ಕ್ಯಾಮರಾ ಫ್ರೇಮ್‌ಗಳು, ಮುಖದ ಜ್ಯಾಮಿತಿ ಅಥವಾ ಟ್ರ್ಯಾಕಿಂಗ್ ಮಾಹಿತಿಯನ್ನು ಕಳುಹಿಸುವುದಿಲ್ಲ.",
       "privacyMediaTitle": "ಫೋಟೋಗಳು, ವೀಡಿಯೊಗಳು ಮತ್ತು My Looks",
@@ -2793,7 +2937,7 @@
       "privacyRetentionTitle": "ಧಾರಣ ಮತ್ತು ಅಳಿಸುವಿಕೆ",
       "privacyRetentionBody": "ಅಪ್ಲಿಕೇಶನ್ ನಮಗೆ ಯಾವುದೇ ಕ್ಯಾಮರಾ ಅಥವಾ ಮಾಧ್ಯಮ ಡೇಟಾವನ್ನು ಕಳುಹಿಸದ ಕಾರಣ, ನಾವು ಆ ಡೇಟಾವನ್ನು ಉಳಿಸಿಕೊಳ್ಳುವುದಿಲ್ಲ. ನೀವು ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ಉಳಿಸಿದ ನೋಟವನ್ನು ಅಳಿಸಬಹುದು ಅಥವಾ PartMirror ಅನ್ನು ಅನ್‌ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡುವ ಮೂಲಕ ಎಲ್ಲಾ ಸ್ಥಳೀಯ ಅಪ್ಲಿಕೇಶನ್ ಡೇಟಾವನ್ನು ತೆಗೆದುಹಾಕಬಹುದು.",
       "privacyAdsTitle": "ಜಾಹೀರಾತು ಮತ್ತು ವಿಶ್ಲೇಷಣೆ",
-      "privacyAdsBody": "ಪ್ರಸ್ತುತ ಬಿಡುಗಡೆಯು ಜಾಹೀರಾತನ್ನು ಪ್ರದರ್ಶಿಸುವುದಿಲ್ಲ ಮತ್ತು ಜಾಹೀರಾತು ಅಥವಾ ವಿಶ್ಲೇಷಣೆ ಸೇವೆಗಳನ್ನು ಒಳಗೊಂಡಿಲ್ಲ. ಈ ಅಭ್ಯಾಸಗಳನ್ನು ಬದಲಾಯಿಸುವ ಯಾವುದೇ ಭವಿಷ್ಯದ ಸೇವೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುವ ಮೊದಲು ನಾವು ಈ ನೀತಿಯನ್ನು ನವೀಕರಿಸುತ್ತೇವೆ.",
+      "privacyAdsBody": "ಉಚಿತ ಆವೃತ್ತಿಯು ವೈಯಕ್ತಿಕಗೊಳಿಸದ ಬ್ಯಾನರ್ ಜಾಹೀರಾತುಗಳನ್ನು ತಲುಪಿಸಲು Google AdMob ಮತ್ತು Google ನ ಸಮ್ಮತಿ ಪರಿಕರಗಳನ್ನು ಬಳಸುತ್ತದೆ. Google IP ವಿಳಾಸ, ಸಾಧನ ಗುರುತಿಸುವಿಕೆಗಳು, ಜಾಹೀರಾತು ಡೇಟಾ, ಉತ್ಪನ್ನ ಸಂವಹನಗಳು, ಕಾರ್ಯಕ್ಷಮತೆ ಡೇಟಾ ಮತ್ತು ಡಯಾಗ್ನೋಸ್ಟಿಕ್ಸ್ ಅನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಬಹುದು. PartMirror ಎಂದಿಗೂ ಕ್ಯಾಮರಾ ಚಿತ್ರಗಳು, ಮುಖದ ಜ್ಯಾಮಿತಿ, ಉಳಿಸಿದ ನೋಟ, ಹೆಸರುಗಳು ಅಥವಾ ಜಾಹೀರಾತಿಗಾಗಿ ಭಾಗ ಪಾಕವಿಧಾನಗಳನ್ನು ಪೂರೈಸುವುದಿಲ್ಲ. ಚಂದಾದಾರರು ಜಾಹೀರಾತುಗಳನ್ನು ಸ್ವೀಕರಿಸುವುದಿಲ್ಲ ಮತ್ತು ಪರಿಶೀಲಿಸಿದ ಜಾಹೀರಾತು-ಮುಕ್ತ ಪ್ರವೇಶವು ಸಕ್ರಿಯವಾಗಿರುವಾಗ PartMirror AdMob ಅನ್ನು ಪ್ರಾರಂಭಿಸುವುದಿಲ್ಲ.",
       "privacyChildrenTitle": "ಮಕ್ಕಳು",
       "privacyChildrenBody": "PartMirror ಅನ್ನು ನಿರ್ದಿಷ್ಟವಾಗಿ 13 ವರ್ಷದೊಳಗಿನ ಮಕ್ಕಳಿಗೆ ನಿರ್ದೇಶಿಸಲಾಗಿಲ್ಲ ಮತ್ತು ನಾವು ಉದ್ದೇಶಪೂರ್ವಕವಾಗಿ ಮಕ್ಕಳಿಂದ ವೈಯಕ್ತಿಕ ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ.",
       "privacyChangesTitle": "ಈ ನೀತಿಗೆ ಬದಲಾವಣೆಗಳು",
@@ -2821,7 +2965,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple ಸ್ಟ್ಯಾಂಡರ್ಡ್ EULA",
       "legalTranslationNote": "ಅನುಕೂಲಕ್ಕಾಗಿ ಅನುವಾದಗಳನ್ನು ಒದಗಿಸಲಾಗಿದೆ. ಅನುವಾದಿತ ಆವೃತ್ತಿಯು ಇಂಗ್ಲಿಷ್ ಆವೃತ್ತಿಯೊಂದಿಗೆ ಘರ್ಷಣೆಯನ್ನು ಹೊಂದಿದ್ದರೆ, ಕಾನೂನಿನಿಂದ ಅನುಮತಿಸಲಾದ ಸ್ಥಳದಲ್ಲಿ ಇಂಗ್ಲಿಷ್ ಆವೃತ್ತಿಯು ನಿಯಂತ್ರಿಸುತ್ತದೆ.",
-      "footerRights": "ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ."
+      "footerRights": "ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.",
+      "faqAdsQ": "PartMirror ಜಾಹೀರಾತು-ಮುಕ್ತ",
+      "faqAdsA": "PartMirror ನಾದ್ಯಂತ ಎಲ್ಲಾ ಜಾಹೀರಾತುಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+      "faqPrivacyQ": "ಜಾಹೀರಾತು",
+      "faqPrivacyA": "Google ನ ಗೌಪ್ಯತೆ ಆಯ್ಕೆಗಳು ಲಭ್ಯವಿರುವಾಗ ನೀವು ಜಾಹೀರಾತು ಗೌಪ್ಯತಾ ಆಯ್ಕೆಗಳನ್ನು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ನಿರ್ವಹಿಸಬಹುದು, ಆಪ್ ಸ್ಟೋರ್ ಮೂಲಕ ಚಂದಾದಾರಿಕೆಗಳನ್ನು ನಿರ್ವಹಿಸಬಹುದು ಅಥವಾ ರದ್ದುಗೊಳಿಸಬಹುದು, iOS ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಫೋಟೋಗಳ ಅನುಮತಿಯನ್ನು ಹಿಂಪಡೆಯಬಹುದು ಮತ್ತು PartMirror ನಲ್ಲಿ ಉಳಿಸಿದ ನೋಟವನ್ನು ಅಳಿಸಬಹುದು.",
+      "privacyPurchasesTitle": "PartMirror ಜಾಹೀರಾತು-ಮುಕ್ತ",
+      "privacyPurchasesBody": "Apple ಪಾರ್ಟ್‌ಮಿರರ್ ಜಾಹೀರಾತು-ಮುಕ್ತ ಖರೀದಿಗಳು ಮತ್ತು ಚಂದಾದಾರಿಕೆ ನಿರ್ವಹಣೆಯನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುತ್ತದೆ. PartMirror ಜಾಹೀರಾತನ್ನು ತೆಗೆದುಹಾಕಲು ಅಥವಾ ಮರುಸ್ಥಾಪಿಸಲು ಮಾತ್ರ Apple-ಪರಿಶೀಲಿಸಿದ ಚಂದಾದಾರಿಕೆ ಸ್ಥಿತಿಯನ್ನು ಓದುತ್ತದೆ. PartMirror ಖಾತೆ ವ್ಯವಸ್ಥೆಯನ್ನು ನಿರ್ವಹಿಸುವುದಿಲ್ಲ ಅಥವಾ ಪಾವತಿ-ಕಾರ್ಡ್ ವಿವರಗಳನ್ನು ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ."
     }
   },
   "ko": {
@@ -2896,7 +3046,7 @@
       "effectiveDate": "2026년 8월 30일 발효",
       "privacyIntro": "이 정책은 현재 PartMirror iPhone 앱과 이 웹사이트에 대해 설명합니다.",
       "privacyCollectionTitle": "데이터 수집",
-      "privacyCollectionBody": "PartMirror 버전 1.0.0은 개인 데이터를 수집하지 않습니다. 계정 시스템, 분석, 광고 SDK 또는 원격 서버 업로드가 없습니다.",
+      "privacyCollectionBody": "중간 부분은 Google AdMob 및 Google의 동의 도구를 사용하여 개인화되지 않은 배너 광고를 게재합니다. 광고 서비스는 장치 및 네트워크 정보를 수신할 수 있지만 중간 부분은 광고 타겟팅을 위한 카메라 이미지, 얼굴 형상, 저장된 모양, 이름 또는 부품 레시피를 제공하지 않습니다.",
       "privacyCameraTitle": "카메라 및 얼굴 추적",
       "privacyCameraBody": "전면 카메라 프레임과 얼굴 추적 정보를 iPhone에서 처리하여 가이드를 배치합니다. PartMirror은(는) 카메라 프레임, 얼굴 형상 또는 추적 정보를 당사에 보내지 않습니다.",
       "privacyMediaTitle": "사진, 비디오 및 My Looks",
@@ -2906,7 +3056,7 @@
       "privacyRetentionTitle": "보유 및 삭제",
       "privacyRetentionBody": "앱은 카메라나 미디어 데이터를 우리에게 보내지 않기 때문에 우리는 해당 데이터를 보관하지 않습니다. PartMirror을(를) 제거하여 앱 내부에 저장된 모양을 삭제하거나 모든 로컬 앱 데이터를 제거할 수 있습니다.",
       "privacyAdsTitle": "광고 및 분석",
-      "privacyAdsBody": "현재 릴리스에는 광고가 표시되지 않으며 광고 또는 분석 서비스도 포함되어 있지 않습니다. 이러한 관행을 변경하는 향후 서비스를 활성화하기 전에 이 정책을 업데이트할 것입니다.",
+      "privacyAdsBody": "무료 버전은 Google AdMob 및 Google의 동의 도구를 사용하여 개인 맞춤이 아닌 배너 광고를 게재합니다. Google은 IP 주소, 기기 식별자, 광고 데이터, 제품 상호작용, 성능 데이터, 진단을 처리할 수 있습니다. PartMirror는 카메라 이미지, 얼굴 형상, 저장된 모양, 이름 또는 광고용 부품 레시피를 절대 제공하지 않습니다. 구독자는 광고를 받지 않으며, 인증된 광고 없는 액세스가 활성화되어 있는 동안 PartMirror는 AdMob을 시작하지 않습니다.",
       "privacyChildrenTitle": "어린이",
       "privacyChildrenBody": "PartMirror은(는) 특별히 13세 미만의 어린이를 대상으로 하지 않으며 어린이로부터 고의로 개인 데이터를 수집하지 않습니다.",
       "privacyChangesTitle": "이 정책의 변경 사항",
@@ -2934,7 +3084,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple 표준 EULA",
       "legalTranslationNote": "편의를 위해 번역이 제공됩니다. 번역된 버전이 영어 버전과 충돌하는 경우 법률이 허용하는 경우 영어 버전이 우선 적용됩니다.",
-      "footerRights": "모든 권리 보유."
+      "footerRights": "모든 권리 보유.",
+      "faqAdsQ": "PartMirror 광고 없음",
+      "faqAdsA": "PartMirror 전체에서 모든 광고를 제거합니다.",
+      "faqPrivacyQ": "광고",
+      "faqPrivacyA": "Google의 개인 정보 보호 옵션을 사용할 수 있는 경우 설정에서 광고 개인 정보 보호 선택을 관리하고, App Store를 통해 구독을 관리 또는 취소하고, iOS 설정에서 사진 권한을 취소하고, PartMirror에 저장된 룩을 삭제할 수 있습니다.",
+      "privacyPurchasesTitle": "PartMirror 광고 없음",
+      "privacyPurchasesBody": "Apple은 PartMirror Ad-Free 구매 및 구독 관리를 처리합니다. PartMirror는 광고를 제거하거나 복원하기 위해서만 Apple이 인증한 구독 상태를 읽습니다. PartMirror는 계정 시스템을 운영하거나 결제 카드 정보를 저장하지 않습니다."
     }
   },
   "ml-IN": {
@@ -3009,7 +3165,7 @@
       "effectiveDate": "2026 ഓഗസ്റ്റ് 30 മുതൽ പ്രാബല്യത്തിൽ വരും",
       "privacyIntro": "ഈ നയം നിലവിലെ PartMirror iPhone ആപ്പിനെയും ഈ വെബ്‌സൈറ്റിനെയും വിവരിക്കുന്നു.",
       "privacyCollectionTitle": "വിവരശേഖരണം",
-      "privacyCollectionBody": "PartMirror പതിപ്പ് 1.0.0 വ്യക്തിഗത ഡാറ്റ ശേഖരിക്കുന്നില്ല. ഇതിന് അക്കൗണ്ട് സിസ്റ്റമോ അനലിറ്റിക്‌സോ പരസ്യ SDKയോ റിമോട്ട് സെർവർ അപ്‌ലോഡോ ഇല്ല.",
+      "privacyCollectionBody": "വ്യക്തിപരമാക്കാത്ത ബാനർ പരസ്യങ്ങൾ നൽകുന്നതിന് മധ്യഭാഗം Google AdMob, Google-ൻ്റെ സമ്മത ഉപകരണങ്ങൾ എന്നിവ ഉപയോഗിക്കുന്നു. പരസ്യ സേവനങ്ങൾക്ക് ഉപകരണ, നെറ്റ്‌വർക്ക് വിവരങ്ങൾ ലഭിച്ചേക്കാം, എന്നാൽ മധ്യഭാഗം ഒരിക്കലും ക്യാമറ ഇമേജുകൾ, മുഖ ജ്യാമിതി, സംരക്ഷിച്ച രൂപങ്ങൾ, പേരുകൾ അല്ലെങ്കിൽ പരസ്യ ടാർഗെറ്റിംഗിനുള്ള പാർട്ട് പാചകക്കുറിപ്പുകൾ എന്നിവ നൽകുന്നില്ല.",
       "privacyCameraTitle": "ക്യാമറയും ഫേസ് ട്രാക്കിംഗും",
       "privacyCameraBody": "മുൻ ക്യാമറ ഫ്രെയിമുകളും ഫേസ് ട്രാക്കിംഗ് വിവരങ്ങളും ഗൈഡ് സ്ഥാപിക്കുന്നതിന് നിങ്ങളുടെ iPhone-ൽ പ്രോസസ്സ് ചെയ്യുന്നു. PartMirror ഞങ്ങൾക്ക് ക്യാമറ ഫ്രെയിമുകളോ മുഖ ജ്യാമിതിയോ ട്രാക്കിംഗ് വിവരങ്ങളോ അയയ്‌ക്കുന്നില്ല.",
       "privacyMediaTitle": "ഫോട്ടോകളും വീഡിയോകളും My Looks",
@@ -3019,7 +3175,7 @@
       "privacyRetentionTitle": "നിലനിർത്തലും ഇല്ലാതാക്കലും",
       "privacyRetentionBody": "ആപ്പ് ഞങ്ങൾക്ക് ക്യാമറയോ മീഡിയ ഡാറ്റയോ അയയ്‌ക്കാത്തതിനാൽ, ഞങ്ങൾ ആ ഡാറ്റ നിലനിർത്തില്ല. PartMirror അൺഇൻസ്റ്റാൾ ചെയ്തുകൊണ്ട് നിങ്ങൾക്ക് ആപ്പിനുള്ളിൽ സംരക്ഷിച്ച രൂപങ്ങൾ ഇല്ലാതാക്കാം അല്ലെങ്കിൽ എല്ലാ പ്രാദേശിക ആപ്പ് ഡാറ്റയും നീക്കം ചെയ്യാം.",
       "privacyAdsTitle": "പരസ്യവും വിശകലനവും",
-      "privacyAdsBody": "നിലവിലെ പതിപ്പ് പരസ്യം പ്രദർശിപ്പിക്കുന്നില്ല കൂടാതെ പരസ്യമോ അനലിറ്റിക്‌സ് സേവനങ്ങളോ ഉൾപ്പെടുന്നില്ല. ഈ രീതികൾ മാറ്റുന്ന ഏതെങ്കിലും ഭാവി സേവനം പ്രവർത്തനക്ഷമമാക്കുന്നതിന് മുമ്പ് ഞങ്ങൾ ഈ നയം അപ്ഡേറ്റ് ചെയ്യും.",
+      "privacyAdsBody": "വ്യക്തിഗതമാക്കാത്ത ബാനർ പരസ്യങ്ങൾ നൽകുന്നതിന് സൗജന്യ പതിപ്പ് Google AdMob, Google-ൻ്റെ സമ്മത ഉപകരണങ്ങൾ ഉപയോഗിക്കുന്നു. Google ഒരു IP വിലാസം, ഉപകരണ ഐഡൻ്റിഫയറുകൾ, പരസ്യ ഡാറ്റ, ഉൽപ്പന്ന ഇടപെടലുകൾ, പ്രകടന ഡാറ്റ, ഡയഗ്നോസ്റ്റിക്സ് എന്നിവ പ്രോസസ്സ് ചെയ്തേക്കാം. PartMirror ഒരിക്കലും ക്യാമറ ഇമേജുകൾ, മുഖം ജ്യാമിതി, സംരക്ഷിച്ച രൂപങ്ങൾ, പേരുകൾ, അല്ലെങ്കിൽ പരസ്യത്തിനുള്ള പാർട്ട് പാചകക്കുറിപ്പുകൾ എന്നിവ നൽകുന്നില്ല. വരിക്കാർക്ക് പരസ്യങ്ങൾ ലഭിക്കില്ല, പരിശോധിച്ചുറപ്പിച്ച പരസ്യരഹിത ആക്‌സസ് സജീവമായിരിക്കുമ്പോൾ PartMirror AdMob ആരംഭിക്കുകയുമില്ല.",
       "privacyChildrenTitle": "കുട്ടികൾ",
       "privacyChildrenBody": "PartMirror 13 വയസ്സിന് താഴെയുള്ള കുട്ടികളെ ഉദ്ദേശിച്ചുള്ളതല്ല, കുട്ടികളിൽ നിന്ന് ഞങ്ങൾ ബോധപൂർവ്വം വ്യക്തിഗത ഡാറ്റ ശേഖരിക്കുന്നില്ല.",
       "privacyChangesTitle": "ഈ നയത്തിലെ മാറ്റങ്ങൾ",
@@ -3047,7 +3203,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple സ്റ്റാൻഡേർഡ് EULA",
       "legalTranslationNote": "വിവർത്തനങ്ങൾ സൗകര്യാർത്ഥം നൽകിയിരിക്കുന്നു. വിവർത്തനം ചെയ്ത പതിപ്പ് ഇംഗ്ലീഷ് പതിപ്പുമായി വൈരുദ്ധ്യമുണ്ടെങ്കിൽ, നിയമം അനുവദിക്കുന്നിടത്ത് ഇംഗ്ലീഷ് പതിപ്പ് നിയന്ത്രിക്കുന്നു.",
-      "footerRights": "എല്ലാ അവകാശങ്ങളും നിക്ഷിപ്തം."
+      "footerRights": "എല്ലാ അവകാശങ്ങളും നിക്ഷിപ്തം.",
+      "faqAdsQ": "PartMirror പരസ്യരഹിതം",
+      "faqAdsA": "PartMirror-ൽ ഉടനീളമുള്ള എല്ലാ പരസ്യങ്ങളും നീക്കം ചെയ്യുക.",
+      "faqPrivacyQ": "പരസ്യംചെയ്യൽ",
+      "faqPrivacyA": "Google-ൻ്റെ സ്വകാര്യതാ ഓപ്‌ഷനുകൾ ലഭ്യമാകുമ്പോൾ നിങ്ങൾക്ക് ക്രമീകരണങ്ങളിൽ പരസ്യ സ്വകാര്യത ചോയ്‌സുകൾ മാനേജ് ചെയ്യാം, ആപ്പ് സ്റ്റോർ വഴി സബ്‌സ്‌ക്രിപ്‌ഷനുകൾ നിയന്ത്രിക്കാം അല്ലെങ്കിൽ റദ്ദാക്കാം, iOS ക്രമീകരണങ്ങളിൽ ഫോട്ടോകളുടെ അനുമതി അസാധുവാക്കുക, PartMirror-നുള്ളിൽ സംരക്ഷിച്ച രൂപങ്ങൾ ഇല്ലാതാക്കുക.",
+      "privacyPurchasesTitle": "PartMirror പരസ്യരഹിതം",
+      "privacyPurchasesBody": "Apple, PartMirror പരസ്യരഹിത വാങ്ങലുകളും സബ്‌സ്‌ക്രിപ്‌ഷൻ മാനേജ്‌മെൻ്റും പ്രോസസ്സ് ചെയ്യുന്നു. പരസ്യം നീക്കംചെയ്യുന്നതിനോ പുനഃസ്ഥാപിക്കുന്നതിനോ മാത്രമാണ് PartMirror ആപ്പിൾ പരിശോധിച്ചുറപ്പിച്ച സബ്‌സ്‌ക്രിപ്‌ഷൻ നില വായിക്കുന്നത്. PartMirror ഒരു അക്കൗണ്ട് സിസ്റ്റം പ്രവർത്തിപ്പിക്കുകയോ പേയ്‌മെൻ്റ് കാർഡ് വിശദാംശങ്ങൾ സംഭരിക്കുകയോ ചെയ്യുന്നില്ല."
     }
   },
   "mr-IN": {
@@ -3122,7 +3284,7 @@
       "effectiveDate": "30 ऑगस्ट 2026 पासून प्रभावी",
       "privacyIntro": "हे धोरण वर्तमान PartMirror iPhone ॲप आणि या वेबसाइटचे वर्णन करते.",
       "privacyCollectionTitle": "डेटा संकलन",
-      "privacyCollectionBody": "PartMirror आवृत्ती 1.0.0 वैयक्तिक डेटा संकलित करत नाही. यात कोणतीही खाते प्रणाली, विश्लेषण, जाहिरात SDK किंवा रिमोट सर्व्हर अपलोड नाही.",
+      "privacyCollectionBody": "मध्य भाग वैयक्तिक नसलेल्या बॅनर जाहिराती वितरीत करण्यासाठी Google AdMob आणि Google च्या संमती साधने वापरतो. जाहिरात सेवांना डिव्हाइस आणि नेटवर्क माहिती प्राप्त होऊ शकते, परंतु मध्य भाग कधीही कॅमेरा प्रतिमा, चेहरा भूमिती, जतन केलेले स्वरूप, नावे किंवा जाहिरात लक्ष्यीकरणासाठी भाग पाककृती पुरवत नाही.",
       "privacyCameraTitle": "कॅमेरा आणि फेस ट्रॅकिंग",
       "privacyCameraBody": "मार्गदर्शक ठेवण्यासाठी फ्रंट-कॅमेरा फ्रेम आणि फेस-ट्रॅकिंग माहिती आपल्या iPhone वर प्रक्रिया केली जाते. PartMirror आम्हाला कॅमेरा फ्रेम्स, फेस भूमिती किंवा ट्रॅकिंग माहिती पाठवत नाही.",
       "privacyMediaTitle": "फोटो, व्हिडिओ आणि My Looks",
@@ -3132,7 +3294,7 @@
       "privacyRetentionTitle": "धारणा आणि हटवणे",
       "privacyRetentionBody": "ॲप आम्हाला कोणताही कॅमेरा किंवा मीडिया डेटा पाठवत नसल्यामुळे, आम्ही तो डेटा राखून ठेवत नाही. तुम्ही ॲपमधील सेव्ह केलेले लुक्स हटवू शकता किंवा PartMirror अनइंस्टॉल करून सर्व स्थानिक ॲप डेटा काढू शकता.",
       "privacyAdsTitle": "जाहिरात आणि विश्लेषण",
-      "privacyAdsBody": "वर्तमान प्रकाशन जाहिरात प्रदर्शित करत नाही आणि त्यात जाहिरात किंवा विश्लेषण सेवा समाविष्ट नाहीत. या पद्धती बदलणारी कोणतीही भविष्यातील सेवा सक्षम करण्यापूर्वी आम्ही हे धोरण अपडेट करू.",
+      "privacyAdsBody": "वैयक्तिकृत नसलेल्या बॅनर जाहिराती वितरीत करण्यासाठी विनामूल्य आवृत्ती Google AdMob आणि Google ची संमती साधने वापरते. Google IP पत्ता, डिव्हाइस अभिज्ञापक, जाहिरात डेटा, उत्पादन परस्परसंवाद, कार्यप्रदर्शन डेटा आणि निदानांवर प्रक्रिया करू शकते. PartMirror कधीही कॅमेरा प्रतिमा, चेहरा भूमिती, जतन केलेले स्वरूप, नावे किंवा जाहिरातींसाठी काही भाग पाककृती पुरवत नाही. सदस्यांना जाहिराती मिळत नाहीत आणि सत्यापित जाहिरात-मुक्त प्रवेश सक्रिय असताना PartMirror AdMob सुरू करत नाही.",
       "privacyChildrenTitle": "मुले",
       "privacyChildrenBody": "PartMirror विशेषतः 13 वर्षाखालील मुलांसाठी निर्देशित केलेले नाही आणि आम्ही जाणूनबुजून मुलांकडून वैयक्तिक डेटा संकलित करत नाही.",
       "privacyChangesTitle": "या धोरणात बदल",
@@ -3160,7 +3322,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple मानक EULA",
       "legalTranslationNote": "सोयीसाठी भाषांतरे दिली आहेत. भाषांतरित आवृत्ती इंग्रजी आवृत्तीशी विरोधाभास असल्यास, इंग्रजी आवृत्ती कायद्याद्वारे परवानगी असलेल्या ठिकाणी नियंत्रित करते.",
-      "footerRights": "सर्व हक्क राखीव."
+      "footerRights": "सर्व हक्क राखीव.",
+      "faqAdsQ": "PartMirror जाहिरात-मुक्त",
+      "faqAdsA": "PartMirror मधील सर्व जाहिराती काढून टाका.",
+      "faqPrivacyQ": "जाहिरात",
+      "faqPrivacyA": "तुम्ही Google चे गोपनीयता पर्याय उपलब्ध असताना सेटिंग्जमध्ये जाहिरात गोपनीयता निवडी व्यवस्थापित करू शकता, App Store द्वारे सदस्यता व्यवस्थापित करू शकता किंवा रद्द करू शकता, iOS सेटिंग्जमध्ये फोटो परवानगी रद्द करू शकता आणि PartMirror मध्ये सेव्ह केलेले स्वरूप हटवू शकता.",
+      "privacyPurchasesTitle": "PartMirror जाहिरात-मुक्त",
+      "privacyPurchasesBody": "Apple PartMirror जाहिरात-मुक्त खरेदी आणि सदस्यता व्यवस्थापनावर प्रक्रिया करते. PartMirror केवळ जाहिरात काढण्यासाठी किंवा पुनर्संचयित करण्यासाठी Apple-सत्यापित सदस्यता स्थिती वाचते. PartMirror खाते प्रणाली ऑपरेट करत नाही किंवा पेमेंट-कार्ड तपशील संग्रहित करत नाही."
     }
   },
   "ms": {
@@ -3235,7 +3403,7 @@
       "effectiveDate": "Berkuat kuasa 30 Ogos 2026",
       "privacyIntro": "Dasar ini menerangkan apl PartMirror iPhone semasa dan tapak web ini.",
       "privacyCollectionTitle": "Pengumpulan data",
-      "privacyCollectionBody": "PartMirror versi 1.0.0 tidak mengumpul data peribadi. Ia tidak mempunyai sistem akaun, analitik, SDK pengiklanan atau muat naik pelayan jauh.",
+      "privacyCollectionBody": "Bahagian Tengah menggunakan Google AdMob dan alatan persetujuan Google untuk menyampaikan iklan sepanduk bukan diperibadikan. Perkhidmatan iklan mungkin menerima maklumat peranti dan rangkaian, tetapi Bahagian Tengah tidak pernah membekalkan imej kamera, geometri muka, rupa yang disimpan, nama atau resipi bahagian untuk penyasaran iklan.",
       "privacyCameraTitle": "Penjejakan kamera dan muka",
       "privacyCameraBody": "Bingkai kamera hadapan dan maklumat penjejakan muka diproses pada iPhone anda untuk meletakkan panduan. PartMirror tidak menghantar bingkai kamera, geometri muka atau maklumat penjejakan kepada kami.",
       "privacyMediaTitle": "Foto, video dan My Looks",
@@ -3245,7 +3413,7 @@
       "privacyRetentionTitle": "Pengekalan dan pemadaman",
       "privacyRetentionBody": "Oleh kerana apl tidak menghantar data kamera atau media kepada kami, kami tidak menyimpan data tersebut. Anda boleh memadamkan rupa yang disimpan di dalam apl atau mengalih keluar semua data apl setempat dengan menyahpasang PartMirror.",
       "privacyAdsTitle": "Pengiklanan dan analisis",
-      "privacyAdsBody": "Keluaran semasa tidak memaparkan pengiklanan dan tidak termasuk perkhidmatan pengiklanan atau analitik. Kami akan mengemas kini dasar ini sebelum mendayakan sebarang perkhidmatan masa hadapan yang mengubah amalan ini.",
+      "privacyAdsBody": "Versi percuma menggunakan Google AdMob dan alatan persetujuan Google untuk menyampaikan iklan sepanduk bukan diperibadikan. Google mungkin memproses alamat IP, pengecam peranti, data pengiklanan, interaksi produk, data prestasi dan diagnostik. PartMirror tidak pernah membekalkan imej kamera, geometri muka, rupa yang disimpan, nama atau resipi bahagian untuk pengiklanan. Pelanggan tidak menerima iklan dan PartMirror tidak memulakan AdMob semasa akses bebas iklan yang disahkan aktif.",
       "privacyChildrenTitle": "Kanak-kanak",
       "privacyChildrenBody": "PartMirror tidak ditujukan khusus kepada kanak-kanak di bawah umur 13 tahun, dan kami tidak mengumpul data peribadi daripada kanak-kanak secara sengaja.",
       "privacyChangesTitle": "Perubahan kepada dasar ini",
@@ -3273,7 +3441,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Standard EULA",
       "legalTranslationNote": "Terjemahan disediakan untuk kemudahan. Jika versi terjemahan bercanggah dengan versi Inggeris, versi Inggeris mengawal di mana dibenarkan oleh undang-undang.",
-      "footerRights": "Semua hak terpelihara."
+      "footerRights": "Semua hak terpelihara.",
+      "faqAdsQ": "PartMirror Tanpa Iklan",
+      "faqAdsA": "Alih keluar semua pengiklanan di seluruh PartMirror.",
+      "faqPrivacyQ": "Pengiklanan",
+      "faqPrivacyA": "Anda boleh mengurus pilihan privasi iklan dalam Tetapan apabila pilihan privasi Google tersedia, mengurus atau membatalkan langganan melalui App Store, membatalkan kebenaran Foto dalam Tetapan iOS dan memadamkan rupa yang disimpan di dalam PartMirror.",
+      "privacyPurchasesTitle": "PartMirror Tanpa Iklan",
+      "privacyPurchasesBody": "Apple memproses pembelian dan pengurusan langganan Tanpa Iklan PartMirror. PartMirror membaca status langganan yang disahkan Apple hanya untuk mengalih keluar atau memulihkan pengiklanan. PartMirror tidak mengendalikan sistem akaun atau menyimpan butiran kad pembayaran."
     }
   },
   "nl-NL": {
@@ -3348,7 +3522,7 @@
       "effectiveDate": "Effectief op 30 augustus 2026",
       "privacyIntro": "Dit beleid beschrijft de huidige PartMirror iPhone app en deze website.",
       "privacyCollectionTitle": "Gegevensverzameling",
-      "privacyCollectionBody": "PartMirror versie 1.0.0 verzamelt geen persoonlijke gegevens. Het heeft geen accountsysteem, analyse, advertentie-SDK of externe serverupload.",
+      "privacyCollectionBody": "PartMirror gebruikt Google AdMob en de toestemmingstools van Google om niet-gepersonaliseerde banneradvertenties weer te geven. De advertentieservices kunnen apparaat- en netwerkinformatie ontvangen, maar PartMirror levert nooit camerabeelden, gezichtsgeometrie, opgeslagen looks, namen of onderdeelrecepten voor advertentietargeting.",
       "privacyCameraTitle": "Camera- en gezichtstracking",
       "privacyCameraBody": "Frames van de camera aan de voorkant en informatie over gezichtsherkenning worden op uw iPhone verwerkt om de gids te plaatsen. PartMirror stuurt geen cameraframes, gezichtsgeometrie of trackinginformatie naar ons.",
       "privacyMediaTitle": "Foto's, video's en My Looks",
@@ -3358,7 +3532,7 @@
       "privacyRetentionTitle": "Bewaren en verwijderen",
       "privacyRetentionBody": "Omdat de app geen camera- of mediagegevens naar ons verzendt, bewaren wij die gegevens niet. U kunt opgeslagen looks in de app verwijderen of alle lokale app-gegevens verwijderen door PartMirror te verwijderen.",
       "privacyAdsTitle": "Reclame en analyse",
-      "privacyAdsBody": "De huidige release geeft geen advertenties weer en omvat geen advertentie- of analysediensten. We zullen dit beleid bijwerken voordat we toekomstige services inschakelen die deze praktijken wijzigen.",
+      "privacyAdsBody": "De gratis versie maakt gebruik van Google AdMob en de toestemmingstools van Google om niet-gepersonaliseerde banneradvertenties weer te geven. Google kan een IP-adres, apparaat-ID's, advertentiegegevens, productinteracties, prestatiegegevens en diagnostische gegevens verwerken. PartMirror levert nooit camerabeelden, gezichtsgeometrie, opgeslagen looks, namen of onderdeelrecepten voor reclame. Abonnees ontvangen geen advertenties en PartMirror start AdMob niet terwijl geverifieerde advertentievrije toegang actief is.",
       "privacyChildrenTitle": "Kinderen",
       "privacyChildrenBody": "PartMirror is niet specifiek gericht op kinderen jonger dan 13 jaar, en we verzamelen niet bewust persoonlijke gegevens van kinderen.",
       "privacyChangesTitle": "Wijzigingen in dit beleid",
@@ -3386,7 +3560,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Standaard EULA",
       "legalTranslationNote": "Voor het gemak zijn er vertalingen beschikbaar. Als een vertaalde versie conflicteert met de Engelse versie, prevaleert de Engelse versie waar dit wettelijk is toegestaan.",
-      "footerRights": "Alle rechten voorbehouden."
+      "footerRights": "Alle rechten voorbehouden.",
+      "faqAdsQ": "PartMirror zonder advertenties",
+      "faqAdsA": "Verwijder alle advertenties in PartMirror.",
+      "faqPrivacyQ": "Advertenties",
+      "faqPrivacyA": "U kunt de privacykeuzes voor advertenties beheren in Instellingen wanneer de privacyopties van Google beschikbaar zijn, abonnementen beheren of annuleren via de App Store, de toestemming voor Foto's intrekken in de iOS-instellingen en opgeslagen looks verwijderen in PartMirror.",
+      "privacyPurchasesTitle": "PartMirror zonder advertenties",
+      "privacyPurchasesBody": "Apple verwerkt PartMirror Ad-Free aankopen en abonnementsbeheer. PartMirror leest alleen de door Apple geverifieerde abonnementsstatus om advertenties te verwijderen of te herstellen. PartMirror hanteert geen accountsysteem en slaat geen betaalkaartgegevens op."
     }
   },
   "no": {
@@ -3461,7 +3641,7 @@
       "effectiveDate": "Gjelder 30. august 2026",
       "privacyIntro": "Denne policyen beskriver den gjeldende PartMirror iPhone-appen og denne nettsiden.",
       "privacyCollectionTitle": "Datainnsamling",
-      "privacyCollectionBody": "PartMirror versjon 1.0.0 samler ikke inn personopplysninger. Den har ikke noe kontosystem, analyse, reklame-SDK eller ekstern serveropplasting.",
+      "privacyCollectionBody": "PartMirror bruker Google AdMob og Googles samtykkeverktøy for å levere ikke-tilpassede bannerannonser. Annonsetjenestene kan motta enhets- og nettverksinformasjon, men PartMirror leverer aldri kamerabilder, ansiktsgeometri, lagrede utseende, navn eller deloppskrifter for annonsemålretting.",
       "privacyCameraTitle": "Kamera og ansiktssporing",
       "privacyCameraBody": "Frontkamerarammer og ansiktssporingsinformasjon behandles på iPhone for å plassere guiden. PartMirror sender ikke kamerarammer, ansiktsgeometri eller sporingsinformasjon til oss.",
       "privacyMediaTitle": "Bilder, videoer og My Looks",
@@ -3471,7 +3651,7 @@
       "privacyRetentionTitle": "Oppbevaring og sletting",
       "privacyRetentionBody": "Fordi appen ikke sender kamera- eller mediedata til oss, beholder vi ikke disse dataene. Du kan slette lagrede utseender inne i appen eller fjerne alle lokale appdata ved å avinstallere PartMirror.",
       "privacyAdsTitle": "Reklame og analyser",
-      "privacyAdsBody": "Den nåværende utgivelsen viser ikke reklame og inkluderer ikke reklame- eller analysetjenester. Vi vil oppdatere disse retningslinjene før vi aktiverer fremtidige tjenester som endrer denne praksisen.",
+      "privacyAdsBody": "Gratisversjonen bruker Google AdMob og Googles samtykkeverktøy for å levere ikke-tilpassede bannerannonser. Google kan behandle en IP-adresse, enhetsidentifikatorer, annonsedata, produktinteraksjoner, ytelsesdata og diagnostikk. PartMirror leverer aldri kamerabilder, ansiktsgeometri, lagrede utseende, navn eller deloppskrifter for annonsering. Abonnenter mottar ikke annonser, og PartMirror starter ikke AdMob mens bekreftet annonsefri tilgang er aktiv.",
       "privacyChildrenTitle": "Barn",
       "privacyChildrenBody": "PartMirror er ikke rettet spesifikt til barn under 13 år, og vi samler ikke bevisst inn personopplysninger fra barn.",
       "privacyChangesTitle": "Endringer i denne policyen",
@@ -3499,7 +3679,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Standard EULA",
       "legalTranslationNote": "Oversettelser tilbys for enkelhets skyld. Hvis en oversatt versjon er i konflikt med den engelske versjonen, kontrollerer den engelske versjonen der loven tillater det.",
-      "footerRights": "Alle rettigheter forbeholdt."
+      "footerRights": "Alle rettigheter forbeholdt.",
+      "faqAdsQ": "PartMirror annonsefri",
+      "faqAdsA": "Fjern all reklame i PartMirror.",
+      "faqPrivacyQ": "Annonsering",
+      "faqPrivacyA": "Du kan administrere personvernvalg for annonser i Innstillinger når Googles personvernalternativer er tilgjengelige, administrere eller kansellere abonnementer gjennom App Store, tilbakekalle Bilder-tillatelse i iOS-innstillinger og slette lagrede utseende i PartMirror.",
+      "privacyPurchasesTitle": "PartMirror annonsefri",
+      "privacyPurchasesBody": "Apple behandler PartMirror annonsefrie kjøp og abonnementsadministrasjon. PartMirror leser Apple-verifisert abonnementsstatus bare for å fjerne eller gjenopprette reklame. PartMirror driver ikke et kontosystem eller lagrer betalingskortdetaljer."
     }
   },
   "or-IN": {
@@ -3574,7 +3760,7 @@
       "effectiveDate": "ଅଗଷ୍ଟ 30, 2026 ରୁ କାର୍ଯ୍ୟକାରୀ |",
       "privacyIntro": "ଏହି ନୀତି ସାମ୍ପ୍ରତିକ PartMirror iPhone ଆପ୍ ଏବଂ ଏହି ୱେବସାଇଟ୍ ବର୍ଣ୍ଣନା କରେ |",
       "privacyCollectionTitle": "ତଥ୍ୟ ସଂଗ୍ରହ",
-      "privacyCollectionBody": "PartMirror ସଂସ୍କରଣ 1.0.0 ବ୍ୟକ୍ତିଗତ ତଥ୍ୟ ସଂଗ୍ରହ କରେ ନାହିଁ | ଏହାର କ account ଣସି ଆକାଉଣ୍ଟ୍ ସିଷ୍ଟମ୍, ଆନାଲିଟିକ୍ସ, ବିଜ୍ଞାପନ SDK, କିମ୍ବା ରିମୋଟ୍ ସର୍ଭର ଅପଲୋଡ୍ ନାହିଁ |",
+      "privacyCollectionBody": "ମଧ୍ୟମ ଅଂଶ ଗୁଗୁଲ୍ ଆଡମୋବ୍ ଏବଂ ଅଣ-ବ୍ୟକ୍ତିଗତ ବ୍ୟାନର ବିଜ୍ଞାପନ ବିତରଣ କରିବାକୁ ଗୁଗୁଲର ସମ୍ମତି ଉପକରଣ ବ୍ୟବହାର କରେ | ବିଜ୍ଞାପନ ସେବାଗୁଡିକ ଡିଭାଇସ୍ ଏବଂ ନେଟୱାର୍କ ସୂଚନା ଗ୍ରହଣ କରିପାରନ୍ତି, କିନ୍ତୁ ମଧ୍ୟ ଭାଗ ଭାଗ କେବେବି କ୍ୟାମେରା ପ୍ରତିଛବି, ଚେହେରା ଜ୍ୟାମିତି, ସେଭ୍ ଲୁକ୍, ନାମ, କିମ୍ବା ବିଜ୍ଞାପନ ଟାର୍ଗେଟ୍ ପାଇଁ ପାର୍ଟ ରେସିପି ଯୋଗାଏ ନାହିଁ |",
       "privacyCameraTitle": "କ୍ୟାମେରା ଏବଂ ଫେସ୍ ଟ୍ରାକିଂ |",
       "privacyCameraBody": "ଗାଇଡ୍ ରଖିବା ପାଇଁ ଫ୍ରଣ୍ଟ-କ୍ୟାମେରା ଫ୍ରେମ୍ ଏବଂ ଫେସ୍-ଟ୍ରାକିଂ ସୂଚନା ଆପଣଙ୍କ iPhone ରେ ପ୍ରକ୍ରିୟାକରଣ କରାଯାଏ | PartMirror ଆମକୁ କ୍ୟାମେରା ଫ୍ରେମ୍, ଫେସ୍ ଜ୍ୟାମିତି, କିମ୍ବା ଟ୍ରାକିଂ ସୂଚନା ପଠାଏ ନାହିଁ |",
       "privacyMediaTitle": "ଫଟୋ, ଭିଡିଓ, ଏବଂ My Looks",
@@ -3584,7 +3770,7 @@
       "privacyRetentionTitle": "ଧାରଣ ଏବଂ ବିଲୋପ",
       "privacyRetentionBody": "କାରଣ ଆପ୍ ଆମକୁ କ camera ଣସି କ୍ୟାମେରା କିମ୍ବା ମିଡିଆ ଡାଟା ପଠାଏ ନାହିଁ, ଆମେ ସେହି ତଥ୍ୟକୁ ରଖୁନାହୁଁ | ଆପଣ ଆପ୍ ଭିତରେ ସେଭ୍ ହୋଇଥିବା ଲୁକ୍ ଡିଲିଟ୍ କରିପାରିବେ କିମ୍ବା PartMirror ଅସଂସ୍ଥାପନ କରି ସମସ୍ତ ସ୍ଥାନୀୟ ଆପ୍ ଡାଟା ଅପସାରଣ କରିପାରିବେ |",
       "privacyAdsTitle": "ବିଜ୍ଞାପନ ଏବଂ ଆନାଲିଟିକ୍ସ |",
-      "privacyAdsBody": "ସାମ୍ପ୍ରତିକ ପ୍ରକାଶନରେ ବିଜ୍ଞାପନ ପ୍ରଦର୍ଶିତ ହୁଏ ନାହିଁ ଏବଂ ବିଜ୍ଞାପନ କିମ୍ବା ଆନାଲିଟିକ୍ସ ସେବା ଅନ୍ତର୍ଭୂକ୍ତ କରେ ନାହିଁ | ଭବିଷ୍ୟତର ସେବାକୁ ସକ୍ଷମ କରିବା ପୂର୍ବରୁ ଆମେ ଏହି ନୀତି ଅପଡେଟ୍ କରିବୁ ଯାହା ଏହି ଅଭ୍ୟାସଗୁଡ଼ିକୁ ପରିବର୍ତ୍ତନ କରେ |",
+      "privacyAdsBody": "ମାଗଣା ସଂସ୍କରଣ ଅଣ-ବ୍ୟକ୍ତିଗତ ବ୍ୟାନର ବିଜ୍ଞାପନ ବିତରଣ କରିବାକୁ ଗୁଗୁଲ୍ ଆଡମୋବ୍ ଏବଂ ଗୁଗୁଲର ସମ୍ମତି ଉପକରଣ ବ୍ୟବହାର କରେ | ଗୁଗୁଲ ହୁଏତ ଏକ IP ଠିକଣା, ଡିଭାଇସ୍ ଆଇଡେଣ୍ଟିଫାୟର୍ସ, ବିଜ୍ଞାପନ ତଥ୍ୟ, ଉତ୍ପାଦର ପାରସ୍ପରିକ କ୍ରିୟା, କାର୍ଯ୍ୟଦକ୍ଷତା ତଥ୍ୟ ଏବଂ ଡାଇଗ୍ନୋଷ୍ଟିକ୍ ପ୍ରକ୍ରିୟାକରଣ କରିପାରେ | ପାର୍ଟ ମିରର୍ କଦାପି କ୍ୟାମେରା ପ୍ରତିଛବି, ଫେସ୍ ଜ୍ୟାମିତି, ସେଭ୍ ଲୁକ୍, ନାମ, କିମ୍ବା ବିଜ୍ଞାପନ ପାଇଁ ପାର୍ଟ ରେସିପି ଯୋଗାଏ ନାହିଁ | ଗ୍ରାହକମାନେ ବିଜ୍ଞାପନ ଗ୍ରହଣ କରନ୍ତି ନାହିଁ, ଏବଂ ଯାଞ୍ଚ ହୋଇଥିବା ବିଜ୍ଞାପନମୁକ୍ତ ପ୍ରବେଶ ସକ୍ରିୟ ଥିବାବେଳେ ପାର୍ଟ ମିରର୍ AdMob ଆରମ୍ଭ କରେ ନାହିଁ |",
       "privacyChildrenTitle": "ପିଲାମାନେ",
       "privacyChildrenBody": "PartMirror 13 ବର୍ଷରୁ କମ୍ ପିଲାମାନଙ୍କ ପାଇଁ ନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ ନିର୍ଦ୍ଦେଶିତ ନୁହେଁ, ଏବଂ ଆମେ ଜାଣିଶୁଣି ପିଲାମାନଙ୍କ ଠାରୁ ବ୍ୟକ୍ତିଗତ ତଥ୍ୟ ସଂଗ୍ରହ କରୁନାହୁଁ |",
       "privacyChangesTitle": "ଏହି ନୀତିରେ ପରିବର୍ତ୍ତନ |",
@@ -3612,7 +3798,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple ମାନକ EULA |",
       "legalTranslationNote": "ସୁବିଧା ପାଇଁ ଅନୁବାଦଗୁଡିକ ପ୍ରଦାନ କରାଯାଇଛି | ଯଦି ଏକ ଅନୁବାଦିତ ସଂସ୍କରଣ ଇଂରାଜୀ ସଂସ୍କରଣ ସହିତ ବିବାଦ କରେ, ଇଂରାଜୀ ସଂସ୍କରଣ ନିୟନ୍ତ୍ରଣ କରେ ଯେଉଁଠାରେ ଆଇନ ଦ୍ୱାରା ଅନୁମତି ପ୍ରାପ୍ତ |",
-      "footerRights": "ସମସ୍ତ ଅଧିକାର ସଂରକ୍ଷିତ |"
+      "footerRights": "ସମସ୍ତ ଅଧିକାର ସଂରକ୍ଷିତ |",
+      "faqAdsQ": "ପାର୍ଟ ମିରର୍ ବିଜ୍ଞାପନମୁକ୍ତ |",
+      "faqAdsA": "PartMirror ରେ ସମସ୍ତ ବିଜ୍ଞାପନ ଅପସାରଣ କରନ୍ତୁ |",
+      "faqPrivacyQ": "ବିଜ୍ଞାପନ |",
+      "faqPrivacyA": "ଯେତେବେଳେ ଗୁଗୁଲର ଗୋପନୀୟତା ବିକଳ୍ପ ଉପଲବ୍ଧ ହୁଏ, ଆପ୍ ଷ୍ଟୋର୍ ମାଧ୍ୟମରେ ସବସ୍କ୍ରିପସନ୍ ପରିଚାଳନା କିମ୍ବା ବାତିଲ୍ କରିବା, iOS ସେଟିଂସମୂହରେ ଫଟୋ ଅନୁମତି ପ୍ରତ୍ୟାହାର କରିବା ଏବଂ ପାର୍ଟ ମିରର୍ ଭିତରେ ସେଭ୍ ଲୁକ୍ ଡିଲିଟ୍ କରିବା ସମୟରେ ଆପଣ ସେଟିଂସମୂହରେ ବିଜ୍ଞାପନ ଗୋପନୀୟତା ପସନ୍ଦ ପରିଚାଳନା କରିପାରିବେ |",
+      "privacyPurchasesTitle": "ପାର୍ଟ ମିରର୍ ବିଜ୍ଞାପନମୁକ୍ତ |",
+      "privacyPurchasesBody": "ଆପଲ୍ ପାର୍ଟ ମିରର୍ ବିଜ୍ଞାପନମୁକ୍ତ କ୍ରୟ ଏବଂ ସଦସ୍ୟତା ପରିଚାଳନା ପ୍ରକ୍ରିୟା କରେ | PartMirror କେବଳ ବିଜ୍ଞାପନ ଅପସାରଣ କିମ୍ବା ପୁନ restore ସ୍ଥାପନ ପାଇଁ ଆପଲ୍-ଯାଞ୍ଚ ହୋଇଥିବା ସଦସ୍ୟତା ସ୍ଥିତି ପ read େ | ପାର୍ଟ ମିରର୍ ଏକ ଆକାଉଣ୍ଟ୍ ସିଷ୍ଟମ୍ କିମ୍ବା ପେମେଣ୍ଟ-କାର୍ଡ ବିବରଣୀ ସଂରକ୍ଷଣ କରେ ନାହିଁ |"
     }
   },
   "pa-IN": {
@@ -3687,7 +3879,7 @@
       "effectiveDate": "30 ਅਗਸਤ, 2026 ਤੋਂ ਲਾਗੂ ਹੈ",
       "privacyIntro": "ਇਹ ਨੀਤੀ ਮੌਜੂਦਾ PartMirror iPhone ਐਪ ਅਤੇ ਇਸ ਵੈਬਸਾਈਟ ਦਾ ਵਰਣਨ ਕਰਦੀ ਹੈ।",
       "privacyCollectionTitle": "ਡਾਟਾ ਇਕੱਠਾ",
-      "privacyCollectionBody": "PartMirror ਸੰਸਕਰਣ 1.0.0 ਨਿੱਜੀ ਡੇਟਾ ਇਕੱਤਰ ਨਹੀਂ ਕਰਦਾ ਹੈ। ਇਸਦਾ ਕੋਈ ਖਾਤਾ ਸਿਸਟਮ, ਵਿਸ਼ਲੇਸ਼ਣ, ਵਿਗਿਆਪਨ SDK, ਜਾਂ ਰਿਮੋਟ ਸਰਵਰ ਅਪਲੋਡ ਨਹੀਂ ਹੈ।",
+      "privacyCollectionBody": "ਮਿਡਲ ਭਾਗ ਗੈਰ-ਵਿਅਕਤੀਗਤ ਬੈਨਰ ਵਿਗਿਆਪਨ ਪ੍ਰਦਾਨ ਕਰਨ ਲਈ Google AdMob ਅਤੇ Google ਦੇ ਸਹਿਮਤੀ ਸਾਧਨਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ। ਵਿਗਿਆਪਨ ਸੇਵਾਵਾਂ ਡਿਵਾਈਸ ਅਤੇ ਨੈਟਵਰਕ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੀਆਂ ਹਨ, ਪਰ ਮਿਡਲ ਭਾਗ ਕਦੇ ਵੀ ਕੈਮਰਾ ਚਿੱਤਰਾਂ, ਚਿਹਰੇ ਦੀ ਜਿਓਮੈਟਰੀ, ਸੇਵ ਕੀਤੀ ਦਿੱਖ, ਨਾਮ, ਜਾਂ ਵਿਗਿਆਪਨ ਨਿਸ਼ਾਨਾ ਬਣਾਉਣ ਲਈ ਭਾਗ ਪਕਵਾਨਾਂ ਦੀ ਸਪਲਾਈ ਨਹੀਂ ਕਰਦਾ ਹੈ।",
       "privacyCameraTitle": "ਕੈਮਰਾ ਅਤੇ ਫੇਸ ਟ੍ਰੈਕਿੰਗ",
       "privacyCameraBody": "ਗਾਈਡ ਰੱਖਣ ਲਈ ਫਰੰਟ-ਕੈਮਰਾ ਫਰੇਮ ਅਤੇ ਫੇਸ-ਟਰੈਕਿੰਗ ਜਾਣਕਾਰੀ ਤੁਹਾਡੇ iPhone 'ਤੇ ਪ੍ਰਕਿਰਿਆ ਕੀਤੀ ਜਾਂਦੀ ਹੈ। PartMirror ਸਾਨੂੰ ਕੈਮਰਾ ਫਰੇਮ, ਚਿਹਰੇ ਦੀ ਜਿਓਮੈਟਰੀ, ਜਾਂ ਟਰੈਕਿੰਗ ਜਾਣਕਾਰੀ ਨਹੀਂ ਭੇਜਦਾ ਹੈ।",
       "privacyMediaTitle": "ਫੋਟੋਆਂ, ਵੀਡੀਓਜ਼, ਅਤੇ My Looks",
@@ -3697,7 +3889,7 @@
       "privacyRetentionTitle": "ਧਾਰਨ ਅਤੇ ਮਿਟਾਉਣਾ",
       "privacyRetentionBody": "ਕਿਉਂਕਿ ਐਪ ਸਾਨੂੰ ਕੋਈ ਕੈਮਰਾ ਜਾਂ ਮੀਡੀਆ ਡੇਟਾ ਨਹੀਂ ਭੇਜਦੀ ਹੈ, ਅਸੀਂ ਉਸ ਡੇਟਾ ਨੂੰ ਬਰਕਰਾਰ ਨਹੀਂ ਰੱਖਦੇ ਹਾਂ। ਤੁਸੀਂ PartMirror ਨੂੰ ਅਣਇੰਸਟੌਲ ਕਰਕੇ ਐਪ ਦੇ ਅੰਦਰ ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਦਿੱਖਾਂ ਨੂੰ ਮਿਟਾ ਸਕਦੇ ਹੋ ਜਾਂ ਸਾਰੇ ਸਥਾਨਕ ਐਪ ਡੇਟਾ ਨੂੰ ਹਟਾ ਸਕਦੇ ਹੋ।",
       "privacyAdsTitle": "ਵਿਗਿਆਪਨ ਅਤੇ ਵਿਸ਼ਲੇਸ਼ਣ",
-      "privacyAdsBody": "ਮੌਜੂਦਾ ਰੀਲੀਜ਼ ਵਿਗਿਆਪਨ ਪ੍ਰਦਰਸ਼ਿਤ ਨਹੀਂ ਕਰਦੀ ਹੈ ਅਤੇ ਇਸ ਵਿੱਚ ਵਿਗਿਆਪਨ ਜਾਂ ਵਿਸ਼ਲੇਸ਼ਣ ਸੇਵਾਵਾਂ ਸ਼ਾਮਲ ਨਹੀਂ ਹਨ। ਅਸੀਂ ਕਿਸੇ ਵੀ ਭਵਿੱਖੀ ਸੇਵਾ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਇਸ ਨੀਤੀ ਨੂੰ ਅਪਡੇਟ ਕਰਾਂਗੇ ਜੋ ਇਹਨਾਂ ਅਭਿਆਸਾਂ ਨੂੰ ਬਦਲਦੀ ਹੈ।",
+      "privacyAdsBody": "ਮੁਫਤ ਸੰਸਕਰਣ ਗੈਰ-ਵਿਅਕਤੀਗਤ ਬੈਨਰ ਵਿਗਿਆਪਨ ਪ੍ਰਦਾਨ ਕਰਨ ਲਈ Google AdMob ਅਤੇ Google ਦੇ ਸਹਿਮਤੀ ਸਾਧਨਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ। Google ਇੱਕ IP ਪਤੇ, ਡਿਵਾਈਸ ਪਛਾਣਕਰਤਾ, ਵਿਗਿਆਪਨ ਡੇਟਾ, ਉਤਪਾਦ ਅੰਤਰਕਿਰਿਆਵਾਂ, ਪ੍ਰਦਰਸ਼ਨ ਡੇਟਾ, ਅਤੇ ਡਾਇਗਨੌਸਟਿਕਸ ਦੀ ਪ੍ਰਕਿਰਿਆ ਕਰ ਸਕਦਾ ਹੈ। PartMirror ਕਦੇ ਵੀ ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ ਲਈ ਕੈਮਰਾ ਚਿੱਤਰ, ਚਿਹਰੇ ਦੀ ਜਿਓਮੈਟਰੀ, ਸੁਰੱਖਿਅਤ ਕੀਤੀ ਦਿੱਖ, ਨਾਮ ਜਾਂ ਭਾਗਾਂ ਦੀਆਂ ਪਕਵਾਨਾਂ ਦੀ ਸਪਲਾਈ ਨਹੀਂ ਕਰਦਾ ਹੈ। ਗਾਹਕ ਵਿਗਿਆਪਨ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰਦੇ ਹਨ, ਅਤੇ ਤਸਦੀਕ ਵਿਗਿਆਪਨ-ਮੁਕਤ ਪਹੁੰਚ ਸਰਗਰਮ ਹੋਣ 'ਤੇ PartMirror AdMob ਸ਼ੁਰੂ ਨਹੀਂ ਕਰਦਾ ਹੈ।",
       "privacyChildrenTitle": "ਬੱਚੇ",
       "privacyChildrenBody": "PartMirror ਖਾਸ ਤੌਰ 'ਤੇ 13 ਸਾਲ ਤੋਂ ਘੱਟ ਉਮਰ ਦੇ ਬੱਚਿਆਂ ਲਈ ਨਹੀਂ ਹੈ, ਅਤੇ ਅਸੀਂ ਜਾਣਬੁੱਝ ਕੇ ਬੱਚਿਆਂ ਤੋਂ ਨਿੱਜੀ ਡਾਟਾ ਇਕੱਠਾ ਨਹੀਂ ਕਰਦੇ ਹਾਂ।",
       "privacyChangesTitle": "ਇਸ ਨੀਤੀ ਵਿੱਚ ਬਦਲਾਅ",
@@ -3725,7 +3917,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple ਮਿਆਰੀ EULA",
       "legalTranslationNote": "ਸਹੂਲਤ ਲਈ ਅਨੁਵਾਦ ਪ੍ਰਦਾਨ ਕੀਤੇ ਗਏ ਹਨ। ਜੇਕਰ ਅਨੁਵਾਦਿਤ ਸੰਸਕਰਣ ਅੰਗਰੇਜ਼ੀ ਸੰਸਕਰਣ ਦੇ ਨਾਲ ਟਕਰਾਅ ਕਰਦਾ ਹੈ, ਤਾਂ ਅੰਗਰੇਜ਼ੀ ਸੰਸਕਰਣ ਕੰਟਰੋਲ ਕਰਦਾ ਹੈ ਜਿੱਥੇ ਕਨੂੰਨ ਦੁਆਰਾ ਆਗਿਆ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ।",
-      "footerRights": "ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ."
+      "footerRights": "ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ.",
+      "faqAdsQ": "ਭਾਗ ਮਿਰਰ ਵਿਗਿਆਪਨ-ਮੁਕਤ",
+      "faqAdsA": "PartMirror ਵਿੱਚ ਸਾਰੇ ਇਸ਼ਤਿਹਾਰ ਹਟਾਓ।",
+      "faqPrivacyQ": "ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ",
+      "faqPrivacyA": "ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਵਿਗਿਆਪਨ ਗੋਪਨੀਯਤਾ ਵਿਕਲਪਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰ ਸਕਦੇ ਹੋ ਜਦੋਂ Google ਦੇ ਗੋਪਨੀਯਤਾ ਵਿਕਲਪ ਉਪਲਬਧ ਹੁੰਦੇ ਹਨ, ਐਪ ਸਟੋਰ ਰਾਹੀਂ ਗਾਹਕੀਆਂ ਨੂੰ ਪ੍ਰਬੰਧਿਤ ਜਾਂ ਰੱਦ ਕਰ ਸਕਦੇ ਹੋ, iOS ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਫੋਟੋਆਂ ਦੀ ਇਜਾਜ਼ਤ ਨੂੰ ਰੱਦ ਕਰ ਸਕਦੇ ਹੋ, ਅਤੇ PartMirror ਦੇ ਅੰਦਰ ਰੱਖਿਅਤ ਰੂਪਾਂ ਨੂੰ ਮਿਟਾ ਸਕਦੇ ਹੋ।",
+      "privacyPurchasesTitle": "ਭਾਗ ਮਿਰਰ ਵਿਗਿਆਪਨ-ਮੁਕਤ",
+      "privacyPurchasesBody": "Apple PartMirror ਵਿਗਿਆਪਨ-ਮੁਕਤ ਖਰੀਦਦਾਰੀ ਅਤੇ ਗਾਹਕੀ ਪ੍ਰਬੰਧਨ ਦੀ ਪ੍ਰਕਿਰਿਆ ਕਰਦਾ ਹੈ। PartMirror ਸਿਰਫ਼ ਵਿਗਿਆਪਨ ਨੂੰ ਹਟਾਉਣ ਜਾਂ ਰੀਸਟੋਰ ਕਰਨ ਲਈ ਐਪਲ-ਪ੍ਰਮਾਣਿਤ ਗਾਹਕੀ ਸਥਿਤੀ ਨੂੰ ਪੜ੍ਹਦਾ ਹੈ। PartMirror ਕੋਈ ਖਾਤਾ ਸਿਸਟਮ ਨਹੀਂ ਚਲਾਉਂਦਾ ਜਾਂ ਭੁਗਤਾਨ-ਕਾਰਡ ਦੇ ਵੇਰਵਿਆਂ ਨੂੰ ਸਟੋਰ ਨਹੀਂ ਕਰਦਾ ਹੈ।"
     }
   },
   "pl": {
@@ -3800,7 +3998,7 @@
       "effectiveDate": "Obowiązuje od 30 sierpnia 2026 r",
       "privacyIntro": "Niniejsza polityka opisuje aktualną aplikację PartMirror iPhone i tę witrynę internetową.",
       "privacyCollectionTitle": "Zbieranie danych",
-      "privacyCollectionBody": "PartMirror wersja 1.0.0 nie zbiera danych osobowych. Nie ma systemu kont, analiz, pakietu SDK do reklam ani zdalnego przesyłania na serwer.",
+      "privacyCollectionBody": "PartMirror korzysta z Google AdMob i narzędzi Google do uzyskiwania zgody w celu dostarczania niespersonalizowanych banerów reklamowych. Usługi reklamowe mogą otrzymywać informacje o urządzeniu i sieci, ale PartMirror nigdy nie dostarcza obrazów z kamer, geometrii twarzy, zapisanych wyglądów, imion ani receptur części na potrzeby kierowania reklam.",
       "privacyCameraTitle": "Śledzenie kamery i twarzy",
       "privacyCameraBody": "Kadry z przedniego aparatu i informacje o śledzeniu twarzy są przetwarzane na Twoim iPhone w celu umieszczenia przewodnika. PartMirror nie wysyła do nas klatek aparatu, geometrii twarzy ani informacji o śledzeniu.",
       "privacyMediaTitle": "Zdjęcia, filmy i My Looks",
@@ -3810,7 +4008,7 @@
       "privacyRetentionTitle": "Przechowywanie i usuwanie",
       "privacyRetentionBody": "Ponieważ aplikacja nie wysyła do nas danych z aparatu ani multimediów, nie przechowujemy tych danych. Możesz usunąć zapisane wyglądy w aplikacji lub usunąć wszystkie lokalne dane aplikacji, odinstalowując PartMirror.",
       "privacyAdsTitle": "Reklama i analityka",
-      "privacyAdsBody": "Obecna wersja nie wyświetla reklam i nie obejmuje usług reklamowych ani analitycznych. Zaktualizujemy tę politykę przed udostępnieniem jakiejkolwiek przyszłej usługi zmieniającej te praktyki.",
+      "privacyAdsBody": "Wersja bezpłatna wykorzystuje Google AdMob i narzędzia Google do uzyskiwania zgody w celu dostarczania niespersonalizowanych banerów reklamowych. Google może przetwarzać adres IP, identyfikatory urządzeń, dane reklamowe, interakcje z produktami, dane dotyczące wydajności i diagnostykę. PartMirror nigdy nie dostarcza obrazów z kamer, geometrii twarzy, zapisanych wyglądów, imion ani receptur części do celów reklamowych. Abonenci nie otrzymują reklam, a PartMirror nie uruchamia AdMob, gdy aktywny jest zweryfikowany dostęp bez reklam.",
       "privacyChildrenTitle": "Dzieci",
       "privacyChildrenBody": "PartMirror nie jest skierowany specjalnie do dzieci poniżej 13 roku życia i nie gromadzimy świadomie danych osobowych dzieci.",
       "privacyChangesTitle": "Zmiany w niniejszej polityce",
@@ -3838,7 +4036,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Standardowa umowa EULA",
       "legalTranslationNote": "Dla wygody zapewniono tłumaczenia. Jeśli przetłumaczona wersja jest sprzeczna z wersją angielską, wersja angielska ma pierwszeństwo, jeśli jest to dozwolone przez prawo.",
-      "footerRights": "Wszelkie prawa zastrzeżone."
+      "footerRights": "Wszelkie prawa zastrzeżone.",
+      "faqAdsQ": "PartMirror bez reklam",
+      "faqAdsA": "Usuń wszystkie reklamy z PartMirror.",
+      "faqPrivacyQ": "Reklama",
+      "faqPrivacyA": "Możesz zarządzać ustawieniami prywatności reklam w Ustawieniach, gdy dostępne są opcje prywatności Google, zarządzać subskrypcjami lub je anulować za pośrednictwem App Store, cofać uprawnienia do zdjęć w Ustawieniach iOS i usuwać zapisane wyglądy w PartMirror.",
+      "privacyPurchasesTitle": "PartMirror bez reklam",
+      "privacyPurchasesBody": "Apple przetwarza zakupy PartMirror bez reklam i zarządza subskrypcjami. PartMirror odczytuje status subskrypcji zweryfikowany przez Apple tylko w celu usunięcia lub przywrócenia reklam. PartMirror nie obsługuje systemu kont ani nie przechowuje danych kart płatniczych."
     }
   },
   "pt-BR": {
@@ -3913,7 +4117,7 @@
       "effectiveDate": "Em vigor a partir de 30 de agosto de 2026",
       "privacyIntro": "Esta política descreve o aplicativo PartMirror iPhone atual e este site.",
       "privacyCollectionTitle": "Coleta de dados",
-      "privacyCollectionBody": "PartMirror versão 1.0.0 não coleta dados pessoais. Não possui sistema de contas, análises, SDK de publicidade ou upload de servidor remoto.",
+      "privacyCollectionBody": "PartMirror usa o Google AdMob e as ferramentas de consentimento do Google para exibir anúncios de banner não personalizados. Os serviços de anúncios podem receber informações do dispositivo e da rede, mas o PartMirror nunca fornece imagens de câmeras, geometria facial, aparência salva, nomes ou receitas de peças para segmentação de anúncios.",
       "privacyCameraTitle": "Câmera e rastreamento facial",
       "privacyCameraBody": "Os quadros da câmera frontal e as informações de rastreamento facial são processados no seu iPhone para colocar o guia. PartMirror não nos envia molduras de câmera, geometria facial ou informações de rastreamento.",
       "privacyMediaTitle": "Fotos, vídeos e My Looks",
@@ -3923,7 +4127,7 @@
       "privacyRetentionTitle": "Retenção e exclusão",
       "privacyRetentionBody": "Como o aplicativo não nos envia dados de câmera ou mídia, não retemos esses dados. Você pode excluir looks salvos dentro do aplicativo ou remover todos os dados locais do aplicativo desinstalando PartMirror.",
       "privacyAdsTitle": "Publicidade e análise",
-      "privacyAdsBody": "A versão atual não exibe publicidade e não inclui serviços de publicidade ou análise. Atualizaremos esta política antes de ativar qualquer serviço futuro que altere essas práticas.",
+      "privacyAdsBody": "A versão gratuita usa o Google AdMob e as ferramentas de consentimento do Google para exibir banners não personalizados. O Google pode processar endereços IP, identificadores de dispositivos, dados de publicidade, interações de produtos, dados de desempenho e diagnósticos. PartMirror nunca fornece imagens de câmeras, geometria de rosto, aparências salvas, nomes ou receitas de peças para publicidade. Os assinantes não recebem anúncios e o PartMirror não inicia a AdMob enquanto o acesso verificado sem anúncios estiver ativo.",
       "privacyChildrenTitle": "Crianças",
       "privacyChildrenBody": "PartMirror não é direcionado especificamente a crianças menores de 13 anos e não coletamos intencionalmente dados pessoais de crianças.",
       "privacyChangesTitle": "Alterações nesta política",
@@ -3951,7 +4155,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple EULA padrão",
       "legalTranslationNote": "As traduções são fornecidas por conveniência. Se uma versão traduzida entrar em conflito com a versão em inglês, a versão em inglês prevalecerá onde for permitido por lei.",
-      "footerRights": "Todos os direitos reservados."
+      "footerRights": "Todos os direitos reservados.",
+      "faqAdsQ": "PartMirror sem anúncios",
+      "faqAdsA": "Remova todos os anúncios do PartMirror.",
+      "faqPrivacyQ": "Publicidade",
+      "faqPrivacyA": "Você pode gerenciar as opções de privacidade de anúncios nas configurações quando as opções de privacidade do Google estiverem disponíveis, gerenciar ou cancelar assinaturas por meio da App Store, revogar a permissão do Fotos nas configurações do iOS e excluir looks salvos no PartMirror.",
+      "privacyPurchasesTitle": "PartMirror sem anúncios",
+      "privacyPurchasesBody": "A Apple processa compras e gerenciamento de assinaturas do PartMirror Ad-Free. PartMirror lê o status da assinatura verificada pela Apple apenas para remover ou restaurar publicidade. PartMirror não opera um sistema de conta nem armazena detalhes de cartão de pagamento."
     }
   },
   "pt-PT": {
@@ -4026,7 +4236,7 @@
       "effectiveDate": "Em vigor a partir de 30 de agosto de 2026",
       "privacyIntro": "Esta política descreve o aplicativo PartMirror iPhone atual e este site.",
       "privacyCollectionTitle": "Coleta de dados",
-      "privacyCollectionBody": "PartMirror versão 1.0.0 não coleta dados pessoais. Não possui sistema de contas, análises, SDK de publicidade ou upload de servidor remoto.",
+      "privacyCollectionBody": "PartMirror usa o Google AdMob e as ferramentas de consentimento do Google para exibir anúncios de banner não personalizados. Os serviços de anúncios podem receber informações do dispositivo e da rede, mas o PartMirror nunca fornece imagens de câmeras, geometria facial, aparência salva, nomes ou receitas de peças para segmentação de anúncios.",
       "privacyCameraTitle": "Câmera e rastreamento facial",
       "privacyCameraBody": "Os quadros da câmera frontal e as informações de rastreamento facial são processados no seu iPhone para colocar o guia. PartMirror não nos envia molduras de câmera, geometria facial ou informações de rastreamento.",
       "privacyMediaTitle": "Fotos, vídeos e My Looks",
@@ -4036,7 +4246,7 @@
       "privacyRetentionTitle": "Retenção e exclusão",
       "privacyRetentionBody": "Como o aplicativo não nos envia dados de câmera ou mídia, não retemos esses dados. Você pode excluir looks salvos dentro do aplicativo ou remover todos os dados locais do aplicativo desinstalando PartMirror.",
       "privacyAdsTitle": "Publicidade e análise",
-      "privacyAdsBody": "A versão atual não exibe publicidade e não inclui serviços de publicidade ou análise. Atualizaremos esta política antes de ativar qualquer serviço futuro que altere essas práticas.",
+      "privacyAdsBody": "A versão gratuita usa o Google AdMob e as ferramentas de consentimento do Google para exibir banners não personalizados. O Google pode processar endereços IP, identificadores de dispositivos, dados de publicidade, interações de produtos, dados de desempenho e diagnósticos. PartMirror nunca fornece imagens de câmeras, geometria de rosto, aparência salva, nomes ou receitas de peças para publicidade. Os assinantes não recebem anúncios e o PartMirror não inicia a AdMob enquanto o acesso verificado sem anúncios estiver ativo.",
       "privacyChildrenTitle": "Crianças",
       "privacyChildrenBody": "PartMirror não é direcionado especificamente a crianças menores de 13 anos e não coletamos intencionalmente dados pessoais de crianças.",
       "privacyChangesTitle": "Alterações nesta política",
@@ -4064,7 +4274,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple EULA padrão",
       "legalTranslationNote": "As traduções são fornecidas por conveniência. Se uma versão traduzida entrar em conflito com a versão em inglês, a versão em inglês prevalecerá onde for permitido por lei.",
-      "footerRights": "Todos os direitos reservados."
+      "footerRights": "Todos os direitos reservados.",
+      "faqAdsQ": "PartMirror sem anúncios",
+      "faqAdsA": "Remova todos os anúncios do PartMirror.",
+      "faqPrivacyQ": "Publicidade",
+      "faqPrivacyA": "Você pode gerenciar as opções de privacidade de anúncios nas configurações quando as opções de privacidade do Google estiverem disponíveis, gerenciar ou cancelar assinaturas por meio da App Store, revogar a permissão do Fotos nas configurações do iOS e excluir looks salvos no PartMirror.",
+      "privacyPurchasesTitle": "PartMirror sem anúncios",
+      "privacyPurchasesBody": "A Apple processa compras e gerenciamento de assinaturas do PartMirror Ad-Free. PartMirror lê o status da assinatura verificada pela Apple apenas para remover ou restaurar publicidade. PartMirror não opera um sistema de conta nem armazena detalhes de cartão de pagamento."
     }
   },
   "ro": {
@@ -4139,7 +4355,7 @@
       "effectiveDate": "În vigoare la 30 august 2026",
       "privacyIntro": "Această politică descrie aplicația actuală PartMirror iPhone și acest site web.",
       "privacyCollectionTitle": "Colectarea datelor",
-      "privacyCollectionBody": "PartMirror versiunea 1.0.0 nu colectează date personale. Nu are sistem de conturi, analize, SDK de publicitate sau încărcare de la distanță pe server.",
+      "privacyCollectionBody": "PartMirror folosește Google AdMob și instrumentele de consimțământ ale Google pentru a difuza anunțuri banner nepersonalizate. Serviciile publicitare pot primi informații despre dispozitiv și rețea, dar PartMirror nu furnizează niciodată imagini ale camerei, geometrie feței, aspect salvat, nume sau rețete de părți pentru direcționarea anunțurilor.",
       "privacyCameraTitle": "Urmărirea camerei și a feței",
       "privacyCameraBody": "Cadrele camerei frontale și informațiile de urmărire a feței sunt procesate pe iPhone pentru a plasa ghidul. PartMirror nu ne trimite cadre ale camerei, geometria feței sau informații de urmărire.",
       "privacyMediaTitle": "Fotografii, videoclipuri și My Looks",
@@ -4149,7 +4365,7 @@
       "privacyRetentionTitle": "Păstrarea și ștergerea",
       "privacyRetentionBody": "Deoarece aplicația nu ne trimite date despre cameră sau media, nu reținem acele date. Puteți șterge look-urile salvate din aplicație sau puteți elimina toate datele aplicației locale dezinstalând PartMirror.",
       "privacyAdsTitle": "Publicitate și analiză",
-      "privacyAdsBody": "Versiunea actuală nu afișează publicitate și nu include reclame sau servicii de analiză. Vom actualiza această politică înainte de a activa orice serviciu viitor care modifică aceste practici.",
+      "privacyAdsBody": "Versiunea gratuită folosește Google AdMob și instrumentele de consimțământ ale Google pentru a difuza anunțuri banner nepersonalizate. Google poate procesa o adresă IP, identificatori de dispozitiv, date publicitare, interacțiuni cu produse, date de performanță și diagnostice. PartMirror nu furnizează niciodată imagini ale camerei, geometrie feței, aspect salvat, nume sau rețete de părți pentru publicitate. Abonații nu primesc reclame, iar PartMirror nu pornește AdMob în timp ce accesul fără anunțuri verificat este activ.",
       "privacyChildrenTitle": "Copii",
       "privacyChildrenBody": "PartMirror nu se adresează în mod special copiilor sub 13 ani și nu colectăm cu bună știință date personale de la copii.",
       "privacyChangesTitle": "Modificări ale acestei politici",
@@ -4177,7 +4393,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple EULA standard",
       "legalTranslationNote": "Pentru comoditate, sunt oferite traduceri. Dacă o versiune tradusă intră în conflict cu versiunea în limba engleză, versiunea în limba engleză controlează acolo unde este permis de lege.",
-      "footerRights": "Toate drepturile rezervate."
+      "footerRights": "Toate drepturile rezervate.",
+      "faqAdsQ": "PartMirror fără reclame",
+      "faqAdsA": "Eliminați toate reclamele din PartMirror.",
+      "faqPrivacyQ": "Publicitate",
+      "faqPrivacyA": "Puteți gestiona opțiunile de confidențialitate a anunțurilor în Setări atunci când opțiunile de confidențialitate ale Google sunt disponibile, puteți gestiona sau anula abonamentele prin App Store, puteți revoca permisiunea Fotografii din Setările iOS și puteți șterge look-urile salvate din PartMirror.",
+      "privacyPurchasesTitle": "PartMirror fără reclame",
+      "privacyPurchasesBody": "Apple procesează achizițiile PartMirror Ad-Free și gestionarea abonamentelor. PartMirror citește starea abonamentului verificat de Apple doar pentru a elimina sau a restabili publicitatea. PartMirror nu operează un sistem de cont și nu stochează detaliile cardului de plată."
     }
   },
   "ru": {
@@ -4252,7 +4474,7 @@
       "effectiveDate": "Вступает в силу 30 августа 2026 г.",
       "privacyIntro": "Эта политика описывает текущее приложение PartMirror iPhone и этот веб-сайт.",
       "privacyCollectionTitle": "Сбор данных",
-      "privacyCollectionBody": "PartMirror версии 1.0.0 не собирает персональные данные. У него нет системы учетных записей, аналитики, рекламного SDK или удаленной загрузки на сервер.",
+      "privacyCollectionBody": "Средняя часть использует Google AdMob и инструменты согласия Google для показа неперсонализированной баннерной рекламы. Рекламные службы могут получать информацию об устройстве и сети, но PartMirror никогда не предоставляет изображения с камеры, геометрию лица, сохраненные образы, имена или рецепты деталей для таргетинга рекламы.",
       "privacyCameraTitle": "Камера и отслеживание лиц",
       "privacyCameraBody": "Для размещения руководства на вашем iPhone обрабатываются кадры передней камеры и информация об отслеживании лица. PartMirror не отправляет нам кадры камеры, геометрию лица или информацию отслеживания.",
       "privacyMediaTitle": "Фотографии, видео и My Looks",
@@ -4262,7 +4484,7 @@
       "privacyRetentionTitle": "Хранение и удаление",
       "privacyRetentionBody": "Поскольку приложение не отправляет нам данные камеры или мультимедиа, мы не сохраняем эти данные. Вы можете удалить сохраненные образы внутри приложения или удалить все локальные данные приложения, удалив PartMirror.",
       "privacyAdsTitle": "Реклама и аналитика",
-      "privacyAdsBody": "Текущая версия не отображает рекламу и не включает рекламные или аналитические услуги. Мы обновим эту политику, прежде чем включать любую будущую службу, которая меняет эту практику.",
+      "privacyAdsBody": "Бесплатная версия использует Google AdMob и инструменты согласия Google для показа неперсонализированной баннерной рекламы. Google может обрабатывать IP-адрес, идентификаторы устройств, рекламные данные, данные о взаимодействии продуктов, данные о производительности и диагностику. PartMirror никогда не предоставляет изображения с камеры, геометрию лица, сохраненные образы, названия или рецепты деталей для рекламы. Подписчики не получают рекламу, а PartMirror не запускает AdMob, пока активен подтвержденный доступ без рекламы.",
       "privacyChildrenTitle": "Дети",
       "privacyChildrenBody": "PartMirror не предназначен специально для детей до 13 лет, и мы сознательно не собираем персональные данные от детей.",
       "privacyChangesTitle": "Изменения в этой политике",
@@ -4290,7 +4512,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Стандартное лицензионное соглашение",
       "legalTranslationNote": "Переводы предоставлены для удобства. Если переведенная версия противоречит английской версии, английская версия имеет преимущественную силу, если это разрешено законом.",
-      "footerRights": "Все права защищены."
+      "footerRights": "Все права защищены.",
+      "faqAdsQ": "PartMirror без рекламы",
+      "faqAdsA": "Удалите всю рекламу в PartMirror.",
+      "faqPrivacyQ": "Реклама",
+      "faqPrivacyA": "Вы можете управлять настройками конфиденциальности рекламы в настройках, если доступны параметры конфиденциальности Google, управлять подписками или отменять их через App Store, отозвать разрешение на использование фотографий в настройках iOS и удалить сохраненные образы в PartMirror.",
+      "privacyPurchasesTitle": "PartMirror без рекламы",
+      "privacyPurchasesBody": "Apple обрабатывает покупки PartMirror без рекламы и управление подписками. PartMirror считывает статус подписки, подтвержденный Apple, только для удаления или восстановления рекламы. PartMirror не управляет системой учетных записей и не хранит данные платежных карт."
     }
   },
   "sk": {
@@ -4365,7 +4593,7 @@
       "effectiveDate": "Účinné od 30. augusta 2026",
       "privacyIntro": "Tieto pravidlá popisujú aktuálnu aplikáciu PartMirror iPhone a túto webovú lokalitu.",
       "privacyCollectionTitle": "Zber údajov",
-      "privacyCollectionBody": "PartMirror verzia 1.0.0 nezhromažďuje osobné údaje. Nemá systém účtov, analytiku, reklamnú súpravu SDK ani nahrávanie na vzdialený server.",
+      "privacyCollectionBody": "PartMirror používa Google AdMob a nástroje Google na získanie súhlasu na zobrazovanie neprispôsobených bannerových reklám. Reklamné služby môžu prijímať informácie o zariadení a sieti, ale PartMirror nikdy neposkytuje obrázky z kamery, geometriu tváre, uložené vzhľady, mená ani recepty častí na zacielenie reklamy.",
       "privacyCameraTitle": "Kamera a sledovanie tváre",
       "privacyCameraBody": "Na umiestnenie sprievodcu sa vo vašom iPhone spracúvajú rámy predných fotoaparátov a informácie o sledovaní tváre. PartMirror nám neposiela rámy fotoaparátov, geometriu tváre ani informácie o sledovaní.",
       "privacyMediaTitle": "Fotografie, videá a My Looks",
@@ -4375,7 +4603,7 @@
       "privacyRetentionTitle": "Uchovávanie a vymazanie",
       "privacyRetentionBody": "Pretože nám aplikácia neposiela žiadne údaje z fotoaparátu alebo médií, tieto údaje neuchovávame. Môžete odstrániť uložené vzhľady v aplikácii alebo odstrániť všetky údaje miestnej aplikácie odinštalovaním PartMirror.",
       "privacyAdsTitle": "Reklama a analytika",
-      "privacyAdsBody": "Aktuálne vydanie nezobrazuje reklamu a nezahŕňa reklamné ani analytické služby. Pred povolením akejkoľvek budúcej služby, ktorá zmení tieto postupy, tieto zásady aktualizujeme.",
+      "privacyAdsBody": "Bezplatná verzia využíva službu Google AdMob a nástroje spoločnosti Google na získanie súhlasu na zobrazovanie neprispôsobených bannerových reklám. Google môže spracovávať IP adresu, identifikátory zariadení, reklamné údaje, interakcie produktov, údaje o výkonnosti a diagnostiku. PartMirror nikdy neposkytuje obrázky z kamery, geometriu tváre, uložené vzhľady, mená ani recepty dielov pre reklamu. Predplatitelia nedostávajú reklamy a PartMirror nespustí AdMob, kým je aktívny overený prístup bez reklám.",
       "privacyChildrenTitle": "deti",
       "privacyChildrenBody": "PartMirror nie je zameraná konkrétne na deti mladšie ako 13 rokov a vedome nezhromažďujeme osobné údaje od detí.",
       "privacyChangesTitle": "Zmeny v tejto politike",
@@ -4403,7 +4631,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Štandardná zmluva EULA",
       "legalTranslationNote": "Pre pohodlie sú poskytnuté preklady. Ak je preložená verzia v rozpore s anglickou verziou, tam, kde to povoľuje zákon, rozhoduje anglická verzia.",
-      "footerRights": "Všetky práva vyhradené."
+      "footerRights": "Všetky práva vyhradené.",
+      "faqAdsQ": "PartMirror bez reklám",
+      "faqAdsA": "Odstráňte všetku reklamu v časti PartMirror.",
+      "faqPrivacyQ": "Reklama",
+      "faqPrivacyA": "Možnosti ochrany osobných údajov pre reklamy môžete spravovať v Nastaveniach, keď sú k dispozícii možnosti ochrany osobných údajov Google, spravovať alebo rušiť predplatné prostredníctvom App Store, odvolať povolenie Fotiek v nastaveniach iOS a odstraňovať uložené vzhľady v PartMirror.",
+      "privacyPurchasesTitle": "PartMirror bez reklám",
+      "privacyPurchasesBody": "Apple spracováva nákupy PartMirror Ad-Free a správu predplatného. PartMirror číta stav predplatného overeného spoločnosťou Apple iba na odstránenie alebo obnovenie reklamy. PartMirror neprevádzkuje účtovný systém ani neukladá údaje o platobných kartách."
     }
   },
   "sl-SI": {
@@ -4478,7 +4712,7 @@
       "effectiveDate": "Velja od 30. avgusta 2026",
       "privacyIntro": "Ta pravilnik opisuje trenutno aplikacijo PartMirror iPhone in to spletno mesto.",
       "privacyCollectionTitle": "Zbiranje podatkov",
-      "privacyCollectionBody": "PartMirror različica 1.0.0 ne zbira osebnih podatkov. Nima sistema računov, analitike, oglaševalskega SDK-ja ali nalaganja na oddaljeni strežnik.",
+      "privacyCollectionBody": "Srednji del uporablja Google AdMob in Googlova orodja za soglasje za prikaz neprilagojenih oglasnih pasic. Oglaševalske storitve lahko prejmejo podatke o napravi in ​​omrežju, vendar PartMirror nikoli ne posreduje slik kamere, geometrije obraza, shranjenih videzov, imen ali delov receptov za ciljanje oglasov.",
       "privacyCameraTitle": "Kamera in sledenje obrazu",
       "privacyCameraBody": "Okvirji sprednje kamere in informacije o sledenju obraza se obdelujejo v vašem iPhone za namestitev vodnika. PartMirror nam ne pošilja okvirjev kamere, geometrije obraza ali informacij o sledenju.",
       "privacyMediaTitle": "Fotografije, videi in My Looks",
@@ -4488,7 +4722,7 @@
       "privacyRetentionTitle": "Zadrževanje in brisanje",
       "privacyRetentionBody": "Ker nam aplikacija ne pošilja podatkov o kameri ali predstavnosti, teh podatkov ne hranimo. Z odstranitvijo PartMirror lahko izbrišete shranjene poglede znotraj aplikacije ali odstranite vse lokalne podatke aplikacije.",
       "privacyAdsTitle": "Oglaševanje in analitika",
-      "privacyAdsBody": "Trenutna izdaja ne prikazuje oglaševanja in ne vključuje oglaševalskih ali analitičnih storitev. Ta pravilnik bomo posodobili, preden bomo omogočili katero koli prihodnjo storitev, ki bo spremenila te prakse.",
+      "privacyAdsBody": "Brezplačna različica uporablja Google AdMob in Googlova orodja za soglasje za prikaz neprilagojenih oglasnih pasic. Google lahko obdeluje naslov IP, identifikatorje naprave, podatke o oglaševanju, interakcije izdelkov, podatke o delovanju in diagnostiko. PartMirror nikoli ne posreduje slik kamere, geometrije obraza, shranjenih videzov, imen ali delovnih receptov za oglaševanje. Naročniki ne prejemajo oglasov in PartMirror ne zažene AdMob, medtem ko je aktiven preverjen dostop brez oglasov.",
       "privacyChildrenTitle": "otroci",
       "privacyChildrenBody": "PartMirror ni posebej namenjen otrokom, mlajšim od 13 let, in zavestno ne zbiramo osebnih podatkov otrok.",
       "privacyChangesTitle": "Spremembe tega pravilnika",
@@ -4516,7 +4750,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Standardna EULA",
       "legalTranslationNote": "Za udobje so na voljo prevodi. Če je prevedena različica v nasprotju z angleško različico, ima angleška različica prednost, kjer to dovoljuje zakon.",
-      "footerRights": "Vse pravice pridržane."
+      "footerRights": "Vse pravice pridržane.",
+      "faqAdsQ": "PartMirror Brez oglasov",
+      "faqAdsA": "Odstranite vse oglase v PartMirrorju.",
+      "faqPrivacyQ": "Oglaševanje",
+      "faqPrivacyA": "Izbire zasebnosti oglasov lahko upravljate v nastavitvah, ko so na voljo Googlove možnosti zasebnosti, upravljate ali prekličete naročnine prek App Store, prekličete dovoljenje za fotografije v nastavitvah iOS in izbrišete shranjene videze znotraj PartMirror.",
+      "privacyPurchasesTitle": "PartMirror Brez oglasov",
+      "privacyPurchasesBody": "Apple obdeluje PartMirror Ad-Free nakupe in upravljanje naročnin. PartMirror prebere stanje naročnine, ki jo je potrdil Apple, samo za odstranitev ali obnovitev oglaševanja. PartMirror ne upravlja sistema računov in ne shranjuje podatkov o plačilnih karticah."
     }
   },
   "sv": {
@@ -4591,7 +4831,7 @@
       "effectiveDate": "Gäller den 30 augusti 2026",
       "privacyIntro": "Denna policy beskriver den nuvarande appen PartMirror iPhone och den här webbplatsen.",
       "privacyCollectionTitle": "Datainsamling",
-      "privacyCollectionBody": "PartMirror version 1.0.0 samlar inte in personuppgifter. Den har inget kontosystem, analys, reklam-SDK eller fjärrserveruppladdning.",
+      "privacyCollectionBody": "Mellersta delen använder Google AdMob och Googles samtyckesverktyg för att leverera icke-anpassade bannerannonser. Annonstjänsterna kan ta emot enhets- och nätverksinformation, men PartMirror tillhandahåller aldrig kamerabilder, ansiktsgeometri, sparade utseenden, namn eller delrecept för annonsinriktning.",
       "privacyCameraTitle": "Kamera och ansiktsspårning",
       "privacyCameraBody": "Framkameraramar och ansiktsspårningsinformation bearbetas på din iPhone för att placera guiden. PartMirror skickar inte kameraramar, ansiktsgeometri eller spårningsinformation till oss.",
       "privacyMediaTitle": "Foton, videor och My Looks",
@@ -4601,7 +4841,7 @@
       "privacyRetentionTitle": "Retention och radering",
       "privacyRetentionBody": "Eftersom appen inte skickar någon kamera- eller mediadata till oss behåller vi inte den datan. Du kan ta bort sparade utseenden i appen eller ta bort all lokal appdata genom att avinstallera PartMirror.",
       "privacyAdsTitle": "Reklam och analys",
-      "privacyAdsBody": "Den aktuella versionen visar inte reklam och inkluderar inte reklam- eller analystjänster. Vi kommer att uppdatera denna policy innan vi aktiverar framtida tjänster som ändrar dessa metoder.",
+      "privacyAdsBody": "Den kostnadsfria versionen använder Google AdMob och Googles samtyckesverktyg för att leverera icke-anpassade bannerannonser. Google kan behandla en IP-adress, enhetsidentifierare, reklamdata, produktinteraktioner, prestandadata och diagnostik. PartMirror tillhandahåller aldrig kamerabilder, ansiktsgeometri, sparade utseenden, namn eller delrecept för reklam. Prenumeranter får inga annonser och PartMirror startar inte AdMob medan verifierad annonsfri åtkomst är aktiv.",
       "privacyChildrenTitle": "Barn",
       "privacyChildrenBody": "PartMirror riktar sig inte specifikt till barn under 13 år, och vi samlar inte medvetet in personuppgifter från barn.",
       "privacyChangesTitle": "Ändringar av denna policy",
@@ -4629,7 +4869,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Standard EULA",
       "legalTranslationNote": "Översättningar tillhandahålls för bekvämlighet. Om en översatt version står i konflikt med den engelska versionen, styr den engelska versionen där det är tillåtet enligt lag.",
-      "footerRights": "Alla rättigheter reserverade."
+      "footerRights": "Alla rättigheter reserverade.",
+      "faqAdsQ": "PartMirror annonsfri",
+      "faqAdsA": "Ta bort all reklam i PartMirror.",
+      "faqPrivacyQ": "Annonsering",
+      "faqPrivacyA": "Du kan hantera annonssekretessval i Inställningar när Googles sekretessalternativ är tillgängliga, hantera eller avbryta prenumerationer via App Store, återkalla Fotobehörighet i iOS-inställningar och radera sparade utseenden i PartMirror.",
+      "privacyPurchasesTitle": "PartMirror annonsfri",
+      "privacyPurchasesBody": "Apple bearbetar PartMirror annonsfria köp och prenumerationshantering. PartMirror läser endast Apple-verifierad prenumerationsstatus för att ta bort eller återställa reklam. PartMirror driver inte ett kontosystem eller lagrar betalkortsuppgifter."
     }
   },
   "ta-IN": {
@@ -4704,7 +4950,7 @@
       "effectiveDate": "ஆகஸ்ட் 30, 2026 முதல் அமலுக்கு வருகிறது",
       "privacyIntro": "இந்தக் கொள்கை தற்போதைய PartMirror iPhone பயன்பாட்டையும் இந்த இணையதளத்தையும் விவரிக்கிறது.",
       "privacyCollectionTitle": "தரவு சேகரிப்பு",
-      "privacyCollectionBody": "PartMirror பதிப்பு 1.0.0 தனிப்பட்ட தரவைச் சேகரிக்காது. இதில் கணக்கு அமைப்பு, பகுப்பாய்வு, விளம்பர SDK அல்லது ரிமோட் சர்வர் பதிவேற்றம் இல்லை.",
+      "privacyCollectionBody": "தனிப்பயனாக்கப்படாத பேனர் விளம்பரங்களை வழங்க, மத்திய பகுதியானது Google AdMob மற்றும் Google இன் ஒப்புதல் கருவிகளைப் பயன்படுத்துகிறது. விளம்பரச் சேவைகள் சாதனம் மற்றும் நெட்வொர்க் தகவலைப் பெறலாம், ஆனால் நடுத்தர பகுதி ஒருபோதும் கேமரா படங்கள், முக வடிவியல், சேமித்த தோற்றம், பெயர்கள் அல்லது விளம்பர இலக்குக்கான பகுதி சமையல் குறிப்புகளை வழங்காது.",
       "privacyCameraTitle": "கேமரா மற்றும் முகம் கண்காணிப்பு",
       "privacyCameraBody": "வழிகாட்டியை வைக்க உங்கள் iPhone இல் முன்-கேமரா பிரேம்கள் மற்றும் முகம்-கண்காணிப்புத் தகவல் செயலாக்கப்படும். PartMirror கேமரா பிரேம்கள், முக வடிவியல் அல்லது கண்காணிப்புத் தகவல்களை எங்களுக்கு அனுப்பாது.",
       "privacyMediaTitle": "புகைப்படங்கள், வீடியோக்கள் மற்றும் My Looks",
@@ -4714,7 +4960,7 @@
       "privacyRetentionTitle": "வைத்திருத்தல் மற்றும் நீக்குதல்",
       "privacyRetentionBody": "பயன்பாடு கேமரா அல்லது மீடியா தரவை எங்களுக்கு அனுப்பாததால், அந்தத் தரவை நாங்கள் தக்கவைக்க மாட்டோம். PartMirrorஐ நிறுவல் நீக்குவதன் மூலம் பயன்பாட்டிற்குள் சேமிக்கப்பட்ட தோற்றத்தை நீக்கலாம் அல்லது அனைத்து உள்ளூர் பயன்பாட்டுத் தரவையும் அகற்றலாம்.",
       "privacyAdsTitle": "விளம்பரம் மற்றும் பகுப்பாய்வு",
-      "privacyAdsBody": "தற்போதைய வெளியீட்டில் விளம்பரம் காட்டப்படவில்லை மற்றும் விளம்பரம் அல்லது பகுப்பாய்வு சேவைகள் இல்லை. இந்த நடைமுறைகளை மாற்றும் எதிர்கால சேவையை இயக்கும் முன் இந்தக் கொள்கையைப் புதுப்பிப்போம்.",
+      "privacyAdsBody": "தனிப்பயனாக்கப்படாத பேனர் விளம்பரங்களை வழங்க, இலவசப் பதிப்பு Google AdMob மற்றும் Google இன் ஒப்புதல் கருவிகளைப் பயன்படுத்துகிறது. IP முகவரி, சாதன அடையாளங்காட்டிகள், விளம்பரத் தரவு, தயாரிப்பு தொடர்புகள், செயல்திறன் தரவு மற்றும் கண்டறிதல் ஆகியவற்றை Google செயலாக்கலாம். PartMirror ஒருபோதும் கேமரா படங்கள், முக வடிவியல், சேமிக்கப்பட்ட தோற்றம், பெயர்கள் அல்லது விளம்பரத்திற்கான பகுதி சமையல் குறிப்புகளை வழங்காது. சந்தாதாரர்கள் விளம்பரங்களைப் பெறுவதில்லை, மேலும் சரிபார்க்கப்பட்ட விளம்பரமில்லா அணுகல் செயலில் இருக்கும்போது PartMirror AdMobஐத் தொடங்காது.",
       "privacyChildrenTitle": "குழந்தைகள்",
       "privacyChildrenBody": "PartMirror குறிப்பாக 13 வயதுக்குட்பட்ட குழந்தைகளுக்காக இயக்கப்படவில்லை, மேலும் குழந்தைகளிடமிருந்து தனிப்பட்ட தரவை நாங்கள் தெரிந்தே சேகரிப்பதில்லை.",
       "privacyChangesTitle": "இந்தக் கொள்கையில் மாற்றங்கள்",
@@ -4742,7 +4988,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple நிலையான EULA",
       "legalTranslationNote": "மொழிபெயர்ப்பு வசதிக்காக வழங்கப்பட்டுள்ளது. மொழிபெயர்க்கப்பட்ட பதிப்பு ஆங்கிலப் பதிப்போடு முரண்பட்டால், சட்டத்தால் அனுமதிக்கப்பட்ட இடத்தில் ஆங்கிலப் பதிப்பு கட்டுப்படுத்தும்.",
-      "footerRights": "அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை."
+      "footerRights": "அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.",
+      "faqAdsQ": "PartMirror விளம்பரம் இல்லாதது",
+      "faqAdsA": "பார்ட்மிரர் முழுவதும் அனைத்து விளம்பரங்களையும் அகற்றவும்.",
+      "faqPrivacyQ": "விளம்பரம்",
+      "faqPrivacyA": "கூகிளின் தனியுரிமை விருப்பங்கள் கிடைக்கும்போது, ​​அமைப்புகளில் விளம்பரத் தனியுரிமைத் தேர்வுகளை நிர்வகிக்கலாம், ஆப் ஸ்டோர் மூலம் சந்தாக்களை நிர்வகிக்கலாம் அல்லது ரத்துசெய்யலாம், iOS அமைப்புகளில் புகைப்படங்களுக்கான அனுமதியைத் திரும்பப் பெறலாம் மற்றும் PartMirror இல் சேமிக்கப்பட்ட தோற்றத்தை நீக்கலாம்.",
+      "privacyPurchasesTitle": "PartMirror விளம்பரம் இல்லாதது",
+      "privacyPurchasesBody": "Apple ஆனது PartMirror விளம்பரம் இல்லாத கொள்முதல் மற்றும் சந்தா நிர்வாகத்தை செயல்படுத்துகிறது. பார்ட்மிரர் ஆப்பிள் சரிபார்க்கப்பட்ட சந்தா நிலையை விளம்பரத்தை அகற்ற அல்லது மீட்டெடுக்க மட்டுமே படிக்கிறது. பார்ட்மிரர் கணக்கு அமைப்பை இயக்குவதில்லை அல்லது கட்டண அட்டை விவரங்களைச் சேமிப்பதில்லை."
     }
   },
   "te-IN": {
@@ -4817,7 +5069,7 @@
       "effectiveDate": "ఆగస్ట్ 30, 2026 నుండి అమలులోకి వస్తుంది",
       "privacyIntro": "ఈ విధానం ప్రస్తుత PartMirror iPhone యాప్ మరియు ఈ వెబ్‌సైట్‌ను వివరిస్తుంది.",
       "privacyCollectionTitle": "డేటా సేకరణ",
-      "privacyCollectionBody": "PartMirror వెర్షన్ 1.0.0 వ్యక్తిగత డేటాను సేకరించదు. దీనికి ఖాతా సిస్టమ్, విశ్లేషణలు, ప్రకటనల SDK లేదా రిమోట్ సర్వర్ అప్‌లోడ్ లేదు.",
+      "privacyCollectionBody": "వ్యక్తిగతీకరించని బ్యానర్ ప్రకటనలను అందించడానికి మధ్య భాగం Google AdMob మరియు Google యొక్క సమ్మతి సాధనాలను ఉపయోగిస్తుంది. ప్రకటన సేవలు పరికరం మరియు నెట్‌వర్క్ సమాచారాన్ని స్వీకరించవచ్చు, కానీ మధ్య భాగం ఎప్పుడూ కెమెరా చిత్రాలు, ముఖ జ్యామితి, సేవ్ చేయబడిన రూపాలు, పేర్లు లేదా ప్రకటన లక్ష్యం కోసం పార్ట్ రెసిపీలను అందించదు.",
       "privacyCameraTitle": "కెమెరా మరియు ఫేస్ ట్రాకింగ్",
       "privacyCameraBody": "గైడ్‌ను ఉంచడానికి మీ iPhoneలో ఫ్రంట్-కెమెరా ఫ్రేమ్‌లు మరియు ఫేస్-ట్రాకింగ్ సమాచారం ప్రాసెస్ చేయబడతాయి. PartMirror మాకు కెమెరా ఫ్రేమ్‌లు, ముఖ జ్యామితి లేదా ట్రాకింగ్ సమాచారాన్ని పంపదు.",
       "privacyMediaTitle": "ఫోటోలు, వీడియోలు మరియు My Looks",
@@ -4827,7 +5079,7 @@
       "privacyRetentionTitle": "నిలుపుదల మరియు తొలగింపు",
       "privacyRetentionBody": "యాప్ మాకు కెమెరా లేదా మీడియా డేటాను పంపదు కాబట్టి, మేము ఆ డేటాను కలిగి ఉండము. మీరు యాప్‌లో సేవ్ చేసిన రూపాలను తొలగించవచ్చు లేదా PartMirrorని అన్‌ఇన్‌స్టాల్ చేయడం ద్వారా మొత్తం స్థానిక యాప్ డేటాను తీసివేయవచ్చు.",
       "privacyAdsTitle": "ప్రకటనలు మరియు విశ్లేషణలు",
-      "privacyAdsBody": "ప్రస్తుత విడుదల ప్రకటనలను ప్రదర్శించదు మరియు ప్రకటనలు లేదా విశ్లేషణ సేవలను కలిగి ఉండదు. ఈ పద్ధతులను మార్చే ఏదైనా భవిష్యత్ సేవను ప్రారంభించే ముందు మేము ఈ విధానాన్ని నవీకరిస్తాము.",
+      "privacyAdsBody": "ఉచిత సంస్కరణ వ్యక్తిగతీకరించని బ్యానర్ ప్రకటనలను అందించడానికి Google AdMob మరియు Google యొక్క సమ్మతి సాధనాలను ఉపయోగిస్తుంది. Google IP చిరునామా, పరికర ఐడెంటిఫైయర్‌లు, ప్రకటనల డేటా, ఉత్పత్తి పరస్పర చర్యలు, పనితీరు డేటా మరియు విశ్లేషణలను ప్రాసెస్ చేయవచ్చు. PartMirror ఎప్పుడూ కెమెరా ఇమేజ్‌లు, ఫేస్ జామెట్రీ, సేవ్ చేసిన లుక్‌లు, పేర్లు లేదా అడ్వర్టైజింగ్ కోసం పార్ట్ రెసిపీలను సరఫరా చేయదు. చందాదారులు ప్రకటనలను స్వీకరించరు మరియు ధృవీకరించబడిన ప్రకటన రహిత యాక్సెస్ సక్రియంగా ఉన్నప్పుడు PartMirror AdMobని ప్రారంభించదు.",
       "privacyChildrenTitle": "పిల్లలు",
       "privacyChildrenBody": "PartMirror 13 ఏళ్లలోపు పిల్లలకు ప్రత్యేకంగా నిర్దేశించబడలేదు మరియు మేము పిల్లల నుండి వ్యక్తిగత డేటాను ఉద్దేశపూర్వకంగా సేకరించము.",
       "privacyChangesTitle": "ఈ విధానానికి మార్పులు",
@@ -4855,7 +5107,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple ప్రామాణిక EULA",
       "legalTranslationNote": "సౌలభ్యం కోసం అనువాదాలు అందించబడ్డాయి. అనువదించబడిన సంస్కరణ ఆంగ్ల సంస్కరణతో విభేదిస్తే, చట్టం ద్వారా అనుమతించబడిన చోట ఆంగ్ల సంస్కరణ నియంత్రిస్తుంది.",
-      "footerRights": "అన్ని హక్కులు ప్రత్యేకించబడ్డాయి."
+      "footerRights": "అన్ని హక్కులు ప్రత్యేకించబడ్డాయి.",
+      "faqAdsQ": "పార్ట్ మిర్రర్ యాడ్-ఫ్రీ",
+      "faqAdsA": "పార్ట్‌మిర్రర్ అంతటా అన్ని ప్రకటనలను తీసివేయండి.",
+      "faqPrivacyQ": "ప్రకటనలు",
+      "faqPrivacyA": "మీరు Google గోప్యతా ఎంపికలు అందుబాటులో ఉన్నప్పుడు సెట్టింగ్‌లలో ప్రకటన గోప్యతా ఎంపికలను నిర్వహించవచ్చు, యాప్ స్టోర్ ద్వారా సభ్యత్వాలను నిర్వహించవచ్చు లేదా రద్దు చేయవచ్చు, iOS సెట్టింగ్‌లలో ఫోటోల అనుమతిని ఉపసంహరించుకోవచ్చు మరియు పార్ట్‌మిర్రర్‌లో సేవ్ చేసిన రూపాలను తొలగించవచ్చు.",
+      "privacyPurchasesTitle": "పార్ట్ మిర్రర్ యాడ్-ఫ్రీ",
+      "privacyPurchasesBody": "Apple పార్ట్‌మిర్రర్ ప్రకటన రహిత కొనుగోళ్లు మరియు చందా నిర్వహణను ప్రాసెస్ చేస్తుంది. PartMirror ప్రకటనలను తీసివేయడానికి లేదా పునరుద్ధరించడానికి మాత్రమే Apple-ధృవీకరించబడిన సబ్‌స్క్రిప్షన్ స్థితిని చదువుతుంది. PartMirror ఖాతా వ్యవస్థను నిర్వహించదు లేదా చెల్లింపు-కార్డ్ వివరాలను నిల్వ చేయదు."
     }
   },
   "th": {
@@ -4930,7 +5188,7 @@
       "effectiveDate": "มีผลใช้บังคับวันที่ 30 สิงหาคม 2569",
       "privacyIntro": "นโยบายนี้อธิบายถึงแอป PartMirror iPhone ปัจจุบันและเว็บไซต์นี้",
       "privacyCollectionTitle": "การรวบรวมข้อมูล",
-      "privacyCollectionBody": "PartMirror เวอร์ชัน 1.0.0 ไม่ได้รวบรวมข้อมูลส่วนบุคคล ไม่มีระบบบัญชี การวิเคราะห์ SDK โฆษณา หรือการอัปโหลดเซิร์ฟเวอร์ระยะไกล",
+      "privacyCollectionBody": "ส่วนตรงกลางใช้ Google AdMob และเครื่องมือขอคำยินยอมของ Google ในการแสดงโฆษณาแบนเนอร์ที่ไม่ได้ปรับตามโปรไฟล์ของผู้ใช้ บริการโฆษณาอาจรับข้อมูลอุปกรณ์และเครือข่าย แต่ PartMirror จะไม่ให้รูปภาพจากกล้อง รูปทรงใบหน้า รูปลักษณ์ที่บันทึกไว้ ชื่อ หรือสูตรชิ้นส่วนสำหรับการกำหนดเป้าหมายโฆษณา",
       "privacyCameraTitle": "กล้องและการติดตามใบหน้า",
       "privacyCameraBody": "กรอบกล้องหน้าและข้อมูลการติดตามใบหน้าได้รับการประมวลผลบน iPhone ของคุณเพื่อวางคำแนะนำ PartMirror จะไม่ส่งกรอบกล้อง รูปทรงใบหน้า หรือข้อมูลการติดตามมาให้เรา",
       "privacyMediaTitle": "รูปภาพ วิดีโอ และ My Looks",
@@ -4940,7 +5198,7 @@
       "privacyRetentionTitle": "การเก็บรักษาและการลบ",
       "privacyRetentionBody": "เนื่องจากแอปไม่ส่งข้อมูลกล้องหรือสื่อมาให้เรา เราจึงไม่เก็บข้อมูลนั้นไว้ คุณสามารถลบรูปลักษณ์ที่บันทึกไว้ภายในแอปหรือลบข้อมูลแอปในเครื่องทั้งหมดได้โดยการถอนการติดตั้ง PartMirror",
       "privacyAdsTitle": "การโฆษณาและการวิเคราะห์",
-      "privacyAdsBody": "รุ่นปัจจุบันไม่แสดงโฆษณาและไม่รวมถึงการโฆษณาหรือบริการการวิเคราะห์ เราจะอัปเดตนโยบายนี้ก่อนที่จะเปิดใช้บริการในอนาคตที่เปลี่ยนแปลงแนวทางปฏิบัติเหล่านี้",
+      "privacyAdsBody": "เวอร์ชันฟรีใช้ Google AdMob และเครื่องมือยินยอมของ Google ในการแสดงโฆษณาแบนเนอร์ที่ไม่ได้ปรับตามโปรไฟล์ของผู้ใช้ Google อาจประมวลผลที่อยู่ IP ตัวระบุอุปกรณ์ ข้อมูลโฆษณา การโต้ตอบของผลิตภัณฑ์ ข้อมูลประสิทธิภาพ และการวินิจฉัย PartMirror ไม่เคยจัดเตรียมรูปภาพจากกล้อง รูปทรงใบหน้า รูปลักษณ์ที่บันทึกไว้ ชื่อ หรือสูตรชิ้นส่วนสำหรับการโฆษณา สมาชิกไม่ได้รับโฆษณาและ PartMirror จะไม่เริ่ม AdMob ในขณะที่มีการใช้งานการเข้าถึงแบบไม่มีโฆษณาที่ได้รับการยืนยันแล้ว",
       "privacyChildrenTitle": "เด็กๆ",
       "privacyChildrenBody": "PartMirror ไม่ได้มุ่งเป้าไปที่เด็กที่มีอายุต่ำกว่า 13 ปีโดยเฉพาะ และเราไม่ได้รวบรวมข้อมูลส่วนบุคคลจากเด็กโดยเจตนา",
       "privacyChangesTitle": "การเปลี่ยนแปลงนโยบายนี้",
@@ -4968,7 +5226,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple EULA มาตรฐาน",
       "legalTranslationNote": "มีการแปลเพื่อความสะดวก หากฉบับแปลขัดแย้งกับฉบับภาษาอังกฤษ ฉบับภาษาอังกฤษจะควบคุมตามที่กฎหมายอนุญาต",
-      "footerRights": "สงวนลิขสิทธิ์."
+      "footerRights": "สงวนลิขสิทธิ์.",
+      "faqAdsQ": "PartMirror ไม่มีโฆษณา",
+      "faqAdsA": "ลบโฆษณาทั้งหมดออกจาก PartMirror",
+      "faqPrivacyQ": "การโฆษณา",
+      "faqPrivacyA": "คุณสามารถจัดการตัวเลือกความเป็นส่วนตัวของโฆษณาได้ในการตั้งค่าเมื่อตัวเลือกความเป็นส่วนตัวของ Google พร้อมใช้งาน จัดการหรือยกเลิกการสมัครสมาชิกผ่าน App Store เพิกถอนสิทธิ์อนุญาตรูปภาพในการตั้งค่า iOS และลบรูปลักษณ์ที่บันทึกไว้ภายใน PartMirror",
+      "privacyPurchasesTitle": "PartMirror ไม่มีโฆษณา",
+      "privacyPurchasesBody": "Apple ประมวลผลการซื้อ PartMirror แบบไม่มีโฆษณาและการจัดการการสมัครสมาชิก PartMirror อ่านสถานะการสมัครสมาชิกที่ตรวจสอบโดย Apple เพื่อลบหรือกู้คืนโฆษณาเท่านั้น PartMirror ไม่ได้ดำเนินการระบบบัญชีหรือเก็บรายละเอียดบัตรชำระเงิน"
     }
   },
   "tr": {
@@ -5043,7 +5307,7 @@
       "effectiveDate": "30 Ağustos 2026'dan itibaren geçerlidir",
       "privacyIntro": "Bu politika, mevcut PartMirror iPhone uygulamasını ve bu web sitesini açıklamaktadır.",
       "privacyCollectionTitle": "Veri toplama",
-      "privacyCollectionBody": "PartMirror sürüm 1.0.0 kişisel verileri toplamaz. Hesap sistemi, analiz, reklam SDK'sı veya uzak sunucuya yükleme yoktur.",
+      "privacyCollectionBody": "Orta Kısım, kişiselleştirilmemiş şerit reklamlar sunmak için Google AdMob ve Google'ın izin araçlarını kullanır. Reklam hizmetleri cihaz ve ağ bilgilerini alabilir ancak Orta Kısım asla reklam hedefleme için kamera görüntüleri, yüz geometrisi, kayıtlı görünümler, adlar veya parça tarifleri sağlamaz.",
       "privacyCameraTitle": "Kamera ve yüz takibi",
       "privacyCameraBody": "Kılavuzu yerleştirmek için ön kamera çerçeveleri ve yüz izleme bilgileri iPhone cihazınıza işlenir. PartMirror bize kamera çerçeveleri, yüz geometrisi veya izleme bilgileri göndermez.",
       "privacyMediaTitle": "Fotoğraflar, videolar ve My Looks",
@@ -5053,7 +5317,7 @@
       "privacyRetentionTitle": "Saklama ve silme",
       "privacyRetentionBody": "Uygulama bize kamera veya medya verileri göndermediğinden bu verileri saklamayız. PartMirror uygulamasını kaldırarak uygulamanın içindeki kayıtlı görünümleri silebilir veya tüm yerel uygulama verilerini kaldırabilirsiniz.",
       "privacyAdsTitle": "Reklamcılık ve analiz",
-      "privacyAdsBody": "Mevcut sürüm reklam göstermemektedir ve reklam ya da analiz hizmetlerini içermemektedir. Gelecekte bu uygulamaları değiştiren herhangi bir hizmeti etkinleştirmeden önce bu politikayı güncelleyeceğiz.",
+      "privacyAdsBody": "Ücretsiz sürüm, kişiselleştirilmemiş şerit reklamlar sunmak için Google AdMob ve Google'ın izin araçlarını kullanır. Google bir IP adresini, cihaz tanımlayıcılarını, reklam verilerini, ürün etkileşimlerini, performans verilerini ve teşhisleri işleyebilir. PartMirror asla reklam amacıyla kamera görüntüleri, yüz geometrisi, kayıtlı görünümler, adlar veya parça tarifleri sağlamaz. Aboneler reklam almaz ve doğrulanmış reklamsız erişim etkinken PartMirror, AdMob'u başlatmaz.",
       "privacyChildrenTitle": "Çocuklar",
       "privacyChildrenBody": "PartMirror özellikle 13 yaşın altındaki çocuklara yönelik değildir ve çocuklardan bilerek kişisel veri toplamıyoruz.",
       "privacyChangesTitle": "Bu politikadaki değişiklikler",
@@ -5081,7 +5345,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Standart EULA",
       "legalTranslationNote": "Kolaylık sağlamak için çeviriler sağlanmıştır. Çevrilmiş bir sürüm İngilizce sürümle çelişiyorsa, yasaların izin verdiği yerlerde İngilizce sürüm geçerli olur.",
-      "footerRights": "Her hakkı saklıdır."
+      "footerRights": "Her hakkı saklıdır.",
+      "faqAdsQ": "PartMirror Reklamsız",
+      "faqAdsA": "PartMirror'daki tüm reklamları kaldırın.",
+      "faqPrivacyQ": "Reklam",
+      "faqPrivacyA": "Google'ın gizlilik seçenekleri mevcut olduğunda Ayarlar'da reklam gizliliği seçeneklerini yönetebilir, App Store aracılığıyla abonelikleri yönetebilir veya iptal edebilir, iOS Ayarları'nda Fotoğraflar iznini iptal edebilir ve PartMirror'da kayıtlı görünümleri silebilirsiniz.",
+      "privacyPurchasesTitle": "PartMirror Reklamsız",
+      "privacyPurchasesBody": "Apple, PartMirror Reklamsız satın alma işlemlerini ve abonelik yönetimini işler. PartMirror, yalnızca reklamları kaldırmak veya geri yüklemek için Apple tarafından doğrulanmış abonelik durumunu okur. PartMirror bir hesap sistemi işletmez veya ödeme kartı ayrıntılarını saklamaz."
     }
   },
   "uk": {
@@ -5156,7 +5426,7 @@
       "effectiveDate": "Набуває чинності 30 серпня 2026 р",
       "privacyIntro": "Ця політика описує поточну програму PartMirror iPhone і цей веб-сайт.",
       "privacyCollectionTitle": "Збір даних",
-      "privacyCollectionBody": "PartMirror версії 1.0.0 не збирає персональні дані. Він не має системи облікових записів, аналітики, рекламного SDK або завантаження на віддалений сервер.",
+      "privacyCollectionBody": "PartMirror використовує Google AdMob і інструменти отримання згоди Google для показу неперсоналізованих банерів. Рекламні служби можуть отримувати інформацію про пристрій і мережу, але PartMirror ніколи не надає зображення камери, геометрію обличчя, збережений образ, імена чи рецепти частин для націлювання реклами.",
       "privacyCameraTitle": "Відстеження камери та обличчя",
       "privacyCameraBody": "Рамки передньої камери та інформація про відстеження обличчя обробляються на вашому iPhone для розміщення гіда. PartMirror не надсилає нам кадри камери, геометрію обличчя чи інформацію про відстеження.",
       "privacyMediaTitle": "Фотографії, відео та My Looks",
@@ -5166,7 +5436,7 @@
       "privacyRetentionTitle": "Зберігання та видалення",
       "privacyRetentionBody": "Оскільки програма не надсилає нам дані камери чи медіа, ми не зберігаємо ці дані. Ви можете видалити збережені вигляди всередині програми або видалити всі локальні дані програми, видаливши PartMirror.",
       "privacyAdsTitle": "Реклама та аналітика",
-      "privacyAdsBody": "Поточний випуск не відображає рекламу та не містить рекламних чи аналітичних служб. Ми оновимо цю політику перед увімкненням будь-якої майбутньої служби, яка змінить цю практику.",
+      "privacyAdsBody": "Безкоштовна версія використовує Google AdMob і інструменти отримання згоди Google для показу неперсоналізованих банерів. Google може обробляти IP-адресу, ідентифікатори пристроїв, рекламні дані, взаємодію з продуктами, дані про ефективність і діагностику. PartMirror ніколи не надає зображення камери, геометрію обличчя, збережений вигляд, імена чи рецепти деталей для реклами. Передплатники не отримують реклами, і PartMirror не запускає AdMob, поки активний підтверджений доступ без реклами.",
       "privacyChildrenTitle": "діти",
       "privacyChildrenBody": "PartMirror не призначено спеціально для дітей віком до 13 років, і ми свідомо не збираємо особисті дані дітей.",
       "privacyChangesTitle": "Зміни до цієї політики",
@@ -5194,7 +5464,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple Стандартна EULA",
       "legalTranslationNote": "Для зручності надані переклади. Якщо перекладена версія суперечить англійській версії, англійська версія має перевагу, якщо це дозволено законом.",
-      "footerRights": "Всі права захищені."
+      "footerRights": "Всі права захищені.",
+      "faqAdsQ": "PartMirror Без реклами",
+      "faqAdsA": "Видалити всю рекламу в PartMirror.",
+      "faqPrivacyQ": "Реклама",
+      "faqPrivacyA": "Ви можете керувати параметрами конфіденційності реклами в налаштуваннях, коли параметри конфіденційності Google доступні, керувати або скасовувати підписки через App Store, відкликати дозвіл на фотографії в налаштуваннях iOS і видаляти збережені образи в PartMirror.",
+      "privacyPurchasesTitle": "PartMirror Без реклами",
+      "privacyPurchasesBody": "Apple обробляє покупки PartMirror без реклами та керування підписками. PartMirror зчитує стан підписки, підтвердженої Apple, лише для видалення або відновлення реклами. PartMirror не керує системою облікових записів і не зберігає дані платіжної картки."
     }
   },
   "ur-PK": {
@@ -5269,7 +5545,7 @@
       "effectiveDate": "30 اگست 2026 سے موثر",
       "privacyIntro": "یہ پالیسی موجودہ PartMirror iPhone ایپ اور اس ویب سائٹ کی وضاحت کرتی ہے۔",
       "privacyCollectionTitle": "ڈیٹا اکٹھا کرنا",
-      "privacyCollectionBody": "PartMirror ورژن 1.0.0 ذاتی ڈیٹا اکٹھا نہیں کرتا ہے۔ اس میں کوئی اکاؤنٹ سسٹم، اینالیٹکس، ایڈورٹائزنگ SDK، یا ریموٹ سرور اپ لوڈ نہیں ہے۔",
+      "privacyCollectionBody": "مڈل پارٹ غیر ذاتی نوعیت کے بینر اشتہارات فراہم کرنے کے لیے Google AdMob اور Google کے رضامندی کے ٹولز کا استعمال کرتا ہے۔ اشتھاراتی خدمات آلہ اور نیٹ ورک کی معلومات حاصل کر سکتی ہیں، لیکن مڈل پارٹ کبھی بھی کیمرہ کی تصاویر، چہرے کی جیومیٹری، محفوظ شدہ شکل، نام، یا اشتھاراتی ھدف بندی کے لیے جزوی ترکیبیں فراہم نہیں کرتا ہے۔",
       "privacyCameraTitle": "کیمرہ اور چہرے سے باخبر رہنا",
       "privacyCameraBody": "گائیڈ رکھنے کے لیے آپ کے iPhone پر فرنٹ کیمرہ کے فریموں اور چہرے سے باخبر رہنے کی معلومات پر کارروائی کی جاتی ہے۔ PartMirror ہمیں کیمرے کے فریم، چہرے کی جیومیٹری، یا ٹریکنگ کی معلومات نہیں بھیجتا ہے۔",
       "privacyMediaTitle": "تصاویر، ویڈیوز، اور My Looks",
@@ -5279,7 +5555,7 @@
       "privacyRetentionTitle": "برقرار رکھنا اور حذف کرنا",
       "privacyRetentionBody": "چونکہ ایپ ہمیں کوئی کیمرہ یا میڈیا ڈیٹا نہیں بھیجتی ہے، اس لیے ہم اس ڈیٹا کو برقرار نہیں رکھتے ہیں۔ آپ ایپ کے اندر محفوظ کردہ شکلوں کو حذف کر سکتے ہیں یا PartMirror کو اَن انسٹال کر کے تمام مقامی ایپ ڈیٹا کو ہٹا سکتے ہیں۔",
       "privacyAdsTitle": "تشہیر اور تجزیات",
-      "privacyAdsBody": "موجودہ ریلیز اشتہارات کو ظاہر نہیں کرتی ہے اور اس میں اشتہارات یا تجزیاتی خدمات شامل نہیں ہیں۔ ہم اس پالیسی کو مستقبل کی کسی بھی سروس کو فعال کرنے سے پہلے اپ ڈیٹ کریں گے جو ان طریقوں کو تبدیل کرتی ہے۔",
+      "privacyAdsBody": "مفت ورژن غیر ذاتی نوعیت کے بینر اشتہارات کی فراہمی کے لیے Google AdMob اور Google کے رضامندی کے ٹولز کا استعمال کرتا ہے۔ Google ایک IP ایڈریس، آلہ کے شناخت کنندگان، اشتہاری ڈیٹا، مصنوعات کے تعاملات، کارکردگی کا ڈیٹا، اور تشخیص پر کارروائی کر سکتا ہے۔ PartMirror اشتہارات کے لیے کبھی بھی کیمرے کی تصاویر، چہرے کی جیومیٹری، محفوظ شدہ شکل، نام، یا حصے کی ترکیبیں فراہم نہیں کرتا ہے۔ سبسکرائبرز کو اشتہارات موصول نہیں ہوتے ہیں، اور PartMirror AdMob شروع نہیں کرتا ہے جب کہ تصدیق شدہ اشتہار سے پاک رسائی فعال ہے۔",
       "privacyChildrenTitle": "بچے",
       "privacyChildrenBody": "PartMirror خاص طور پر 13 سال سے کم عمر بچوں کے لیے نہیں ہے، اور ہم جان بوجھ کر بچوں سے ذاتی ڈیٹا اکٹھا نہیں کرتے ہیں۔",
       "privacyChangesTitle": "اس پالیسی میں تبدیلیاں",
@@ -5307,7 +5583,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple معیاری EULA",
       "legalTranslationNote": "ترجمے سہولت کے لیے فراہم کیے گئے ہیں۔ اگر ترجمہ شدہ ورژن انگریزی ورژن سے متصادم ہے، تو انگریزی ورژن کنٹرول کرتا ہے جہاں قانون کی طرف سے اجازت ہے۔",
-      "footerRights": "جملہ حقوق محفوظ ہیں۔"
+      "footerRights": "جملہ حقوق محفوظ ہیں۔",
+      "faqAdsQ": "Part Mirror اشتہار سے پاک",
+      "faqAdsA": "PartMirror میں تمام اشتہارات کو ہٹا دیں۔",
+      "faqPrivacyQ": "ایڈورٹائزنگ",
+      "faqPrivacyA": "Google کے رازداری کے اختیارات دستیاب ہونے پر آپ ترتیبات میں اشتہار کی رازداری کے انتخاب کا نظم کر سکتے ہیں، App Store کے ذریعے سبسکرپشنز کا نظم یا منسوخ کر سکتے ہیں، iOS کی ترتیبات میں تصاویر کی اجازت کو منسوخ کر سکتے ہیں، اور PartMirror کے اندر محفوظ کردہ شکلوں کو حذف کر سکتے ہیں۔",
+      "privacyPurchasesTitle": "Part Mirror اشتہار سے پاک",
+      "privacyPurchasesBody": "Apple PartMirror اشتہار سے پاک خریداریوں اور سبسکرپشن مینجمنٹ پر کارروائی کرتا ہے۔ PartMirror صرف اشتہارات کو ہٹانے یا بحال کرنے کے لیے ایپل کی تصدیق شدہ رکنیت کی حیثیت کو پڑھتا ہے۔ PartMirror اکاؤنٹ کا نظام نہیں چلاتا اور نہ ہی ادائیگی کارڈ کی تفصیلات کو اسٹور کرتا ہے۔"
     }
   },
   "vi": {
@@ -5382,7 +5664,7 @@
       "effectiveDate": "Có hiệu lực từ ngày 30 tháng 8 năm 2026",
       "privacyIntro": "Chính sách này mô tả ứng dụng PartMirror iPhone hiện tại và trang web này.",
       "privacyCollectionTitle": "Thu thập dữ liệu",
-      "privacyCollectionBody": "PartMirror phiên bản 1.0.0 không thu thập dữ liệu cá nhân. Nó không có hệ thống tài khoản, phân tích, SDK quảng cáo hoặc tải lên máy chủ từ xa.",
+      "privacyCollectionBody": "Phần giữa sử dụng Google AdMob và các công cụ lấy sự đồng ý của Google để phân phối quảng cáo biểu ngữ không được cá nhân hóa. Các dịch vụ quảng cáo có thể nhận thông tin về thiết bị và mạng, nhưng Phần giữa không bao giờ cung cấp hình ảnh camera, hình dạng khuôn mặt, hình dáng đã lưu, tên hoặc công thức bộ phận để nhắm mục tiêu quảng cáo.",
       "privacyCameraTitle": "Theo dõi máy ảnh và khuôn mặt",
       "privacyCameraBody": "Các khung của camera trước và thông tin theo dõi khuôn mặt được xử lý trên iPhone của bạn để đặt hướng dẫn. PartMirror không gửi khung camera, hình học khuôn mặt hoặc thông tin theo dõi cho chúng tôi.",
       "privacyMediaTitle": "Ảnh, video và My Looks",
@@ -5392,7 +5674,7 @@
       "privacyRetentionTitle": "Giữ lại và xóa",
       "privacyRetentionBody": "Vì ứng dụng không gửi dữ liệu máy ảnh hoặc phương tiện cho chúng tôi nên chúng tôi không giữ lại dữ liệu đó. Bạn có thể xóa các giao diện đã lưu bên trong ứng dụng hoặc xóa tất cả dữ liệu ứng dụng cục bộ bằng cách gỡ cài đặt PartMirror.",
       "privacyAdsTitle": "Quảng cáo và phân tích",
-      "privacyAdsBody": "Bản phát hành hiện tại không hiển thị quảng cáo và không bao gồm các dịch vụ quảng cáo hoặc phân tích. Chúng tôi sẽ cập nhật chính sách này trước khi kích hoạt bất kỳ dịch vụ nào trong tương lai làm thay đổi những thực tiễn này.",
+      "privacyAdsBody": "Phiên bản miễn phí sử dụng Google AdMob và các công cụ lấy sự đồng ý của Google để phân phối quảng cáo biểu ngữ không được cá nhân hóa. Google có thể xử lý địa chỉ IP, số nhận dạng thiết bị, dữ liệu quảng cáo, tương tác sản phẩm, dữ liệu hiệu suất và chẩn đoán. PartMirror không bao giờ cung cấp hình ảnh camera, hình học khuôn mặt, hình dáng đã lưu, tên hoặc công thức sản xuất bộ phận cho quảng cáo. Người đăng ký không nhận được quảng cáo và PartMirror không khởi động AdMob khi quyền truy cập không có quảng cáo đã được xác minh đang hoạt động.",
       "privacyChildrenTitle": "trẻ em",
       "privacyChildrenBody": "PartMirror không hướng riêng đến trẻ em dưới 13 tuổi và chúng tôi không cố ý thu thập dữ liệu cá nhân từ trẻ em.",
       "privacyChangesTitle": "Những thay đổi đối với chính sách này",
@@ -5420,7 +5702,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple EULA tiêu chuẩn",
       "legalTranslationNote": "Các bản dịch được cung cấp để thuận tiện. Nếu phiên bản dịch xung đột với phiên bản tiếng Anh thì phiên bản tiếng Anh sẽ kiểm soát nếu được pháp luật cho phép.",
-      "footerRights": "Mọi quyền được bảo lưu."
+      "footerRights": "Mọi quyền được bảo lưu.",
+      "faqAdsQ": "PartMirror Không Có Quảng Cáo",
+      "faqAdsA": "Xóa tất cả quảng cáo trên PartMirror.",
+      "faqPrivacyQ": "Quảng cáo",
+      "faqPrivacyA": "Bạn có thể quản lý các lựa chọn về quyền riêng tư của quảng cáo trong Cài đặt khi có sẵn các tùy chọn về quyền riêng tư của Google, quản lý hoặc hủy đăng ký thông qua App Store, thu hồi quyền Ảnh trong Cài đặt iOS và xóa các giao diện đã lưu bên trong PartMirror.",
+      "privacyPurchasesTitle": "PartMirror Không Có Quảng Cáo",
+      "privacyPurchasesBody": "Apple xử lý việc mua hàng và quản lý đăng ký PartMirror Không có quảng cáo. PartMirror chỉ đọc trạng thái đăng ký đã được Apple xác minh để xóa hoặc khôi phục quảng cáo. PartMirror không vận hành hệ thống tài khoản hoặc lưu trữ chi tiết thẻ thanh toán."
     }
   },
   "zh-Hans": {
@@ -5495,7 +5783,7 @@
       "effectiveDate": "2026 年 8 月 30 日生效",
       "privacyIntro": "本政策描述了当前的 PartMirror iPhone 应用程序和本网站。",
       "privacyCollectionTitle": "数据收集",
-      "privacyCollectionBody": "PartMirror 1.0.0 版不收集个人数据。它没有帐户系统、分析、广告 SDK 或远程服务器上传。",
+      "privacyCollectionBody": "中间部分使用 Google AdMob 和 Google 的同意工具来投放非个性化横幅广告。广告服务可以接收设备和网络信息，但中间部分从不提供用于广告定位的相机图像、面部几何形状、保存的外观、名称或部分配方。",
       "privacyCameraTitle": "摄像头和面部追踪",
       "privacyCameraBody": "前置摄像头帧和面部跟踪信息在您的 iPhone 上进行处理以放置指南。 PartMirror 不会向我们发送相机帧、面部几何形状或跟踪信息。",
       "privacyMediaTitle": "照片、视频和My Looks",
@@ -5505,7 +5793,7 @@
       "privacyRetentionTitle": "保留和删除",
       "privacyRetentionBody": "由于该应用程序不会向我们发送相机或媒体数据，因此我们不会保留该数据。您可以删除应用程序内保存的外观，或通过卸载 PartMirror 来删除所有本地应用程序数据。",
       "privacyAdsTitle": "广告和分析",
-      "privacyAdsBody": "当前版本不显示广告，也不包含广告或分析服务。在启用任何改变这些做法的未来服务之前，我们将更新此政策。",
+      "privacyAdsBody": "免费版本使用 Google AdMob 和 Google 同意工具来投放非个性化横幅广告。 Google 可能会处理 IP 地址、设备标识符、广告数据、产品交互、性能数据和诊断信息。 PartMirror 绝不会提供相机图像、面部几何形状、保存的外观、名称或用于广告的零件配方。当经过验证的无广告访问处于活动状态时，订阅者不会收到广告，并且 PartMirror 不会启动 AdMob。",
       "privacyChildrenTitle": "儿童",
       "privacyChildrenBody": "PartMirror 并非专门针对 13 岁以下儿童，我们不会故意收集儿童的个人数据。",
       "privacyChangesTitle": "本政策的变更",
@@ -5533,7 +5821,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple 标准 EULA",
       "legalTranslationNote": "为方便起见，提供翻译。如果翻译版本与英文版本冲突，则在法律允许的情况下以英文版本为准。",
-      "footerRights": "版权所有。"
+      "footerRights": "版权所有。",
+      "faqAdsQ": "PartMirror 无广告",
+      "faqAdsA": "删除 PartMirror 中的所有广告。",
+      "faqPrivacyQ": "广告",
+      "faqPrivacyA": "当 Google 隐私选项可用时，您可以在“设置”中管理广告隐私选项，通过 App Store 管理或取消订阅，在 iOS 设置中撤销“照片”权限，以及删除 PartMirror 中保存的外观。",
+      "privacyPurchasesTitle": "PartMirror 无广告",
+      "privacyPurchasesBody": "Apple 处理 PartMirror 无广告购买和订阅管理。 PartMirror 读取 Apple 验证的订阅状态仅用于删除或恢复广告。 PartMirror 不运行帐户系统或存储支付卡详细信息。"
     }
   },
   "zh-Hant": {
@@ -5608,7 +5902,7 @@
       "effectiveDate": "2026 年 8 月 30 日生效",
       "privacyIntro": "本政策描述了目前的 PartMirror iPhone 應用程式和本網站。",
       "privacyCollectionTitle": "數據收集",
-      "privacyCollectionBody": "PartMirror 1.0.0 版不收集個人資料。它沒有帳戶系統、分析、廣告 SDK 或遠端伺服器上傳。",
+      "privacyCollectionBody": "中間部分使用 Google AdMob 和 Google 的同意工具來投放非個人化橫幅廣告。广告服务可以接收设备和网络信息，但中间部分从不提供用于广告定位的相机图像、面部几何形状、保存的外观、名称或部分配方。",
       "privacyCameraTitle": "網路攝影機和臉部追蹤",
       "privacyCameraBody": "前置相機幀和臉部追蹤資訊在您的 iPhone 上進行處理以放置指南。 PartMirror 不會向我們發送相機幀、臉部幾何形狀或追蹤訊息。",
       "privacyMediaTitle": "照片、影片和My Looks",
@@ -5618,7 +5912,7 @@
       "privacyRetentionTitle": "保留和刪除",
       "privacyRetentionBody": "由於該應用程式不會向我們發送相機或媒體數據，因此我們不會保留該數據。您可以刪除應用程式內儲存的外觀，或透過解除安裝 PartMirror 來刪除所有本機應用程式資料。",
       "privacyAdsTitle": "廣告和分析",
-      "privacyAdsBody": "目前版本不顯示廣告，也不包含廣告或分析服務。在啟用任何改變這些做法的未來服務之前，我們將更新此政策。",
+      "privacyAdsBody": "免費版本使用 Google AdMob 和 Google 同意工具來投放非個人化橫幅廣告。 Google 可能會處理 IP 位址、裝置識別碼、廣告資料、產品互動、效能資料和診斷資訊。 PartMirror 絕不會提供相機影像、臉部幾何形狀、保存的外觀、名稱或用於廣告的零件配方。當經過驗證的無廣告訪問處於活動狀態時，訂閱者不會收到廣告，且 PartMirror 不會啟動 AdMob。",
       "privacyChildrenTitle": "兒童",
       "privacyChildrenBody": "PartMirror 並非專門針對 13 歲以下兒童，我們不會故意收集兒童的個人資料。",
       "privacyChangesTitle": "本政策的變更",
@@ -5646,7 +5940,13 @@
       "termsContactPending": "support@partmirror.com",
       "appleEula": "Apple 標準 EULA",
       "legalTranslationNote": "為方便起見，提供翻譯。如果翻譯版本與英文版本衝突，則在法律允許的情況下以英文版本為準。",
-      "footerRights": "版權所有。"
+      "footerRights": "版權所有。",
+      "faqAdsQ": "PartMirror 無廣告",
+      "faqAdsA": "刪除 PartMirror 中的所有廣告。",
+      "faqPrivacyQ": "廣告",
+      "faqPrivacyA": "當 Google 隱私選項可用時，您可以在「設定」中管理廣告隱私選項，透過 App Store 管理或取消訂閱，在 iOS 設定中撤銷「照片」權限，以及刪除 PartMirror 中儲存的外觀。",
+      "privacyPurchasesTitle": "PartMirror 無廣告",
+      "privacyPurchasesBody": "Apple 處理 PartMirror 無廣告購買和訂閱管理。 PartMirror 讀取 Apple 驗證的訂閱狀態僅用於刪除或恢復廣告。 PartMirror 不執行帳戶系統或儲存支付卡詳細資料。"
     }
   }
 }

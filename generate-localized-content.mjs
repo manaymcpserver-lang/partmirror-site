@@ -32,12 +32,16 @@ const sourceMessages = {
   faqMirrorA: 'PartMirror intentionally saves the same mirror orientation shown in the live camera preview.',
   faqDeleteQ: 'How do I delete a saved look?',
   faqDeleteA: 'Open My Looks, open the look menu, and choose Delete. Removing the app also removes its private local library.',
+  faqAdsQ: 'PartMirror Ad-Free',
+  faqAdsA: 'Remove all advertising throughout PartMirror.',
+  faqPrivacyQ: 'Advertising',
+  faqPrivacyA: 'You can manage ad privacy choices in Settings when Google\'s privacy options are available, manage or cancel subscriptions through the App Store, revoke Photos permission in iOS Settings, and delete saved looks inside PartMirror.',
   privacyEyebrow: 'Your data',
   privacyTitle: 'Privacy Policy',
   effectiveDate: 'Effective August 30, 2026',
-  privacyIntro: 'This policy describes the current PartMirror iPhone app and this website.',
+  privacyIntro: 'This policy describes the PartMirror iPhone app, its advertising and subscription features, and this website.',
   privacyCollectionTitle: 'Data collection',
-  privacyCollectionBody: 'PartMirror version 1.0.0 does not collect personal data. It has no account system, analytics, advertising SDK, or remote server upload.',
+  privacyCollectionBody: 'PartMirror uses Google AdMob and Google\'s consent tools to deliver non-personalized banner ads. The ad services may receive device and network information, but PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for ad targeting.',
   privacyCameraTitle: 'Camera and face tracking',
   privacyCameraBody: 'Front-camera frames and face-tracking information are processed on your iPhone to place the guide. PartMirror does not send camera frames, face geometry, or tracking information to us.',
   privacyMediaTitle: 'Photos, videos, and My Looks',
@@ -47,7 +51,9 @@ const sourceMessages = {
   privacyRetentionTitle: 'Retention and deletion',
   privacyRetentionBody: 'Because the app sends no camera or media data to us, we do not retain that data. You can delete saved looks inside the app or remove all local app data by uninstalling PartMirror.',
   privacyAdsTitle: 'Advertising and analytics',
-  privacyAdsBody: 'The current release does not display advertising and does not include advertising or analytics services. We will update this policy before enabling any future service that changes these practices.',
+  privacyAdsBody: 'The free version uses Google AdMob and Google\'s consent tools to deliver non-personalized banner ads. Google may process an IP address, device identifiers, advertising data, product interactions, performance data, and diagnostics. PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for advertising. Subscribers do not receive ads, and PartMirror does not start AdMob while verified ad-free access is active.',
+  privacyPurchasesTitle: 'PartMirror Ad-Free',
+  privacyPurchasesBody: 'Apple processes PartMirror Ad-Free purchases and subscription management. PartMirror reads Apple-verified subscription status only to remove or restore advertising. PartMirror does not operate an account system or store payment-card details.',
   privacyChildrenTitle: 'Children',
   privacyChildrenBody: 'PartMirror is not directed specifically to children under 13, and we do not knowingly collect personal data from children.',
   privacyChangesTitle: 'Changes to this policy',
@@ -64,7 +70,7 @@ const sourceMessages = {
   termsContentTitle: 'Your photos and videos',
   termsContentBody: 'You keep ownership of media you create. You are responsible for content you capture, share, or export and for respecting the rights and privacy of other people.',
   termsSubscriptionTitle: 'PartMirror Ad-Free',
-  termsSubscriptionBody: 'If PartMirror Ad-Free is offered, it costs $9.99 per year unless the App Store shows another localized price. Payment is charged to your Apple Account and renews automatically unless cancelled at least 24 hours before the current period ends. You can restore purchases and manage or cancel the subscription in your Apple Account settings. Apple billing, grace-period, refund, and revocation rules apply.',
+  termsSubscriptionBody: 'PartMirror Ad-Free costs $9.99 per year in the United States unless the App Store shows another localized price. Payment is charged to your Apple Account and renews automatically unless cancelled at least 24 hours before the current period ends. Cancelling stops the next renewal but keeps access through the paid period unless Apple refunds or revokes it. You can restore purchases and manage or cancel the subscription in your Apple Account settings. Apple billing, grace-period, refund, and revocation rules apply.',
   termsUseTitle: 'Acceptable use',
   termsUseBody: 'Do not misuse PartMirror, interfere with the app, attempt unauthorized access, reverse engineer it where prohibited, or use it in a way that violates law or another person’s rights.',
   termsDisclaimerTitle: 'Availability and disclaimers',
@@ -90,6 +96,35 @@ const googleLanguage = {
 
 const rtlLocales = new Set(['ar-SA', 'he', 'ur-PK']);
 const messageEntries = Object.entries(sourceMessages);
+const existingOutput = JSON.parse(await readFile('app/site-locales.json', 'utf8'));
+const appLocalizationPath = process.env.PARTMIRROR_LOCALIZABLE_PATH
+  ?? '../App/Resources/Localizable.xcstrings';
+const appStrings = JSON.parse(
+  await readFile(appLocalizationPath, 'utf8'),
+).strings;
+const appSourceKeyByMessage = {
+  faqAdsQ: 'PartMirror Ad-Free',
+  faqAdsA: 'Remove all advertising throughout PartMirror.',
+  faqPrivacyQ: 'Advertising',
+  faqPrivacyA: 'You can manage ad privacy choices in Settings when Google\'s privacy options are available, manage or cancel subscriptions through the App Store, revoke Photos permission in iOS Settings, and delete saved looks inside PartMirror.',
+  privacyCollectionBody: 'PartMirror uses Google AdMob and Google\'s consent tools to deliver non-personalized banner ads. The ad services may receive device and network information, but PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for ad targeting.',
+  privacyAdsBody: 'The free version uses Google AdMob and Google\'s consent tools to deliver non-personalized banner ads. Google may process an IP address, device identifiers, advertising data, product interactions, performance data, and diagnostics. PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for advertising. Subscribers do not receive ads, and PartMirror does not start AdMob while verified ad-free access is active.',
+  privacyPurchasesTitle: 'PartMirror Ad-Free',
+  privacyPurchasesBody: 'Apple processes PartMirror Ad-Free purchases and subscription management. PartMirror reads Apple-verified subscription status only to remove or restore advertising. PartMirror does not operate an account system or store payment-card details.',
+};
+const appLocale = {
+  'ar-SA': 'ar', 'bn-BD': 'bn', 'de-DE': 'de', 'fr-FR': 'fr', 'gu-IN': 'gu',
+  'kn-IN': 'kn', 'ml-IN': 'ml', 'mr-IN': 'mr', 'nl-NL': 'nl', no: 'nb',
+  'or-IN': 'or', 'pa-IN': 'pa', 'sl-SI': 'sl', 'ta-IN': 'ta', 'te-IN': 'te',
+  'ur-PK': 'ur',
+};
+
+function appTranslation(locale, messageKey) {
+  const sourceKey = appSourceKeyByMessage[messageKey];
+  if (!sourceKey) return undefined;
+  const localization = appLocale[locale] ?? locale;
+  return appStrings[sourceKey]?.localizations?.[localization]?.stringUnit?.value;
+}
 const protectedTerms = [
   ['PartMirror', 'ZXQPARTMIRRORZXQ'],
   ['TrueDepth', 'ZXQTRUEDEPTHZXQ'],
@@ -119,14 +154,23 @@ async function translateMessages(locale) {
   if (locale.startsWith('en-')) return sourceMessages;
   const target = googleLanguage[locale];
   if (!target) throw new Error(`Missing translation language for ${locale}`);
+  const existingMessages = { ...(existingOutput[locale]?.messages ?? {}) };
+  for (const [key] of messageEntries) {
+    const translated = appTranslation(locale, key);
+    if (translated) existingMessages[key] = translated;
+  }
+  const entriesToTranslate = messageEntries.filter(
+    ([key]) => !existingMessages[key],
+  );
+  if (entriesToTranslate.length === 0) return existingMessages;
   const body = new URLSearchParams({
     client: 'gtx',
     sl: 'en',
     tl: target,
     dt: 't',
-    q: messageEntries.map(([, value]) => protectTerms(value)).join('\n'),
+    q: entriesToTranslate.map(([, value]) => protectTerms(value)).join('\n'),
   });
-  for (let attempt = 1; attempt <= 3; attempt += 1) {
+  for (let attempt = 1; attempt <= 6; attempt += 1) {
     try {
       const response = await fetch('https://translate.googleapis.com/translate_a/single', {
         method: 'POST',
@@ -136,15 +180,18 @@ async function translateMessages(locale) {
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const payload = await response.json();
       const translated = payload[0].map((part) => part[0]).join('').split('\n');
-      if (translated.length !== messageEntries.length) {
-        throw new Error(`Expected ${messageEntries.length} translated lines, got ${translated.length}`);
+      if (translated.length !== entriesToTranslate.length) {
+        throw new Error(`Expected ${entriesToTranslate.length} translated lines, got ${translated.length}`);
       }
-      return Object.fromEntries(
-        messageEntries.map(([key], index) => [key, restoreTerms(translated[index])]),
-      );
+      return {
+        ...existingMessages,
+        ...Object.fromEntries(
+          entriesToTranslate.map(([key], index) => [key, restoreTerms(translated[index])]),
+        ),
+      };
     } catch (error) {
-      if (attempt === 3) throw error;
-      await new Promise((resolve) => setTimeout(resolve, attempt * 800));
+      if (attempt === 6) throw error;
+      await new Promise((resolve) => setTimeout(resolve, attempt * 5000));
     }
   }
 }
@@ -166,7 +213,7 @@ for (const [index, file] of files.entries()) {
     messages: await translateMessages(store.locale),
   };
   console.log(`[${index + 1}/${files.length}] ${store.locale}`);
-  await new Promise((resolve) => setTimeout(resolve, 120));
+  await new Promise((resolve) => setTimeout(resolve, 1500));
 }
 
 await writeFile('app/site-locales.json', `${JSON.stringify(output, null, 2)}\n`);
