@@ -8,18 +8,54 @@
   "description": "Hitta benan som passar dig innan du tar fram kammen. PartMirror använder TrueDepth-kameran på framsidan av kompatibla iPhone-modeller för att lägga en liveguide över håret så att du kan jämföra mittbena, vänsterbena och högerbena.\n\nVälj placering\n• Växla mellan mitten, vänster och höger.\n• Finjustera placeringen i millimeter.\n• Välj en rak, diagonal eller mjukt C-formad linje från hårfästet till hjässan.\n\nFånga din stil\nTa bilder eller korta videor och jämför en ren vy med vyn med guide i Mina stilar. Dina sparade stilar stannar på din iPhone om du inte väljer att dela eller exportera dem.\n\nPrivat kamerabearbetning\nHuvudspårning och kamerabearbetning sker på din iPhone. Guiden kräver inget konto och ingen uppladdning.\n\nPartMirror kräver iOS 17 eller senare och en iPhone med TrueDepth-kamera på framsidan.",
   "keywords": "frisyr,bena,mittbena,sidbena,symmetri,flätor,kam,hårbotten,styling",
   "ui": {
-    "left": "Vänster", "middle": "Mitten", "right": "Höger",
-    "center_position": "Mittposition", "centered": "Centrerad",
-    "your_left": "Din vänster", "center": "Mitten", "your_right": "Din höger",
-    "part_position": "Benans placering", "side": "Sida", "shape": "Form",
-    "straight": "Rak", "diagonal": "Diagonal", "soft_c": "Mjuk C",
-    "customize_shape": "Anpassa form…", "photo": "Foto", "video": "Video"
+    "left": "Vänster",
+    "middle": "Mitten",
+    "right": "Höger",
+    "center_position": "Mittposition",
+    "centered": "Centrerad",
+    "your_left": "Din vänster",
+    "center": "Mitten",
+    "your_right": "Din höger",
+    "part_position": "Benans placering",
+    "side": "Sida",
+    "shape": "Form",
+    "straight": "Rak",
+    "diagonal": "Diagonal",
+    "soft_c": "Mjuk C",
+    "customize_shape": "Anpassa form…",
+    "photo": "Foto",
+    "video": "Video"
   },
   "screenshots": [
-    {"position": 1, "headline": "Hitta din perfekta bena", "supporting": "En liveguide följer ditt huvud i realtid"},
-    {"position": 2, "headline": "Mitten, vänster eller höger", "supporting": "Välj placeringen som passar din stil"},
-    {"position": 3, "headline": "Justera den exakta placeringen", "supporting": "Finjustera din bena på millimetern"},
-    {"position": 4, "headline": "Rak, diagonal eller böjd", "supporting": "Forma linjen från hårfästet till hjässan"},
-    {"position": 5, "headline": "Ta en bild eller video", "supporting": "Spara varje stil privat på din iPhone"}
+    {
+      "position": 1,
+      "headline": "Hitta din perfekta bena",
+      "supporting": "En liveguide följer ditt huvud i realtid"
+    },
+    {
+      "position": 2,
+      "headline": "Mitten, vänster eller höger",
+      "supporting": "Välj placeringen som passar din stil"
+    },
+    {
+      "position": 3,
+      "headline": "Justera den exakta placeringen",
+      "supporting": "Finjustera din bena på millimetern"
+    },
+    {
+      "position": 4,
+      "headline": "Rak, diagonal eller böjd",
+      "supporting": "Forma linjen från hårfästet till hjässan"
+    },
+    {
+      "position": 5,
+      "headline": "Ta en bild eller video",
+      "supporting": "Spara varje stil privat på din iPhone"
+    },
+    {
+      "position": 6,
+      "headline": "Samla alla stilar på ett ställe",
+      "supporting": "Jämför dina favoritbenor när du vill"
+    }
   ]
 }

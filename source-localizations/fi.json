@@ -51,6 +51,11 @@
       "position": 5,
       "headline": "Ota kuva tai video",
       "supporting": "Tallenna jokainen jakaustyyli yksityisesti iPhoneen"
+    },
+    {
+      "position": 6,
+      "headline": "Pidä kaikki tyylit yhdessä paikassa",
+      "supporting": "Vertaile suosikkijakauksiasi milloin tahansa"
     }
   ]
 }

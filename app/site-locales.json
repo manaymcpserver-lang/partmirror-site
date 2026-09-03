@@ -33,6 +33,11 @@
         "position": 5,
         "headline": "التقط صورة أو فيديو",
         "supporting": "احفظ كل إطلالة بخصوصية على iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "احتفظ بكل إطلالة في مكان واحد",
+        "supporting": "قارن فرق الشعر المفضلة لديك في أي وقت"
       }
     ],
     "messages": {
@@ -156,6 +161,11 @@
         "position": 5,
         "headline": "ছবি বা ভিডিও তুলুন",
         "supporting": "প্রতিটি সিঁথির লুক iPhone-এ ব্যক্তিগতভাবে সেভ করুন"
+      },
+      {
+        "position": 6,
+        "headline": "সব লুক এক জায়গায় রাখুন",
+        "supporting": "আপনার পছন্দের সিঁথিগুলো যেকোনো সময় তুলনা করুন"
       }
     ],
     "messages": {
@@ -279,6 +289,11 @@
         "position": 5,
         "headline": "Fes una foto o un vídeo",
         "supporting": "Desa cada look de ratlla de manera privada a l'iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Tingues tots els looks en un sol lloc",
+        "supporting": "Compara les teves ratlles preferides quan vulguis"
       }
     ],
     "messages": {
@@ -402,6 +417,11 @@
         "position": 5,
         "headline": "Pořiďte fotografii nebo video",
         "supporting": "Každý účes s pěšinkou soukromě uložte na iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Mějte všechny účesy na jednom místě",
+        "supporting": "Porovnejte své oblíbené pěšinky kdykoli"
       }
     ],
     "messages": {
@@ -525,6 +545,11 @@
         "position": 5,
         "headline": "Tag et billede eller en video",
         "supporting": "Gem hvert look med skilning privat på din iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Saml alle dine looks ét sted",
+        "supporting": "Sammenlign dine yndlingsskilninger når som helst"
       }
     ],
     "messages": {
@@ -648,6 +673,11 @@
         "position": 5,
         "headline": "Nimm ein Foto oder Video auf",
         "supporting": "Speichere jeden Scheitel-Look privat auf deinem iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Alle Looks an einem Ort",
+        "supporting": "Vergleiche deine Lieblingsscheitel jederzeit"
       }
     ],
     "messages": {
@@ -771,6 +801,11 @@
         "position": 5,
         "headline": "Τράβηξε φωτογραφία ή βίντεο",
         "supporting": "Αποθήκευσε ιδιωτικά κάθε look χωρίστρας στο iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Κράτησε κάθε look σε ένα μέρος",
+        "supporting": "Σύγκρινε τις αγαπημένες σου χωρίστρες ανά πάσα στιγμή"
       }
     ],
     "messages": {
@@ -894,6 +929,11 @@
         "position": 5,
         "headline": "Take a photo or video",
         "supporting": "Save each parting look privately on your iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Keep every look in one place",
+        "supporting": "Compare your favorite parts anytime"
       }
     ],
     "messages": {
@@ -1017,6 +1057,11 @@
         "position": 5,
         "headline": "Take a photo or video",
         "supporting": "Save each parting look privately on your iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Keep every look in one place",
+        "supporting": "Compare your favorite parts anytime"
       }
     ],
     "messages": {
@@ -1140,6 +1185,11 @@
         "position": 5,
         "headline": "Take a photo or video",
         "supporting": "Save each parting look privately on your iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Keep every look in one place",
+        "supporting": "Compare your favorite parts anytime"
       }
     ],
     "messages": {
@@ -1263,6 +1313,11 @@
         "position": 5,
         "headline": "Take a photo or video",
         "supporting": "Save each parting look privately on your iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Keep every look in one place",
+        "supporting": "Compare your favorite parts anytime"
       }
     ],
     "messages": {
@@ -1386,6 +1441,11 @@
         "position": 5,
         "headline": "Haz una foto o un vídeo",
         "supporting": "Guarda cada look de forma privada en tu iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Guarda todos tus looks en un solo lugar",
+        "supporting": "Compara tus rayas favoritas cuando quieras"
       }
     ],
     "messages": {
@@ -1509,6 +1569,11 @@
         "position": 5,
         "headline": "Toma una foto o video",
         "supporting": "Guarda cada look de forma privada en tu iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Guarda todos tus looks en un solo lugar",
+        "supporting": "Compara tus rayas favoritas cuando quieras"
       }
     ],
     "messages": {
@@ -1632,6 +1697,11 @@
         "position": 5,
         "headline": "Ota kuva tai video",
         "supporting": "Tallenna jokainen jakaustyyli yksityisesti iPhoneen"
+      },
+      {
+        "position": 6,
+        "headline": "Pidä kaikki tyylit yhdessä paikassa",
+        "supporting": "Vertaile suosikkijakauksiasi milloin tahansa"
       }
     ],
     "messages": {
@@ -1755,6 +1825,11 @@
         "position": 5,
         "headline": "Prenez une photo ou une vidéo",
         "supporting": "Gardez chaque look en privé sur votre iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Gardez tous vos looks au même endroit",
+        "supporting": "Comparez vos raies préférées à tout moment"
       }
     ],
     "messages": {
@@ -1878,6 +1953,11 @@
         "position": 5,
         "headline": "Prenez une photo ou une vidéo",
         "supporting": "Enregistrez chaque look en privé sur votre iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Gardez tous vos looks au même endroit",
+        "supporting": "Comparez vos raies préférées à tout moment"
       }
     ],
     "messages": {
@@ -2001,6 +2081,11 @@
         "position": 5,
         "headline": "ફોટો કે વીડિયો લો",
         "supporting": "દરેક સેંથાનો લુક iPhone પર ખાનગી રીતે સાચવો"
+      },
+      {
+        "position": 6,
+        "headline": "તમારા બધા લુક્સ એક જ જગ્યાએ રાખો",
+        "supporting": "તમારા મનપસંદ સેંથાઓની ગમે ત્યારે સરખામણી કરો"
       }
     ],
     "messages": {
@@ -2124,6 +2209,11 @@
         "position": 5,
         "headline": "צלמו תמונה או סרטון",
         "supporting": "שמרו כל מראה שביל בפרטיות ב-iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "כל המראות במקום אחד",
+        "supporting": "השוו בין השבילים האהובים עליכם בכל עת"
       }
     ],
     "messages": {
@@ -2247,6 +2337,11 @@
         "position": 5,
         "headline": "फ़ोटो या वीडियो लें",
         "supporting": "हर माँग वाला लुक अपने iPhone पर निजी रूप से सेव करें"
+      },
+      {
+        "position": 6,
+        "headline": "हर लुक एक ही जगह पर",
+        "supporting": "अपनी पसंदीदा माँग की कभी भी तुलना करें"
       }
     ],
     "messages": {
@@ -2370,6 +2465,11 @@
         "position": 5,
         "headline": "Snimite fotografiju ili video",
         "supporting": "Svaki stil razdjeljka privatno spremite na iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Svi izgledi na jednom mjestu",
+        "supporting": "Usporedite omiljene razdjeljke bilo kada"
       }
     ],
     "messages": {
@@ -2493,6 +2593,11 @@
         "position": 5,
         "headline": "Készíts fotót vagy videót",
         "supporting": "Mentsd minden választékos frizurád privátan az iPhone-odra"
+      },
+      {
+        "position": 6,
+        "headline": "Minden megjelenés egy helyen",
+        "supporting": "Hasonlítsd össze kedvenc választékaidat bármikor"
       }
     ],
     "messages": {
@@ -2616,6 +2721,11 @@
         "position": 5,
         "headline": "Ambil foto atau video",
         "supporting": "Simpan setiap gaya belahan secara privat di iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Semua tampilan di satu tempat",
+        "supporting": "Bandingkan belahan favorit kapan saja"
       }
     ],
     "messages": {
@@ -2739,6 +2849,11 @@
         "position": 5,
         "headline": "Scatta una foto o un video",
         "supporting": "Salva ogni look con la riga in privato sul tuo iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Tutti i look in un unico posto",
+        "supporting": "Confronta le tue righe preferite quando vuoi"
       }
     ],
     "messages": {
@@ -2862,6 +2977,11 @@
         "position": 5,
         "headline": "写真や動画を撮影",
         "supporting": "分け目スタイルをiPhoneに非公開で保存"
+      },
+      {
+        "position": 6,
+        "headline": "すべてのルックをひとつに",
+        "supporting": "お気に入りの分け目をいつでも比較"
       }
     ],
     "messages": {
@@ -2985,6 +3105,11 @@
         "position": 5,
         "headline": "ಫೋಟೋ ಅಥವಾ ವಿಡಿಯೋ ತೆಗೆಯಿರಿ",
         "supporting": "ಪ್ರತಿ ಬೈತಲೆ ಲುಕ್ ಅನ್ನು iPhoneನಲ್ಲಿ ಖಾಸಗಿಯಾಗಿ ಉಳಿಸಿ"
+      },
+      {
+        "position": 6,
+        "headline": "ಎಲ್ಲ ಲುಕ್‌ಗಳು ಒಂದೇ ಕಡೆ",
+        "supporting": "ನೆಚ್ಚಿನ ಹೇರ್ ಪಾರ್ಟಿಂಗ್‌ಗಳನ್ನು ಯಾವಾಗ ಬೇಕಾದರೂ ಹೋಲಿಸಿ"
       }
     ],
     "messages": {
@@ -3108,6 +3233,11 @@
         "position": 5,
         "headline": "사진 또는 동영상 촬영",
         "supporting": "각 가르마 스타일을 iPhone에 비공개로 저장하세요"
+      },
+      {
+        "position": 6,
+        "headline": "모든 룩을 한곳에",
+        "supporting": "좋아하는 가르마를 언제든 비교하세요"
       }
     ],
     "messages": {
@@ -3231,6 +3361,11 @@
         "position": 5,
         "headline": "ഫോട്ടോ അല്ലെങ്കിൽ വീഡിയോ എടുക്കൂ",
         "supporting": "ഓരോ പാർട്ടിംഗ് ലുക്കും iPhone-ൽ സ്വകാര്യമായി സൂക്ഷിക്കൂ"
+      },
+      {
+        "position": 6,
+        "headline": "എല്ലാ ലുക്കുകളും ഒരിടത്ത്",
+        "supporting": "പ്രിയപ്പെട്ട ഹെയർ പാർട്ടുകൾ എപ്പോൾ വേണമെങ്കിലും താരതമ്യം ചെയ്യൂ"
       }
     ],
     "messages": {
@@ -3354,6 +3489,11 @@
         "position": 5,
         "headline": "फोटो किंवा व्हिडिओ घ्या",
         "supporting": "प्रत्येक भांगाचा लुक iPhone वर खासगीपणे जतन करा"
+      },
+      {
+        "position": 6,
+        "headline": "सगळे लुक एकाच ठिकाणी",
+        "supporting": "तुमच्या आवडत्या भांगांची कधीही तुलना करा"
       }
     ],
     "messages": {
@@ -3477,6 +3617,11 @@
         "position": 5,
         "headline": "Ambil foto atau video",
         "supporting": "Simpan setiap gaya belahan secara peribadi pada iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Semua gaya di satu tempat",
+        "supporting": "Bandingkan belahan kegemaran pada bila-bila masa"
       }
     ],
     "messages": {
@@ -3600,6 +3745,11 @@
         "position": 5,
         "headline": "Maak een foto of video",
         "supporting": "Bewaar elke look met scheiding privé op je iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Al je looks op één plek",
+        "supporting": "Vergelijk je favoriete scheidingen wanneer je wilt"
       }
     ],
     "messages": {
@@ -3723,6 +3873,11 @@
         "position": 5,
         "headline": "Ta et bilde eller en video",
         "supporting": "Lagre hver skillfrisyre privat på iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Alle looks på ett sted",
+        "supporting": "Sammenlign favorittskillene dine når som helst"
       }
     ],
     "messages": {
@@ -3846,6 +4001,11 @@
         "position": 5,
         "headline": "ଫଟୋ କିମ୍ବା ଭିଡିଓ ନିଅନ୍ତୁ",
         "supporting": "ପ୍ରତ୍ୟେକ ସିନ୍ଥି ଲୁକ୍ iPhone-ରେ ବ୍ୟକ୍ତିଗତ ଭାବେ ସଞ୍ଚୟ କରନ୍ତୁ"
+      },
+      {
+        "position": 6,
+        "headline": "ସବୁ ଲୁକ୍ ଗୋଟିଏ ସ୍ଥାନରେ",
+        "supporting": "ନିଜ ପସନ୍ଦର ସିନ୍ଥିକୁ ଯେକେବେଳେ ଚାହିଁବେ ତୁଳନା କରନ୍ତୁ"
       }
     ],
     "messages": {
@@ -3969,6 +4129,11 @@
         "position": 5,
         "headline": "ਫੋਟੋ ਜਾਂ ਵੀਡੀਓ ਬਣਾਓ",
         "supporting": "ਹਰੇਕ ਮਾਂਗ ਲੁੱਕ iPhone ਉੱਤੇ ਨਿੱਜੀ ਤੌਰ ’ਤੇ ਸੰਭਾਲੋ"
+      },
+      {
+        "position": 6,
+        "headline": "ਸਾਰੇ ਲੁੱਕ ਇੱਕੋ ਥਾਂ",
+        "supporting": "ਆਪਣੀਆਂ ਮਨਪਸੰਦ ਮਾਂਗਾਂ ਦੀ ਕਦੇ ਵੀ ਤੁਲਨਾ ਕਰੋ"
       }
     ],
     "messages": {
@@ -4092,6 +4257,11 @@
         "position": 5,
         "headline": "Zrób zdjęcie lub nagraj film",
         "supporting": "Zapisuj każdą stylizację prywatnie na iPhonie"
+      },
+      {
+        "position": 6,
+        "headline": "Wszystkie stylizacje w jednym miejscu",
+        "supporting": "Porównuj ulubione przedziałki, kiedy chcesz"
       }
     ],
     "messages": {
@@ -4215,6 +4385,11 @@
         "position": 5,
         "headline": "Tire uma foto ou faça um vídeo",
         "supporting": "Salve cada look de risca com privacidade no iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Guarde todos os looks em um só lugar",
+        "supporting": "Compare suas riscas favoritas quando quiser"
       }
     ],
     "messages": {
@@ -4338,6 +4513,11 @@
         "position": 5,
         "headline": "Tire uma foto ou grave um vídeo",
         "supporting": "Guarde cada visual de risca em privado no iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Guarde todos os visuais num só lugar",
+        "supporting": "Compare as suas riscas favoritas quando quiser"
       }
     ],
     "messages": {
@@ -4461,6 +4641,11 @@
         "position": 5,
         "headline": "Fă o fotografie sau un videoclip",
         "supporting": "Salvează privat fiecare look cu cărare pe iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Păstrează toate lookurile într-un singur loc",
+        "supporting": "Compară oricând cărările preferate"
       }
     ],
     "messages": {
@@ -4584,6 +4769,11 @@
         "position": 5,
         "headline": "Снимите фото или видео",
         "supporting": "Сохраняйте каждый образ с пробором на iPhone конфиденциально"
+      },
+      {
+        "position": 6,
+        "headline": "Все образы в одном месте",
+        "supporting": "Сравнивайте любимые проборы в любое время"
       }
     ],
     "messages": {
@@ -4707,6 +4897,11 @@
         "position": 5,
         "headline": "Zhotovte fotografiu alebo video",
         "supporting": "Každý vzhľad si súkromne uložte v iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Majte všetky vzhľady na jednom mieste",
+        "supporting": "Obľúbené cestičky porovnajte kedykoľvek"
       }
     ],
     "messages": {
@@ -4830,6 +5025,11 @@
         "position": 5,
         "headline": "Posnemite fotografijo ali video",
         "supporting": "Vsak videz prečke zasebno shranite v iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Vsi videzi na enem mestu",
+        "supporting": "Najljubše prečke primerjajte kadar koli"
       }
     ],
     "messages": {
@@ -4953,6 +5153,11 @@
         "position": 5,
         "headline": "Ta en bild eller video",
         "supporting": "Spara varje stil privat på din iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Samla alla stilar på ett ställe",
+        "supporting": "Jämför dina favoritbenor när du vill"
       }
     ],
     "messages": {
@@ -5076,6 +5281,11 @@
         "position": 5,
         "headline": "படம் அல்லது வீடியோ எடுக்கவும்",
         "supporting": "ஒவ்வொரு வகிடு தோற்றத்தையும் iPhone-இல் தனிப்பட்ட முறையில் சேமிக்கவும்"
+      },
+      {
+        "position": 6,
+        "headline": "அனைத்து தோற்றங்களையும் ஒரே இடத்தில் வைத்திருங்கள்",
+        "supporting": "பிடித்த வகிடுகளை எப்போது வேண்டுமானாலும் ஒப்பிடுங்கள்"
       }
     ],
     "messages": {
@@ -5199,6 +5409,11 @@
         "position": 5,
         "headline": "ఫోటో లేదా వీడియో తీయండి",
         "supporting": "ప్రతి పాపిడి లుక్‌ను iPhoneలో ప్రైవేట్‌గా సేవ్ చేయండి"
+      },
+      {
+        "position": 6,
+        "headline": "ప్రతి లుక్‌ను ఒకేచోట ఉంచండి",
+        "supporting": "మీకు ఇష్టమైన పాపిడులను ఎప్పుడైనా పోల్చండి"
       }
     ],
     "messages": {
@@ -5322,6 +5537,11 @@
         "position": 5,
         "headline": "ถ่ายภาพหรือวิดีโอ",
         "supporting": "บันทึกแต่ละลุครอยแสกไว้เป็นส่วนตัวบน iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "เก็บทุกลุคไว้ในที่เดียว",
+        "supporting": "เปรียบเทียบรอยแสกโปรดได้ทุกเมื่อ"
       }
     ],
     "messages": {
@@ -5445,6 +5665,11 @@
         "position": 5,
         "headline": "Fotoğraf veya video çek",
         "supporting": "Her ayrım görünümünü iPhone'unda gizli sakla"
+      },
+      {
+        "position": 6,
+        "headline": "Tüm görünümlerin tek bir yerde",
+        "supporting": "Favori ayrımlarını istediğin zaman karşılaştır"
       }
     ],
     "messages": {
@@ -5568,6 +5793,11 @@
         "position": 5,
         "headline": "Зробіть фото або відео",
         "supporting": "Приватно зберігайте кожен образ на iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Усі образи в одному місці",
+        "supporting": "Порівнюйте улюблені проділи будь-коли"
       }
     ],
     "messages": {
@@ -5691,6 +5921,11 @@
         "position": 5,
         "headline": "تصویر یا ویڈیو بنائیں",
         "supporting": "ہر مانگ کا لُک اپنے iPhone پر نجی طور پر محفوظ کریں"
+      },
+      {
+        "position": 6,
+        "headline": "ہر لُک ایک جگہ رکھیں",
+        "supporting": "اپنی پسندیدہ مانگ کا کسی بھی وقت موازنہ کریں"
       }
     ],
     "messages": {
@@ -5814,6 +6049,11 @@
         "position": 5,
         "headline": "Chụp ảnh hoặc quay video",
         "supporting": "Lưu riêng tư từng kiểu ngôi tóc trên iPhone"
+      },
+      {
+        "position": 6,
+        "headline": "Lưu mọi kiểu ở cùng một nơi",
+        "supporting": "So sánh các ngôi tóc yêu thích bất cứ lúc nào"
       }
     ],
     "messages": {
@@ -5937,6 +6177,11 @@
         "position": 5,
         "headline": "拍摄照片或视频",
         "supporting": "将每个分缝造型私密保存在 iPhone 上"
+      },
+      {
+        "position": 6,
+        "headline": "集中保存你的所有造型",
+        "supporting": "随时比较你喜爱的分缝"
       }
     ],
     "messages": {
@@ -6060,6 +6305,11 @@
         "position": 5,
         "headline": "拍攝照片或影片",
         "supporting": "將每個分線造型私密儲存在 iPhone 上"
+      },
+      {
+        "position": 6,
+        "headline": "將所有造型集中儲存",
+        "supporting": "隨時比較你喜愛的分線"
       }
     ],
     "messages": {

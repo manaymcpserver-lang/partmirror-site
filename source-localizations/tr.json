@@ -8,18 +8,54 @@
   "description": "Tarağı eline almadan önce sana yakışan saç ayrımını bul. PartMirror, uyumlu iPhone'ların ön TrueDepth kamerasını kullanarak saçının üzerine canlı bir rehber yerleştirir ve orta, sol ve sağ ayrımları karşılaştırmana yardımcı olur.\n\nKonumunu seç\n• Orta, sol ve sağ arasında geçiş yap.\n• Konumu milimetre hassasiyetinde ayarla.\n• Saç çizgisinden tepeye kadar Düz, Çapraz veya Yumuşak C şeklinde bir çizgi seç.\n\nGörünümünü yakala\nFotoğraf veya kısa video çek, ardından Görünümlerim'de temiz görünümü rehberli görünümle karşılaştır. Kaydettiğin görünümler, paylaşmayı veya dışa aktarmayı seçmediğin sürece iPhone'unda kalır.\n\nGizli kamera işleme\nBaş takibi ve kamera işleme iPhone'unda gerçekleşir. Rehber için hesap veya yükleme gerekmez.\n\nPartMirror, iOS 17 veya sonraki bir sürümü ve ön TrueDepth kameralı bir iPhone gerektirir.",
   "keywords": "saç,ayrım,ortadan,yan,simetri,örgü,tarak,saç derisi,şekillendirme",
   "ui": {
-    "left": "Sol", "middle": "Orta", "right": "Sağ",
-    "center_position": "Orta konum", "centered": "Ortalanmış",
-    "your_left": "Solunuz", "center": "Orta", "your_right": "Sağınız",
-    "part_position": "Ayrım konumu", "side": "Yan", "shape": "Şekil",
-    "straight": "Düz", "diagonal": "Çapraz", "soft_c": "Yumuşak C",
-    "customize_shape": "Şekli özelleştir…", "photo": "Fotoğraf", "video": "Video"
+    "left": "Sol",
+    "middle": "Orta",
+    "right": "Sağ",
+    "center_position": "Orta konum",
+    "centered": "Ortalanmış",
+    "your_left": "Solunuz",
+    "center": "Orta",
+    "your_right": "Sağınız",
+    "part_position": "Ayrım konumu",
+    "side": "Yan",
+    "shape": "Şekil",
+    "straight": "Düz",
+    "diagonal": "Çapraz",
+    "soft_c": "Yumuşak C",
+    "customize_shape": "Şekli özelleştir…",
+    "photo": "Fotoğraf",
+    "video": "Video"
   },
   "screenshots": [
-    {"position": 1, "headline": "Mükemmel saç ayrımını bul", "supporting": "Canlı rehber başını gerçek zamanlı takip eder"},
-    {"position": 2, "headline": "Orta, sol veya sağ", "supporting": "Görünümüne yakışan konumu seç"},
-    {"position": 3, "headline": "Tam konumu ayarla", "supporting": "Saç ayrımını milimetresine kadar ince ayarla"},
-    {"position": 4, "headline": "Düz, çapraz veya kavisli", "supporting": "Çizgiyi saç çizgisinden tepeye şekillendir"},
-    {"position": 5, "headline": "Fotoğraf veya video çek", "supporting": "Her ayrım görünümünü iPhone'unda gizli sakla"}
+    {
+      "position": 1,
+      "headline": "Mükemmel saç ayrımını bul",
+      "supporting": "Canlı rehber başını gerçek zamanlı takip eder"
+    },
+    {
+      "position": 2,
+      "headline": "Orta, sol veya sağ",
+      "supporting": "Görünümüne yakışan konumu seç"
+    },
+    {
+      "position": 3,
+      "headline": "Tam konumu ayarla",
+      "supporting": "Saç ayrımını milimetresine kadar ince ayarla"
+    },
+    {
+      "position": 4,
+      "headline": "Düz, çapraz veya kavisli",
+      "supporting": "Çizgiyi saç çizgisinden tepeye şekillendir"
+    },
+    {
+      "position": 5,
+      "headline": "Fotoğraf veya video çek",
+      "supporting": "Her ayrım görünümünü iPhone'unda gizli sakla"
+    },
+    {
+      "position": 6,
+      "headline": "Tüm görünümlerin tek bir yerde",
+      "supporting": "Favori ayrımlarını istediğin zaman karşılaştır"
+    }
   ]
 }

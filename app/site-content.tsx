@@ -59,6 +59,8 @@ function Footer({ content }: { content: LocaleContent }) {
 function Home({ content }: { content: LocaleContent }) {
   const m = content.messages;
   const features = [content.screenshots[1], content.screenshots[3], content.screenshots[4]];
+  const screenshotPath = (position: number) =>
+    `/screenshots/${content.locale}/screenshot-${String(position).padStart(2, '0')}.jpg`;
 
   return (
     <>
@@ -72,16 +74,49 @@ function Home({ content }: { content: LocaleContent }) {
             <Link className="text-link" href={sectionPath(content.locale, 'support')}>{m.ctaSupport} <span>↗</span></Link>
           </div>
         </div>
-        <div className="hero-mark" aria-hidden="true">
-          <div className="icon-shell">
-            <Image src="/partmirror-icon.png" alt="" width={380} height={380} priority />
+        <div className="hero-product" aria-hidden="true">
+          <div className="hero-shot hero-shot-left">
+            <Image src={screenshotPath(4)} alt="" width={480} height={1044} priority />
           </div>
-          <span className="orbit orbit-one" />
-          <span className="orbit orbit-two" />
+          <div className="hero-shot hero-shot-main">
+            <Image src={screenshotPath(1)} alt="" width={480} height={1044} priority />
+          </div>
+          <div className="hero-shot hero-shot-right">
+            <Image src={screenshotPath(6)} alt="" width={480} height={1044} priority />
+          </div>
         </div>
       </section>
 
-      <section className="feature-strip" id="how-it-works" aria-label={m.ctaHow}>
+      <section className="product-showcase" id="how-it-works" aria-labelledby="showcase-title">
+        <div className="showcase-heading">
+          <p className="eyebrow">PartMirror · iPhone</p>
+          <h2 id="showcase-title">{content.tagline}</h2>
+          <p>{content.promotionalText}</p>
+        </div>
+        <div className="showcase-grid">
+          {content.screenshots.map((shot) => (
+            <article className="showcase-card" key={shot.position}>
+              <div className="showcase-image">
+                <Image
+                  src={screenshotPath(shot.position)}
+                  alt={`${shot.headline}. ${shot.supporting}`}
+                  width={480}
+                  height={1044}
+                />
+              </div>
+              <div className="showcase-copy">
+                <span>{String(shot.position).padStart(2, '0')}</span>
+                <div>
+                  <h3>{shot.headline}</h3>
+                  <p>{shot.supporting}</p>
+                </div>
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="feature-strip" aria-label={m.ctaHow}>
         {features.map((feature, index) => (
           <article key={feature.position}>
             <span className="feature-number">0{index + 1}</span>
