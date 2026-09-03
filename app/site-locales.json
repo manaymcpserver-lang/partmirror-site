@@ -115,7 +115,11 @@
       "faqPrivacyQ": "الإعلان",
       "faqPrivacyA": "يمكنك إدارة اختيارات خصوصية الإعلان في الإعدادات عندما تكون خيارات خصوصية Google متاحة، وإدارة الاشتراكات أو إلغاؤها من خلال App Store، وإلغاء إذن الصور في إعدادات iOS، وحذف المظاهر المحفوظة داخل PartMirror.",
       "privacyPurchasesTitle": "PartMirror بدون إعلانات",
-      "privacyPurchasesBody": "تقوم Apple بمعالجة عمليات الشراء وإدارة الاشتراكات بدون إعلانات في PartMirror. يقرأ PartMirror حالة الاشتراك الذي تم التحقق منه بواسطة Apple فقط لإزالة الإعلانات أو استعادتها. لا يقوم PartMirror بتشغيل نظام حساب أو تخزين تفاصيل بطاقة الدفع."
+      "privacyPurchasesBody": "تقوم Apple بمعالجة عمليات الشراء وإدارة الاشتراكات بدون إعلانات في PartMirror. يقرأ PartMirror حالة الاشتراك الذي تم التحقق منه بواسطة Apple فقط لإزالة الإعلانات أو استعادتها. لا يقوم PartMirror بتشغيل نظام حساب أو تخزين تفاصيل بطاقة الدفع.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "bn-BD": {
@@ -234,7 +238,11 @@
       "faqPrivacyQ": "বিজ্ঞাপন",
       "faqPrivacyA": "আপনি সেটিংসে বিজ্ঞাপন গোপনীয়তা পছন্দগুলি পরিচালনা করতে পারেন যখন Google এর গোপনীয়তা বিকল্পগুলি উপলব্ধ থাকে, অ্যাপ স্টোরের মাধ্যমে সদস্যতাগুলি পরিচালনা বা বাতিল করতে, iOS সেটিংসে ফটোর অনুমতি প্রত্যাহার করতে এবং PartMirror-এর মধ্যে সংরক্ষিত চেহারাগুলি মুছে ফেলতে পারেন৷",
       "privacyPurchasesTitle": "পার্ট মিরর বিজ্ঞাপন-মুক্ত",
-      "privacyPurchasesBody": "Apple PartMirror বিজ্ঞাপন-মুক্ত কেনাকাটা এবং সদস্যতা ব্যবস্থাপনা প্রক্রিয়া করে। PartMirror শুধুমাত্র বিজ্ঞাপন অপসারণ বা পুনরুদ্ধার করতে Apple-যাচাইকৃত সদস্যতার স্থিতি পড়ে। PartMirror কোনো অ্যাকাউন্ট সিস্টেম পরিচালনা করে না বা পেমেন্ট-কার্ডের বিবরণ সঞ্চয় করে না।"
+      "privacyPurchasesBody": "Apple PartMirror বিজ্ঞাপন-মুক্ত কেনাকাটা এবং সদস্যতা ব্যবস্থাপনা প্রক্রিয়া করে। PartMirror শুধুমাত্র বিজ্ঞাপন অপসারণ বা পুনরুদ্ধার করতে Apple-যাচাইকৃত সদস্যতার স্থিতি পড়ে। PartMirror কোনো অ্যাকাউন্ট সিস্টেম পরিচালনা করে না বা পেমেন্ট-কার্ডের বিবরণ সঞ্চয় করে না।",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "ca": {
@@ -353,7 +361,11 @@
       "faqPrivacyQ": "Publicitat",
       "faqPrivacyA": "Podeu gestionar les opcions de privadesa dels anuncis a Configuració quan les opcions de privadesa de Google estiguin disponibles, gestionar o cancel·lar les subscripcions a l'App Store, revocar el permís de Fotos a Configuració d'iOS i suprimir aspectes desats a PartMirror.",
       "privacyPurchasesTitle": "PartMirror Sense anuncis",
-      "privacyPurchasesBody": "Apple processa les compres i la gestió de subscripcions de PartMirror Ad-Free. PartMirror només llegeix l'estat de subscripció verificat per Apple per eliminar o restaurar la publicitat. PartMirror no opera un sistema de comptes ni emmagatzema els detalls de la targeta de pagament."
+      "privacyPurchasesBody": "Apple processa les compres i la gestió de subscripcions de PartMirror Ad-Free. PartMirror només llegeix l'estat de subscripció verificat per Apple per eliminar o restaurar la publicitat. PartMirror no opera un sistema de comptes ni emmagatzema els detalls de la targeta de pagament.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "cs": {
@@ -472,7 +484,11 @@
       "faqPrivacyQ": "Reklama",
       "faqPrivacyA": "Možnosti ochrany osobních údajů pro reklamy můžete spravovat v Nastavení, když jsou dostupné možnosti ochrany osobních údajů Google, spravovat nebo rušit předplatná prostřednictvím App Store, zrušit oprávnění pro Fotky v Nastavení iOS a mazat uložené vzhledy v PartMirror.",
       "privacyPurchasesTitle": "PartMirror bez reklam",
-      "privacyPurchasesBody": "Apple zpracovává nákupy PartMirror Ad-Free a správu předplatného. PartMirror čte stav předplatného ověřeného společností Apple pouze za účelem odstranění nebo obnovení reklamy. PartMirror neprovozuje systém účtů ani neukládá údaje o platebních kartách."
+      "privacyPurchasesBody": "Apple zpracovává nákupy PartMirror Ad-Free a správu předplatného. PartMirror čte stav předplatného ověřeného společností Apple pouze za účelem odstranění nebo obnovení reklamy. PartMirror neprovozuje systém účtů ani neukládá údaje o platebních kartách.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "da": {
@@ -591,7 +607,11 @@
       "faqPrivacyQ": "Annoncering",
       "faqPrivacyA": "Du kan administrere annoncebeskyttelsesvalg i Indstillinger, når Googles privatlivsindstillinger er tilgængelige, administrere eller annullere abonnementer via App Store, tilbagekalde Fotos-tilladelse i iOS-indstillinger og slette gemte udseender i PartMirror.",
       "privacyPurchasesTitle": "PartMirror reklamefri",
-      "privacyPurchasesBody": "Apple behandler PartMirror Ad-Free-køb og abonnementsadministration. PartMirror læser kun Apple-verificeret abonnementsstatus for at fjerne eller gendanne annoncering. PartMirror driver ikke et kontosystem eller gemmer betalingskortoplysninger."
+      "privacyPurchasesBody": "Apple behandler PartMirror Ad-Free-køb og abonnementsadministration. PartMirror læser kun Apple-verificeret abonnementsstatus for at fjerne eller gendanne annoncering. PartMirror driver ikke et kontosystem eller gemmer betalingskortoplysninger.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "de-DE": {
@@ -710,7 +730,11 @@
       "faqPrivacyQ": "Werbung",
       "faqPrivacyA": "Sie können die Datenschutzoptionen für Anzeigen in den Einstellungen verwalten, wenn die Datenschutzoptionen von Google verfügbar sind, Abonnements über den App Store verwalten oder kündigen, die Fotos-Berechtigung in den iOS-Einstellungen widerrufen und gespeicherte Looks in PartMirror löschen.",
       "privacyPurchasesTitle": "PartMirror werbefrei",
-      "privacyPurchasesBody": "Apple verarbeitet werbefreie PartMirror-Käufe und die Abonnementverwaltung. PartMirror liest den von Apple bestätigten Abonnementstatus nur, um Werbung zu entfernen oder wiederherzustellen. PartMirror betreibt kein Kontosystem und speichert keine Zahlungskartendaten."
+      "privacyPurchasesBody": "Apple verarbeitet werbefreie PartMirror-Käufe und die Abonnementverwaltung. PartMirror liest den von Apple bestätigten Abonnementstatus nur, um Werbung zu entfernen oder wiederherzustellen. PartMirror betreibt kein Kontosystem und speichert keine Zahlungskartendaten.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "el": {
@@ -829,7 +853,11 @@
       "faqPrivacyQ": "Διαφήμιση",
       "faqPrivacyA": "Μπορείτε να διαχειριστείτε τις επιλογές απορρήτου διαφημίσεων στις Ρυθμίσεις όταν είναι διαθέσιμες οι επιλογές απορρήτου της Google, να διαχειριστείτε ή να ακυρώσετε συνδρομές μέσω του App Store, να ανακαλέσετε την άδεια Φωτογραφίες στις Ρυθμίσεις iOS και να διαγράψετε αποθηκευμένες εμφανίσεις μέσα στο PartMirror.",
       "privacyPurchasesTitle": "PartMirror Χωρίς διαφημίσεις\nΤο",
-      "privacyPurchasesBody": "Η Apple επεξεργάζεται αγορές PartMirror χωρίς διαφημίσεις και διαχείριση συνδρομών. Το PartMirror διαβάζει την κατάσταση συνδρομής επαληθευμένη από την Apple μόνο για την κατάργηση ή την επαναφορά διαφημίσεων. Το PartMirror δεν λειτουργεί σύστημα λογαριασμού ούτε αποθηκεύει στοιχεία κάρτας πληρωμής."
+      "privacyPurchasesBody": "Η Apple επεξεργάζεται αγορές PartMirror χωρίς διαφημίσεις και διαχείριση συνδρομών. Το PartMirror διαβάζει την κατάσταση συνδρομής επαληθευμένη από την Apple μόνο για την κατάργηση ή την επαναφορά διαφημίσεων. Το PartMirror δεν λειτουργεί σύστημα λογαριασμού ούτε αποθηκεύει στοιχεία κάρτας πληρωμής.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "en-AU": {
@@ -905,18 +933,22 @@
       "faqPrivacyA": "You can manage ad privacy choices in Settings when Google's privacy options are available, manage or cancel subscriptions through the App Store, revoke Photos permission in iOS Settings, and delete saved looks inside PartMirror.",
       "privacyEyebrow": "Your data",
       "privacyTitle": "Privacy Policy",
-      "effectiveDate": "Effective August 30, 2026",
+      "effectiveDate": "Effective September 3, 2026",
       "privacyIntro": "This policy describes the PartMirror iPhone app, its advertising and subscription features, and this website.",
       "privacyCollectionTitle": "Data collection",
       "privacyCollectionBody": "PartMirror uses Google AdMob and Google's consent tools to deliver non-personalized banner ads. The ad services may receive device and network information, but PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for ad targeting.",
-      "privacyCameraTitle": "Camera and face tracking",
-      "privacyCameraBody": "Front-camera frames and face-tracking information are processed on your iPhone to place the guide. PartMirror does not send camera frames, face geometry, or tracking information to us.",
+      "privacyCameraTitle": "TrueDepth data and purpose",
+      "privacyCameraBody": "PartMirror uses Apple's TrueDepth front camera and ARKit to process live camera frames, depth measurements, face pose, face geometry, and derived points such as the face axis, face width, hairline, and scalp guide points. It uses this information only to place, shape, stabilize, and correctly hide parts of the on-screen hair-parting guide. It is not used to identify a person, authenticate, create a profile, target advertising, or train machine-learning models.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies.",
       "privacyMediaTitle": "Photos, videos, and My Looks",
       "privacyMediaBody": "Photos and videos are created only when you choose to capture them. Saved looks remain in private app storage. If you share or export media, iOS and the service you choose handle it under their own policies.",
       "privacyPhotosTitle": "Photos permission",
       "privacyPhotosBody": "When you choose Export, PartMirror requests permission to add the selected photo or video to Photos. It does not scan your full photo library.",
       "privacyRetentionTitle": "Retention and deletion",
-      "privacyRetentionBody": "Because the app sends no camera or media data to us, we do not retain that data. You can delete saved looks inside the app or remove all local app data by uninstalling PartMirror.",
+      "privacyRetentionBody": "We do not receive or retain TrueDepth data, camera frames, or My Looks media. You can delete saved looks inside the app. Uninstalling PartMirror removes its private local library and all other app data from the iPhone.",
       "privacyAdsTitle": "Advertising and analytics",
       "privacyAdsBody": "The free version uses Google AdMob and Google's consent tools to deliver non-personalized banner ads. Google may process an IP address, device identifiers, advertising data, product interactions, performance data, and diagnostics. PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for advertising. Subscribers do not receive ads, and PartMirror does not start AdMob while verified ad-free access is active.",
       "privacyPurchasesTitle": "PartMirror Ad-Free",
@@ -1024,18 +1056,22 @@
       "faqPrivacyA": "You can manage ad privacy choices in Settings when Google's privacy options are available, manage or cancel subscriptions through the App Store, revoke Photos permission in iOS Settings, and delete saved looks inside PartMirror.",
       "privacyEyebrow": "Your data",
       "privacyTitle": "Privacy Policy",
-      "effectiveDate": "Effective August 30, 2026",
+      "effectiveDate": "Effective September 3, 2026",
       "privacyIntro": "This policy describes the PartMirror iPhone app, its advertising and subscription features, and this website.",
       "privacyCollectionTitle": "Data collection",
       "privacyCollectionBody": "PartMirror uses Google AdMob and Google's consent tools to deliver non-personalized banner ads. The ad services may receive device and network information, but PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for ad targeting.",
-      "privacyCameraTitle": "Camera and face tracking",
-      "privacyCameraBody": "Front-camera frames and face-tracking information are processed on your iPhone to place the guide. PartMirror does not send camera frames, face geometry, or tracking information to us.",
+      "privacyCameraTitle": "TrueDepth data and purpose",
+      "privacyCameraBody": "PartMirror uses Apple's TrueDepth front camera and ARKit to process live camera frames, depth measurements, face pose, face geometry, and derived points such as the face axis, face width, hairline, and scalp guide points. It uses this information only to place, shape, stabilize, and correctly hide parts of the on-screen hair-parting guide. It is not used to identify a person, authenticate, create a profile, target advertising, or train machine-learning models.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies.",
       "privacyMediaTitle": "Photos, videos, and My Looks",
       "privacyMediaBody": "Photos and videos are created only when you choose to capture them. Saved looks remain in private app storage. If you share or export media, iOS and the service you choose handle it under their own policies.",
       "privacyPhotosTitle": "Photos permission",
       "privacyPhotosBody": "When you choose Export, PartMirror requests permission to add the selected photo or video to Photos. It does not scan your full photo library.",
       "privacyRetentionTitle": "Retention and deletion",
-      "privacyRetentionBody": "Because the app sends no camera or media data to us, we do not retain that data. You can delete saved looks inside the app or remove all local app data by uninstalling PartMirror.",
+      "privacyRetentionBody": "We do not receive or retain TrueDepth data, camera frames, or My Looks media. You can delete saved looks inside the app. Uninstalling PartMirror removes its private local library and all other app data from the iPhone.",
       "privacyAdsTitle": "Advertising and analytics",
       "privacyAdsBody": "The free version uses Google AdMob and Google's consent tools to deliver non-personalized banner ads. Google may process an IP address, device identifiers, advertising data, product interactions, performance data, and diagnostics. PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for advertising. Subscribers do not receive ads, and PartMirror does not start AdMob while verified ad-free access is active.",
       "privacyPurchasesTitle": "PartMirror Ad-Free",
@@ -1143,18 +1179,22 @@
       "faqPrivacyA": "You can manage ad privacy choices in Settings when Google's privacy options are available, manage or cancel subscriptions through the App Store, revoke Photos permission in iOS Settings, and delete saved looks inside PartMirror.",
       "privacyEyebrow": "Your data",
       "privacyTitle": "Privacy Policy",
-      "effectiveDate": "Effective August 30, 2026",
+      "effectiveDate": "Effective September 3, 2026",
       "privacyIntro": "This policy describes the PartMirror iPhone app, its advertising and subscription features, and this website.",
       "privacyCollectionTitle": "Data collection",
       "privacyCollectionBody": "PartMirror uses Google AdMob and Google's consent tools to deliver non-personalized banner ads. The ad services may receive device and network information, but PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for ad targeting.",
-      "privacyCameraTitle": "Camera and face tracking",
-      "privacyCameraBody": "Front-camera frames and face-tracking information are processed on your iPhone to place the guide. PartMirror does not send camera frames, face geometry, or tracking information to us.",
+      "privacyCameraTitle": "TrueDepth data and purpose",
+      "privacyCameraBody": "PartMirror uses Apple's TrueDepth front camera and ARKit to process live camera frames, depth measurements, face pose, face geometry, and derived points such as the face axis, face width, hairline, and scalp guide points. It uses this information only to place, shape, stabilize, and correctly hide parts of the on-screen hair-parting guide. It is not used to identify a person, authenticate, create a profile, target advertising, or train machine-learning models.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies.",
       "privacyMediaTitle": "Photos, videos, and My Looks",
       "privacyMediaBody": "Photos and videos are created only when you choose to capture them. Saved looks remain in private app storage. If you share or export media, iOS and the service you choose handle it under their own policies.",
       "privacyPhotosTitle": "Photos permission",
       "privacyPhotosBody": "When you choose Export, PartMirror requests permission to add the selected photo or video to Photos. It does not scan your full photo library.",
       "privacyRetentionTitle": "Retention and deletion",
-      "privacyRetentionBody": "Because the app sends no camera or media data to us, we do not retain that data. You can delete saved looks inside the app or remove all local app data by uninstalling PartMirror.",
+      "privacyRetentionBody": "We do not receive or retain TrueDepth data, camera frames, or My Looks media. You can delete saved looks inside the app. Uninstalling PartMirror removes its private local library and all other app data from the iPhone.",
       "privacyAdsTitle": "Advertising and analytics",
       "privacyAdsBody": "The free version uses Google AdMob and Google's consent tools to deliver non-personalized banner ads. Google may process an IP address, device identifiers, advertising data, product interactions, performance data, and diagnostics. PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for advertising. Subscribers do not receive ads, and PartMirror does not start AdMob while verified ad-free access is active.",
       "privacyPurchasesTitle": "PartMirror Ad-Free",
@@ -1262,18 +1302,22 @@
       "faqPrivacyA": "You can manage ad privacy choices in Settings when Google's privacy options are available, manage or cancel subscriptions through the App Store, revoke Photos permission in iOS Settings, and delete saved looks inside PartMirror.",
       "privacyEyebrow": "Your data",
       "privacyTitle": "Privacy Policy",
-      "effectiveDate": "Effective August 30, 2026",
+      "effectiveDate": "Effective September 3, 2026",
       "privacyIntro": "This policy describes the PartMirror iPhone app, its advertising and subscription features, and this website.",
       "privacyCollectionTitle": "Data collection",
       "privacyCollectionBody": "PartMirror uses Google AdMob and Google's consent tools to deliver non-personalized banner ads. The ad services may receive device and network information, but PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for ad targeting.",
-      "privacyCameraTitle": "Camera and face tracking",
-      "privacyCameraBody": "Front-camera frames and face-tracking information are processed on your iPhone to place the guide. PartMirror does not send camera frames, face geometry, or tracking information to us.",
+      "privacyCameraTitle": "TrueDepth data and purpose",
+      "privacyCameraBody": "PartMirror uses Apple's TrueDepth front camera and ARKit to process live camera frames, depth measurements, face pose, face geometry, and derived points such as the face axis, face width, hairline, and scalp guide points. It uses this information only to place, shape, stabilize, and correctly hide parts of the on-screen hair-parting guide. It is not used to identify a person, authenticate, create a profile, target advertising, or train machine-learning models.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies.",
       "privacyMediaTitle": "Photos, videos, and My Looks",
       "privacyMediaBody": "Photos and videos are created only when you choose to capture them. Saved looks remain in private app storage. If you share or export media, iOS and the service you choose handle it under their own policies.",
       "privacyPhotosTitle": "Photos permission",
       "privacyPhotosBody": "When you choose Export, PartMirror requests permission to add the selected photo or video to Photos. It does not scan your full photo library.",
       "privacyRetentionTitle": "Retention and deletion",
-      "privacyRetentionBody": "Because the app sends no camera or media data to us, we do not retain that data. You can delete saved looks inside the app or remove all local app data by uninstalling PartMirror.",
+      "privacyRetentionBody": "We do not receive or retain TrueDepth data, camera frames, or My Looks media. You can delete saved looks inside the app. Uninstalling PartMirror removes its private local library and all other app data from the iPhone.",
       "privacyAdsTitle": "Advertising and analytics",
       "privacyAdsBody": "The free version uses Google AdMob and Google's consent tools to deliver non-personalized banner ads. Google may process an IP address, device identifiers, advertising data, product interactions, performance data, and diagnostics. PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for advertising. Subscribers do not receive ads, and PartMirror does not start AdMob while verified ad-free access is active.",
       "privacyPurchasesTitle": "PartMirror Ad-Free",
@@ -1424,7 +1468,11 @@
       "faqPrivacyQ": "Publicidad",
       "faqPrivacyA": "Puede administrar las opciones de privacidad de anuncios en Configuración cuando las opciones de privacidad de Google estén disponibles, administrar o cancelar suscripciones a través de App Store, revocar el permiso de Fotos en Configuración de iOS y eliminar looks guardados dentro de PartMirror.",
       "privacyPurchasesTitle": "PartMirror sin publicidad",
-      "privacyPurchasesBody": "Apple procesa las compras y la gestión de suscripciones de PartMirror Ad-Free. PartMirror lee el estado de suscripción verificado por Apple solo para eliminar o restaurar publicidad. PartMirror no opera un sistema de cuentas ni almacena datos de tarjetas de pago."
+      "privacyPurchasesBody": "Apple procesa las compras y la gestión de suscripciones de PartMirror Ad-Free. PartMirror lee el estado de suscripción verificado por Apple solo para eliminar o restaurar publicidad. PartMirror no opera un sistema de cuentas ni almacena datos de tarjetas de pago.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "es-MX": {
@@ -1543,7 +1591,11 @@
       "faqPrivacyQ": "Publicidad",
       "faqPrivacyA": "Puede administrar las opciones de privacidad de anuncios en Configuración cuando las opciones de privacidad de Google estén disponibles, administrar o cancelar suscripciones a través de App Store, revocar el permiso de Fotos en Configuración de iOS y eliminar looks guardados dentro de PartMirror.",
       "privacyPurchasesTitle": "PartMirror sin publicidad",
-      "privacyPurchasesBody": "Apple procesa las compras y la gestión de suscripciones de PartMirror Ad-Free. PartMirror lee el estado de suscripción verificado por Apple solo para eliminar o restaurar publicidad. PartMirror no opera un sistema de cuentas ni almacena datos de tarjetas de pago."
+      "privacyPurchasesBody": "Apple procesa las compras y la gestión de suscripciones de PartMirror Ad-Free. PartMirror lee el estado de suscripción verificado por Apple solo para eliminar o restaurar publicidad. PartMirror no opera un sistema de cuentas ni almacena datos de tarjetas de pago.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "fi": {
@@ -1662,7 +1714,11 @@
       "faqPrivacyQ": "Mainonta",
       "faqPrivacyA": "Voit hallita mainosten tietosuojavalintoja Asetuksissa, kun Googlen tietosuoja-asetukset ovat käytettävissä, hallita tai peruuttaa tilauksia App Storen kautta, peruuttaa Kuvien käyttöoikeudet iOS-asetuksissa ja poistaa tallennettuja ulkoasuja PartMirrorissa.",
       "privacyPurchasesTitle": "Osapeili ilman mainoksia",
-      "privacyPurchasesBody": "Apple käsittelee PartMirror Ad-Free -ostokset ja tilausten hallinnan. PartMirror lukee Applen vahvistaman tilauksen tilan vain poistaakseen tai palauttaakseen mainoksia. PartMirror ei käytä tilijärjestelmää eikä tallenna maksukorttitietoja."
+      "privacyPurchasesBody": "Apple käsittelee PartMirror Ad-Free -ostokset ja tilausten hallinnan. PartMirror lukee Applen vahvistaman tilauksen tilan vain poistaakseen tai palauttaakseen mainoksia. PartMirror ei käytä tilijärjestelmää eikä tallenna maksukorttitietoja.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "fr-CA": {
@@ -1781,7 +1837,11 @@
       "faqPrivacyQ": "Publicité",
       "faqPrivacyA": "Vous pouvez gérer les choix de confidentialité des publicités dans les paramètres lorsque les options de confidentialité de Google sont disponibles, gérer ou annuler les abonnements via l'App Store, révoquer l'autorisation des photos dans les paramètres iOS et supprimer les looks enregistrés dans PartMirror.",
       "privacyPurchasesTitle": "PartMirror sans publicité",
-      "privacyPurchasesBody": "Apple traite les achats et la gestion des abonnements PartMirror Ad-Free. PartMirror lit le statut d'abonnement vérifié par Apple uniquement pour supprimer ou restaurer la publicité. PartMirror n'exploite pas de système de compte et ne stocke pas les détails des cartes de paiement."
+      "privacyPurchasesBody": "Apple traite les achats et la gestion des abonnements PartMirror Ad-Free. PartMirror lit le statut d'abonnement vérifié par Apple uniquement pour supprimer ou restaurer la publicité. PartMirror n'exploite pas de système de compte et ne stocke pas les détails des cartes de paiement.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "fr-FR": {
@@ -1900,7 +1960,11 @@
       "faqPrivacyQ": "Publicité",
       "faqPrivacyA": "Vous pouvez gérer les choix de confidentialité des publicités dans les paramètres lorsque les options de confidentialité de Google sont disponibles, gérer ou annuler les abonnements via l'App Store, révoquer l'autorisation des photos dans les paramètres iOS et supprimer les looks enregistrés dans PartMirror.",
       "privacyPurchasesTitle": "PartMirror sans publicité",
-      "privacyPurchasesBody": "Apple traite les achats et la gestion des abonnements PartMirror Ad-Free. PartMirror lit le statut d'abonnement vérifié par Apple uniquement pour supprimer ou restaurer la publicité. PartMirror n'exploite pas de système de compte et ne stocke pas les détails des cartes de paiement."
+      "privacyPurchasesBody": "Apple traite les achats et la gestion des abonnements PartMirror Ad-Free. PartMirror lit le statut d'abonnement vérifié par Apple uniquement pour supprimer ou restaurer la publicité. PartMirror n'exploite pas de système de compte et ne stocke pas les détails des cartes de paiement.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "gu-IN": {
@@ -2019,7 +2083,11 @@
       "faqPrivacyQ": "જાહેરાત",
       "faqPrivacyA": "જ્યારે Google ના ગોપનીયતા વિકલ્પો ઉપલબ્ધ હોય ત્યારે તમે સેટિંગ્સમાં જાહેરાત ગોપનીયતા પસંદગીઓને મેનેજ કરી શકો છો, એપ સ્ટોર દ્વારા સબ્સ્ક્રિપ્શન્સને મેનેજ કરી શકો છો અથવા રદ કરી શકો છો, iOS સેટિંગ્સમાં ફોટોની પરવાનગી રદ કરી શકો છો અને PartMirror ની અંદર સાચવેલા દેખાવને કાઢી શકો છો.",
       "privacyPurchasesTitle": "PartMirror જાહેરાત-મુક્ત",
-      "privacyPurchasesBody": "Apple PartMirror જાહેરાત-મુક્ત ખરીદીઓ અને સબ્સ્ક્રિપ્શન મેનેજમેન્ટની પ્રક્રિયા કરે છે. PartMirror માત્ર જાહેરાતને દૂર કરવા અથવા પુનઃસ્થાપિત કરવા માટે Apple-ચકાસાયેલ સબ્સ્ક્રિપ્શન સ્ટેટસ વાંચે છે. PartMirror એકાઉન્ટ સિસ્ટમ ઓપરેટ કરતું નથી અથવા પેમેન્ટ-કાર્ડની વિગતો સ્ટોર કરતું નથી."
+      "privacyPurchasesBody": "Apple PartMirror જાહેરાત-મુક્ત ખરીદીઓ અને સબ્સ્ક્રિપ્શન મેનેજમેન્ટની પ્રક્રિયા કરે છે. PartMirror માત્ર જાહેરાતને દૂર કરવા અથવા પુનઃસ્થાપિત કરવા માટે Apple-ચકાસાયેલ સબ્સ્ક્રિપ્શન સ્ટેટસ વાંચે છે. PartMirror એકાઉન્ટ સિસ્ટમ ઓપરેટ કરતું નથી અથવા પેમેન્ટ-કાર્ડની વિગતો સ્ટોર કરતું નથી.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "he": {
@@ -2138,7 +2206,11 @@
       "faqPrivacyQ": "פרסום",
       "faqPrivacyA": "אתה יכול לנהל את אפשרויות הפרטיות של המודעה בהגדרות כאשר אפשרויות הפרטיות של Google זמינות, לנהל או לבטל מנויים דרך ה-App Store, לבטל את הרשאת תמונות בהגדרות iOS ולמחוק מבטים שמורים בתוך PartMirror.",
       "privacyPurchasesTitle": "PartMirror ללא פרסומות",
-      "privacyPurchasesBody": "אפל מעבדת רכישות ללא פרסומות של PartMirror וניהול מנויים. PartMirror קורא סטטוס מנוי מאומת על ידי אפל רק כדי להסיר או לשחזר פרסום. PartMirror אינה מפעילה מערכת חשבונות או מאחסנת פרטי כרטיס תשלום."
+      "privacyPurchasesBody": "אפל מעבדת רכישות ללא פרסומות של PartMirror וניהול מנויים. PartMirror קורא סטטוס מנוי מאומת על ידי אפל רק כדי להסיר או לשחזר פרסום. PartMirror אינה מפעילה מערכת חשבונות או מאחסנת פרטי כרטיס תשלום.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "hi": {
@@ -2257,7 +2329,11 @@
       "faqPrivacyQ": "विज्ञापन",
       "faqPrivacyA": "Google के गोपनीयता विकल्प उपलब्ध होने पर आप सेटिंग में विज्ञापन गोपनीयता विकल्प प्रबंधित कर सकते हैं, ऐप स्टोर के माध्यम से सदस्यता प्रबंधित या रद्द कर सकते हैं, iOS सेटिंग्स में फ़ोटो की अनुमति रद्द कर सकते हैं, और पार्टमिरर के अंदर सहेजे गए लुक को हटा सकते हैं।",
       "privacyPurchasesTitle": "पार्टमिरर विज्ञापन-मुक्त",
-      "privacyPurchasesBody": "Apple पार्टमिरर विज्ञापन-मुक्त खरीदारी और सदस्यता प्रबंधन की प्रक्रिया करता है। पार्टमिरर केवल विज्ञापन हटाने या पुनर्स्थापित करने के लिए ऐप्पल-सत्यापित सदस्यता स्थिति पढ़ता है। पार्टमिरर खाता प्रणाली संचालित नहीं करता है या भुगतान-कार्ड विवरण संग्रहीत नहीं करता है।"
+      "privacyPurchasesBody": "Apple पार्टमिरर विज्ञापन-मुक्त खरीदारी और सदस्यता प्रबंधन की प्रक्रिया करता है। पार्टमिरर केवल विज्ञापन हटाने या पुनर्स्थापित करने के लिए ऐप्पल-सत्यापित सदस्यता स्थिति पढ़ता है। पार्टमिरर खाता प्रणाली संचालित नहीं करता है या भुगतान-कार्ड विवरण संग्रहीत नहीं करता है।",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "hr": {
@@ -2376,7 +2452,11 @@
       "faqPrivacyQ": "Oglašavanje",
       "faqPrivacyA": "Možete upravljati odabirom privatnosti oglasa u postavkama kada su Googleove opcije privatnosti dostupne, upravljati ili otkazati pretplate putem App Storea, opozvati dopuštenje za fotografije u postavkama iOS-a i izbrisati spremljene izglede unutar PartMirrora.",
       "privacyPurchasesTitle": "PartMirror bez oglasa",
-      "privacyPurchasesBody": "Apple obrađuje PartMirror Ad-Free kupnje i upravljanje pretplatama. PartMirror čita status pretplate koju je potvrdio Apple samo da ukloni ili vrati oglašavanje. PartMirror ne upravlja sustavom računa niti pohranjuje podatke o platnoj kartici."
+      "privacyPurchasesBody": "Apple obrađuje PartMirror Ad-Free kupnje i upravljanje pretplatama. PartMirror čita status pretplate koju je potvrdio Apple samo da ukloni ili vrati oglašavanje. PartMirror ne upravlja sustavom računa niti pohranjuje podatke o platnoj kartici.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "hu": {
@@ -2495,7 +2575,11 @@
       "faqPrivacyQ": "Hirdetések",
       "faqPrivacyA": "A Beállításokban kezelheti a hirdetések adatvédelmi beállításait, ha elérhetők a Google adatvédelmi beállításai, kezelheti vagy lemondhatja az előfizetéseket az App Store-on keresztül, visszavonhatja a Photos engedélyt az iOS-beállításokban, és törölheti a mentett megjelenéseket a PartMirrorban.",
       "privacyPurchasesTitle": "PartMirror hirdetésmentes",
-      "privacyPurchasesBody": "Az Apple feldolgozza a PartMirror Ad-Free vásárlásait és az előfizetések kezelését. A PartMirror csak a hirdetések eltávolításához vagy visszaállításához olvassa be az Apple által igazolt előfizetés állapotát. A PartMirror nem üzemeltet számlarendszert és nem tárolja a fizetési kártya adatait."
+      "privacyPurchasesBody": "Az Apple feldolgozza a PartMirror Ad-Free vásárlásait és az előfizetések kezelését. A PartMirror csak a hirdetések eltávolításához vagy visszaállításához olvassa be az Apple által igazolt előfizetés állapotát. A PartMirror nem üzemeltet számlarendszert és nem tárolja a fizetési kártya adatait.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "id": {
@@ -2614,7 +2698,11 @@
       "faqPrivacyQ": "Periklanan",
       "faqPrivacyA": "Anda dapat mengelola pilihan privasi iklan di Pengaturan ketika opsi privasi Google tersedia, mengelola atau membatalkan langganan melalui App Store, mencabut izin Foto di Pengaturan iOS, dan menghapus tampilan tersimpan di dalam PartMirror.",
       "privacyPurchasesTitle": "PartMirror Bebas Iklan",
-      "privacyPurchasesBody": "Apple memproses pembelian dan manajemen langganan PartMirror Bebas Iklan. PartMirror membaca status langganan terverifikasi Apple hanya untuk menghapus atau memulihkan iklan. PartMirror tidak mengoperasikan sistem akun atau menyimpan detail kartu pembayaran."
+      "privacyPurchasesBody": "Apple memproses pembelian dan manajemen langganan PartMirror Bebas Iklan. PartMirror membaca status langganan terverifikasi Apple hanya untuk menghapus atau memulihkan iklan. PartMirror tidak mengoperasikan sistem akun atau menyimpan detail kartu pembayaran.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "it": {
@@ -2733,7 +2821,11 @@
       "faqPrivacyQ": "Pubblicità",
       "faqPrivacyA": "Puoi gestire le scelte sulla privacy degli annunci nelle Impostazioni quando le opzioni sulla privacy di Google sono disponibili, gestire o annullare gli abbonamenti tramite l'App Store, revocare l'autorizzazione per le Foto nelle Impostazioni iOS ed eliminare i look salvati all'interno di PartMirror.",
       "privacyPurchasesTitle": "PartMirror senza pubblicità",
-      "privacyPurchasesBody": "Apple elabora gli acquisti PartMirror senza pubblicità e la gestione degli abbonamenti. PartMirror legge lo stato dell'abbonamento verificato da Apple solo per rimuovere o ripristinare la pubblicità. PartMirror non gestisce un sistema di account né memorizza i dettagli delle carte di pagamento."
+      "privacyPurchasesBody": "Apple elabora gli acquisti PartMirror senza pubblicità e la gestione degli abbonamenti. PartMirror legge lo stato dell'abbonamento verificato da Apple solo per rimuovere o ripristinare la pubblicità. PartMirror non gestisce un sistema di account né memorizza i dettagli delle carte di pagamento.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "ja": {
@@ -2852,7 +2944,11 @@
       "faqPrivacyQ": "広告",
       "faqPrivacyA": "Google のプライバシー オプションが利用可能な場合は、[設定] で広告プライバシーの選択を管理したり、App Store を通じてサブスクリプションを管理またはキャンセルしたり、iOS 設定で写真の権限を取り消したり、PartMirror 内で保存された外観を削除したりできます。",
       "privacyPurchasesTitle": "PartMirror 広告なし",
-      "privacyPurchasesBody": "Apple は PartMirror Ad-Free の購入とサブスクリプション管理を処理します。 PartMirror は、広告を削除または復元するためにのみ Apple 検証済みのサブスクリプション ステータスを読み取ります。 PartMirror はアカウント システムを運用したり、支払いカードの詳細を保存したりしません。"
+      "privacyPurchasesBody": "Apple は PartMirror Ad-Free の購入とサブスクリプション管理を処理します。 PartMirror は、広告を削除または復元するためにのみ Apple 検証済みのサブスクリプション ステータスを読み取ります。 PartMirror はアカウント システムを運用したり、支払いカードの詳細を保存したりしません。",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "kn-IN": {
@@ -2971,7 +3067,11 @@
       "faqPrivacyQ": "ಜಾಹೀರಾತು",
       "faqPrivacyA": "Google ನ ಗೌಪ್ಯತೆ ಆಯ್ಕೆಗಳು ಲಭ್ಯವಿರುವಾಗ ನೀವು ಜಾಹೀರಾತು ಗೌಪ್ಯತಾ ಆಯ್ಕೆಗಳನ್ನು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ನಿರ್ವಹಿಸಬಹುದು, ಆಪ್ ಸ್ಟೋರ್ ಮೂಲಕ ಚಂದಾದಾರಿಕೆಗಳನ್ನು ನಿರ್ವಹಿಸಬಹುದು ಅಥವಾ ರದ್ದುಗೊಳಿಸಬಹುದು, iOS ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಫೋಟೋಗಳ ಅನುಮತಿಯನ್ನು ಹಿಂಪಡೆಯಬಹುದು ಮತ್ತು PartMirror ನಲ್ಲಿ ಉಳಿಸಿದ ನೋಟವನ್ನು ಅಳಿಸಬಹುದು.",
       "privacyPurchasesTitle": "PartMirror ಜಾಹೀರಾತು-ಮುಕ್ತ",
-      "privacyPurchasesBody": "Apple ಪಾರ್ಟ್‌ಮಿರರ್ ಜಾಹೀರಾತು-ಮುಕ್ತ ಖರೀದಿಗಳು ಮತ್ತು ಚಂದಾದಾರಿಕೆ ನಿರ್ವಹಣೆಯನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುತ್ತದೆ. PartMirror ಜಾಹೀರಾತನ್ನು ತೆಗೆದುಹಾಕಲು ಅಥವಾ ಮರುಸ್ಥಾಪಿಸಲು ಮಾತ್ರ Apple-ಪರಿಶೀಲಿಸಿದ ಚಂದಾದಾರಿಕೆ ಸ್ಥಿತಿಯನ್ನು ಓದುತ್ತದೆ. PartMirror ಖಾತೆ ವ್ಯವಸ್ಥೆಯನ್ನು ನಿರ್ವಹಿಸುವುದಿಲ್ಲ ಅಥವಾ ಪಾವತಿ-ಕಾರ್ಡ್ ವಿವರಗಳನ್ನು ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ."
+      "privacyPurchasesBody": "Apple ಪಾರ್ಟ್‌ಮಿರರ್ ಜಾಹೀರಾತು-ಮುಕ್ತ ಖರೀದಿಗಳು ಮತ್ತು ಚಂದಾದಾರಿಕೆ ನಿರ್ವಹಣೆಯನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುತ್ತದೆ. PartMirror ಜಾಹೀರಾತನ್ನು ತೆಗೆದುಹಾಕಲು ಅಥವಾ ಮರುಸ್ಥಾಪಿಸಲು ಮಾತ್ರ Apple-ಪರಿಶೀಲಿಸಿದ ಚಂದಾದಾರಿಕೆ ಸ್ಥಿತಿಯನ್ನು ಓದುತ್ತದೆ. PartMirror ಖಾತೆ ವ್ಯವಸ್ಥೆಯನ್ನು ನಿರ್ವಹಿಸುವುದಿಲ್ಲ ಅಥವಾ ಪಾವತಿ-ಕಾರ್ಡ್ ವಿವರಗಳನ್ನು ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "ko": {
@@ -3090,7 +3190,11 @@
       "faqPrivacyQ": "광고",
       "faqPrivacyA": "Google의 개인 정보 보호 옵션을 사용할 수 있는 경우 설정에서 광고 개인 정보 보호 선택을 관리하고, App Store를 통해 구독을 관리 또는 취소하고, iOS 설정에서 사진 권한을 취소하고, PartMirror에 저장된 룩을 삭제할 수 있습니다.",
       "privacyPurchasesTitle": "PartMirror 광고 없음",
-      "privacyPurchasesBody": "Apple은 PartMirror Ad-Free 구매 및 구독 관리를 처리합니다. PartMirror는 광고를 제거하거나 복원하기 위해서만 Apple이 인증한 구독 상태를 읽습니다. PartMirror는 계정 시스템을 운영하거나 결제 카드 정보를 저장하지 않습니다."
+      "privacyPurchasesBody": "Apple은 PartMirror Ad-Free 구매 및 구독 관리를 처리합니다. PartMirror는 광고를 제거하거나 복원하기 위해서만 Apple이 인증한 구독 상태를 읽습니다. PartMirror는 계정 시스템을 운영하거나 결제 카드 정보를 저장하지 않습니다.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "ml-IN": {
@@ -3209,7 +3313,11 @@
       "faqPrivacyQ": "പരസ്യംചെയ്യൽ",
       "faqPrivacyA": "Google-ൻ്റെ സ്വകാര്യതാ ഓപ്‌ഷനുകൾ ലഭ്യമാകുമ്പോൾ നിങ്ങൾക്ക് ക്രമീകരണങ്ങളിൽ പരസ്യ സ്വകാര്യത ചോയ്‌സുകൾ മാനേജ് ചെയ്യാം, ആപ്പ് സ്റ്റോർ വഴി സബ്‌സ്‌ക്രിപ്‌ഷനുകൾ നിയന്ത്രിക്കാം അല്ലെങ്കിൽ റദ്ദാക്കാം, iOS ക്രമീകരണങ്ങളിൽ ഫോട്ടോകളുടെ അനുമതി അസാധുവാക്കുക, PartMirror-നുള്ളിൽ സംരക്ഷിച്ച രൂപങ്ങൾ ഇല്ലാതാക്കുക.",
       "privacyPurchasesTitle": "PartMirror പരസ്യരഹിതം",
-      "privacyPurchasesBody": "Apple, PartMirror പരസ്യരഹിത വാങ്ങലുകളും സബ്‌സ്‌ക്രിപ്‌ഷൻ മാനേജ്‌മെൻ്റും പ്രോസസ്സ് ചെയ്യുന്നു. പരസ്യം നീക്കംചെയ്യുന്നതിനോ പുനഃസ്ഥാപിക്കുന്നതിനോ മാത്രമാണ് PartMirror ആപ്പിൾ പരിശോധിച്ചുറപ്പിച്ച സബ്‌സ്‌ക്രിപ്‌ഷൻ നില വായിക്കുന്നത്. PartMirror ഒരു അക്കൗണ്ട് സിസ്റ്റം പ്രവർത്തിപ്പിക്കുകയോ പേയ്‌മെൻ്റ് കാർഡ് വിശദാംശങ്ങൾ സംഭരിക്കുകയോ ചെയ്യുന്നില്ല."
+      "privacyPurchasesBody": "Apple, PartMirror പരസ്യരഹിത വാങ്ങലുകളും സബ്‌സ്‌ക്രിപ്‌ഷൻ മാനേജ്‌മെൻ്റും പ്രോസസ്സ് ചെയ്യുന്നു. പരസ്യം നീക്കംചെയ്യുന്നതിനോ പുനഃസ്ഥാപിക്കുന്നതിനോ മാത്രമാണ് PartMirror ആപ്പിൾ പരിശോധിച്ചുറപ്പിച്ച സബ്‌സ്‌ക്രിപ്‌ഷൻ നില വായിക്കുന്നത്. PartMirror ഒരു അക്കൗണ്ട് സിസ്റ്റം പ്രവർത്തിപ്പിക്കുകയോ പേയ്‌മെൻ്റ് കാർഡ് വിശദാംശങ്ങൾ സംഭരിക്കുകയോ ചെയ്യുന്നില്ല.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "mr-IN": {
@@ -3328,7 +3436,11 @@
       "faqPrivacyQ": "जाहिरात",
       "faqPrivacyA": "तुम्ही Google चे गोपनीयता पर्याय उपलब्ध असताना सेटिंग्जमध्ये जाहिरात गोपनीयता निवडी व्यवस्थापित करू शकता, App Store द्वारे सदस्यता व्यवस्थापित करू शकता किंवा रद्द करू शकता, iOS सेटिंग्जमध्ये फोटो परवानगी रद्द करू शकता आणि PartMirror मध्ये सेव्ह केलेले स्वरूप हटवू शकता.",
       "privacyPurchasesTitle": "PartMirror जाहिरात-मुक्त",
-      "privacyPurchasesBody": "Apple PartMirror जाहिरात-मुक्त खरेदी आणि सदस्यता व्यवस्थापनावर प्रक्रिया करते. PartMirror केवळ जाहिरात काढण्यासाठी किंवा पुनर्संचयित करण्यासाठी Apple-सत्यापित सदस्यता स्थिती वाचते. PartMirror खाते प्रणाली ऑपरेट करत नाही किंवा पेमेंट-कार्ड तपशील संग्रहित करत नाही."
+      "privacyPurchasesBody": "Apple PartMirror जाहिरात-मुक्त खरेदी आणि सदस्यता व्यवस्थापनावर प्रक्रिया करते. PartMirror केवळ जाहिरात काढण्यासाठी किंवा पुनर्संचयित करण्यासाठी Apple-सत्यापित सदस्यता स्थिती वाचते. PartMirror खाते प्रणाली ऑपरेट करत नाही किंवा पेमेंट-कार्ड तपशील संग्रहित करत नाही.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "ms": {
@@ -3447,7 +3559,11 @@
       "faqPrivacyQ": "Pengiklanan",
       "faqPrivacyA": "Anda boleh mengurus pilihan privasi iklan dalam Tetapan apabila pilihan privasi Google tersedia, mengurus atau membatalkan langganan melalui App Store, membatalkan kebenaran Foto dalam Tetapan iOS dan memadamkan rupa yang disimpan di dalam PartMirror.",
       "privacyPurchasesTitle": "PartMirror Tanpa Iklan",
-      "privacyPurchasesBody": "Apple memproses pembelian dan pengurusan langganan Tanpa Iklan PartMirror. PartMirror membaca status langganan yang disahkan Apple hanya untuk mengalih keluar atau memulihkan pengiklanan. PartMirror tidak mengendalikan sistem akaun atau menyimpan butiran kad pembayaran."
+      "privacyPurchasesBody": "Apple memproses pembelian dan pengurusan langganan Tanpa Iklan PartMirror. PartMirror membaca status langganan yang disahkan Apple hanya untuk mengalih keluar atau memulihkan pengiklanan. PartMirror tidak mengendalikan sistem akaun atau menyimpan butiran kad pembayaran.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "nl-NL": {
@@ -3566,7 +3682,11 @@
       "faqPrivacyQ": "Advertenties",
       "faqPrivacyA": "U kunt de privacykeuzes voor advertenties beheren in Instellingen wanneer de privacyopties van Google beschikbaar zijn, abonnementen beheren of annuleren via de App Store, de toestemming voor Foto's intrekken in de iOS-instellingen en opgeslagen looks verwijderen in PartMirror.",
       "privacyPurchasesTitle": "PartMirror zonder advertenties",
-      "privacyPurchasesBody": "Apple verwerkt PartMirror Ad-Free aankopen en abonnementsbeheer. PartMirror leest alleen de door Apple geverifieerde abonnementsstatus om advertenties te verwijderen of te herstellen. PartMirror hanteert geen accountsysteem en slaat geen betaalkaartgegevens op."
+      "privacyPurchasesBody": "Apple verwerkt PartMirror Ad-Free aankopen en abonnementsbeheer. PartMirror leest alleen de door Apple geverifieerde abonnementsstatus om advertenties te verwijderen of te herstellen. PartMirror hanteert geen accountsysteem en slaat geen betaalkaartgegevens op.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "no": {
@@ -3685,7 +3805,11 @@
       "faqPrivacyQ": "Annonsering",
       "faqPrivacyA": "Du kan administrere personvernvalg for annonser i Innstillinger når Googles personvernalternativer er tilgjengelige, administrere eller kansellere abonnementer gjennom App Store, tilbakekalle Bilder-tillatelse i iOS-innstillinger og slette lagrede utseende i PartMirror.",
       "privacyPurchasesTitle": "PartMirror annonsefri",
-      "privacyPurchasesBody": "Apple behandler PartMirror annonsefrie kjøp og abonnementsadministrasjon. PartMirror leser Apple-verifisert abonnementsstatus bare for å fjerne eller gjenopprette reklame. PartMirror driver ikke et kontosystem eller lagrer betalingskortdetaljer."
+      "privacyPurchasesBody": "Apple behandler PartMirror annonsefrie kjøp og abonnementsadministrasjon. PartMirror leser Apple-verifisert abonnementsstatus bare for å fjerne eller gjenopprette reklame. PartMirror driver ikke et kontosystem eller lagrer betalingskortdetaljer.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "or-IN": {
@@ -3804,7 +3928,11 @@
       "faqPrivacyQ": "ବିଜ୍ଞାପନ |",
       "faqPrivacyA": "ଯେତେବେଳେ ଗୁଗୁଲର ଗୋପନୀୟତା ବିକଳ୍ପ ଉପଲବ୍ଧ ହୁଏ, ଆପ୍ ଷ୍ଟୋର୍ ମାଧ୍ୟମରେ ସବସ୍କ୍ରିପସନ୍ ପରିଚାଳନା କିମ୍ବା ବାତିଲ୍ କରିବା, iOS ସେଟିଂସମୂହରେ ଫଟୋ ଅନୁମତି ପ୍ରତ୍ୟାହାର କରିବା ଏବଂ ପାର୍ଟ ମିରର୍ ଭିତରେ ସେଭ୍ ଲୁକ୍ ଡିଲିଟ୍ କରିବା ସମୟରେ ଆପଣ ସେଟିଂସମୂହରେ ବିଜ୍ଞାପନ ଗୋପନୀୟତା ପସନ୍ଦ ପରିଚାଳନା କରିପାରିବେ |",
       "privacyPurchasesTitle": "ପାର୍ଟ ମିରର୍ ବିଜ୍ଞାପନମୁକ୍ତ |",
-      "privacyPurchasesBody": "ଆପଲ୍ ପାର୍ଟ ମିରର୍ ବିଜ୍ଞାପନମୁକ୍ତ କ୍ରୟ ଏବଂ ସଦସ୍ୟତା ପରିଚାଳନା ପ୍ରକ୍ରିୟା କରେ | PartMirror କେବଳ ବିଜ୍ଞାପନ ଅପସାରଣ କିମ୍ବା ପୁନ restore ସ୍ଥାପନ ପାଇଁ ଆପଲ୍-ଯାଞ୍ଚ ହୋଇଥିବା ସଦସ୍ୟତା ସ୍ଥିତି ପ read େ | ପାର୍ଟ ମିରର୍ ଏକ ଆକାଉଣ୍ଟ୍ ସିଷ୍ଟମ୍ କିମ୍ବା ପେମେଣ୍ଟ-କାର୍ଡ ବିବରଣୀ ସଂରକ୍ଷଣ କରେ ନାହିଁ |"
+      "privacyPurchasesBody": "ଆପଲ୍ ପାର୍ଟ ମିରର୍ ବିଜ୍ଞାପନମୁକ୍ତ କ୍ରୟ ଏବଂ ସଦସ୍ୟତା ପରିଚାଳନା ପ୍ରକ୍ରିୟା କରେ | PartMirror କେବଳ ବିଜ୍ଞାପନ ଅପସାରଣ କିମ୍ବା ପୁନ restore ସ୍ଥାପନ ପାଇଁ ଆପଲ୍-ଯାଞ୍ଚ ହୋଇଥିବା ସଦସ୍ୟତା ସ୍ଥିତି ପ read େ | ପାର୍ଟ ମିରର୍ ଏକ ଆକାଉଣ୍ଟ୍ ସିଷ୍ଟମ୍ କିମ୍ବା ପେମେଣ୍ଟ-କାର୍ଡ ବିବରଣୀ ସଂରକ୍ଷଣ କରେ ନାହିଁ |",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "pa-IN": {
@@ -3923,7 +4051,11 @@
       "faqPrivacyQ": "ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ",
       "faqPrivacyA": "ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਵਿਗਿਆਪਨ ਗੋਪਨੀਯਤਾ ਵਿਕਲਪਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰ ਸਕਦੇ ਹੋ ਜਦੋਂ Google ਦੇ ਗੋਪਨੀਯਤਾ ਵਿਕਲਪ ਉਪਲਬਧ ਹੁੰਦੇ ਹਨ, ਐਪ ਸਟੋਰ ਰਾਹੀਂ ਗਾਹਕੀਆਂ ਨੂੰ ਪ੍ਰਬੰਧਿਤ ਜਾਂ ਰੱਦ ਕਰ ਸਕਦੇ ਹੋ, iOS ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਫੋਟੋਆਂ ਦੀ ਇਜਾਜ਼ਤ ਨੂੰ ਰੱਦ ਕਰ ਸਕਦੇ ਹੋ, ਅਤੇ PartMirror ਦੇ ਅੰਦਰ ਰੱਖਿਅਤ ਰੂਪਾਂ ਨੂੰ ਮਿਟਾ ਸਕਦੇ ਹੋ।",
       "privacyPurchasesTitle": "ਭਾਗ ਮਿਰਰ ਵਿਗਿਆਪਨ-ਮੁਕਤ",
-      "privacyPurchasesBody": "Apple PartMirror ਵਿਗਿਆਪਨ-ਮੁਕਤ ਖਰੀਦਦਾਰੀ ਅਤੇ ਗਾਹਕੀ ਪ੍ਰਬੰਧਨ ਦੀ ਪ੍ਰਕਿਰਿਆ ਕਰਦਾ ਹੈ। PartMirror ਸਿਰਫ਼ ਵਿਗਿਆਪਨ ਨੂੰ ਹਟਾਉਣ ਜਾਂ ਰੀਸਟੋਰ ਕਰਨ ਲਈ ਐਪਲ-ਪ੍ਰਮਾਣਿਤ ਗਾਹਕੀ ਸਥਿਤੀ ਨੂੰ ਪੜ੍ਹਦਾ ਹੈ। PartMirror ਕੋਈ ਖਾਤਾ ਸਿਸਟਮ ਨਹੀਂ ਚਲਾਉਂਦਾ ਜਾਂ ਭੁਗਤਾਨ-ਕਾਰਡ ਦੇ ਵੇਰਵਿਆਂ ਨੂੰ ਸਟੋਰ ਨਹੀਂ ਕਰਦਾ ਹੈ।"
+      "privacyPurchasesBody": "Apple PartMirror ਵਿਗਿਆਪਨ-ਮੁਕਤ ਖਰੀਦਦਾਰੀ ਅਤੇ ਗਾਹਕੀ ਪ੍ਰਬੰਧਨ ਦੀ ਪ੍ਰਕਿਰਿਆ ਕਰਦਾ ਹੈ। PartMirror ਸਿਰਫ਼ ਵਿਗਿਆਪਨ ਨੂੰ ਹਟਾਉਣ ਜਾਂ ਰੀਸਟੋਰ ਕਰਨ ਲਈ ਐਪਲ-ਪ੍ਰਮਾਣਿਤ ਗਾਹਕੀ ਸਥਿਤੀ ਨੂੰ ਪੜ੍ਹਦਾ ਹੈ। PartMirror ਕੋਈ ਖਾਤਾ ਸਿਸਟਮ ਨਹੀਂ ਚਲਾਉਂਦਾ ਜਾਂ ਭੁਗਤਾਨ-ਕਾਰਡ ਦੇ ਵੇਰਵਿਆਂ ਨੂੰ ਸਟੋਰ ਨਹੀਂ ਕਰਦਾ ਹੈ।",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "pl": {
@@ -4042,7 +4174,11 @@
       "faqPrivacyQ": "Reklama",
       "faqPrivacyA": "Możesz zarządzać ustawieniami prywatności reklam w Ustawieniach, gdy dostępne są opcje prywatności Google, zarządzać subskrypcjami lub je anulować za pośrednictwem App Store, cofać uprawnienia do zdjęć w Ustawieniach iOS i usuwać zapisane wyglądy w PartMirror.",
       "privacyPurchasesTitle": "PartMirror bez reklam",
-      "privacyPurchasesBody": "Apple przetwarza zakupy PartMirror bez reklam i zarządza subskrypcjami. PartMirror odczytuje status subskrypcji zweryfikowany przez Apple tylko w celu usunięcia lub przywrócenia reklam. PartMirror nie obsługuje systemu kont ani nie przechowuje danych kart płatniczych."
+      "privacyPurchasesBody": "Apple przetwarza zakupy PartMirror bez reklam i zarządza subskrypcjami. PartMirror odczytuje status subskrypcji zweryfikowany przez Apple tylko w celu usunięcia lub przywrócenia reklam. PartMirror nie obsługuje systemu kont ani nie przechowuje danych kart płatniczych.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "pt-BR": {
@@ -4161,7 +4297,11 @@
       "faqPrivacyQ": "Publicidade",
       "faqPrivacyA": "Você pode gerenciar as opções de privacidade de anúncios nas configurações quando as opções de privacidade do Google estiverem disponíveis, gerenciar ou cancelar assinaturas por meio da App Store, revogar a permissão do Fotos nas configurações do iOS e excluir looks salvos no PartMirror.",
       "privacyPurchasesTitle": "PartMirror sem anúncios",
-      "privacyPurchasesBody": "A Apple processa compras e gerenciamento de assinaturas do PartMirror Ad-Free. PartMirror lê o status da assinatura verificada pela Apple apenas para remover ou restaurar publicidade. PartMirror não opera um sistema de conta nem armazena detalhes de cartão de pagamento."
+      "privacyPurchasesBody": "A Apple processa compras e gerenciamento de assinaturas do PartMirror Ad-Free. PartMirror lê o status da assinatura verificada pela Apple apenas para remover ou restaurar publicidade. PartMirror não opera um sistema de conta nem armazena detalhes de cartão de pagamento.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "pt-PT": {
@@ -4280,7 +4420,11 @@
       "faqPrivacyQ": "Publicidade",
       "faqPrivacyA": "Você pode gerenciar as opções de privacidade de anúncios nas configurações quando as opções de privacidade do Google estiverem disponíveis, gerenciar ou cancelar assinaturas por meio da App Store, revogar a permissão do Fotos nas configurações do iOS e excluir looks salvos no PartMirror.",
       "privacyPurchasesTitle": "PartMirror sem anúncios",
-      "privacyPurchasesBody": "A Apple processa compras e gerenciamento de assinaturas do PartMirror Ad-Free. PartMirror lê o status da assinatura verificada pela Apple apenas para remover ou restaurar publicidade. PartMirror não opera um sistema de conta nem armazena detalhes de cartão de pagamento."
+      "privacyPurchasesBody": "A Apple processa compras e gerenciamento de assinaturas do PartMirror Ad-Free. PartMirror lê o status da assinatura verificada pela Apple apenas para remover ou restaurar publicidade. PartMirror não opera um sistema de conta nem armazena detalhes de cartão de pagamento.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "ro": {
@@ -4399,7 +4543,11 @@
       "faqPrivacyQ": "Publicitate",
       "faqPrivacyA": "Puteți gestiona opțiunile de confidențialitate a anunțurilor în Setări atunci când opțiunile de confidențialitate ale Google sunt disponibile, puteți gestiona sau anula abonamentele prin App Store, puteți revoca permisiunea Fotografii din Setările iOS și puteți șterge look-urile salvate din PartMirror.",
       "privacyPurchasesTitle": "PartMirror fără reclame",
-      "privacyPurchasesBody": "Apple procesează achizițiile PartMirror Ad-Free și gestionarea abonamentelor. PartMirror citește starea abonamentului verificat de Apple doar pentru a elimina sau a restabili publicitatea. PartMirror nu operează un sistem de cont și nu stochează detaliile cardului de plată."
+      "privacyPurchasesBody": "Apple procesează achizițiile PartMirror Ad-Free și gestionarea abonamentelor. PartMirror citește starea abonamentului verificat de Apple doar pentru a elimina sau a restabili publicitatea. PartMirror nu operează un sistem de cont și nu stochează detaliile cardului de plată.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "ru": {
@@ -4518,7 +4666,11 @@
       "faqPrivacyQ": "Реклама",
       "faqPrivacyA": "Вы можете управлять настройками конфиденциальности рекламы в настройках, если доступны параметры конфиденциальности Google, управлять подписками или отменять их через App Store, отозвать разрешение на использование фотографий в настройках iOS и удалить сохраненные образы в PartMirror.",
       "privacyPurchasesTitle": "PartMirror без рекламы",
-      "privacyPurchasesBody": "Apple обрабатывает покупки PartMirror без рекламы и управление подписками. PartMirror считывает статус подписки, подтвержденный Apple, только для удаления или восстановления рекламы. PartMirror не управляет системой учетных записей и не хранит данные платежных карт."
+      "privacyPurchasesBody": "Apple обрабатывает покупки PartMirror без рекламы и управление подписками. PartMirror считывает статус подписки, подтвержденный Apple, только для удаления или восстановления рекламы. PartMirror не управляет системой учетных записей и не хранит данные платежных карт.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "sk": {
@@ -4637,7 +4789,11 @@
       "faqPrivacyQ": "Reklama",
       "faqPrivacyA": "Možnosti ochrany osobných údajov pre reklamy môžete spravovať v Nastaveniach, keď sú k dispozícii možnosti ochrany osobných údajov Google, spravovať alebo rušiť predplatné prostredníctvom App Store, odvolať povolenie Fotiek v nastaveniach iOS a odstraňovať uložené vzhľady v PartMirror.",
       "privacyPurchasesTitle": "PartMirror bez reklám",
-      "privacyPurchasesBody": "Apple spracováva nákupy PartMirror Ad-Free a správu predplatného. PartMirror číta stav predplatného overeného spoločnosťou Apple iba na odstránenie alebo obnovenie reklamy. PartMirror neprevádzkuje účtovný systém ani neukladá údaje o platobných kartách."
+      "privacyPurchasesBody": "Apple spracováva nákupy PartMirror Ad-Free a správu predplatného. PartMirror číta stav predplatného overeného spoločnosťou Apple iba na odstránenie alebo obnovenie reklamy. PartMirror neprevádzkuje účtovný systém ani neukladá údaje o platobných kartách.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "sl-SI": {
@@ -4756,7 +4912,11 @@
       "faqPrivacyQ": "Oglaševanje",
       "faqPrivacyA": "Izbire zasebnosti oglasov lahko upravljate v nastavitvah, ko so na voljo Googlove možnosti zasebnosti, upravljate ali prekličete naročnine prek App Store, prekličete dovoljenje za fotografije v nastavitvah iOS in izbrišete shranjene videze znotraj PartMirror.",
       "privacyPurchasesTitle": "PartMirror Brez oglasov",
-      "privacyPurchasesBody": "Apple obdeluje PartMirror Ad-Free nakupe in upravljanje naročnin. PartMirror prebere stanje naročnine, ki jo je potrdil Apple, samo za odstranitev ali obnovitev oglaševanja. PartMirror ne upravlja sistema računov in ne shranjuje podatkov o plačilnih karticah."
+      "privacyPurchasesBody": "Apple obdeluje PartMirror Ad-Free nakupe in upravljanje naročnin. PartMirror prebere stanje naročnine, ki jo je potrdil Apple, samo za odstranitev ali obnovitev oglaševanja. PartMirror ne upravlja sistema računov in ne shranjuje podatkov o plačilnih karticah.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "sv": {
@@ -4875,7 +5035,11 @@
       "faqPrivacyQ": "Annonsering",
       "faqPrivacyA": "Du kan hantera annonssekretessval i Inställningar när Googles sekretessalternativ är tillgängliga, hantera eller avbryta prenumerationer via App Store, återkalla Fotobehörighet i iOS-inställningar och radera sparade utseenden i PartMirror.",
       "privacyPurchasesTitle": "PartMirror annonsfri",
-      "privacyPurchasesBody": "Apple bearbetar PartMirror annonsfria köp och prenumerationshantering. PartMirror läser endast Apple-verifierad prenumerationsstatus för att ta bort eller återställa reklam. PartMirror driver inte ett kontosystem eller lagrar betalkortsuppgifter."
+      "privacyPurchasesBody": "Apple bearbetar PartMirror annonsfria köp och prenumerationshantering. PartMirror läser endast Apple-verifierad prenumerationsstatus för att ta bort eller återställa reklam. PartMirror driver inte ett kontosystem eller lagrar betalkortsuppgifter.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "ta-IN": {
@@ -4994,7 +5158,11 @@
       "faqPrivacyQ": "விளம்பரம்",
       "faqPrivacyA": "கூகிளின் தனியுரிமை விருப்பங்கள் கிடைக்கும்போது, ​​அமைப்புகளில் விளம்பரத் தனியுரிமைத் தேர்வுகளை நிர்வகிக்கலாம், ஆப் ஸ்டோர் மூலம் சந்தாக்களை நிர்வகிக்கலாம் அல்லது ரத்துசெய்யலாம், iOS அமைப்புகளில் புகைப்படங்களுக்கான அனுமதியைத் திரும்பப் பெறலாம் மற்றும் PartMirror இல் சேமிக்கப்பட்ட தோற்றத்தை நீக்கலாம்.",
       "privacyPurchasesTitle": "PartMirror விளம்பரம் இல்லாதது",
-      "privacyPurchasesBody": "Apple ஆனது PartMirror விளம்பரம் இல்லாத கொள்முதல் மற்றும் சந்தா நிர்வாகத்தை செயல்படுத்துகிறது. பார்ட்மிரர் ஆப்பிள் சரிபார்க்கப்பட்ட சந்தா நிலையை விளம்பரத்தை அகற்ற அல்லது மீட்டெடுக்க மட்டுமே படிக்கிறது. பார்ட்மிரர் கணக்கு அமைப்பை இயக்குவதில்லை அல்லது கட்டண அட்டை விவரங்களைச் சேமிப்பதில்லை."
+      "privacyPurchasesBody": "Apple ஆனது PartMirror விளம்பரம் இல்லாத கொள்முதல் மற்றும் சந்தா நிர்வாகத்தை செயல்படுத்துகிறது. பார்ட்மிரர் ஆப்பிள் சரிபார்க்கப்பட்ட சந்தா நிலையை விளம்பரத்தை அகற்ற அல்லது மீட்டெடுக்க மட்டுமே படிக்கிறது. பார்ட்மிரர் கணக்கு அமைப்பை இயக்குவதில்லை அல்லது கட்டண அட்டை விவரங்களைச் சேமிப்பதில்லை.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "te-IN": {
@@ -5113,7 +5281,11 @@
       "faqPrivacyQ": "ప్రకటనలు",
       "faqPrivacyA": "మీరు Google గోప్యతా ఎంపికలు అందుబాటులో ఉన్నప్పుడు సెట్టింగ్‌లలో ప్రకటన గోప్యతా ఎంపికలను నిర్వహించవచ్చు, యాప్ స్టోర్ ద్వారా సభ్యత్వాలను నిర్వహించవచ్చు లేదా రద్దు చేయవచ్చు, iOS సెట్టింగ్‌లలో ఫోటోల అనుమతిని ఉపసంహరించుకోవచ్చు మరియు పార్ట్‌మిర్రర్‌లో సేవ్ చేసిన రూపాలను తొలగించవచ్చు.",
       "privacyPurchasesTitle": "పార్ట్ మిర్రర్ యాడ్-ఫ్రీ",
-      "privacyPurchasesBody": "Apple పార్ట్‌మిర్రర్ ప్రకటన రహిత కొనుగోళ్లు మరియు చందా నిర్వహణను ప్రాసెస్ చేస్తుంది. PartMirror ప్రకటనలను తీసివేయడానికి లేదా పునరుద్ధరించడానికి మాత్రమే Apple-ధృవీకరించబడిన సబ్‌స్క్రిప్షన్ స్థితిని చదువుతుంది. PartMirror ఖాతా వ్యవస్థను నిర్వహించదు లేదా చెల్లింపు-కార్డ్ వివరాలను నిల్వ చేయదు."
+      "privacyPurchasesBody": "Apple పార్ట్‌మిర్రర్ ప్రకటన రహిత కొనుగోళ్లు మరియు చందా నిర్వహణను ప్రాసెస్ చేస్తుంది. PartMirror ప్రకటనలను తీసివేయడానికి లేదా పునరుద్ధరించడానికి మాత్రమే Apple-ధృవీకరించబడిన సబ్‌స్క్రిప్షన్ స్థితిని చదువుతుంది. PartMirror ఖాతా వ్యవస్థను నిర్వహించదు లేదా చెల్లింపు-కార్డ్ వివరాలను నిల్వ చేయదు.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "th": {
@@ -5232,7 +5404,11 @@
       "faqPrivacyQ": "การโฆษณา",
       "faqPrivacyA": "คุณสามารถจัดการตัวเลือกความเป็นส่วนตัวของโฆษณาได้ในการตั้งค่าเมื่อตัวเลือกความเป็นส่วนตัวของ Google พร้อมใช้งาน จัดการหรือยกเลิกการสมัครสมาชิกผ่าน App Store เพิกถอนสิทธิ์อนุญาตรูปภาพในการตั้งค่า iOS และลบรูปลักษณ์ที่บันทึกไว้ภายใน PartMirror",
       "privacyPurchasesTitle": "PartMirror ไม่มีโฆษณา",
-      "privacyPurchasesBody": "Apple ประมวลผลการซื้อ PartMirror แบบไม่มีโฆษณาและการจัดการการสมัครสมาชิก PartMirror อ่านสถานะการสมัครสมาชิกที่ตรวจสอบโดย Apple เพื่อลบหรือกู้คืนโฆษณาเท่านั้น PartMirror ไม่ได้ดำเนินการระบบบัญชีหรือเก็บรายละเอียดบัตรชำระเงิน"
+      "privacyPurchasesBody": "Apple ประมวลผลการซื้อ PartMirror แบบไม่มีโฆษณาและการจัดการการสมัครสมาชิก PartMirror อ่านสถานะการสมัครสมาชิกที่ตรวจสอบโดย Apple เพื่อลบหรือกู้คืนโฆษณาเท่านั้น PartMirror ไม่ได้ดำเนินการระบบบัญชีหรือเก็บรายละเอียดบัตรชำระเงิน",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "tr": {
@@ -5351,7 +5527,11 @@
       "faqPrivacyQ": "Reklam",
       "faqPrivacyA": "Google'ın gizlilik seçenekleri mevcut olduğunda Ayarlar'da reklam gizliliği seçeneklerini yönetebilir, App Store aracılığıyla abonelikleri yönetebilir veya iptal edebilir, iOS Ayarları'nda Fotoğraflar iznini iptal edebilir ve PartMirror'da kayıtlı görünümleri silebilirsiniz.",
       "privacyPurchasesTitle": "PartMirror Reklamsız",
-      "privacyPurchasesBody": "Apple, PartMirror Reklamsız satın alma işlemlerini ve abonelik yönetimini işler. PartMirror, yalnızca reklamları kaldırmak veya geri yüklemek için Apple tarafından doğrulanmış abonelik durumunu okur. PartMirror bir hesap sistemi işletmez veya ödeme kartı ayrıntılarını saklamaz."
+      "privacyPurchasesBody": "Apple, PartMirror Reklamsız satın alma işlemlerini ve abonelik yönetimini işler. PartMirror, yalnızca reklamları kaldırmak veya geri yüklemek için Apple tarafından doğrulanmış abonelik durumunu okur. PartMirror bir hesap sistemi işletmez veya ödeme kartı ayrıntılarını saklamaz.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "uk": {
@@ -5470,7 +5650,11 @@
       "faqPrivacyQ": "Реклама",
       "faqPrivacyA": "Ви можете керувати параметрами конфіденційності реклами в налаштуваннях, коли параметри конфіденційності Google доступні, керувати або скасовувати підписки через App Store, відкликати дозвіл на фотографії в налаштуваннях iOS і видаляти збережені образи в PartMirror.",
       "privacyPurchasesTitle": "PartMirror Без реклами",
-      "privacyPurchasesBody": "Apple обробляє покупки PartMirror без реклами та керування підписками. PartMirror зчитує стан підписки, підтвердженої Apple, лише для видалення або відновлення реклами. PartMirror не керує системою облікових записів і не зберігає дані платіжної картки."
+      "privacyPurchasesBody": "Apple обробляє покупки PartMirror без реклами та керування підписками. PartMirror зчитує стан підписки, підтвердженої Apple, лише для видалення або відновлення реклами. PartMirror не керує системою облікових записів і не зберігає дані платіжної картки.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "ur-PK": {
@@ -5589,7 +5773,11 @@
       "faqPrivacyQ": "ایڈورٹائزنگ",
       "faqPrivacyA": "Google کے رازداری کے اختیارات دستیاب ہونے پر آپ ترتیبات میں اشتہار کی رازداری کے انتخاب کا نظم کر سکتے ہیں، App Store کے ذریعے سبسکرپشنز کا نظم یا منسوخ کر سکتے ہیں، iOS کی ترتیبات میں تصاویر کی اجازت کو منسوخ کر سکتے ہیں، اور PartMirror کے اندر محفوظ کردہ شکلوں کو حذف کر سکتے ہیں۔",
       "privacyPurchasesTitle": "Part Mirror اشتہار سے پاک",
-      "privacyPurchasesBody": "Apple PartMirror اشتہار سے پاک خریداریوں اور سبسکرپشن مینجمنٹ پر کارروائی کرتا ہے۔ PartMirror صرف اشتہارات کو ہٹانے یا بحال کرنے کے لیے ایپل کی تصدیق شدہ رکنیت کی حیثیت کو پڑھتا ہے۔ PartMirror اکاؤنٹ کا نظام نہیں چلاتا اور نہ ہی ادائیگی کارڈ کی تفصیلات کو اسٹور کرتا ہے۔"
+      "privacyPurchasesBody": "Apple PartMirror اشتہار سے پاک خریداریوں اور سبسکرپشن مینجمنٹ پر کارروائی کرتا ہے۔ PartMirror صرف اشتہارات کو ہٹانے یا بحال کرنے کے لیے ایپل کی تصدیق شدہ رکنیت کی حیثیت کو پڑھتا ہے۔ PartMirror اکاؤنٹ کا نظام نہیں چلاتا اور نہ ہی ادائیگی کارڈ کی تفصیلات کو اسٹور کرتا ہے۔",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "vi": {
@@ -5708,7 +5896,11 @@
       "faqPrivacyQ": "Quảng cáo",
       "faqPrivacyA": "Bạn có thể quản lý các lựa chọn về quyền riêng tư của quảng cáo trong Cài đặt khi có sẵn các tùy chọn về quyền riêng tư của Google, quản lý hoặc hủy đăng ký thông qua App Store, thu hồi quyền Ảnh trong Cài đặt iOS và xóa các giao diện đã lưu bên trong PartMirror.",
       "privacyPurchasesTitle": "PartMirror Không Có Quảng Cáo",
-      "privacyPurchasesBody": "Apple xử lý việc mua hàng và quản lý đăng ký PartMirror Không có quảng cáo. PartMirror chỉ đọc trạng thái đăng ký đã được Apple xác minh để xóa hoặc khôi phục quảng cáo. PartMirror không vận hành hệ thống tài khoản hoặc lưu trữ chi tiết thẻ thanh toán."
+      "privacyPurchasesBody": "Apple xử lý việc mua hàng và quản lý đăng ký PartMirror Không có quảng cáo. PartMirror chỉ đọc trạng thái đăng ký đã được Apple xác minh để xóa hoặc khôi phục quảng cáo. PartMirror không vận hành hệ thống tài khoản hoặc lưu trữ chi tiết thẻ thanh toán.",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "zh-Hans": {
@@ -5827,7 +6019,11 @@
       "faqPrivacyQ": "广告",
       "faqPrivacyA": "当 Google 隐私选项可用时，您可以在“设置”中管理广告隐私选项，通过 App Store 管理或取消订阅，在 iOS 设置中撤销“照片”权限，以及删除 PartMirror 中保存的外观。",
       "privacyPurchasesTitle": "PartMirror 无广告",
-      "privacyPurchasesBody": "Apple 处理 PartMirror 无广告购买和订阅管理。 PartMirror 读取 Apple 验证的订阅状态仅用于删除或恢复广告。 PartMirror 不运行帐户系统或存储支付卡详细信息。"
+      "privacyPurchasesBody": "Apple 处理 PartMirror 无广告购买和订阅管理。 PartMirror 读取 Apple 验证的订阅状态仅用于删除或恢复广告。 PartMirror 不运行帐户系统或存储支付卡详细信息。",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   },
   "zh-Hant": {
@@ -5946,7 +6142,11 @@
       "faqPrivacyQ": "廣告",
       "faqPrivacyA": "當 Google 隱私選項可用時，您可以在「設定」中管理廣告隱私選項，透過 App Store 管理或取消訂閱，在 iOS 設定中撤銷「照片」權限，以及刪除 PartMirror 中儲存的外觀。",
       "privacyPurchasesTitle": "PartMirror 無廣告",
-      "privacyPurchasesBody": "Apple 處理 PartMirror 無廣告購買和訂閱管理。 PartMirror 讀取 Apple 驗證的訂閱狀態僅用於刪除或恢復廣告。 PartMirror 不執行帳戶系統或儲存支付卡詳細資料。"
+      "privacyPurchasesBody": "Apple 處理 PartMirror 無廣告購買和訂閱管理。 PartMirror 讀取 Apple 驗證的訂閱狀態僅用於刪除或恢復廣告。 PartMirror 不執行帳戶系統或儲存支付卡詳細資料。",
+      "privacyFaceStorageTitle": "TrueDepth storage and retention",
+      "privacyFaceStorageBody": "In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.",
+      "privacyFaceSharingTitle": "TrueDepth sharing and disclosure",
+      "privacyFaceSharingBody": "PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies."
     }
   }
 }

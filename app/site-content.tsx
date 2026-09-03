@@ -150,6 +150,8 @@ function Support({ content }: { content: LocaleContent }) {
 const privacySections = [
   ['privacyCollectionTitle', 'privacyCollectionBody'],
   ['privacyCameraTitle', 'privacyCameraBody'],
+  ['privacyFaceStorageTitle', 'privacyFaceStorageBody'],
+  ['privacyFaceSharingTitle', 'privacyFaceSharingBody'],
   ['privacyMediaTitle', 'privacyMediaBody'],
   ['privacyPhotosTitle', 'privacyPhotosBody'],
   ['privacyRetentionTitle', 'privacyRetentionBody'],

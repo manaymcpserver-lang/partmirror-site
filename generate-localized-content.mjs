@@ -38,18 +38,22 @@ const sourceMessages = {
   faqPrivacyA: 'You can manage ad privacy choices in Settings when Google\'s privacy options are available, manage or cancel subscriptions through the App Store, revoke Photos permission in iOS Settings, and delete saved looks inside PartMirror.',
   privacyEyebrow: 'Your data',
   privacyTitle: 'Privacy Policy',
-  effectiveDate: 'Effective August 30, 2026',
+  effectiveDate: 'Effective September 3, 2026',
   privacyIntro: 'This policy describes the PartMirror iPhone app, its advertising and subscription features, and this website.',
   privacyCollectionTitle: 'Data collection',
   privacyCollectionBody: 'PartMirror uses Google AdMob and Google\'s consent tools to deliver non-personalized banner ads. The ad services may receive device and network information, but PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for ad targeting.',
-  privacyCameraTitle: 'Camera and face tracking',
-  privacyCameraBody: 'Front-camera frames and face-tracking information are processed on your iPhone to place the guide. PartMirror does not send camera frames, face geometry, or tracking information to us.',
+  privacyCameraTitle: 'TrueDepth data and purpose',
+  privacyCameraBody: 'PartMirror uses Apple\'s TrueDepth front camera and ARKit to process live camera frames, depth measurements, face pose, face geometry, and derived points such as the face axis, face width, hairline, and scalp guide points. It uses this information only to place, shape, stabilize, and correctly hide parts of the on-screen hair-parting guide. It is not used to identify a person, authenticate, create a profile, target advertising, or train machine-learning models.',
+  privacyFaceStorageTitle: 'TrueDepth storage and retention',
+  privacyFaceStorageBody: 'In App Store build 39 and later, live TrueDepth data—including depth measurements, face pose, face geometry, and derived tracking points—is held only in memory during the active camera session. It is not written to files or retained after the session ends. Camera frames used for live tracking are not saved unless you deliberately press the photo or video capture control. The resulting ordinary photo or video is stored only in My Looks on your iPhone until you delete it or uninstall PartMirror; it does not contain a reusable TrueDepth face mesh or depth map.',
+  privacyFaceSharingTitle: 'TrueDepth sharing and disclosure',
+  privacyFaceSharingBody: 'PartMirror does not transmit TrueDepth data to our servers and does not share camera frames, depth measurements, face pose, face geometry, or derived tracking points with Google AdMob or any other third party. AdMob receives no TrueDepth data. If you choose to share or export a saved photo or video, iOS and the destination you select handle only that media under their own policies.',
   privacyMediaTitle: 'Photos, videos, and My Looks',
   privacyMediaBody: 'Photos and videos are created only when you choose to capture them. Saved looks remain in private app storage. If you share or export media, iOS and the service you choose handle it under their own policies.',
   privacyPhotosTitle: 'Photos permission',
   privacyPhotosBody: 'When you choose Export, PartMirror requests permission to add the selected photo or video to Photos. It does not scan your full photo library.',
   privacyRetentionTitle: 'Retention and deletion',
-  privacyRetentionBody: 'Because the app sends no camera or media data to us, we do not retain that data. You can delete saved looks inside the app or remove all local app data by uninstalling PartMirror.',
+  privacyRetentionBody: 'We do not receive or retain TrueDepth data, camera frames, or My Looks media. You can delete saved looks inside the app. Uninstalling PartMirror removes its private local library and all other app data from the iPhone.',
   privacyAdsTitle: 'Advertising and analytics',
   privacyAdsBody: 'The free version uses Google AdMob and Google\'s consent tools to deliver non-personalized banner ads. Google may process an IP address, device identifiers, advertising data, product interactions, performance data, and diagnostics. PartMirror never supplies camera images, face geometry, saved looks, names, or part recipes for advertising. Subscribers do not receive ads, and PartMirror does not start AdMob while verified ad-free access is active.',
   privacyPurchasesTitle: 'PartMirror Ad-Free',
@@ -96,6 +100,13 @@ const googleLanguage = {
 
 const rtlLocales = new Set(['ar-SA', 'he', 'ur-PK']);
 const messageEntries = Object.entries(sourceMessages);
+const refreshedMessageKeys = new Set([
+  'privacyFaceStorageTitle',
+  'privacyFaceStorageBody',
+  'privacyFaceSharingTitle',
+  'privacyFaceSharingBody',
+]);
+let translationServiceUnavailable = false;
 const existingOutput = JSON.parse(await readFile('app/site-locales.json', 'utf8'));
 const appLocalizationPath = process.env.PARTMIRROR_LOCALIZABLE_PATH
   ?? '../App/Resources/Localizable.xcstrings';
@@ -160,9 +171,14 @@ async function translateMessages(locale) {
     if (translated) existingMessages[key] = translated;
   }
   const entriesToTranslate = messageEntries.filter(
-    ([key]) => !existingMessages[key],
+    ([key]) => refreshedMessageKeys.has(key) || !existingMessages[key],
   );
   if (entriesToTranslate.length === 0) return existingMessages;
+  const englishFallback = {
+    ...existingMessages,
+    ...Object.fromEntries(entriesToTranslate.map(([key, value]) => [key, value])),
+  };
+  if (translationServiceUnavailable) return englishFallback;
   const body = new URLSearchParams({
     client: 'gtx',
     sl: 'en',
@@ -177,6 +193,10 @@ async function translateMessages(locale) {
         headers: { 'content-type': 'application/x-www-form-urlencoded;charset=UTF-8' },
         body,
       });
+      if (response.status === 429) {
+        translationServiceUnavailable = true;
+        return englishFallback;
+      }
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const payload = await response.json();
       const translated = payload[0].map((part) => part[0]).join('').split('\n');
@@ -190,7 +210,7 @@ async function translateMessages(locale) {
         ),
       };
     } catch (error) {
-      if (attempt === 6) throw error;
+      if (attempt === 6) return englishFallback;
       await new Promise((resolve) => setTimeout(resolve, attempt * 5000));
     }
   }
