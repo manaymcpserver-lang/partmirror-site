@@ -17,6 +17,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: 'https://partmirror.com', lastModified: new Date('2026-08-30'), changeFrequency: 'monthly', priority: 1 },
     { url: 'https://partmirror.com/support', lastModified: new Date('2026-08-30'), changeFrequency: 'monthly', priority: 0.9 },
     { url: 'https://partmirror.com/privacy', lastModified: new Date('2026-08-30'), changeFrequency: 'yearly', priority: 0.8 },
+    { url: 'https://partmirror.com/privacy/android/', lastModified: new Date('2026-10-07'), changeFrequency: 'yearly', priority: 0.8 },
     { url: 'https://partmirror.com/terms', lastModified: new Date('2026-08-30'), changeFrequency: 'yearly', priority: 0.8 },
     ...localized,
   ];

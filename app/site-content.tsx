@@ -219,6 +219,7 @@ function LegalDocument({ content, kind }: { content: LocaleContent; kind: 'priva
         <h1>{isPrivacy ? m.privacyTitle : m.termsTitle}</h1>
         <p className="effective-date">{m.effectiveDate}</p>
         <p>{isPrivacy ? m.privacyIntro : m.termsIntro}</p>
+        {isPrivacy && <Link className="legal-link" href="/privacy/android/">PartMirror Android · Privacy Policy (English)</Link>}
         {!isPrivacy && (
           <a className="legal-link" href={appleEulaUrl} target="_blank" rel="noreferrer">
             {m.appleEula} <span>↗</span>
