@@ -127,6 +127,14 @@ function Home({ content }: { content: LocaleContent }) {
       </section>
 
       <section className="privacy-callout">
+        <div>
+          <h2>{m.faqAdsQ}</h2>
+          <p>{m.faqAdsA}</p>
+        </div>
+        <Link href={sectionPath(content.locale, 'terms')}>{m.navTerms} <span>↗</span></Link>
+      </section>
+
+      <section className="privacy-callout">
         <span className="privacy-dot" aria-hidden="true" />
         <div>
           <h2>{m.localTitle}</h2>

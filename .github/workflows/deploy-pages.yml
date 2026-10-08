@@ -38,6 +38,9 @@ jobs:
       - name: Lint source
         run: npm run lint
 
+      - name: Validate subscription copy
+        run: npm run validate:subscription
+
       - name: Build static site
         run: npm run build
 
