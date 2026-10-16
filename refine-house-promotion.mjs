@@ -1,0 +1,11 @@
+import {readFile,writeFile} from 'node:fs/promises';
+const cache=JSON.parse(await readFile('house-promotion-translations.json','utf8'));
+const locales=JSON.parse(await readFile('app/site-locales.json','utf8'));
+const pt=JSON.parse(await readFile('house-promotion-pt.json','utf8'));
+Object.assign(cache.locales['pt-PT'],pt);
+const br=Object.fromEntries(Object.entries(pt).map(([k,v])=>[k,v.replaceAll('câmara','câmera').replaceAll('subscrição','assinatura').replaceAll('Subscrição','Assinatura').replaceAll('subscrições','assinaturas').replaceAll('subscritores','assinantes').replaceAll('subscritor','assinante').replaceAll('guardados','salvos').replaceAll('definições','configurações').replaceAll('faturação','faturamento').replaceAll('respetivas','respectivas').replaceAll('alojado','hospedado')]));
+Object.assign(cache.locales['pt-BR'],br);
+for(const [locale,c] of Object.entries(locales)) for(const [key,value] of Object.entries(cache.locales[locale])) if(!key.startsWith('store')&&!key.startsWith('product')) c.messages[key]=value;
+cache.provenance='Machine-translated public release copy with protected brand names; Portuguese manually refined. Other languages require native review.';
+await writeFile('house-promotion-translations.json',JSON.stringify(cache,null,2)+'\n');
+await writeFile('app/site-locales.json',JSON.stringify(locales,null,2)+'\n');

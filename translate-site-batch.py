@@ -3,15 +3,19 @@
 import json
 import re
 import sys
+import subprocess
 import time
 import urllib.parse
 import urllib.request
 
-TERMS = ['US$4.99', 'PartMirror', 'TrueDepth', 'Google AdMob', 'Google',
+TERMS = ['US$9.99', 'US$4.99', 'Nonlate', 'PartMirror', 'TrueDepth', 'Google AdMob', 'Google',
          'Apple Account', 'App Store', 'GitHub Pages', 'My Looks', 'iPhone', 'iOS', 'Apple']
 
 
 def translate(entries, language):
+    if sum(len(text) for _, text in entries) > 1700 and len(entries) > 1:
+        middle = len(entries) // 2
+        return translate(entries[:middle], language) | translate(entries[middle:], language)
     prepared, swaps = [], []
     for index, (_, text) in enumerate(entries):
         protected = {}
@@ -27,9 +31,8 @@ def translate(entries, language):
     })
     for attempt in range(3):
         try:
-            request = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-            with urllib.request.urlopen(request, timeout=30) as response:
-                data = json.load(response)
+            response = subprocess.run(['curl', '--fail', '--silent', '--show-error', '--max-time', '30', url], check=True, capture_output=True, text=True)
+            data = json.loads(response.stdout)
             result = ''.join(part[0] or '' for part in data[0])
             parts = re.split(r'[\[［【]\s*(\d{3})\s*[\]］】]\s*', result)
             values = ({int(parts[i]): parts[i + 1].strip() for i in range(1, len(parts), 2)}
