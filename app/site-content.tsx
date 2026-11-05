@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { LanguageSwitcher } from './language-switcher';
+import { AdvertisingPrivacy, privacyLanguage } from './advertising-privacy';
 import {
   localeContent,
   locales,
@@ -225,8 +226,8 @@ function LegalDocument({ content, kind }: { content: LocaleContent; kind: 'priva
       <header className="document-hero">
         <p className="eyebrow">{isPrivacy ? m.privacyEyebrow : m.termsEyebrow}</p>
         <h1>{isPrivacy ? m.privacyTitle : m.termsTitle}</h1>
-        <p className="effective-date">{m.effectiveDate}</p>
-        <p>{isPrivacy ? m.privacyIntro : m.termsIntro}</p>
+        <p className="effective-date">{isPrivacy ? (privacyLanguage(content.locale) === 'pt' ? 'Atualizada em 5 de novembro de 2026' : 'Updated November 5, 2026') : m.effectiveDate}</p>
+        <p>{isPrivacy ? (privacyLanguage(content.locale) === 'pt' ? 'Privacidade no dispositivo e publicidade opcional, por versão da app.' : 'On-device privacy and optional advertising, by app version.') : m.termsIntro}</p>
         {isPrivacy && <Link className="legal-link" href="/privacy/android/">PartMirror Android · Privacy Policy (English)</Link>}
         {!isPrivacy && (
           <a className="legal-link" href={appleEulaUrl} target="_blank" rel="noreferrer">
@@ -235,6 +236,9 @@ function LegalDocument({ content, kind }: { content: LocaleContent; kind: 'priva
         )}
       </header>
       {content.locale !== 'en-US' && <p className="translation-note">{m.legalTranslationNote}</p>}
+      {isPrivacy && <AdvertisingPrivacy locale={content.locale} />}
+      {isPrivacy && <h2 lang={privacyLanguage(content.locale)} dir="ltr">{privacyLanguage(content.locale) === 'pt' ? 'Versões anteriores do iOS: até 1.1.2 (política histórica)' : 'Earlier iOS editions: through 1.1.2 (historical policy)'}</h2>}
+      {isPrivacy && <p>{m.privacyIntro}</p>}
       <div className="legal-sections">
         {sections.map(([title, body], index) => (
           <section key={title}>
