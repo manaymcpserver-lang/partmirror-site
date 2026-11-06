@@ -28,8 +28,9 @@ a { color: inherit; text-decoration: none; }
 h1 { margin: 0; font-size: clamp(58px, 7.2vw, 104px); line-height: 0.91; letter-spacing: -0.075em; font-weight: 780; }
 .lede { max-width: 600px; margin: 32px 0 0; color: var(--muted); font-size: clamp(18px, 2vw, 22px); line-height: 1.55; letter-spacing: -0.02em; }
 .hero-actions { margin-top: 38px; display: flex; align-items: center; flex-wrap: wrap; gap: 16px 28px; }
-.primary-button { padding: 15px 22px; border-radius: 999px; background: var(--ink); color: white; font-weight: 680; transition: transform 160ms ease, background 160ms ease; }
-.primary-button:hover { transform: translateY(-2px); background: var(--pink); }
+.store-badge { display: inline-flex; flex: 0 0 auto; width: fit-content; }
+.store-badge img { display: block; width: 120px; height: 40px; }
+.store-badge:focus-visible { outline: 2px solid var(--pink); outline-offset: 4px; border-radius: 6px; }
 .text-link { font-weight: 650; }
 .text-link span { color: var(--pink); }
 
@@ -158,3 +159,20 @@ h1 { margin: 0; font-size: clamp(58px, 7.2vw, 104px); line-height: 0.91; letter-
   .site-footer { grid-template-columns: 1fr; }
   .site-footer > div:last-child, .site-footer p { justify-self: start; grid-column: 1; grid-row: auto; text-align: left; }
 }
+
+.guide-hero h1 { max-width: 850px; font-size: clamp(38px, 6.5vw, 72px); line-height: 1.03; letter-spacing: -.06em; overflow-wrap: anywhere; }
+.guide-hero .eyebrow a:hover { text-decoration: underline; }
+.guide-list { display: grid; gap: 14px; margin: 42px 0 0; padding: 0; list-style: none; }
+.guide-list a { display: block; padding: clamp(18px, 4vw, 28px); border: 1px solid var(--line); border-radius: 20px; background: rgba(255,255,255,.45); }
+.guide-list a:hover, .guide-list a:focus-visible { border-color: var(--pink); }
+.guide-list h2, .guide-body h2 { margin: 0; font-size: clamp(21px, 3vw, 28px); line-height: 1.2; letter-spacing: -.035em; }
+.guide-list p, .guide-body p { margin: 10px 0 0; color: var(--muted); line-height: 1.65; }
+.guide-body { max-width: 700px; margin-top: 44px; font-size: 17px; }
+.guide-body > section, .guide-body > nav { margin-top: 34px; }
+.guide-answer { margin-top: 20px; }
+.guide-answer h3 { margin: 0; font-size: 18px; }
+.guide-links { display: grid; gap: 8px; margin-top: 14px; padding-inline-start: 22px; list-style: disc; }
+.guide-links a, .guide-language { text-decoration: underline; text-underline-offset: 3px; }
+.guide-language { display: inline-block; margin-top: 18px; font-size: 15px; }
+.guide-download { margin-top: 38px; padding: clamp(20px, 4vw, 32px); border: 1px solid var(--line); border-radius: 20px; background: white; }
+.guide-download .store-badge { margin-top: 18px; }
