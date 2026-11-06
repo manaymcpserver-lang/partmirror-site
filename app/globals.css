@@ -172,7 +172,7 @@ h1 { margin: 0; font-size: clamp(58px, 7.2vw, 104px); line-height: 0.91; letter-
 .guide-answer { margin-top: 20px; }
 .guide-answer h3 { margin: 0; font-size: 18px; }
 .guide-links { display: grid; gap: 8px; margin-top: 14px; padding-inline-start: 22px; list-style: disc; }
-.guide-links a, .guide-language { text-decoration: underline; text-underline-offset: 3px; }
+.guide-links a { text-decoration: underline; text-underline-offset: 3px; }
 .guide-language { display: inline-block; margin-top: 18px; font-size: 15px; }
 .guide-download { margin-top: 38px; padding: clamp(20px, 4vw, 32px); border: 1px solid var(--line); border-radius: 20px; background: white; }
 .guide-download .store-badge { margin-top: 18px; }

@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { sectionPath, supportedLocales, type SiteSection } from './content';
 
-import { guideParams, guidePath, type GuideLanguage } from './guide-pages';
+import { guideEdition, guideLocales, guidePath } from './guide-catalog';
 
 export const dynamic = 'force-static';
 
@@ -15,10 +15,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: section === 'home' ? 0.8 : 0.6,
     })),
   );
-  const guideLanguages: GuideLanguage[] = ['en', 'pt-PT'];
-  const guideUrls = guideLanguages.flatMap((language) => [
+  const guideUrls = guideLocales.flatMap((language) => [
     { url: `https://partmirror.com${guidePath(language)}` },
-    ...guideParams(language).map(({ slug }) => ({ url: `https://partmirror.com${guidePath(language, slug)}` })),
+    ...guideEdition(language).guides.map(({ slug }) => ({ url: `https://partmirror.com${guidePath(language, slug)}` })),
   ]);
   return [
     { url: 'https://partmirror.com', lastModified: new Date('2026-10-07'), changeFrequency: 'monthly', priority: 1 },
