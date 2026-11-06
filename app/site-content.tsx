@@ -11,6 +11,7 @@ import {
   type SiteSection,
 } from './content';
 
+const appStoreUrl = 'https://apps.apple.com/app/partmirror-hair-part-guide/id6806834490';
 const appleEulaUrl = 'https://www.apple.com/legal/internet-services/itunes/dev/stdeula/';
 
 function Header({ content, section }: { content: LocaleContent; section: SiteSection }) {
@@ -49,6 +50,7 @@ function Footer({ content }: { content: LocaleContent }) {
       </div>
       <p>© 2026 PartMirror. {m.footerRights}</p>
       <div>
+        <a href={appStoreUrl}>App Store</a>
         <Link href={sectionPath(content.locale, 'support')}>{m.navSupport}</Link>
         <Link href={sectionPath(content.locale, 'privacy')}>{m.navPrivacy}</Link>
         <Link href={sectionPath(content.locale, 'terms')}>{m.navTerms}</Link>
@@ -71,19 +73,19 @@ function Home({ content }: { content: LocaleContent }) {
           <h1>{m.headlineOne}<br />{m.headlineTwo}</h1>
           <p className="lede">{content.promotionalText}</p>
           <div className="hero-actions">
-            <a className="primary-button" href="#how-it-works">{m.ctaHow}</a>
-            <Link className="text-link" href={sectionPath(content.locale, 'support')}>{m.ctaSupport} <span>↗</span></Link>
+            <a className="primary-button" href={appStoreUrl}>App Store <span aria-hidden="true">↗</span></a>
+            <a className="text-link" href="#how-it-works">{m.ctaHow}</a>
           </div>
         </div>
         <div className="hero-product" aria-hidden="true">
           <div className="hero-shot hero-shot-left">
-            <Image src={screenshotPath(4)} alt="" width={480} height={1044} priority />
+            <Image src={screenshotPath(4)} alt="" width={660} height={1434} priority />
           </div>
           <div className="hero-shot hero-shot-main">
-            <Image src={screenshotPath(1)} alt="" width={480} height={1044} priority />
+            <Image src={screenshotPath(1)} alt="" width={660} height={1434} priority />
           </div>
           <div className="hero-shot hero-shot-right">
-            <Image src={screenshotPath(6)} alt="" width={480} height={1044} priority />
+            <Image src={screenshotPath(6)} alt="" width={660} height={1434} priority />
           </div>
         </div>
       </section>
@@ -101,8 +103,8 @@ function Home({ content }: { content: LocaleContent }) {
                 <Image
                   src={screenshotPath(shot.position)}
                   alt={`${shot.headline}. ${shot.supporting}`}
-                  width={480}
-                  height={1044}
+                  width={660}
+                  height={1434}
                 />
               </div>
               <div className="showcase-copy">
@@ -158,7 +160,7 @@ const supportFaqKeys = [
   ['faqPrivacyQ', 'faqPrivacyA'],
 ] as const;
 
-const supportEmail = 'support@partmirror.com';
+const supportEmail = 'mite.appdev@gmail.com';
 
 function Support({ content }: { content: LocaleContent }) {
   const m = content.messages;

@@ -56,6 +56,11 @@
       "position": 6,
       "headline": "Păstrează toate lookurile într-un singur loc",
       "supporting": "Compară oricând cărările preferate"
+    },
+    {
+      "position": 7,
+      "headline": "Compară",
+      "supporting": "Compară oricând cărările preferate"
     }
   ]
 }

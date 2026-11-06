@@ -56,6 +56,11 @@
       "position": 6,
       "headline": "Tüm görünümlerin tek bir yerde",
       "supporting": "Favori ayrımlarını istediğin zaman karşılaştır"
+    },
+    {
+      "position": 7,
+      "headline": "Karşılaştır",
+      "supporting": "Favori ayrımlarını istediğin zaman karşılaştır"
     }
   ]
 }
