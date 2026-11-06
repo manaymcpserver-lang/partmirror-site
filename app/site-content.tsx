@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
+import { AppStoreBadge, appStoreUrl } from './app-store-badge';
 import { LanguageSwitcher } from './language-switcher';
 import { AdvertisingPrivacy, privacyLanguage } from './advertising-privacy';
 import {
@@ -11,10 +12,14 @@ import {
   type SiteSection,
 } from './content';
 
-const appStoreUrl = 'https://apps.apple.com/app/partmirror-hair-part-guide/id6806834490';
 const appleEulaUrl = 'https://www.apple.com/legal/internet-services/itunes/dev/stdeula/';
 
-function Header({ content, section }: { content: LocaleContent; section: SiteSection }) {
+function GuidesLink({ locale }: { locale: string }) {
+  if (locale === 'pt-PT') return <Link href="/guides/pt-PT/">Guias de cabelo</Link>;
+  return <Link href="/guides/" lang="en">{locale.startsWith('en-') ? 'Hair guides' : 'Hair guides (EN)'}</Link>;
+}
+
+export function SiteHeader({ content, section }: { content: LocaleContent; section?: SiteSection }) {
   const m = content.messages;
   const locale = content.locale;
   const options = supportedLocales.map((key) => ({ locale: key, language: locales[key].language }));
@@ -26,21 +31,22 @@ function Header({ content, section }: { content: LocaleContent; section: SiteSec
         <span>PartMirror</span>
       </Link>
       <nav aria-label="Primary navigation">
+        <GuidesLink locale={locale} />
         <Link className={section === 'support' ? 'active' : ''} href={sectionPath(locale, 'support')}>{m.navSupport}</Link>
         <Link className={section === 'privacy' ? 'active' : ''} href={sectionPath(locale, 'privacy')}>{m.navPrivacy}</Link>
         <Link className={section === 'terms' ? 'active' : ''} href={sectionPath(locale, 'terms')}>{m.navTerms}</Link>
-        <LanguageSwitcher
+        {section && <LanguageSwitcher
           currentLocale={locale}
           currentSection={section}
           label={m.languageLabel}
           options={options}
-        />
+        />}
       </nav>
     </header>
   );
 }
 
-function Footer({ content }: { content: LocaleContent }) {
+export function SiteFooter({ content }: { content: LocaleContent }) {
   const m = content.messages;
   return (
     <footer className="site-footer">
@@ -51,6 +57,7 @@ function Footer({ content }: { content: LocaleContent }) {
       <p>© 2026 PartMirror. {m.footerRights}</p>
       <div>
         <a href={appStoreUrl}>App Store</a>
+        <GuidesLink locale={content.locale} />
         <Link href={sectionPath(content.locale, 'support')}>{m.navSupport}</Link>
         <Link href={sectionPath(content.locale, 'privacy')}>{m.navPrivacy}</Link>
         <Link href={sectionPath(content.locale, 'terms')}>{m.navTerms}</Link>
@@ -73,8 +80,9 @@ function Home({ content }: { content: LocaleContent }) {
           <h1>{m.headlineOne}<br />{m.headlineTwo}</h1>
           <p className="lede">{content.promotionalText}</p>
           <div className="hero-actions">
-            <a className="primary-button" href={appStoreUrl}>App Store <span aria-hidden="true">↗</span></a>
+            <AppStoreBadge locale={content.locale} />
             <a className="text-link" href="#how-it-works">{m.ctaHow}</a>
+            <GuidesLink locale={content.locale} />
           </div>
         </div>
         <div className="hero-product" aria-hidden="true">
@@ -264,12 +272,12 @@ export function SiteContent({ locale, section }: { locale: string; section: Site
   const content = localeContent(locale);
   return (
     <main lang={content.locale} dir={content.direction}>
-      <Header content={content} section={section} />
+      <SiteHeader content={content} section={section} />
       {section === 'home' && <Home content={content} />}
       {section === 'support' && <Support content={content} />}
       {section === 'privacy' && <LegalDocument content={content} kind="privacy" />}
       {section === 'terms' && <LegalDocument content={content} kind="terms" />}
-      <Footer content={content} />
+      <SiteFooter content={content} />
     </main>
   );
 }
