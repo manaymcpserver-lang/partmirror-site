@@ -38,6 +38,11 @@
         "position": 6,
         "headline": "احتفظ بكل إطلالة في مكان واحد",
         "supporting": "قارن فرق الشعر المفضلة لديك في أي وقت"
+      },
+      {
+        "position": 7,
+        "headline": "مقارنة",
+        "supporting": "قارن فرق الشعر المفضلة لديك في أي وقت"
       }
     ],
     "messages": {
@@ -57,7 +62,7 @@
       "supportTitle": "PartMirror الدعم",
       "supportIntro": "إجابات سريعة لإعداد دليل الكاميرا والتقاط نظرة والحفاظ على خصوصية صورك.",
       "contactTitle": "الاتصال PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "الأسئلة الشائعة",
       "faqCompatibilityQ": "ما هي أجهزة iPhone المدعومة؟",
       "faqCompatibilityA": "PartMirror يتطلب iOS 17 أو أحدث وiPhone مع كاميرا أمامية TrueDepth.",
@@ -92,7 +97,7 @@
       "privacyChangesTitle": "التغييرات في هذه السياسة",
       "privacyChangesBody": "قد نقوم بتحديث هذه السياسة مع تغيرات PartMirror. سيحدد تاريخ السريان أعلاه الإصدار الأحدث.",
       "privacyContactTitle": "جهة اتصال الخصوصية",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "استخدام PartMirror",
       "termsTitle": "شروط الاستخدام",
       "termsIntro": "باستخدام PartMirror، فإنك توافق على هذه الشروط واتفاقية ترخيص المستخدم النهائي للتطبيق المرخص القياسي لـ Apple.",
@@ -111,7 +116,7 @@
       "termsChangesTitle": "التغييرات والإنهاء",
       "termsChangesBody": "يجوز لنا تحسين الميزات أو تغييرها أو تعليقها أو إيقافها وقد نقوم بتحديث هذه الشروط. يمكنك التوقف عن استخدام PartMirror في أي وقت.",
       "termsContactTitle": "أسئلة حول هذه المصطلحات",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple اتفاقية ترخيص المستخدم النهائي القياسية",
       "legalTranslationNote": "يتم توفير الترجمات للراحة. إذا تعارضت النسخة المترجمة مع النسخة الإنجليزية، فإن النسخة الإنجليزية تتحكم حيثما يسمح القانون بذلك.",
       "footerRights": "جميع الحقوق محفوظة.",
@@ -166,6 +171,11 @@
         "position": 6,
         "headline": "সব লুক এক জায়গায় রাখুন",
         "supporting": "আপনার পছন্দের সিঁথিগুলো যেকোনো সময় তুলনা করুন"
+      },
+      {
+        "position": 7,
+        "headline": "তুলনা",
+        "supporting": "আপনার পছন্দের সিঁথিগুলো যেকোনো সময় তুলনা করুন"
       }
     ],
     "messages": {
@@ -185,7 +195,7 @@
       "supportTitle": "PartMirror সমর্থন",
       "supportIntro": "ক্যামেরা গাইড সেট আপ করার জন্য দ্রুত উত্তর, একটি চেহারা ক্যাপচার, এবং আপনার ফটো ব্যক্তিগত রাখা.",
       "contactTitle": "যোগাযোগ করুন PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "সাধারণ প্রশ্ন",
       "faqCompatibilityQ": "কোন iPhoneগুলি সমর্থিত?",
       "faqCompatibilityA": "PartMirror-এর জন্য iOS 17 বা তার পরে এবং একটি TrueDepth সামনের ক্যামেরা সহ একটি iPhone প্রয়োজন৷",
@@ -220,7 +230,7 @@
       "privacyChangesTitle": "এই নীতি পরিবর্তন",
       "privacyChangesBody": "আমরা এই নীতিটি PartMirror পরিবর্তন হিসাবে আপডেট করতে পারি। উপরের কার্যকরী তারিখটি সর্বশেষ সংস্করণ সনাক্ত করবে।",
       "privacyContactTitle": "গোপনীয়তা যোগাযোগ",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "PartMirror ব্যবহার করা হচ্ছে",
       "termsTitle": "ব্যবহারের শর্তাবলী",
       "termsIntro": "PartMirror ব্যবহার করে, আপনি এই শর্তাবলী এবং Apple-এর স্ট্যান্ডার্ড লাইসেন্সকৃত অ্যাপ্লিকেশন শেষ ব্যবহারকারী লাইসেন্স চুক্তিতে সম্মত হন।",
@@ -239,7 +249,7 @@
       "termsChangesTitle": "পরিবর্তন এবং সমাপ্তি",
       "termsChangesBody": "আমরা বৈশিষ্ট্যগুলির উন্নতি, পরিবর্তন, স্থগিত বা বন্ধ করতে পারি এবং এই শর্তাবলী আপডেট করতে পারি। আপনি যেকোনো সময় PartMirror ব্যবহার বন্ধ করতে পারেন।",
       "termsContactTitle": "এই শর্তাবলী সম্পর্কে প্রশ্ন",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple স্ট্যান্ডার্ড EULA",
       "legalTranslationNote": "অনুবাদ সুবিধার জন্য প্রদান করা হয়. যদি একটি অনূদিত সংস্করণ ইংরেজি সংস্করণের সাথে বিরোধিতা করে, তবে আইন দ্বারা অনুমোদিত যেখানে ইংরেজী সংস্করণ নিয়ন্ত্রণ করে।",
       "footerRights": "সর্বস্বত্ব সংরক্ষিত",
@@ -294,6 +304,11 @@
         "position": 6,
         "headline": "Tingues tots els looks en un sol lloc",
         "supporting": "Compara les teves ratlles preferides quan vulguis"
+      },
+      {
+        "position": 7,
+        "headline": "Comparar",
+        "supporting": "Compara les teves ratlles preferides quan vulguis"
       }
     ],
     "messages": {
@@ -313,7 +328,7 @@
       "supportTitle": "PartMirror Suport",
       "supportIntro": "Respostes ràpides per configurar la guia de la càmera, capturar una mirada i mantenir les teves fotos privades.",
       "contactTitle": "Contacta amb PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Preguntes habituals",
       "faqCompatibilityQ": "Quins iPhones són compatibles?",
       "faqCompatibilityA": "PartMirror requereix iOS 17 o posterior i un iPhone amb una càmera frontal TrueDepth.",
@@ -348,7 +363,7 @@
       "privacyChangesTitle": "Canvis a aquesta política",
       "privacyChangesBody": "És possible que actualitzem aquesta política a mesura que PartMirror canviï. La data d'entrada en vigor anterior identificarà l'última versió.",
       "privacyContactTitle": "Contacte de privadesa",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Utilitzant PartMirror",
       "termsTitle": "Condicions d'ús",
       "termsIntro": "En utilitzar PartMirror, accepteu aquestes condicions i l'Acord de llicència d'usuari final d'aplicació amb llicència estàndard de Apple.",
@@ -367,7 +382,7 @@
       "termsChangesTitle": "Canvis i baixa",
       "termsChangesBody": "Podem millorar, canviar, suspendre o suspendre les funcions i actualitzar aquestes condicions. Podeu deixar d'utilitzar PartMirror en qualsevol moment.",
       "termsContactTitle": "Preguntes sobre aquests termes",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple CLUF estàndard",
       "legalTranslationNote": "Les traduccions es proporcionen per comoditat. Si una versió traduïda entra en conflicte amb la versió en anglès, la versió en anglès controla quan ho permet la llei.",
       "footerRights": "Tots els drets reservats.",
@@ -422,6 +437,11 @@
         "position": 6,
         "headline": "Mějte všechny účesy na jednom místě",
         "supporting": "Porovnejte své oblíbené pěšinky kdykoli"
+      },
+      {
+        "position": 7,
+        "headline": "Porovnat",
+        "supporting": "Porovnejte své oblíbené pěšinky kdykoli"
       }
     ],
     "messages": {
@@ -441,7 +461,7 @@
       "supportTitle": "Podpora PartMirror",
       "supportIntro": "Rychlé odpovědi pro nastavení průvodce fotoaparátem, zachycení pohledu a zachování soukromí vašich fotografií.",
       "contactTitle": "Kontaktujte PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Běžné otázky",
       "faqCompatibilityQ": "Které iPhone jsou podporovány?",
       "faqCompatibilityA": "PartMirror vyžaduje iOS 17 nebo novější a iPhone s přední kamerou TrueDepth.",
@@ -476,7 +496,7 @@
       "privacyChangesTitle": "Změny těchto zásad",
       "privacyChangesBody": "Tyto zásady můžeme aktualizovat, jakmile se změní PartMirror. Výše uvedené datum účinnosti bude identifikovat nejnovější verzi.",
       "privacyContactTitle": "Kontakt pro ochranu osobních údajů",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Pomocí PartMirror",
       "termsTitle": "Podmínky použití",
       "termsIntro": "Používáním PartMirror souhlasíte s těmito podmínkami a licenční smlouvou s koncovým uživatelem standardní licencované aplikace Apple.",
@@ -495,7 +515,7 @@
       "termsChangesTitle": "Změny a ukončení",
       "termsChangesBody": "Můžeme zlepšit, změnit, pozastavit nebo ukončit funkce a můžeme aktualizovat tyto podmínky. PartMirror můžete kdykoli přestat používat.",
       "termsContactTitle": "Otázky týkající se těchto podmínek",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Standardní EULA",
       "legalTranslationNote": "Pro pohodlí jsou poskytovány překlady. Pokud je přeložená verze v rozporu s anglickou verzí, platí anglická verze tam, kde to povoluje zákon.",
       "footerRights": "Všechna práva vyhrazena.",
@@ -550,6 +570,11 @@
         "position": 6,
         "headline": "Saml alle dine looks ét sted",
         "supporting": "Sammenlign dine yndlingsskilninger når som helst"
+      },
+      {
+        "position": 7,
+        "headline": "Sammenlign",
+        "supporting": "Sammenlign dine yndlingsskilninger når som helst"
       }
     ],
     "messages": {
@@ -569,7 +594,7 @@
       "supportTitle": "PartMirror Support",
       "supportIntro": "Hurtige svar til at konfigurere kameraguiden, fange et kig og holde dine billeder private.",
       "contactTitle": "Kontakt PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Almindelige spørgsmål",
       "faqCompatibilityQ": "Hvilke iPhones understøttes?",
       "faqCompatibilityA": "PartMirror kræver iOS 17 eller nyere og en iPhone med et TrueDepth frontkamera.",
@@ -604,7 +629,7 @@
       "privacyChangesTitle": "Ændringer i denne politik",
       "privacyChangesBody": "Vi kan opdatere denne politik, efterhånden som PartMirror ændres. Ikrafttrædelsesdatoen ovenfor vil identificere den seneste version.",
       "privacyContactTitle": "Privatlivskontakt",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Brug af PartMirror",
       "termsTitle": "Vilkår for brug",
       "termsIntro": "Ved at bruge PartMirror accepterer du disse vilkår og Apples standardlicenserede slutbrugerlicensaftale for applikationer.",
@@ -623,7 +648,7 @@
       "termsChangesTitle": "Ændringer og opsigelse",
       "termsChangesBody": "Vi kan forbedre, ændre, suspendere eller afbryde funktioner og kan opdatere disse vilkår. Du kan stoppe med at bruge PartMirror til enhver tid.",
       "termsContactTitle": "Spørgsmål om disse vilkår",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Standard EULA",
       "legalTranslationNote": "Oversættelser leveres for nemheds skyld. Hvis en oversat version er i konflikt med den engelske version, styrer den engelske version, hvor det er tilladt ved lov.",
       "footerRights": "Alle rettigheder forbeholdes.",
@@ -678,6 +703,11 @@
         "position": 6,
         "headline": "Alle Looks an einem Ort",
         "supporting": "Vergleiche deine Lieblingsscheitel jederzeit"
+      },
+      {
+        "position": 7,
+        "headline": "Vergleichen",
+        "supporting": "Vergleiche deine Lieblingsscheitel jederzeit"
       }
     ],
     "messages": {
@@ -697,7 +727,7 @@
       "supportTitle": "PartMirror-Unterstützung",
       "supportIntro": "Schnelle Antworten zum Einrichten des Kameraführers, zum Aufnehmen eines Blicks und zum Schutz Ihrer Fotos privat.",
       "contactTitle": "Kontakt PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Häufige Fragen",
       "faqCompatibilityQ": "Welche iPhones werden unterstützt?",
       "faqCompatibilityA": "PartMirror erfordert iOS 17 oder höher und ein iPhone mit einer TrueDepth Frontkamera.",
@@ -732,7 +762,7 @@
       "privacyChangesTitle": "Änderungen an dieser Richtlinie",
       "privacyChangesBody": "Wir können diese Richtlinie aktualisieren, wenn sich PartMirror ändert. Das oben angegebene Datum des Inkrafttretens gibt Aufschluss über die neueste Version.",
       "privacyContactTitle": "Datenschutzkontakt",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Verwenden von PartMirror",
       "termsTitle": "Nutzungsbedingungen",
       "termsIntro": "Durch die Nutzung von PartMirror stimmen Sie diesen Bedingungen und der Endbenutzer-Lizenzvereinbarung für standardmäßige lizenzierte Anwendungen von Apple zu.",
@@ -751,7 +781,7 @@
       "termsChangesTitle": "Änderungen und Kündigung",
       "termsChangesBody": "Wir können Funktionen verbessern, ändern, aussetzen oder einstellen und diese Bedingungen aktualisieren. Sie können die Nutzung von PartMirror jederzeit beenden.",
       "termsContactTitle": "Fragen zu diesen Begriffen",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Standard-EULA",
       "legalTranslationNote": "Der Einfachheit halber werden Übersetzungen bereitgestellt. Wenn eine übersetzte Version im Widerspruch zur englischen Version steht, hat die englische Version Vorrang, soweit gesetzlich zulässig.",
       "footerRights": "Alle Rechte vorbehalten.",
@@ -806,6 +836,11 @@
         "position": 6,
         "headline": "Κράτησε κάθε look σε ένα μέρος",
         "supporting": "Σύγκρινε τις αγαπημένες σου χωρίστρες ανά πάσα στιγμή"
+      },
+      {
+        "position": 7,
+        "headline": "Σύγκριση",
+        "supporting": "Σύγκρινε τις αγαπημένες σου χωρίστρες ανά πάσα στιγμή"
       }
     ],
     "messages": {
@@ -825,7 +860,7 @@
       "supportTitle": "PartMirror Υποστήριξη",
       "supportIntro": "Γρήγορες απαντήσεις για τη ρύθμιση του οδηγού κάμερας, τη λήψη μιας ματιάς και τη διατήρηση των φωτογραφιών σας ιδιωτικές.",
       "contactTitle": "Επικοινωνήστε με PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Συνήθεις ερωτήσεις",
       "faqCompatibilityQ": "Ποια iPhones υποστηρίζονται;",
       "faqCompatibilityA": "Το PartMirror απαιτεί iOS 17 ή μεταγενέστερο και iPhone με TrueDepth μπροστινή κάμερα.",
@@ -860,7 +895,7 @@
       "privacyChangesTitle": "Αλλαγές σε αυτήν την πολιτική",
       "privacyChangesBody": "Ενδέχεται να ενημερώσουμε αυτήν την πολιτική καθώς PartMirror αλλάζει. Η παραπάνω ημερομηνία έναρξης ισχύος θα προσδιορίσει την πιο πρόσφατη έκδοση.",
       "privacyContactTitle": "Επικοινωνία απορρήτου",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Χρήση PartMirror",
       "termsTitle": "Όροι Χρήσης",
       "termsIntro": "Χρησιμοποιώντας PartMirror, συμφωνείτε με αυτούς τους όρους και την Τυπική Άδεια Χρήσης Τελικού Χρήστη για Εφαρμογή με Άδεια Χρήσης της Apple.",
@@ -879,7 +914,7 @@
       "termsChangesTitle": "Αλλαγές και τερματισμός",
       "termsChangesBody": "Ενδέχεται να βελτιώσουμε, να αλλάξουμε, να αναστείλουμε ή να διακόψουμε τις λειτουργίες και ενδέχεται να ενημερώσουμε αυτούς τους όρους. Μπορείτε να σταματήσετε να χρησιμοποιείτε το PartMirror ανά πάσα στιγμή.",
       "termsContactTitle": "Ερωτήσεις σχετικά με αυτούς τους όρους",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Τυπική EULA",
       "legalTranslationNote": "Παρέχονται μεταφράσεις για διευκόλυνση. Εάν μια μεταφρασμένη έκδοση έρχεται σε αντίθεση με την αγγλική έκδοση, η αγγλική έκδοση ελέγχει όπου επιτρέπεται από το νόμο.",
       "footerRights": "Με την επιφύλαξη παντός δικαιώματος.",
@@ -934,6 +969,11 @@
         "position": 6,
         "headline": "Keep every look in one place",
         "supporting": "Compare your favorite parts anytime"
+      },
+      {
+        "position": 7,
+        "headline": "Compare",
+        "supporting": "Compare your favorite parts anytime"
       }
     ],
     "messages": {
@@ -953,7 +993,7 @@
       "supportTitle": "PartMirror Support",
       "supportIntro": "Quick answers for setting up the camera guide, capturing a look, and keeping your photos private.",
       "contactTitle": "Contact PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Common questions",
       "faqCompatibilityQ": "Which iPhones are supported?",
       "faqCompatibilityA": "PartMirror requires iOS 17 or later and an iPhone with a TrueDepth front camera.",
@@ -998,7 +1038,7 @@
       "privacyChangesTitle": "Changes to this policy",
       "privacyChangesBody": "We may update this policy as PartMirror changes. The effective date above will identify the latest version.",
       "privacyContactTitle": "Privacy contact",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Using PartMirror",
       "termsTitle": "Terms of Use",
       "termsIntro": "By using PartMirror, you agree to these terms and Apple’s Standard Licensed Application End User License Agreement.",
@@ -1017,7 +1057,7 @@
       "termsChangesTitle": "Changes and termination",
       "termsChangesBody": "We may improve, change, suspend, or discontinue features and may update these terms. You may stop using PartMirror at any time.",
       "termsContactTitle": "Questions about these terms",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Standard EULA",
       "legalTranslationNote": "Translations are provided for convenience. If a translated version conflicts with the English version, the English version controls where permitted by law.",
       "footerRights": "All rights reserved."
@@ -1062,6 +1102,11 @@
         "position": 6,
         "headline": "Keep every look in one place",
         "supporting": "Compare your favorite parts anytime"
+      },
+      {
+        "position": 7,
+        "headline": "Compare",
+        "supporting": "Compare your favorite parts anytime"
       }
     ],
     "messages": {
@@ -1081,7 +1126,7 @@
       "supportTitle": "PartMirror Support",
       "supportIntro": "Quick answers for setting up the camera guide, capturing a look, and keeping your photos private.",
       "contactTitle": "Contact PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Common questions",
       "faqCompatibilityQ": "Which iPhones are supported?",
       "faqCompatibilityA": "PartMirror requires iOS 17 or later and an iPhone with a TrueDepth front camera.",
@@ -1126,7 +1171,7 @@
       "privacyChangesTitle": "Changes to this policy",
       "privacyChangesBody": "We may update this policy as PartMirror changes. The effective date above will identify the latest version.",
       "privacyContactTitle": "Privacy contact",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Using PartMirror",
       "termsTitle": "Terms of Use",
       "termsIntro": "By using PartMirror, you agree to these terms and Apple’s Standard Licensed Application End User License Agreement.",
@@ -1145,7 +1190,7 @@
       "termsChangesTitle": "Changes and termination",
       "termsChangesBody": "We may improve, change, suspend, or discontinue features and may update these terms. You may stop using PartMirror at any time.",
       "termsContactTitle": "Questions about these terms",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Standard EULA",
       "legalTranslationNote": "Translations are provided for convenience. If a translated version conflicts with the English version, the English version controls where permitted by law.",
       "footerRights": "All rights reserved."
@@ -1190,6 +1235,11 @@
         "position": 6,
         "headline": "Keep every look in one place",
         "supporting": "Compare your favorite parts anytime"
+      },
+      {
+        "position": 7,
+        "headline": "Compare",
+        "supporting": "Compare your favorite parts anytime"
       }
     ],
     "messages": {
@@ -1209,7 +1259,7 @@
       "supportTitle": "PartMirror Support",
       "supportIntro": "Quick answers for setting up the camera guide, capturing a look, and keeping your photos private.",
       "contactTitle": "Contact PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Common questions",
       "faqCompatibilityQ": "Which iPhones are supported?",
       "faqCompatibilityA": "PartMirror requires iOS 17 or later and an iPhone with a TrueDepth front camera.",
@@ -1254,7 +1304,7 @@
       "privacyChangesTitle": "Changes to this policy",
       "privacyChangesBody": "We may update this policy as PartMirror changes. The effective date above will identify the latest version.",
       "privacyContactTitle": "Privacy contact",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Using PartMirror",
       "termsTitle": "Terms of Use",
       "termsIntro": "By using PartMirror, you agree to these terms and Apple’s Standard Licensed Application End User License Agreement.",
@@ -1273,7 +1323,7 @@
       "termsChangesTitle": "Changes and termination",
       "termsChangesBody": "We may improve, change, suspend, or discontinue features and may update these terms. You may stop using PartMirror at any time.",
       "termsContactTitle": "Questions about these terms",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Standard EULA",
       "legalTranslationNote": "Translations are provided for convenience. If a translated version conflicts with the English version, the English version controls where permitted by law.",
       "footerRights": "All rights reserved."
@@ -1318,6 +1368,11 @@
         "position": 6,
         "headline": "Keep every look in one place",
         "supporting": "Compare your favorite parts anytime"
+      },
+      {
+        "position": 7,
+        "headline": "Compare",
+        "supporting": "Compare your favorite parts anytime"
       }
     ],
     "messages": {
@@ -1337,7 +1392,7 @@
       "supportTitle": "PartMirror Support",
       "supportIntro": "Quick answers for setting up the camera guide, capturing a look, and keeping your photos private.",
       "contactTitle": "Contact PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Common questions",
       "faqCompatibilityQ": "Which iPhones are supported?",
       "faqCompatibilityA": "PartMirror requires iOS 17 or later and an iPhone with a TrueDepth front camera.",
@@ -1382,7 +1437,7 @@
       "privacyChangesTitle": "Changes to this policy",
       "privacyChangesBody": "We may update this policy as PartMirror changes. The effective date above will identify the latest version.",
       "privacyContactTitle": "Privacy contact",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Using PartMirror",
       "termsTitle": "Terms of Use",
       "termsIntro": "By using PartMirror, you agree to these terms and Apple’s Standard Licensed Application End User License Agreement.",
@@ -1401,7 +1456,7 @@
       "termsChangesTitle": "Changes and termination",
       "termsChangesBody": "We may improve, change, suspend, or discontinue features and may update these terms. You may stop using PartMirror at any time.",
       "termsContactTitle": "Questions about these terms",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Standard EULA",
       "legalTranslationNote": "Translations are provided for convenience. If a translated version conflicts with the English version, the English version controls where permitted by law.",
       "footerRights": "All rights reserved."
@@ -1446,6 +1501,11 @@
         "position": 6,
         "headline": "Guarda todos tus looks en un solo lugar",
         "supporting": "Compara tus rayas favoritas cuando quieras"
+      },
+      {
+        "position": 7,
+        "headline": "Comparar",
+        "supporting": "Compara tus rayas favoritas cuando quieras"
       }
     ],
     "messages": {
@@ -1465,7 +1525,7 @@
       "supportTitle": "PartMirror Soporte",
       "supportIntro": "Respuestas rápidas para configurar la guía de la cámara, capturar una mirada y mantener la privacidad de tus fotos.",
       "contactTitle": "Contacto PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Preguntas comunes",
       "faqCompatibilityQ": "¿Qué iPhones son compatibles?",
       "faqCompatibilityA": "PartMirror requiere iOS 17 o posterior y un iPhone con una cámara frontal TrueDepth.",
@@ -1500,7 +1560,7 @@
       "privacyChangesTitle": "Cambios a esta política",
       "privacyChangesBody": "Podemos actualizar esta política a medida que cambie PartMirror. La fecha de vigencia anterior identificará la última versión.",
       "privacyContactTitle": "Contacto de privacidad",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Usando PartMirror",
       "termsTitle": "Términos de uso",
       "termsIntro": "Al utilizar PartMirror, usted acepta estos términos y el Acuerdo de licencia de usuario final de aplicación con licencia estándar de Apple.",
@@ -1519,7 +1579,7 @@
       "termsChangesTitle": "Cambios y terminación",
       "termsChangesBody": "Podemos mejorar, cambiar, suspender o descontinuar funciones y podemos actualizar estos términos. Puede dejar de usar PartMirror en cualquier momento.",
       "termsContactTitle": "Preguntas sobre estos términos",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple CLUF estándar",
       "legalTranslationNote": "Se proporcionan traducciones para su comodidad. Si una versión traducida entra en conflicto con la versión en inglés, la versión en inglés prevalece cuando lo permita la ley.",
       "footerRights": "Reservados todos los derechos.",
@@ -1574,6 +1634,11 @@
         "position": 6,
         "headline": "Guarda todos tus looks en un solo lugar",
         "supporting": "Compara tus rayas favoritas cuando quieras"
+      },
+      {
+        "position": 7,
+        "headline": "Comparar",
+        "supporting": "Compara tus rayas favoritas cuando quieras"
       }
     ],
     "messages": {
@@ -1593,7 +1658,7 @@
       "supportTitle": "PartMirror Soporte",
       "supportIntro": "Respuestas rápidas para configurar la guía de la cámara, capturar una mirada y mantener la privacidad de tus fotos.",
       "contactTitle": "Contacto PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Preguntas comunes",
       "faqCompatibilityQ": "¿Qué iPhones son compatibles?",
       "faqCompatibilityA": "PartMirror requiere iOS 17 o posterior y un iPhone con una cámara frontal TrueDepth.",
@@ -1628,7 +1693,7 @@
       "privacyChangesTitle": "Cambios a esta política",
       "privacyChangesBody": "Podemos actualizar esta política a medida que cambie PartMirror. La fecha de vigencia anterior identificará la última versión.",
       "privacyContactTitle": "Contacto de privacidad",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Usando PartMirror",
       "termsTitle": "Términos de uso",
       "termsIntro": "Al utilizar PartMirror, usted acepta estos términos y el Acuerdo de licencia de usuario final de aplicación con licencia estándar de Apple.",
@@ -1647,7 +1712,7 @@
       "termsChangesTitle": "Cambios y terminación",
       "termsChangesBody": "Podemos mejorar, cambiar, suspender o descontinuar funciones y podemos actualizar estos términos. Puede dejar de usar PartMirror en cualquier momento.",
       "termsContactTitle": "Preguntas sobre estos términos",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple CLUF estándar",
       "legalTranslationNote": "Se proporcionan traducciones para su comodidad. Si una versión traducida entra en conflicto con la versión en inglés, la versión en inglés prevalece cuando lo permita la ley.",
       "footerRights": "Reservados todos los derechos.",
@@ -1702,6 +1767,11 @@
         "position": 6,
         "headline": "Pidä kaikki tyylit yhdessä paikassa",
         "supporting": "Vertaile suosikkijakauksiasi milloin tahansa"
+      },
+      {
+        "position": 7,
+        "headline": "Vertaa",
+        "supporting": "Vertaile suosikkijakauksiasi milloin tahansa"
       }
     ],
     "messages": {
@@ -1721,7 +1791,7 @@
       "supportTitle": "PartMirror Tuki",
       "supportIntro": "Nopeat vastaukset kameraoppaan määrittämiseen, ulkoasun vangitsemiseen ja kuvien pitämiseen yksityisinä.",
       "contactTitle": "Ota yhteyttä PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Yleisiä kysymyksiä",
       "faqCompatibilityQ": "Mitä iPhone-laitteita tuetaan?",
       "faqCompatibilityA": "PartMirror vaatii iOS 17:n tai uudemman ja iPhone:n, jossa on TrueDepth etukamera.",
@@ -1756,7 +1826,7 @@
       "privacyChangesTitle": "Muutoksia tähän käytäntöön",
       "privacyChangesBody": "Saatamme päivittää tätä käytäntöä PartMirror muuttuessa. Yllä oleva voimaantulopäivä ilmaisee viimeisimmän version.",
       "privacyContactTitle": "Tietosuojayhteys",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Käytössä PartMirror",
       "termsTitle": "Käyttöehdot",
       "termsIntro": "Käyttämällä PartMirror-palvelua hyväksyt nämä ehdot ja Apple:n lisensoidun sovelluksen vakiokäyttöoikeussopimuksen.",
@@ -1775,7 +1845,7 @@
       "termsChangesTitle": "Muutokset ja irtisanominen",
       "termsChangesBody": "Voimme parantaa, muuttaa, keskeyttää tai lopettaa ominaisuuksia ja voimme päivittää näitä ehtoja. Voit lopettaa PartMirror käytön milloin tahansa.",
       "termsContactTitle": "Kysymyksiä näistä ehdoista",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Normaali EULA",
       "legalTranslationNote": "Käännökset tarjotaan mukavuuden vuoksi. Jos käännetty versio on ristiriidassa englanninkielisen version kanssa, englanninkielinen versio hallitsee lain sallimissa rajoissa.",
       "footerRights": "Kaikki oikeudet pidätetään.",
@@ -1830,6 +1900,11 @@
         "position": 6,
         "headline": "Gardez tous vos looks au même endroit",
         "supporting": "Comparez vos raies préférées à tout moment"
+      },
+      {
+        "position": 7,
+        "headline": "Comparer",
+        "supporting": "Comparez vos raies préférées à tout moment"
       }
     ],
     "messages": {
@@ -1849,7 +1924,7 @@
       "supportTitle": "Assistance PartMirror",
       "supportIntro": "Réponses rapides pour configurer le guide de l'appareil photo, capturer un regard et garder vos photos privées.",
       "contactTitle": "Contacter PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Questions courantes",
       "faqCompatibilityQ": "Quels iPhone sont pris en charge ?",
       "faqCompatibilityA": "PartMirror nécessite iOS 17 ou version ultérieure et un iPhone avec une caméra frontale TrueDepth.",
@@ -1884,7 +1959,7 @@
       "privacyChangesTitle": "Modifications de cette politique",
       "privacyChangesBody": "Nous pouvons mettre à jour cette politique à mesure que PartMirror change. La date d'entrée en vigueur ci-dessus identifiera la dernière version.",
       "privacyContactTitle": "Contact pour la confidentialité",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Utilisation de PartMirror",
       "termsTitle": "Conditions d'utilisation",
       "termsIntro": "En utilisant PartMirror, vous acceptez ces conditions et le contrat de licence d'utilisateur final d'application sous licence standard de Apple.",
@@ -1903,7 +1978,7 @@
       "termsChangesTitle": "Modifications et résiliation",
       "termsChangesBody": "Nous pouvons améliorer, modifier, suspendre ou interrompre des fonctionnalités et mettre à jour ces conditions. Vous pouvez arrêter d'utiliser PartMirror à tout moment.",
       "termsContactTitle": "Questions sur ces termes",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple CLUF standard",
       "legalTranslationNote": "Des traductions sont fournies pour plus de commodité. Si une version traduite entre en conflit avec la version anglaise, la version anglaise prévaudra là où la loi le permet.",
       "footerRights": "Tous droits réservés.",
@@ -1958,6 +2033,11 @@
         "position": 6,
         "headline": "Gardez tous vos looks au même endroit",
         "supporting": "Comparez vos raies préférées à tout moment"
+      },
+      {
+        "position": 7,
+        "headline": "Comparer",
+        "supporting": "Comparez vos raies préférées à tout moment"
       }
     ],
     "messages": {
@@ -1977,7 +2057,7 @@
       "supportTitle": "Assistance PartMirror",
       "supportIntro": "Réponses rapides pour configurer le guide de l'appareil photo, capturer un regard et garder vos photos privées.",
       "contactTitle": "Contacter PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Questions courantes",
       "faqCompatibilityQ": "Quels iPhone sont pris en charge ?",
       "faqCompatibilityA": "PartMirror nécessite iOS 17 ou version ultérieure et un iPhone avec une caméra frontale TrueDepth.",
@@ -2012,7 +2092,7 @@
       "privacyChangesTitle": "Modifications de cette politique",
       "privacyChangesBody": "Nous pouvons mettre à jour cette politique à mesure que PartMirror change. La date d'entrée en vigueur ci-dessus identifiera la dernière version.",
       "privacyContactTitle": "Contact pour la confidentialité",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Utilisation de PartMirror",
       "termsTitle": "Conditions d'utilisation",
       "termsIntro": "En utilisant PartMirror, vous acceptez ces conditions et le contrat de licence d'utilisateur final d'application sous licence standard de Apple.",
@@ -2031,7 +2111,7 @@
       "termsChangesTitle": "Modifications et résiliation",
       "termsChangesBody": "Nous pouvons améliorer, modifier, suspendre ou interrompre des fonctionnalités et mettre à jour ces conditions. Vous pouvez arrêter d'utiliser PartMirror à tout moment.",
       "termsContactTitle": "Questions sur ces termes",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple CLUF standard",
       "legalTranslationNote": "Des traductions sont fournies pour plus de commodité. Si une version traduite entre en conflit avec la version anglaise, la version anglaise prévaudra là où la loi le permet.",
       "footerRights": "Tous droits réservés.",
@@ -2086,6 +2166,11 @@
         "position": 6,
         "headline": "તમારા બધા લુક્સ એક જ જગ્યાએ રાખો",
         "supporting": "તમારા મનપસંદ સેંથાઓની ગમે ત્યારે સરખામણી કરો"
+      },
+      {
+        "position": 7,
+        "headline": "સરખામણી",
+        "supporting": "તમારા મનપસંદ સેંથાઓની ગમે ત્યારે સરખામણી કરો"
       }
     ],
     "messages": {
@@ -2105,7 +2190,7 @@
       "supportTitle": "PartMirror આધાર",
       "supportIntro": "કૅમેરા માર્ગદર્શિકા સેટ કરવા, એક દેખાવ કૅપ્ચર કરવા અને તમારા ફોટાને ખાનગી રાખવા માટે ઝડપી જવાબો.",
       "contactTitle": "સંપર્ક PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "સામાન્ય પ્રશ્નો",
       "faqCompatibilityQ": "કયા iPhone સમર્થિત છે?",
       "faqCompatibilityA": "PartMirror ને iOS 17 અથવા પછીના અને TrueDepth ફ્રન્ટ કેમેરા સાથે iPhone ની જરૂર છે.",
@@ -2140,7 +2225,7 @@
       "privacyChangesTitle": "આ નીતિમાં ફેરફારો",
       "privacyChangesBody": "અમે આ નીતિને PartMirror ફેરફારો તરીકે અપડેટ કરી શકીએ છીએ. ઉપરની અસરકારક તારીખ નવીનતમ સંસ્કરણને ઓળખશે.",
       "privacyContactTitle": "ગોપનીયતા સંપર્ક",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "PartMirror નો ઉપયોગ કરીને",
       "termsTitle": "ઉપયોગની શરતો",
       "termsIntro": "PartMirror નો ઉપયોગ કરીને, તમે આ શરતો અને Apple ના માનક લાઇસન્સવાળી એપ્લિકેશન અંતિમ વપરાશકર્તા લાઇસન્સ કરાર સાથે સંમત થાઓ છો.",
@@ -2159,7 +2244,7 @@
       "termsChangesTitle": "ફેરફારો અને સમાપ્તિ",
       "termsChangesBody": "અમે સુવિધાઓ સુધારી, બદલી, સસ્પેન્ડ અથવા બંધ કરી શકીએ છીએ અને આ શરતોને અપડેટ કરી શકીએ છીએ. તમે કોઈપણ સમયે PartMirror નો ઉપયોગ કરવાનું બંધ કરી શકો છો.",
       "termsContactTitle": "આ શરતો વિશે પ્રશ્નો",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple માનક EULA",
       "legalTranslationNote": "ભાષાંતર સુવિધા માટે આપવામાં આવે છે. જો ભાષાંતરિત સંસ્કરણ અંગ્રેજી સંસ્કરણ સાથે વિરોધાભાસી હોય, તો અંગ્રેજી સંસ્કરણ કાયદા દ્વારા જ્યાં મંજૂરી આપવામાં આવે છે તેનું નિયંત્રણ કરે છે.",
       "footerRights": "સર્વાધિકાર આરક્ષિત.",
@@ -2214,6 +2299,11 @@
         "position": 6,
         "headline": "כל המראות במקום אחד",
         "supporting": "השוו בין השבילים האהובים עליכם בכל עת"
+      },
+      {
+        "position": 7,
+        "headline": "השוואה",
+        "supporting": "השוו בין השבילים האהובים עליכם בכל עת"
       }
     ],
     "messages": {
@@ -2233,7 +2323,7 @@
       "supportTitle": "PartMirror תמיכה",
       "supportIntro": "תשובות מהירות להגדרת מדריך המצלמה, לכידת מבט ושמירה על פרטיות התמונות שלך.",
       "contactTitle": "צור קשר עם PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "שאלות נפוצות",
       "faqCompatibilityQ": "אילו מכשירי iPhone נתמכים?",
       "faqCompatibilityA": "PartMirror דורש iOS 17 ומעלה וiPhone עם מצלמה קדמית TrueDepth.",
@@ -2268,7 +2358,7 @@
       "privacyChangesTitle": "שינויים במדיניות זו",
       "privacyChangesBody": "אנו עשויים לעדכן מדיניות זו כאשר PartMirror משתנה. תאריך התוקף שלמעלה יזהה את הגרסה העדכנית ביותר.",
       "privacyContactTitle": "איש קשר בנושא פרטיות",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "שימוש ב-PartMirror",
       "termsTitle": "תנאי שימוש",
       "termsIntro": "על ידי שימוש ב-PartMirror, אתה מסכים לתנאים אלה ולהסכם רישיון משתמש הקצה של אפליקציה ברישיון רגיל של Apple.",
@@ -2287,7 +2377,7 @@
       "termsChangesTitle": "שינויים וסיום",
       "termsChangesBody": "אנו עשויים לשפר, לשנות, להשעות או להפסיק תכונות וייתכן שנעדכן תנאים אלה. אתה יכול להפסיק להשתמש ב-PartMirror בכל עת.",
       "termsContactTitle": "שאלות לגבי תנאים אלו",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple EULA סטנדרטי",
       "legalTranslationNote": "תרגומים מסופקים מטעמי נוחות. אם גרסה מתורגמת מתנגשת עם הגרסה האנגלית, הגרסה האנגלית שולטת היכן שהחוק מותר.",
       "footerRights": "כֹּל הַזְכוּיוֹת שְׁמוּרוֹת.",
@@ -2342,6 +2432,11 @@
         "position": 6,
         "headline": "हर लुक एक ही जगह पर",
         "supporting": "अपनी पसंदीदा माँग की कभी भी तुलना करें"
+      },
+      {
+        "position": 7,
+        "headline": "तुलना करें",
+        "supporting": "अपनी पसंदीदा माँग की कभी भी तुलना करें"
       }
     ],
     "messages": {
@@ -2361,7 +2456,7 @@
       "supportTitle": "PartMirror समर्थन",
       "supportIntro": "कैमरा गाइड सेट करने, लुक कैप्चर करने और अपनी तस्वीरों को निजी रखने के लिए त्वरित उत्तर।",
       "contactTitle": "संपर्क करेंPartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "सामान्य प्रश्न",
       "faqCompatibilityQ": "कौन से iPhone समर्थित हैं?",
       "faqCompatibilityA": "PartMirror के लिए iOS 17 या उसके बाद का संस्करण और TrueDepth फ्रंट कैमरे वाला iPhone आवश्यक है।",
@@ -2396,7 +2491,7 @@
       "privacyChangesTitle": "इस नीति में परिवर्तन",
       "privacyChangesBody": "हम इस नीति को PartMirror परिवर्तन के रूप में अद्यतन कर सकते हैं। उपरोक्त प्रभावी तिथि नवीनतम संस्करण की पहचान करेगी।",
       "privacyContactTitle": "गोपनीयता संपर्क",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "PartMirror का उपयोग करना",
       "termsTitle": "उपयोग की शर्तें",
       "termsIntro": "PartMirror का उपयोग करके, आप इन शर्तों और Apple के मानक लाइसेंस प्राप्त एप्लिकेशन अंतिम उपयोगकर्ता लाइसेंस अनुबंध से सहमत हैं।",
@@ -2415,7 +2510,7 @@
       "termsChangesTitle": "परिवर्तन और समाप्ति",
       "termsChangesBody": "हम सुविधाओं में सुधार, बदलाव, निलंबित या बंद कर सकते हैं और इन शर्तों को अपडेट कर सकते हैं। आप किसी भी समय PartMirror का उपयोग बंद कर सकते हैं।",
       "termsContactTitle": "इन शर्तों के बारे में प्रश्न",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple मानक EULA",
       "legalTranslationNote": "सुविधा के लिए अनुवाद उपलब्ध कराये गये हैं। यदि कोई अनुवादित संस्करण अंग्रेजी संस्करण के साथ टकराव करता है, तो अंग्रेजी संस्करण नियंत्रित करता है जहां कानून द्वारा अनुमति दी गई है।",
       "footerRights": "सर्वाधिकार सुरक्षित।",
@@ -2470,6 +2565,11 @@
         "position": 6,
         "headline": "Svi izgledi na jednom mjestu",
         "supporting": "Usporedite omiljene razdjeljke bilo kada"
+      },
+      {
+        "position": 7,
+        "headline": "Usporedi",
+        "supporting": "Usporedite omiljene razdjeljke bilo kada"
       }
     ],
     "messages": {
@@ -2489,7 +2589,7 @@
       "supportTitle": "PartMirror Podrška",
       "supportIntro": "Brzi odgovori za postavljanje vodiča za kameru, hvatanje pogleda i čuvanje privatnosti vaših fotografija.",
       "contactTitle": "Kontaktirajte PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Uobičajena pitanja",
       "faqCompatibilityQ": "Koji su iPhone podržani?",
       "faqCompatibilityA": "PartMirror zahtijeva iOS 17 ili noviji i iPhone s prednjom kamerom TrueDepth.",
@@ -2524,7 +2624,7 @@
       "privacyChangesTitle": "Promjene ove politike",
       "privacyChangesBody": "Možemo ažurirati ovu politiku s promjenama PartMirror. Gornji datum stupanja na snagu identificirat će najnoviju verziju.",
       "privacyContactTitle": "Kontakt za privatnost",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Korištenje PartMirror",
       "termsTitle": "Uvjeti korištenja",
       "termsIntro": "Korištenjem PartMirror pristajete na ove uvjete i Licencni ugovor za krajnjeg korisnika standardne licencirane aplikacije Apple.",
@@ -2543,7 +2643,7 @@
       "termsChangesTitle": "Promjene i raskid",
       "termsChangesBody": "Možemo poboljšati, promijeniti, obustaviti ili ukinuti značajke te ažurirati ove uvjete. Možete prestati koristiti PartMirror u bilo kojem trenutku.",
       "termsContactTitle": "Pitanja o ovim uvjetima",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Standardni EULA",
       "legalTranslationNote": "Prijevodi su osigurani radi praktičnosti. Ako je prevedena verzija u sukobu s engleskom verzijom, engleska verzija ima prednost tamo gdje je to dopušteno zakonom.",
       "footerRights": "Sva prava pridržana.",
@@ -2598,6 +2698,11 @@
         "position": 6,
         "headline": "Minden megjelenés egy helyen",
         "supporting": "Hasonlítsd össze kedvenc választékaidat bármikor"
+      },
+      {
+        "position": 7,
+        "headline": "Összehasonlítás",
+        "supporting": "Hasonlítsd össze kedvenc választékaidat bármikor"
       }
     ],
     "messages": {
@@ -2617,7 +2722,7 @@
       "supportTitle": "PartMirror Támogatás",
       "supportIntro": "Gyors válaszok a fényképezőgép útmutatójának beállításához, megörökítéséhez és fényképei privátként őrzéséhez.",
       "contactTitle": "Kapcsolatfelvétel PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Gyakori kérdések",
       "faqCompatibilityQ": "Mely iPhone-ok támogatottak?",
       "faqCompatibilityA": "A PartMirror használatához iOS 17 vagy újabb, és egy iPhone TrueDepth előlapi kamerával kell rendelkeznie.",
@@ -2652,7 +2757,7 @@
       "privacyChangesTitle": "A szabályzat változásai",
       "privacyChangesBody": "A PartMirror változása esetén frissíthetjük ezt a szabályzatot. A fenti hatálybalépés dátuma azonosítja a legújabb verziót.",
       "privacyContactTitle": "Adatvédelmi kapcsolat",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "PartMirror használata",
       "termsTitle": "Felhasználási feltételek",
       "termsIntro": "A PartMirror használatával Ön elfogadja ezeket a feltételeket és a Apple szabványos licencalkalmazás végfelhasználói licencszerződését.",
@@ -2671,7 +2776,7 @@
       "termsChangesTitle": "Változások és felmondás",
       "termsChangesBody": "Javíthatjuk, módosíthatjuk, felfüggeszthetjük vagy leállíthatjuk a funkciókat, és frissíthetjük ezeket a feltételeket. A PartMirror használatát bármikor leállíthatja.",
       "termsContactTitle": "Kérdések ezekkel a kifejezésekkel kapcsolatban",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Normál EULA",
       "legalTranslationNote": "A kényelem érdekében fordításokat biztosítunk. Ha egy lefordított verzió ütközik az angol verzióval, az angol nyelvű változat az irányadó, ahol ezt a törvény lehetővé teszi.",
       "footerRights": "Minden jog fenntartva.",
@@ -2726,6 +2831,11 @@
         "position": 6,
         "headline": "Semua tampilan di satu tempat",
         "supporting": "Bandingkan belahan favorit kapan saja"
+      },
+      {
+        "position": 7,
+        "headline": "Bandingkan",
+        "supporting": "Bandingkan belahan favorit kapan saja"
       }
     ],
     "messages": {
@@ -2745,7 +2855,7 @@
       "supportTitle": "PartMirror Dukungan",
       "supportIntro": "Jawaban cepat untuk menyiapkan panduan kamera, mengambil gambar, dan menjaga privasi foto Anda.",
       "contactTitle": "Hubungi PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Pertanyaan umum",
       "faqCompatibilityQ": "iPhone mana yang didukung?",
       "faqCompatibilityA": "PartMirror memerlukan iOS 17 atau lebih baru dan iPhone dengan kamera depan TrueDepth.",
@@ -2780,7 +2890,7 @@
       "privacyChangesTitle": "Perubahan pada kebijakan ini",
       "privacyChangesBody": "Kami dapat memperbarui kebijakan ini seiring perubahan PartMirror. Tanggal efektif di atas akan mengidentifikasi versi terbaru.",
       "privacyContactTitle": "Kontak privasi",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Menggunakan PartMirror",
       "termsTitle": "Ketentuan Penggunaan",
       "termsIntro": "Dengan menggunakan PartMirror, Anda menyetujui ketentuan ini dan Perjanjian Lisensi Pengguna Akhir Aplikasi Berlisensi Standar Apple.",
@@ -2799,7 +2909,7 @@
       "termsChangesTitle": "Perubahan dan penghentian",
       "termsChangesBody": "Kami dapat meningkatkan, mengubah, menangguhkan, atau menghentikan fitur dan dapat memperbarui ketentuan ini. Anda dapat berhenti menggunakan PartMirror kapan saja.",
       "termsContactTitle": "Pertanyaan tentang istilah-istilah ini",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple EULA Standar",
       "legalTranslationNote": "Terjemahan disediakan untuk kenyamanan. Jika versi terjemahan bertentangan dengan versi bahasa Inggris, versi bahasa Inggris akan berlaku jika diizinkan oleh hukum.",
       "footerRights": "Semua hak dilindungi undang-undang.",
@@ -2854,6 +2964,11 @@
         "position": 6,
         "headline": "Tutti i look in un unico posto",
         "supporting": "Confronta le tue righe preferite quando vuoi"
+      },
+      {
+        "position": 7,
+        "headline": "Confronta",
+        "supporting": "Confronta le tue righe preferite quando vuoi"
       }
     ],
     "messages": {
@@ -2873,7 +2988,7 @@
       "supportTitle": "PartMirror Supporto",
       "supportIntro": "Risposte rapide per impostare la guida della fotocamera, catturare uno sguardo e mantenere private le tue foto.",
       "contactTitle": "Contatta PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Domande comuni",
       "faqCompatibilityQ": "Quali iPhone sono supportati?",
       "faqCompatibilityA": "PartMirror richiede iOS 17 o successivo e un iPhone con una fotocamera frontale TrueDepth.",
@@ -2908,7 +3023,7 @@
       "privacyChangesTitle": "Modifiche a questa politica",
       "privacyChangesBody": "Potremmo aggiornare questa politica man mano che PartMirror cambia. La data di entrata in vigore sopra identificherà la versione più recente.",
       "privacyContactTitle": "Contatto privacy",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Utilizzando PartMirror",
       "termsTitle": "Condizioni d'uso",
       "termsIntro": "Utilizzando PartMirror, accetti questi termini e il Contratto di licenza con l'utente finale dell'applicazione con licenza standard di Apple.",
@@ -2927,7 +3042,7 @@
       "termsChangesTitle": "Modifiche e cessazione",
       "termsChangesBody": "Potremmo migliorare, modificare, sospendere o interrompere funzionalità e aggiornare questi termini. Puoi interrompere l'utilizzo di PartMirror in qualsiasi momento.",
       "termsContactTitle": "Domande su questi termini",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Contratto di licenza standard",
       "legalTranslationNote": "Le traduzioni sono fornite per comodità. Se una versione tradotta è in conflitto con la versione inglese, la versione inglese prevale dove consentito dalla legge.",
       "footerRights": "Tutti i diritti riservati.",
@@ -2982,6 +3097,11 @@
         "position": 6,
         "headline": "すべてのルックをひとつに",
         "supporting": "お気に入りの分け目をいつでも比較"
+      },
+      {
+        "position": 7,
+        "headline": "比較",
+        "supporting": "お気に入りの分け目をいつでも比較"
       }
     ],
     "messages": {
@@ -3001,7 +3121,7 @@
       "supportTitle": "PartMirror サポート",
       "supportIntro": "カメラ ガイドの設定、外観のキャプチャ、写真のプライベート保護に関する簡単な回答。",
       "contactTitle": "PartMirror にお問い合わせください",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "よくある質問",
       "faqCompatibilityQ": "どの iPhone がサポートされていますか?",
       "faqCompatibilityA": "PartMirror には、iOS 17 以降と、TrueDepth 前面カメラを備えた iPhone が必要です。",
@@ -3036,7 +3156,7 @@
       "privacyChangesTitle": "このポリシーの変更",
       "privacyChangesBody": "PartMirror の変更に応じて、このポリシーを更新する場合があります。上記の発効日により、最新バージョンが特定されます。",
       "privacyContactTitle": "プライバシーに関する連絡先",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "PartMirror の使用",
       "termsTitle": "利用規約",
       "termsIntro": "PartMirror を使用すると、これらの条件と Apple の標準ライセンス アプリケーション エンド ユーザー ライセンス契約に同意したことになります。",
@@ -3055,7 +3175,7 @@
       "termsChangesTitle": "変更と終了",
       "termsChangesBody": "当社は機能を改善、変更、一時停止、または中止する場合があり、またこれらの規約を更新する場合があります。 PartMirror の使用はいつでも停止できます。",
       "termsContactTitle": "これらの規約に関する質問",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple 標準 EULA",
       "legalTranslationNote": "便宜上、翻訳が提供されています。翻訳版が英語版と矛盾する場合、法律で許可されている場合には英語版が優先されます。",
       "footerRights": "無断転載を禁じます。",
@@ -3110,6 +3230,11 @@
         "position": 6,
         "headline": "ಎಲ್ಲ ಲುಕ್‌ಗಳು ಒಂದೇ ಕಡೆ",
         "supporting": "ನೆಚ್ಚಿನ ಹೇರ್ ಪಾರ್ಟಿಂಗ್‌ಗಳನ್ನು ಯಾವಾಗ ಬೇಕಾದರೂ ಹೋಲಿಸಿ"
+      },
+      {
+        "position": 7,
+        "headline": "ಹೋಲಿಸಿ",
+        "supporting": "ನೆಚ್ಚಿನ ಹೇರ್ ಪಾರ್ಟಿಂಗ್‌ಗಳನ್ನು ಯಾವಾಗ ಬೇಕಾದರೂ ಹೋಲಿಸಿ"
       }
     ],
     "messages": {
@@ -3129,7 +3254,7 @@
       "supportTitle": "PartMirror ಬೆಂಬಲ",
       "supportIntro": "ಕ್ಯಾಮರಾ ಮಾರ್ಗದರ್ಶಿಯನ್ನು ಹೊಂದಿಸಲು, ನೋಟವನ್ನು ಸೆರೆಹಿಡಿಯಲು ಮತ್ತು ನಿಮ್ಮ ಫೋಟೋಗಳನ್ನು ಖಾಸಗಿಯಾಗಿರಿಸಲು ತ್ವರಿತ ಉತ್ತರಗಳು.",
       "contactTitle": "PartMirror ಸಂಪರ್ಕಿಸಿ",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "ಸಾಮಾನ್ಯ ಪ್ರಶ್ನೆಗಳು",
       "faqCompatibilityQ": "ಯಾವ iPhones ಬೆಂಬಲಿತವಾಗಿದೆ?",
       "faqCompatibilityA": "PartMirror ಗೆ iOS 17 ಅಥವಾ ನಂತರದ ಅಗತ್ಯವಿದೆ ಮತ್ತು TrueDepth ಮುಂಭಾಗದ ಕ್ಯಾಮರಾದೊಂದಿಗೆ iPhone ಅಗತ್ಯವಿದೆ.",
@@ -3164,7 +3289,7 @@
       "privacyChangesTitle": "ಈ ನೀತಿಗೆ ಬದಲಾವಣೆಗಳು",
       "privacyChangesBody": "ನಾವು ಈ ನೀತಿಯನ್ನು PartMirror ಬದಲಾವಣೆಗಳಂತೆ ನವೀಕರಿಸಬಹುದು. ಮೇಲಿನ ಪರಿಣಾಮಕಾರಿ ದಿನಾಂಕವು ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು ಗುರುತಿಸುತ್ತದೆ.",
       "privacyContactTitle": "ಗೌಪ್ಯತೆ ಸಂಪರ್ಕ",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "PartMirror ಬಳಸುವುದು",
       "termsTitle": "ಬಳಕೆಯ ನಿಯಮಗಳು",
       "termsIntro": "PartMirror ಬಳಸುವ ಮೂಲಕ, ನೀವು ಈ ನಿಯಮಗಳಿಗೆ ಮತ್ತು Apple ನ ಪ್ರಮಾಣಿತ ಪರವಾನಗಿ ಪಡೆದ ಅಪ್ಲಿಕೇಶನ್‌ನ ಅಂತಿಮ ಬಳಕೆದಾರ ಪರವಾನಗಿ ಒಪ್ಪಂದಕ್ಕೆ ಸಮ್ಮತಿಸುತ್ತೀರಿ.",
@@ -3183,7 +3308,7 @@
       "termsChangesTitle": "ಬದಲಾವಣೆಗಳು ಮತ್ತು ಮುಕ್ತಾಯ",
       "termsChangesBody": "ನಾವು ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಸುಧಾರಿಸಬಹುದು, ಬದಲಾಯಿಸಬಹುದು, ಅಮಾನತುಗೊಳಿಸಬಹುದು ಅಥವಾ ಸ್ಥಗಿತಗೊಳಿಸಬಹುದು ಮತ್ತು ಈ ನಿಯಮಗಳನ್ನು ನವೀಕರಿಸಬಹುದು. ನೀವು ಯಾವುದೇ ಸಮಯದಲ್ಲಿ PartMirror ಬಳಸುವುದನ್ನು ನಿಲ್ಲಿಸಬಹುದು.",
       "termsContactTitle": "ಈ ನಿಯಮಗಳ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳು",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple ಸ್ಟ್ಯಾಂಡರ್ಡ್ EULA",
       "legalTranslationNote": "ಅನುಕೂಲಕ್ಕಾಗಿ ಅನುವಾದಗಳನ್ನು ಒದಗಿಸಲಾಗಿದೆ. ಅನುವಾದಿತ ಆವೃತ್ತಿಯು ಇಂಗ್ಲಿಷ್ ಆವೃತ್ತಿಯೊಂದಿಗೆ ಘರ್ಷಣೆಯನ್ನು ಹೊಂದಿದ್ದರೆ, ಕಾನೂನಿನಿಂದ ಅನುಮತಿಸಲಾದ ಸ್ಥಳದಲ್ಲಿ ಇಂಗ್ಲಿಷ್ ಆವೃತ್ತಿಯು ನಿಯಂತ್ರಿಸುತ್ತದೆ.",
       "footerRights": "ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.",
@@ -3238,6 +3363,11 @@
         "position": 6,
         "headline": "모든 룩을 한곳에",
         "supporting": "좋아하는 가르마를 언제든 비교하세요"
+      },
+      {
+        "position": 7,
+        "headline": "비교",
+        "supporting": "좋아하는 가르마를 언제든 비교하세요"
       }
     ],
     "messages": {
@@ -3257,7 +3387,7 @@
       "supportTitle": "PartMirror 지원",
       "supportIntro": "카메라 가이드 설정, 모습 캡처, 사진 비공개 유지에 대한 빠른 답변을 제공합니다.",
       "contactTitle": "PartMirror에 문의하세요.",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "일반적인 질문",
       "faqCompatibilityQ": "어떤 iPhone이 지원되나요?",
       "faqCompatibilityA": "PartMirror에는 iOS 17 이상과 TrueDepth 전면 카메라가 있는 iPhone이 필요합니다.",
@@ -3292,7 +3422,7 @@
       "privacyChangesTitle": "이 정책의 변경 사항",
       "privacyChangesBody": "PartMirror이 변경되면 이 정책을 업데이트할 수 있습니다. 위의 발효일은 최신 버전을 나타냅니다.",
       "privacyContactTitle": "개인정보 보호 연락처",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "PartMirror 사용",
       "termsTitle": "이용약관",
       "termsIntro": "PartMirror을 사용함으로써 귀하는 본 약관과 Apple의 표준 라이센스 응용 프로그램 최종 사용자 라이센스 계약에 동의하게 됩니다.",
@@ -3311,7 +3441,7 @@
       "termsChangesTitle": "변경 및 종료",
       "termsChangesBody": "당사는 기능을 개선, 변경, 일시 중지 또는 중단할 수 있으며 본 약관을 업데이트할 수 있습니다. 언제든지 PartMirror 사용을 중단할 수 있습니다.",
       "termsContactTitle": "이 용어에 대한 질문",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple 표준 EULA",
       "legalTranslationNote": "편의를 위해 번역이 제공됩니다. 번역된 버전이 영어 버전과 충돌하는 경우 법률이 허용하는 경우 영어 버전이 우선 적용됩니다.",
       "footerRights": "모든 권리 보유.",
@@ -3366,6 +3496,11 @@
         "position": 6,
         "headline": "എല്ലാ ലുക്കുകളും ഒരിടത്ത്",
         "supporting": "പ്രിയപ്പെട്ട ഹെയർ പാർട്ടുകൾ എപ്പോൾ വേണമെങ്കിലും താരതമ്യം ചെയ്യൂ"
+      },
+      {
+        "position": 7,
+        "headline": "താരതമ്യം",
+        "supporting": "പ്രിയപ്പെട്ട ഹെയർ പാർട്ടുകൾ എപ്പോൾ വേണമെങ്കിലും താരതമ്യം ചെയ്യൂ"
       }
     ],
     "messages": {
@@ -3385,7 +3520,7 @@
       "supportTitle": "PartMirror പിന്തുണ",
       "supportIntro": "ക്യാമറ ഗൈഡ് സജ്ജീകരിക്കുന്നതിനും ഒരു ലുക്ക് ക്യാപ്‌ചർ ചെയ്യുന്നതിനും നിങ്ങളുടെ ഫോട്ടോകൾ സ്വകാര്യമായി സൂക്ഷിക്കുന്നതിനുമുള്ള ദ്രുത ഉത്തരങ്ങൾ.",
       "contactTitle": "PartMirror ബന്ധപ്പെടുക",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "സാധാരണ ചോദ്യങ്ങൾ",
       "faqCompatibilityQ": "ഏത് iPhones ആണ് പിന്തുണയ്‌ക്കുന്നത്?",
       "faqCompatibilityA": "PartMirror എന്നതിന് iOS 17 അല്ലെങ്കിൽ അതിന് ശേഷമുള്ളതും TrueDepth മുൻ ക്യാമറയുള്ള iPhone ആവശ്യമാണ്.",
@@ -3420,7 +3555,7 @@
       "privacyChangesTitle": "ഈ നയത്തിലെ മാറ്റങ്ങൾ",
       "privacyChangesBody": "ഈ നയം PartMirror മാറുന്നതിനനുസരിച്ച് ഞങ്ങൾ അപ്ഡേറ്റ് ചെയ്യാം. മുകളിലുള്ള പ്രാബല്യത്തിലുള്ള തീയതി ഏറ്റവും പുതിയ പതിപ്പിനെ തിരിച്ചറിയും.",
       "privacyContactTitle": "സ്വകാര്യ കോൺടാക്റ്റ്",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "PartMirror ഉപയോഗിക്കുന്നു",
       "termsTitle": "ഉപയോഗ നിബന്ധനകൾ",
       "termsIntro": "PartMirror ഉപയോഗിക്കുന്നതിലൂടെ, നിങ്ങൾ ഈ നിബന്ധനകളും Apple ൻ്റെ സ്റ്റാൻഡേർഡ് ലൈസൻസുള്ള അപേക്ഷ അന്തിമ ഉപയോക്തൃ ലൈസൻസ് കരാറും അംഗീകരിക്കുന്നു.",
@@ -3439,7 +3574,7 @@
       "termsChangesTitle": "മാറ്റങ്ങളും അവസാനിപ്പിക്കലും",
       "termsChangesBody": "ഞങ്ങൾ സവിശേഷതകൾ മെച്ചപ്പെടുത്തുകയോ മാറ്റുകയോ താൽക്കാലികമായി നിർത്തുകയോ നിർത്തുകയോ ചെയ്യാം കൂടാതെ ഈ നിബന്ധനകൾ അപ്ഡേറ്റ് ചെയ്യാം. നിങ്ങൾക്ക് എപ്പോൾ വേണമെങ്കിലും PartMirror ഉപയോഗിക്കുന്നത് നിർത്താം.",
       "termsContactTitle": "ഈ നിബന്ധനകളെക്കുറിച്ചുള്ള ചോദ്യങ്ങൾ",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple സ്റ്റാൻഡേർഡ് EULA",
       "legalTranslationNote": "വിവർത്തനങ്ങൾ സൗകര്യാർത്ഥം നൽകിയിരിക്കുന്നു. വിവർത്തനം ചെയ്ത പതിപ്പ് ഇംഗ്ലീഷ് പതിപ്പുമായി വൈരുദ്ധ്യമുണ്ടെങ്കിൽ, നിയമം അനുവദിക്കുന്നിടത്ത് ഇംഗ്ലീഷ് പതിപ്പ് നിയന്ത്രിക്കുന്നു.",
       "footerRights": "എല്ലാ അവകാശങ്ങളും നിക്ഷിപ്തം.",
@@ -3494,6 +3629,11 @@
         "position": 6,
         "headline": "सगळे लुक एकाच ठिकाणी",
         "supporting": "तुमच्या आवडत्या भांगांची कधीही तुलना करा"
+      },
+      {
+        "position": 7,
+        "headline": "तुलना करा",
+        "supporting": "तुमच्या आवडत्या भांगांची कधीही तुलना करा"
       }
     ],
     "messages": {
@@ -3513,7 +3653,7 @@
       "supportTitle": "PartMirror समर्थन",
       "supportIntro": "कॅमेरा मार्गदर्शक सेट करण्यासाठी, एक नजर कॅप्चर करण्यासाठी आणि तुमचे फोटो खाजगी ठेवण्यासाठी द्रुत उत्तरे.",
       "contactTitle": "संपर्क PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "सामान्य प्रश्न",
       "faqCompatibilityQ": "कोणते iPhone समर्थित आहेत?",
       "faqCompatibilityA": "PartMirror ला iOS 17 किंवा नंतरचे आणि TrueDepth फ्रंट कॅमेरा असलेले iPhone आवश्यक आहे.",
@@ -3548,7 +3688,7 @@
       "privacyChangesTitle": "या धोरणात बदल",
       "privacyChangesBody": "आम्ही हे धोरण PartMirror बदल म्हणून अपडेट करू शकतो. वरील प्रभावी तारीख नवीनतम आवृत्ती ओळखेल.",
       "privacyContactTitle": "गोपनीयता संपर्क",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "PartMirror वापरत आहे",
       "termsTitle": "वापराच्या अटी",
       "termsIntro": "PartMirror वापरून, तुम्ही या अटींना आणि Apple च्या मानक परवानाधारक अनुप्रयोगाच्या अंतिम वापरकर्ता परवाना करारना सहमती देता.",
@@ -3567,7 +3707,7 @@
       "termsChangesTitle": "बदल आणि समाप्ती",
       "termsChangesBody": "आम्ही वैशिष्ट्ये सुधारू, बदलू, निलंबित करू किंवा बंद करू आणि या अटी अपडेट करू शकतो. तुम्ही कधीही PartMirror वापरणे थांबवू शकता.",
       "termsContactTitle": "या अटींबद्दल प्रश्न",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple मानक EULA",
       "legalTranslationNote": "सोयीसाठी भाषांतरे दिली आहेत. भाषांतरित आवृत्ती इंग्रजी आवृत्तीशी विरोधाभास असल्यास, इंग्रजी आवृत्ती कायद्याद्वारे परवानगी असलेल्या ठिकाणी नियंत्रित करते.",
       "footerRights": "सर्व हक्क राखीव.",
@@ -3622,6 +3762,11 @@
         "position": 6,
         "headline": "Semua gaya di satu tempat",
         "supporting": "Bandingkan belahan kegemaran pada bila-bila masa"
+      },
+      {
+        "position": 7,
+        "headline": "Bandingkan",
+        "supporting": "Bandingkan belahan kegemaran pada bila-bila masa"
       }
     ],
     "messages": {
@@ -3641,7 +3786,7 @@
       "supportTitle": "PartMirror Sokongan",
       "supportIntro": "Jawapan pantas untuk menyediakan panduan kamera, menangkap pandangan dan memastikan foto anda peribadi.",
       "contactTitle": "Hubungi PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Soalan biasa",
       "faqCompatibilityQ": "iPhone mana yang disokong?",
       "faqCompatibilityA": "PartMirror memerlukan iOS 17 atau lebih baru dan iPhone dengan kamera hadapan TrueDepth.",
@@ -3676,7 +3821,7 @@
       "privacyChangesTitle": "Perubahan kepada dasar ini",
       "privacyChangesBody": "Kami mungkin mengemas kini dasar ini apabila PartMirror berubah. Tarikh kuat kuasa di atas akan mengenal pasti versi terkini.",
       "privacyContactTitle": "Hubungan privasi",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Menggunakan PartMirror",
       "termsTitle": "Syarat Penggunaan",
       "termsIntro": "Dengan menggunakan PartMirror, anda bersetuju menerima terma ini dan Perjanjian Lesen Pengguna Akhir Aplikasi Berlesen Standard Apple.",
@@ -3695,7 +3840,7 @@
       "termsChangesTitle": "Perubahan dan penamatan",
       "termsChangesBody": "Kami mungkin menambah baik, menukar, menggantung atau menghentikan ciri dan mungkin mengemas kini syarat ini. Anda boleh berhenti menggunakan PartMirror pada bila-bila masa.",
       "termsContactTitle": "Soalan tentang istilah ini",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Standard EULA",
       "legalTranslationNote": "Terjemahan disediakan untuk kemudahan. Jika versi terjemahan bercanggah dengan versi Inggeris, versi Inggeris mengawal di mana dibenarkan oleh undang-undang.",
       "footerRights": "Semua hak terpelihara.",
@@ -3750,6 +3895,11 @@
         "position": 6,
         "headline": "Al je looks op één plek",
         "supporting": "Vergelijk je favoriete scheidingen wanneer je wilt"
+      },
+      {
+        "position": 7,
+        "headline": "Vergelijken",
+        "supporting": "Vergelijk je favoriete scheidingen wanneer je wilt"
       }
     ],
     "messages": {
@@ -3769,7 +3919,7 @@
       "supportTitle": "PartMirror Ondersteuning",
       "supportIntro": "Snelle antwoorden voor het instellen van de cameragids, het vastleggen van een look en het privé houden van uw foto's.",
       "contactTitle": "Neem contact op met PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Veelgestelde vragen",
       "faqCompatibilityQ": "Welke iPhones worden ondersteund?",
       "faqCompatibilityA": "PartMirror vereist iOS 17 of hoger en een iPhone met een TrueDepth camera aan de voorkant.",
@@ -3804,7 +3954,7 @@
       "privacyChangesTitle": "Wijzigingen in dit beleid",
       "privacyChangesBody": "We kunnen dit beleid bijwerken als PartMirror verandert. De bovenstaande ingangsdatum identificeert de nieuwste versie.",
       "privacyContactTitle": "Privacy-contact",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "PartMirror gebruiken",
       "termsTitle": "Gebruiksvoorwaarden",
       "termsIntro": "Door PartMirror te gebruiken, gaat u akkoord met deze voorwaarden en de standaardlicentieovereenkomst voor eindgebruikers van Apple.",
@@ -3823,7 +3973,7 @@
       "termsChangesTitle": "Wijzigingen en beëindiging",
       "termsChangesBody": "We kunnen functies verbeteren, wijzigen, opschorten of stopzetten en kunnen deze voorwaarden bijwerken. U kunt op elk moment stoppen met het gebruik van PartMirror.",
       "termsContactTitle": "Vragen over deze voorwaarden",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Standaard EULA",
       "legalTranslationNote": "Voor het gemak zijn er vertalingen beschikbaar. Als een vertaalde versie conflicteert met de Engelse versie, prevaleert de Engelse versie waar dit wettelijk is toegestaan.",
       "footerRights": "Alle rechten voorbehouden.",
@@ -3878,6 +4028,11 @@
         "position": 6,
         "headline": "Alle looks på ett sted",
         "supporting": "Sammenlign favorittskillene dine når som helst"
+      },
+      {
+        "position": 7,
+        "headline": "Sammenlign",
+        "supporting": "Sammenlign favorittskillene dine når som helst"
       }
     ],
     "messages": {
@@ -3897,7 +4052,7 @@
       "supportTitle": "PartMirror Støtte",
       "supportIntro": "Raske svar for å sette opp kameraguiden, fange et blikk og holde bildene dine private.",
       "contactTitle": "Kontakt PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Vanlige spørsmål",
       "faqCompatibilityQ": "Hvilke iPhone-er støttes?",
       "faqCompatibilityA": "PartMirror krever iOS 17 eller nyere og en iPhone med et TrueDepth frontkamera.",
@@ -3932,7 +4087,7 @@
       "privacyChangesTitle": "Endringer i denne policyen",
       "privacyChangesBody": "Vi kan oppdatere denne policyen etter hvert som PartMirror endres. Ikrafttredelsesdatoen ovenfor vil identifisere den nyeste versjonen.",
       "privacyContactTitle": "Personvernkontakt",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Bruker PartMirror",
       "termsTitle": "Vilkår for bruk",
       "termsIntro": "Ved å bruke PartMirror godtar du disse vilkårene og Apples standard lisensavtale for sluttbrukere for applikasjoner.",
@@ -3951,7 +4106,7 @@
       "termsChangesTitle": "Endringer og oppsigelse",
       "termsChangesBody": "Vi kan forbedre, endre, suspendere eller avvikle funksjoner og kan oppdatere disse vilkårene. Du kan slutte å bruke PartMirror når som helst.",
       "termsContactTitle": "Spørsmål om disse vilkårene",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Standard EULA",
       "legalTranslationNote": "Oversettelser tilbys for enkelhets skyld. Hvis en oversatt versjon er i konflikt med den engelske versjonen, kontrollerer den engelske versjonen der loven tillater det.",
       "footerRights": "Alle rettigheter forbeholdt.",
@@ -4006,6 +4161,11 @@
         "position": 6,
         "headline": "ସବୁ ଲୁକ୍ ଗୋଟିଏ ସ୍ଥାନରେ",
         "supporting": "ନିଜ ପସନ୍ଦର ସିନ୍ଥିକୁ ଯେକେବେଳେ ଚାହିଁବେ ତୁଳନା କରନ୍ତୁ"
+      },
+      {
+        "position": 7,
+        "headline": "ତୁଳନା",
+        "supporting": "ନିଜ ପସନ୍ଦର ସିନ୍ଥିକୁ ଯେକେବେଳେ ଚାହିଁବେ ତୁଳନା କରନ୍ତୁ"
       }
     ],
     "messages": {
@@ -4025,7 +4185,7 @@
       "supportTitle": "PartMirror ସମର୍ଥନ |",
       "supportIntro": "କ୍ୟାମେରା ଗାଇଡ୍ ସେଟ୍ ଅପ୍ କରିବା, ଏକ ଲୁକ୍ କ୍ୟାପଚର କରିବା ଏବଂ ଆପଣଙ୍କର ଫଟୋକୁ ବ୍ୟକ୍ତିଗତ ରଖିବା ପାଇଁ ଶୀଘ୍ର ଉତ୍ତର |",
       "contactTitle": "ଯୋଗାଯୋଗ PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "ସାଧାରଣ ପ୍ରଶ୍ନ |",
       "faqCompatibilityQ": "କେଉଁ iPhones ସମର୍ଥିତ?",
       "faqCompatibilityA": "PartMirror iOS 17 କିମ୍ବା ତା’ପରେ ଏବଂ TrueDepth ସାମ୍ନା କ୍ୟାମେରା ସହିତ iPhone ଆବଶ୍ୟକ କରେ |",
@@ -4060,7 +4220,7 @@
       "privacyChangesTitle": "ଏହି ନୀତିରେ ପରିବର୍ତ୍ତନ |",
       "privacyChangesBody": "PartMirror ପରିବର୍ତ୍ତନ ହେତୁ ଆମେ ଏହି ନୀତି ଅପଡେଟ୍ କରିପାରିବା | ଉପରୋକ୍ତ ପ୍ରଭାବଶାଳୀ ତାରିଖ ନୂତନତମ ସଂସ୍କରଣକୁ ଚିହ୍ନଟ କରିବ |",
       "privacyContactTitle": "ଗୋପନୀୟତା ସମ୍ପର୍କ",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "PartMirror ବ୍ୟବହାର କରି",
       "termsTitle": "ବ୍ୟବହାର ସର୍ତ୍ତାବଳୀ",
       "termsIntro": "PartMirror ବ୍ୟବହାର କରି, ଆପଣ ଏହି ସର୍ତ୍ତାବଳୀ ଏବଂ Apple ର ଷ୍ଟାଣ୍ଡାର୍ଡ ଲାଇସେନ୍ସପ୍ରାପ୍ତ ଆବେଦନ ଶେଷ ଉପଭୋକ୍ତା ଲାଇସେନ୍ସ ଚୁକ୍ତିନାମାକୁ ରାଜି ହୁଅନ୍ତି |",
@@ -4079,7 +4239,7 @@
       "termsChangesTitle": "ପରିବର୍ତ୍ତନ ଏବଂ ସମାପ୍ତି |",
       "termsChangesBody": "ଆମେ ବ features ଶିଷ୍ଟ୍ୟଗୁଡିକର ଉନ୍ନତି, ପରିବର୍ତ୍ତନ, ସ୍ଥଗିତ କିମ୍ବା ବନ୍ଦ କରିପାରୁ ଏବଂ ଏହି ସର୍ତ୍ତାବଳୀ ଅପଡେଟ୍ କରିପାରିବା | ଆପଣ ଯେକ time ଣସି ସମୟରେ PartMirror ବ୍ୟବହାର ବନ୍ଦ କରି ପାରନ୍ତି |",
       "termsContactTitle": "ଏହି ସର୍ତ୍ତାବଳୀ ବିଷୟରେ ପ୍ରଶ୍ନ |",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple ମାନକ EULA |",
       "legalTranslationNote": "ସୁବିଧା ପାଇଁ ଅନୁବାଦଗୁଡିକ ପ୍ରଦାନ କରାଯାଇଛି | ଯଦି ଏକ ଅନୁବାଦିତ ସଂସ୍କରଣ ଇଂରାଜୀ ସଂସ୍କରଣ ସହିତ ବିବାଦ କରେ, ଇଂରାଜୀ ସଂସ୍କରଣ ନିୟନ୍ତ୍ରଣ କରେ ଯେଉଁଠାରେ ଆଇନ ଦ୍ୱାରା ଅନୁମତି ପ୍ରାପ୍ତ |",
       "footerRights": "ସମସ୍ତ ଅଧିକାର ସଂରକ୍ଷିତ |",
@@ -4134,6 +4294,11 @@
         "position": 6,
         "headline": "ਸਾਰੇ ਲੁੱਕ ਇੱਕੋ ਥਾਂ",
         "supporting": "ਆਪਣੀਆਂ ਮਨਪਸੰਦ ਮਾਂਗਾਂ ਦੀ ਕਦੇ ਵੀ ਤੁਲਨਾ ਕਰੋ"
+      },
+      {
+        "position": 7,
+        "headline": "ਤੁਲਨਾ",
+        "supporting": "ਆਪਣੀਆਂ ਮਨਪਸੰਦ ਮਾਂਗਾਂ ਦੀ ਕਦੇ ਵੀ ਤੁਲਨਾ ਕਰੋ"
       }
     ],
     "messages": {
@@ -4153,7 +4318,7 @@
       "supportTitle": "PartMirror ਸਹਿਯੋਗ",
       "supportIntro": "ਕੈਮਰਾ ਗਾਈਡ ਸਥਾਪਤ ਕਰਨ, ਇੱਕ ਨਜ਼ਰ ਕੈਪਚਰ ਕਰਨ ਅਤੇ ਤੁਹਾਡੀਆਂ ਫੋਟੋਆਂ ਨੂੰ ਨਿੱਜੀ ਰੱਖਣ ਲਈ ਤੁਰੰਤ ਜਵਾਬ।",
       "contactTitle": "ਸੰਪਰਕ ਕਰੋ PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "ਆਮ ਸਵਾਲ",
       "faqCompatibilityQ": "ਕਿਹੜੇ iPhone ਸਮਰਥਿਤ ਹਨ?",
       "faqCompatibilityA": "PartMirror ਨੂੰ iOS 17 ਜਾਂ ਇਸ ਤੋਂ ਬਾਅਦ ਵਾਲੇ ਅਤੇ ਇੱਕ TrueDepth ਫਰੰਟ ਕੈਮਰੇ ਵਾਲਾ iPhone ਦੀ ਲੋੜ ਹੈ।",
@@ -4188,7 +4353,7 @@
       "privacyChangesTitle": "ਇਸ ਨੀਤੀ ਵਿੱਚ ਬਦਲਾਅ",
       "privacyChangesBody": "ਅਸੀਂ ਇਸ ਨੀਤੀ ਨੂੰ PartMirror ਤਬਦੀਲੀਆਂ ਦੇ ਰੂਪ ਵਿੱਚ ਅੱਪਡੇਟ ਕਰ ਸਕਦੇ ਹਾਂ। ਉਪਰੋਕਤ ਪ੍ਰਭਾਵੀ ਮਿਤੀ ਨਵੀਨਤਮ ਸੰਸਕਰਣ ਦੀ ਪਛਾਣ ਕਰੇਗੀ।",
       "privacyContactTitle": "ਗੋਪਨੀਯਤਾ ਸੰਪਰਕ",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "PartMirror ਦੀ ਵਰਤੋਂ ਕਰਨਾ",
       "termsTitle": "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ",
       "termsIntro": "PartMirror ਦੀ ਵਰਤੋਂ ਕਰਕੇ, ਤੁਸੀਂ ਇਹਨਾਂ ਸ਼ਰਤਾਂ ਅਤੇ Apple ਦੇ ਮਿਆਰੀ ਲਾਇਸੰਸਸ਼ੁਦਾ ਐਪਲੀਕੇਸ਼ਨ ਅੰਤਮ ਉਪਭੋਗਤਾ ਲਾਇਸੰਸ ਸਮਝੌਤੇ ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।",
@@ -4207,7 +4372,7 @@
       "termsChangesTitle": "ਤਬਦੀਲੀਆਂ ਅਤੇ ਸਮਾਪਤੀ",
       "termsChangesBody": "ਅਸੀਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਵਿੱਚ ਸੁਧਾਰ ਕਰ ਸਕਦੇ ਹਾਂ, ਬਦਲ ਸਕਦੇ ਹਾਂ, ਮੁਅੱਤਲ ਕਰ ਸਕਦੇ ਹਾਂ ਜਾਂ ਬੰਦ ਕਰ ਸਕਦੇ ਹਾਂ ਅਤੇ ਇਹਨਾਂ ਨਿਯਮਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰ ਸਕਦੇ ਹਾਂ। ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਸਮੇਂ PartMirror ਦੀ ਵਰਤੋਂ ਕਰਨਾ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ।",
       "termsContactTitle": "ਇਹਨਾਂ ਸ਼ਰਤਾਂ ਬਾਰੇ ਸਵਾਲ",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple ਮਿਆਰੀ EULA",
       "legalTranslationNote": "ਸਹੂਲਤ ਲਈ ਅਨੁਵਾਦ ਪ੍ਰਦਾਨ ਕੀਤੇ ਗਏ ਹਨ। ਜੇਕਰ ਅਨੁਵਾਦਿਤ ਸੰਸਕਰਣ ਅੰਗਰੇਜ਼ੀ ਸੰਸਕਰਣ ਦੇ ਨਾਲ ਟਕਰਾਅ ਕਰਦਾ ਹੈ, ਤਾਂ ਅੰਗਰੇਜ਼ੀ ਸੰਸਕਰਣ ਕੰਟਰੋਲ ਕਰਦਾ ਹੈ ਜਿੱਥੇ ਕਨੂੰਨ ਦੁਆਰਾ ਆਗਿਆ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ।",
       "footerRights": "ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ.",
@@ -4262,6 +4427,11 @@
         "position": 6,
         "headline": "Wszystkie stylizacje w jednym miejscu",
         "supporting": "Porównuj ulubione przedziałki, kiedy chcesz"
+      },
+      {
+        "position": 7,
+        "headline": "Porównaj",
+        "supporting": "Porównuj ulubione przedziałki, kiedy chcesz"
       }
     ],
     "messages": {
@@ -4281,7 +4451,7 @@
       "supportTitle": "PartMirror Wsparcie",
       "supportIntro": "Szybkie odpowiedzi na temat konfigurowania przewodnika po aparacie, rejestrowania wyglądu i zapewniania prywatności zdjęć.",
       "contactTitle": "Skontaktuj się z PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Często zadawane pytania",
       "faqCompatibilityQ": "Które iPhone są obsługiwane?",
       "faqCompatibilityA": "PartMirror wymaga iOS 17 lub nowszego oraz iPhone z przednim aparatem TrueDepth.",
@@ -4316,7 +4486,7 @@
       "privacyChangesTitle": "Zmiany w niniejszej polityce",
       "privacyChangesBody": "Możemy aktualizować tę politykę w miarę zmian PartMirror. Powyższa data wejścia w życie będzie identyfikowała najnowszą wersję.",
       "privacyContactTitle": "Kontakt dotyczący prywatności",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Korzystanie z PartMirror",
       "termsTitle": "Warunki użytkowania",
       "termsIntro": "Korzystając z PartMirror, wyrażasz zgodę na niniejsze warunki i Standardową Umowę licencyjną użytkownika końcowego aplikacji licencjonowanej firmy Apple.",
@@ -4335,7 +4505,7 @@
       "termsChangesTitle": "Zmiany i zakończenie",
       "termsChangesBody": "Możemy ulepszać, zmieniać, zawieszać lub zaprzestać udostępniania funkcji oraz aktualizować niniejsze warunki. Możesz zaprzestać używania PartMirror w dowolnym momencie.",
       "termsContactTitle": "Pytania dotyczące tych warunków",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Standardowa umowa EULA",
       "legalTranslationNote": "Dla wygody zapewniono tłumaczenia. Jeśli przetłumaczona wersja jest sprzeczna z wersją angielską, wersja angielska ma pierwszeństwo, jeśli jest to dozwolone przez prawo.",
       "footerRights": "Wszelkie prawa zastrzeżone.",
@@ -4390,6 +4560,11 @@
         "position": 6,
         "headline": "Guarde todos os looks em um só lugar",
         "supporting": "Compare suas riscas favoritas quando quiser"
+      },
+      {
+        "position": 7,
+        "headline": "Comparar",
+        "supporting": "Compare suas riscas favoritas quando quiser"
       }
     ],
     "messages": {
@@ -4409,7 +4584,7 @@
       "supportTitle": "PartMirror Suporte",
       "supportIntro": "Respostas rápidas para configurar o guia da câmera, capturar uma imagem e manter suas fotos privadas.",
       "contactTitle": "Entre em contato com PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Perguntas comuns",
       "faqCompatibilityQ": "Quais iPhones são suportados?",
       "faqCompatibilityA": "PartMirror requer iOS 17 ou posterior e um iPhone com câmera frontal TrueDepth.",
@@ -4444,7 +4619,7 @@
       "privacyChangesTitle": "Alterações nesta política",
       "privacyChangesBody": "Poderemos atualizar esta política à medida que PartMirror for alterado. A data de vigência acima identificará a versão mais recente.",
       "privacyContactTitle": "Contato de privacidade",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Usando PartMirror",
       "termsTitle": "Termos de Uso",
       "termsIntro": "Ao usar PartMirror, você concorda com estes termos e com o Contrato de Licença de Usuário Final do Aplicativo Licenciado Padrão de Apple.",
@@ -4463,7 +4638,7 @@
       "termsChangesTitle": "Mudanças e rescisão",
       "termsChangesBody": "Podemos melhorar, alterar, suspender ou descontinuar recursos e atualizar estes termos. Você pode parar de usar PartMirror a qualquer momento.",
       "termsContactTitle": "Perguntas sobre esses termos",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple EULA padrão",
       "legalTranslationNote": "As traduções são fornecidas por conveniência. Se uma versão traduzida entrar em conflito com a versão em inglês, a versão em inglês prevalecerá onde for permitido por lei.",
       "footerRights": "Todos os direitos reservados.",
@@ -4518,6 +4693,11 @@
         "position": 6,
         "headline": "Guarde todos os visuais num só lugar",
         "supporting": "Compare as suas riscas favoritas quando quiser"
+      },
+      {
+        "position": 7,
+        "headline": "Comparar",
+        "supporting": "Compare as suas riscas favoritas quando quiser"
       }
     ],
     "messages": {
@@ -4537,7 +4717,7 @@
       "supportTitle": "PartMirror Suporte",
       "supportIntro": "Respostas rápidas para configurar o guia da câmera, capturar uma imagem e manter suas fotos privadas.",
       "contactTitle": "Entre em contato com PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Perguntas comuns",
       "faqCompatibilityQ": "Quais iPhones são suportados?",
       "faqCompatibilityA": "PartMirror requer iOS 17 ou posterior e um iPhone com câmera frontal TrueDepth.",
@@ -4572,7 +4752,7 @@
       "privacyChangesTitle": "Alterações nesta política",
       "privacyChangesBody": "Poderemos atualizar esta política à medida que PartMirror for alterado. A data de vigência acima identificará a versão mais recente.",
       "privacyContactTitle": "Contato de privacidade",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Usando PartMirror",
       "termsTitle": "Termos de Uso",
       "termsIntro": "Ao usar PartMirror, você concorda com estes termos e com o Contrato de Licença de Usuário Final do Aplicativo Licenciado Padrão de Apple.",
@@ -4591,7 +4771,7 @@
       "termsChangesTitle": "Mudanças e rescisão",
       "termsChangesBody": "Podemos melhorar, alterar, suspender ou descontinuar recursos e atualizar estes termos. Você pode parar de usar PartMirror a qualquer momento.",
       "termsContactTitle": "Perguntas sobre esses termos",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple EULA padrão",
       "legalTranslationNote": "As traduções são fornecidas por conveniência. Se uma versão traduzida entrar em conflito com a versão em inglês, a versão em inglês prevalecerá onde for permitido por lei.",
       "footerRights": "Todos os direitos reservados.",
@@ -4646,6 +4826,11 @@
         "position": 6,
         "headline": "Păstrează toate lookurile într-un singur loc",
         "supporting": "Compară oricând cărările preferate"
+      },
+      {
+        "position": 7,
+        "headline": "Compară",
+        "supporting": "Compară oricând cărările preferate"
       }
     ],
     "messages": {
@@ -4665,7 +4850,7 @@
       "supportTitle": "PartMirror Suport",
       "supportIntro": "Răspunsuri rapide pentru configurarea ghidului camerei, captarea unei imagini și păstrarea fotografiilor private.",
       "contactTitle": "Contactați PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Întrebări comune",
       "faqCompatibilityQ": "Ce iPhone-uri sunt acceptate?",
       "faqCompatibilityA": "PartMirror necesită iOS 17 sau o versiune ulterioară și un iPhone cu o cameră frontală TrueDepth.",
@@ -4700,7 +4885,7 @@
       "privacyChangesTitle": "Modificări ale acestei politici",
       "privacyChangesBody": "Putem actualiza această politică pe măsură ce PartMirror se modifică. Data intrării în vigoare de mai sus va identifica cea mai recentă versiune.",
       "privacyContactTitle": "Contact pentru confidențialitate",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Folosind PartMirror",
       "termsTitle": "Termeni de utilizare",
       "termsIntro": "Folosind PartMirror, sunteți de acord cu acești termeni și cu Acordul de licență pentru utilizatorul final al aplicației cu licență standard Apple.",
@@ -4719,7 +4904,7 @@
       "termsChangesTitle": "Modificări și reziliere",
       "termsChangesBody": "Putem îmbunătăți, modifica, suspenda sau întrerupe funcțiile și putem actualiza acești termeni. Puteți înceta utilizarea PartMirror în orice moment.",
       "termsContactTitle": "Întrebări despre acești termeni",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple EULA standard",
       "legalTranslationNote": "Pentru comoditate, sunt oferite traduceri. Dacă o versiune tradusă intră în conflict cu versiunea în limba engleză, versiunea în limba engleză controlează acolo unde este permis de lege.",
       "footerRights": "Toate drepturile rezervate.",
@@ -4774,6 +4959,11 @@
         "position": 6,
         "headline": "Все образы в одном месте",
         "supporting": "Сравнивайте любимые проборы в любое время"
+      },
+      {
+        "position": 7,
+        "headline": "Сравнить",
+        "supporting": "Сравнивайте любимые проборы в любое время"
       }
     ],
     "messages": {
@@ -4793,7 +4983,7 @@
       "supportTitle": "PartMirror Поддержка",
       "supportIntro": "Быстрые ответы по настройке руководства камеры, захвату взгляда и обеспечению конфиденциальности ваших фотографий.",
       "contactTitle": "Свяжитесь с PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Общие вопросы",
       "faqCompatibilityQ": "Какие iPhone поддерживаются?",
       "faqCompatibilityA": "Для PartMirror требуется iOS 17 или новее и iPhone с фронтальной камерой TrueDepth.",
@@ -4828,7 +5018,7 @@
       "privacyChangesTitle": "Изменения в этой политике",
       "privacyChangesBody": "Мы можем обновлять эту политику по мере изменений PartMirror. Дата вступления в силу, указанная выше, будет указывать на последнюю версию.",
       "privacyContactTitle": "Контакты по вопросам конфиденциальности",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Использование PartMirror",
       "termsTitle": "Условия использования",
       "termsIntro": "Используя PartMirror, вы соглашаетесь с этими условиями и Стандартным лицензионным соглашением с конечным пользователем лицензионного приложения Apple.",
@@ -4847,7 +5037,7 @@
       "termsChangesTitle": "Изменения и прекращение действия",
       "termsChangesBody": "Мы можем улучшать, изменять, приостанавливать или прекращать работу функций, а также обновлять эти условия. Вы можете прекратить использование PartMirror в любое время.",
       "termsContactTitle": "Вопросы об этих терминах",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Стандартное лицензионное соглашение",
       "legalTranslationNote": "Переводы предоставлены для удобства. Если переведенная версия противоречит английской версии, английская версия имеет преимущественную силу, если это разрешено законом.",
       "footerRights": "Все права защищены.",
@@ -4902,6 +5092,11 @@
         "position": 6,
         "headline": "Majte všetky vzhľady na jednom mieste",
         "supporting": "Obľúbené cestičky porovnajte kedykoľvek"
+      },
+      {
+        "position": 7,
+        "headline": "Porovnať",
+        "supporting": "Obľúbené cestičky porovnajte kedykoľvek"
       }
     ],
     "messages": {
@@ -4921,7 +5116,7 @@
       "supportTitle": "Podpora PartMirror",
       "supportIntro": "Rýchle odpovede na nastavenie sprievodcu fotoaparátom, zachytenie pohľadu a zachovanie súkromia vašich fotografií.",
       "contactTitle": "Kontaktujte PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Časté otázky",
       "faqCompatibilityQ": "Ktoré iPhones sú podporované?",
       "faqCompatibilityA": "PartMirror vyžaduje iOS 17 alebo novší a iPhone s prednou kamerou TrueDepth.",
@@ -4956,7 +5151,7 @@
       "privacyChangesTitle": "Zmeny v tejto politike",
       "privacyChangesBody": "Tieto zásady môžeme aktualizovať po zmenách PartMirror. Vyššie uvedený dátum účinnosti bude identifikovať najnovšiu verziu.",
       "privacyContactTitle": "Kontakt na ochranu osobných údajov",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Pomocou PartMirror",
       "termsTitle": "Podmienky používania",
       "termsIntro": "Používaním PartMirror vyjadrujete súhlas s týmito podmienkami a licenčnou zmluvou koncového používateľa štandardnej licencovanej aplikácie Apple.",
@@ -4975,7 +5170,7 @@
       "termsChangesTitle": "Zmeny a ukončenie",
       "termsChangesBody": "Môžeme zlepšiť, zmeniť, pozastaviť alebo ukončiť funkcie a môžeme aktualizovať tieto podmienky. PartMirror môžete kedykoľvek prestať používať.",
       "termsContactTitle": "Otázky týkajúce sa týchto výrazov",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Štandardná zmluva EULA",
       "legalTranslationNote": "Pre pohodlie sú poskytnuté preklady. Ak je preložená verzia v rozpore s anglickou verziou, tam, kde to povoľuje zákon, rozhoduje anglická verzia.",
       "footerRights": "Všetky práva vyhradené.",
@@ -5030,6 +5225,11 @@
         "position": 6,
         "headline": "Vsi videzi na enem mestu",
         "supporting": "Najljubše prečke primerjajte kadar koli"
+      },
+      {
+        "position": 7,
+        "headline": "Primerjaj",
+        "supporting": "Najljubše prečke primerjajte kadar koli"
       }
     ],
     "messages": {
@@ -5049,7 +5249,7 @@
       "supportTitle": "PartMirror Podpora",
       "supportIntro": "Hitri odgovori za nastavitev vodnika za kamero, zajemanje pogleda in ohranjanje zasebnih fotografij.",
       "contactTitle": "Obrnite se na PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Pogosta vprašanja",
       "faqCompatibilityQ": "Kateri iPhone so podprti?",
       "faqCompatibilityA": "PartMirror zahteva iOS 17 ali novejšo različico in iPhone s sprednjo kamero TrueDepth.",
@@ -5084,7 +5284,7 @@
       "privacyChangesTitle": "Spremembe tega pravilnika",
       "privacyChangesBody": "Ta pravilnik lahko posodobimo, ko se spremeni PartMirror. Zgornji datum veljavnosti bo identificiral najnovejšo različico.",
       "privacyContactTitle": "Kontakt za zasebnost",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Uporaba PartMirror",
       "termsTitle": "Pogoji uporabe",
       "termsIntro": "Z uporabo PartMirror se strinjate s temi pogoji in licenčno pogodbo za končnega uporabnika standardne licencirane aplikacije Apple.",
@@ -5103,7 +5303,7 @@
       "termsChangesTitle": "Spremembe in prenehanje",
       "termsChangesBody": "Lahko izboljšamo, spremenimo, začasno ukinemo ali ukinemo funkcije in lahko posodobimo te pogoje. PartMirror lahko prenehate uporabljati kadar koli.",
       "termsContactTitle": "Vprašanja o teh pogojih",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Standardna EULA",
       "legalTranslationNote": "Za udobje so na voljo prevodi. Če je prevedena različica v nasprotju z angleško različico, ima angleška različica prednost, kjer to dovoljuje zakon.",
       "footerRights": "Vse pravice pridržane.",
@@ -5158,6 +5358,11 @@
         "position": 6,
         "headline": "Samla alla stilar på ett ställe",
         "supporting": "Jämför dina favoritbenor när du vill"
+      },
+      {
+        "position": 7,
+        "headline": "Jämför",
+        "supporting": "Jämför dina favoritbenor när du vill"
       }
     ],
     "messages": {
@@ -5177,7 +5382,7 @@
       "supportTitle": "PartMirror Support",
       "supportIntro": "Snabba svar för att ställa in kameraguiden, fånga en blick och hålla dina foton privata.",
       "contactTitle": "Kontakta PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Vanliga frågor",
       "faqCompatibilityQ": "Vilka iPhone stöds?",
       "faqCompatibilityA": "PartMirror kräver iOS 17 eller senare och en iPhone med en TrueDepth främre kamera.",
@@ -5212,7 +5417,7 @@
       "privacyChangesTitle": "Ändringar av denna policy",
       "privacyChangesBody": "Vi kan komma att uppdatera denna policy när PartMirror ändras. Ikraftträdandedatumet ovan kommer att identifiera den senaste versionen.",
       "privacyContactTitle": "Sekretesskontakt",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Använda PartMirror",
       "termsTitle": "Användarvillkor",
       "termsIntro": "Genom att använda PartMirror godkänner du dessa villkor och Apples standardlicensierade slutanvändarlicensavtal för applikationer.",
@@ -5231,7 +5436,7 @@
       "termsChangesTitle": "Ändringar och uppsägning",
       "termsChangesBody": "Vi kan förbättra, ändra, stänga av eller avbryta funktioner och kan uppdatera dessa villkor. Du kan sluta använda PartMirror när som helst.",
       "termsContactTitle": "Frågor om dessa villkor",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Standard EULA",
       "legalTranslationNote": "Översättningar tillhandahålls för bekvämlighet. Om en översatt version står i konflikt med den engelska versionen, styr den engelska versionen där det är tillåtet enligt lag.",
       "footerRights": "Alla rättigheter reserverade.",
@@ -5286,6 +5491,11 @@
         "position": 6,
         "headline": "அனைத்து தோற்றங்களையும் ஒரே இடத்தில் வைத்திருங்கள்",
         "supporting": "பிடித்த வகிடுகளை எப்போது வேண்டுமானாலும் ஒப்பிடுங்கள்"
+      },
+      {
+        "position": 7,
+        "headline": "ஒப்பிடு",
+        "supporting": "பிடித்த வகிடுகளை எப்போது வேண்டுமானாலும் ஒப்பிடுங்கள்"
       }
     ],
     "messages": {
@@ -5305,7 +5515,7 @@
       "supportTitle": "PartMirror ஆதரவு",
       "supportIntro": "கேமரா வழிகாட்டியை அமைப்பதற்கும், தோற்றத்தைப் படம்பிடிப்பதற்கும், உங்கள் புகைப்படங்களைத் தனிப்பட்டதாக வைத்திருப்பதற்கும் விரைவான பதில்கள்.",
       "contactTitle": "தொடர்பு PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "பொதுவான கேள்விகள்",
       "faqCompatibilityQ": "எந்த iPhoneகள் ஆதரிக்கப்படுகின்றன?",
       "faqCompatibilityA": "PartMirrorக்கு iOS 17 அல்லது அதற்குப் பிந்தையது மற்றும் TrueDepth முன் கேமராவுடன் iPhone தேவை.",
@@ -5340,7 +5550,7 @@
       "privacyChangesTitle": "இந்தக் கொள்கையில் மாற்றங்கள்",
       "privacyChangesBody": "இந்தக் கொள்கையை PartMirror மாற்றங்களாகப் புதுப்பிக்கலாம். மேலே உள்ள நடைமுறைத் தேதி சமீபத்திய பதிப்பைக் கண்டறியும்.",
       "privacyContactTitle": "தனியுரிமை தொடர்பு",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "PartMirror ஐப் பயன்படுத்துகிறது",
       "termsTitle": "பயன்பாட்டு விதிமுறைகள்",
       "termsIntro": "PartMirrorஐப் பயன்படுத்துவதன் மூலம், இந்த விதிமுறைகள் மற்றும் Apple இன் நிலையான உரிமம் பெற்ற விண்ணப்ப இறுதிப் பயனர் உரிம ஒப்பந்தத்தை ஏற்கிறீர்கள்.",
@@ -5359,7 +5569,7 @@
       "termsChangesTitle": "மாற்றங்கள் மற்றும் முடித்தல்",
       "termsChangesBody": "நாங்கள் அம்சங்களை மேம்படுத்தலாம், மாற்றலாம், இடைநிறுத்தலாம் அல்லது நிறுத்தலாம் மற்றும் இந்த விதிமுறைகளைப் புதுப்பிக்கலாம். நீங்கள் எந்த நேரத்திலும் PartMirror ஐப் பயன்படுத்துவதை நிறுத்தலாம்.",
       "termsContactTitle": "இந்த விதிமுறைகள் பற்றிய கேள்விகள்",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple நிலையான EULA",
       "legalTranslationNote": "மொழிபெயர்ப்பு வசதிக்காக வழங்கப்பட்டுள்ளது. மொழிபெயர்க்கப்பட்ட பதிப்பு ஆங்கிலப் பதிப்போடு முரண்பட்டால், சட்டத்தால் அனுமதிக்கப்பட்ட இடத்தில் ஆங்கிலப் பதிப்பு கட்டுப்படுத்தும்.",
       "footerRights": "அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.",
@@ -5414,6 +5624,11 @@
         "position": 6,
         "headline": "ప్రతి లుక్‌ను ఒకేచోట ఉంచండి",
         "supporting": "మీకు ఇష్టమైన పాపిడులను ఎప్పుడైనా పోల్చండి"
+      },
+      {
+        "position": 7,
+        "headline": "పోల్చండి",
+        "supporting": "మీకు ఇష్టమైన పాపిడులను ఎప్పుడైనా పోల్చండి"
       }
     ],
     "messages": {
@@ -5433,7 +5648,7 @@
       "supportTitle": "PartMirror మద్దతు",
       "supportIntro": "కెమెరా గైడ్‌ని సెటప్ చేయడం, లుక్‌ను క్యాప్చర్ చేయడం మరియు మీ ఫోటోలను ప్రైవేట్‌గా ఉంచడం కోసం త్వరిత సమాధానాలు.",
       "contactTitle": "సంప్రదించండి PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "సాధారణ ప్రశ్నలు",
       "faqCompatibilityQ": "ఏ iPhoneలకు మద్దతు ఉంది?",
       "faqCompatibilityA": "PartMirrorకి iOS 17 లేదా తదుపరిది మరియు TrueDepth ముందు కెమెరాతో కూడిన iPhone అవసరం.",
@@ -5468,7 +5683,7 @@
       "privacyChangesTitle": "ఈ విధానానికి మార్పులు",
       "privacyChangesBody": "మేము ఈ విధానాన్ని PartMirror మార్పులుగా నవీకరించవచ్చు. ఎగువ ప్రభావవంతమైన తేదీ తాజా సంస్కరణను గుర్తిస్తుంది.",
       "privacyContactTitle": "గోప్యతా పరిచయం",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "PartMirrorని ఉపయోగించడం",
       "termsTitle": "ఉపయోగ నిబంధనలు",
       "termsIntro": "PartMirrorని ఉపయోగించడం ద్వారా, మీరు ఈ నిబంధనలకు మరియు Apple యొక్క ప్రామాణిక లైసెన్స్ పొందిన అప్లికేషన్ తుది వినియోగదారు లైసెన్స్ ఒప్పందానికి అంగీకరిస్తున్నారు.",
@@ -5487,7 +5702,7 @@
       "termsChangesTitle": "మార్పులు మరియు ముగింపు",
       "termsChangesBody": "మేము లక్షణాలను మెరుగుపరచవచ్చు, మార్చవచ్చు, తాత్కాలికంగా నిలిపివేయవచ్చు లేదా నిలిపివేయవచ్చు మరియు ఈ నిబంధనలను నవీకరించవచ్చు. మీరు ఎప్పుడైనా PartMirrorని ఉపయోగించడం ఆపివేయవచ్చు.",
       "termsContactTitle": "ఈ నిబంధనల గురించి ప్రశ్నలు",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple ప్రామాణిక EULA",
       "legalTranslationNote": "సౌలభ్యం కోసం అనువాదాలు అందించబడ్డాయి. అనువదించబడిన సంస్కరణ ఆంగ్ల సంస్కరణతో విభేదిస్తే, చట్టం ద్వారా అనుమతించబడిన చోట ఆంగ్ల సంస్కరణ నియంత్రిస్తుంది.",
       "footerRights": "అన్ని హక్కులు ప్రత్యేకించబడ్డాయి.",
@@ -5542,6 +5757,11 @@
         "position": 6,
         "headline": "เก็บทุกลุคไว้ในที่เดียว",
         "supporting": "เปรียบเทียบรอยแสกโปรดได้ทุกเมื่อ"
+      },
+      {
+        "position": 7,
+        "headline": "เปรียบเทียบ",
+        "supporting": "เปรียบเทียบรอยแสกโปรดได้ทุกเมื่อ"
       }
     ],
     "messages": {
@@ -5561,7 +5781,7 @@
       "supportTitle": "PartMirror การสนับสนุน",
       "supportIntro": "คำตอบด่วนสำหรับการตั้งค่าไกด์กล้อง การถ่ายภาพ และการเก็บรูปภาพของคุณไว้เป็นส่วนตัว",
       "contactTitle": "ติดต่อPartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "คำถามทั่วไป",
       "faqCompatibilityQ": "iPhone ใดบ้างที่รองรับ",
       "faqCompatibilityA": "PartMirror ต้องใช้ iOS 17 หรือใหม่กว่า และ iPhone พร้อมกล้องหน้า TrueDepth",
@@ -5596,7 +5816,7 @@
       "privacyChangesTitle": "การเปลี่ยนแปลงนโยบายนี้",
       "privacyChangesBody": "เราอาจอัปเดตนโยบายนี้เมื่อมีการเปลี่ยนแปลง PartMirror วันที่มีผลบังคับใช้ข้างต้นจะระบุเวอร์ชันล่าสุด",
       "privacyContactTitle": "ติดต่อเรื่องความเป็นส่วนตัว",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "การใช้ PartMirror",
       "termsTitle": "เงื่อนไขการใช้งาน",
       "termsIntro": "การใช้ PartMirror แสดงว่าคุณยอมรับข้อกำหนดเหล่านี้และข้อตกลงสิทธิ์การใช้งานสำหรับผู้ใช้ปลายทางของแอปพลิเคชันที่ได้รับอนุญาตมาตรฐานของ Apple",
@@ -5615,7 +5835,7 @@
       "termsChangesTitle": "การเปลี่ยนแปลงและการสิ้นสุด",
       "termsChangesBody": "เราอาจปรับปรุง เปลี่ยนแปลง ระงับ หรือยกเลิกคุณลักษณะต่างๆ และอาจอัปเดตข้อกำหนดเหล่านี้ คุณสามารถหยุดใช้ PartMirror ได้ตลอดเวลา",
       "termsContactTitle": "คำถามเกี่ยวกับข้อกำหนดเหล่านี้",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple EULA มาตรฐาน",
       "legalTranslationNote": "มีการแปลเพื่อความสะดวก หากฉบับแปลขัดแย้งกับฉบับภาษาอังกฤษ ฉบับภาษาอังกฤษจะควบคุมตามที่กฎหมายอนุญาต",
       "footerRights": "สงวนลิขสิทธิ์.",
@@ -5670,6 +5890,11 @@
         "position": 6,
         "headline": "Tüm görünümlerin tek bir yerde",
         "supporting": "Favori ayrımlarını istediğin zaman karşılaştır"
+      },
+      {
+        "position": 7,
+        "headline": "Karşılaştır",
+        "supporting": "Favori ayrımlarını istediğin zaman karşılaştır"
       }
     ],
     "messages": {
@@ -5689,7 +5914,7 @@
       "supportTitle": "PartMirror Destek",
       "supportIntro": "Kamera kılavuzunu ayarlama, bir bakış yakalama ve fotoğraflarınızı gizli tutma konusunda hızlı yanıtlar.",
       "contactTitle": "PartMirror ile iletişime geçin",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Sık sorulan sorular",
       "faqCompatibilityQ": "Hangi iPhone'lar destekleniyor?",
       "faqCompatibilityA": "PartMirror, iOS 17 veya üzerini ve TrueDepth ön kameralı bir iPhone gerektirir.",
@@ -5724,7 +5949,7 @@
       "privacyChangesTitle": "Bu politikadaki değişiklikler",
       "privacyChangesBody": "PartMirror değiştikçe bu politikayı güncelleyebiliriz. Yukarıdaki geçerlilik tarihi en son sürümü belirleyecektir.",
       "privacyContactTitle": "Gizlilik iletişim bilgileri",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "PartMirror kullanma",
       "termsTitle": "Kullanım Koşulları",
       "termsIntro": "PartMirror'ı kullanarak bu koşulları ve Apple'nin Standart Lisanslı Uygulama Son Kullanıcı Lisans Sözleşmesini kabul etmiş olursunuz.",
@@ -5743,7 +5968,7 @@
       "termsChangesTitle": "Değişiklikler ve sonlandırma",
       "termsChangesBody": "Özellikleri geliştirebilir, değiştirebilir, askıya alabilir veya sonlandırabiliriz ve bu şartları güncelleyebiliriz. PartMirror kullanmayı istediğiniz zaman bırakabilirsiniz.",
       "termsContactTitle": "Bu terimlerle ilgili sorular",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Standart EULA",
       "legalTranslationNote": "Kolaylık sağlamak için çeviriler sağlanmıştır. Çevrilmiş bir sürüm İngilizce sürümle çelişiyorsa, yasaların izin verdiği yerlerde İngilizce sürüm geçerli olur.",
       "footerRights": "Her hakkı saklıdır.",
@@ -5798,6 +6023,11 @@
         "position": 6,
         "headline": "Усі образи в одному місці",
         "supporting": "Порівнюйте улюблені проділи будь-коли"
+      },
+      {
+        "position": 7,
+        "headline": "Порівняти",
+        "supporting": "Порівнюйте улюблені проділи будь-коли"
       }
     ],
     "messages": {
@@ -5817,7 +6047,7 @@
       "supportTitle": "Підтримка PartMirror",
       "supportIntro": "Швидкі відповіді щодо налаштування посібника камери, захоплення погляду та збереження конфіденційності ваших фотографій.",
       "contactTitle": "Контакти PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Загальні запитання",
       "faqCompatibilityQ": "Які iPhone підтримуються?",
       "faqCompatibilityA": "PartMirror потребує iOS 17 або новішої версії та iPhone з фронтальною камерою TrueDepth.",
@@ -5852,7 +6082,7 @@
       "privacyChangesTitle": "Зміни до цієї політики",
       "privacyChangesBody": "Ми можемо оновити цю політику, коли PartMirror зміниться. Дата набрання чинності вище вказує на останню версію.",
       "privacyContactTitle": "Конфіденційність контакту",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Використання PartMirror",
       "termsTitle": "Умови використання",
       "termsIntro": "Використовуючи PartMirror, ви погоджуєтеся з цими умовами та Ліцензійною угодою кінцевого користувача стандартної ліцензованої програми Apple.",
@@ -5871,7 +6101,7 @@
       "termsChangesTitle": "Зміни та розірвання",
       "termsChangesBody": "Ми можемо вдосконалювати, змінювати, призупиняти або припиняти роботу функцій і оновлювати ці умови. Ви можете будь-коли припинити використання PartMirror.",
       "termsContactTitle": "Запитання щодо цих термінів",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple Стандартна EULA",
       "legalTranslationNote": "Для зручності надані переклади. Якщо перекладена версія суперечить англійській версії, англійська версія має перевагу, якщо це дозволено законом.",
       "footerRights": "Всі права захищені.",
@@ -5926,6 +6156,11 @@
         "position": 6,
         "headline": "ہر لُک ایک جگہ رکھیں",
         "supporting": "اپنی پسندیدہ مانگ کا کسی بھی وقت موازنہ کریں"
+      },
+      {
+        "position": 7,
+        "headline": "موازنہ",
+        "supporting": "اپنی پسندیدہ مانگ کا کسی بھی وقت موازنہ کریں"
       }
     ],
     "messages": {
@@ -5945,7 +6180,7 @@
       "supportTitle": "PartMirror سپورٹ",
       "supportIntro": "کیمرہ گائیڈ ترتیب دینے، ایک نظر کیپچر کرنے اور اپنی تصاویر کو نجی رکھنے کے لیے فوری جوابات۔",
       "contactTitle": "رابطہ کریں PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "عام سوالات",
       "faqCompatibilityQ": "کون سے iPhone تعاون یافتہ ہیں؟",
       "faqCompatibilityA": "PartMirror کو iOS 17 یا بعد کا اور TrueDepth فرنٹ کیمرہ والا iPhone درکار ہے۔",
@@ -5980,7 +6215,7 @@
       "privacyChangesTitle": "اس پالیسی میں تبدیلیاں",
       "privacyChangesBody": "ہم اس پالیسی کو PartMirror تبدیلیوں کے طور پر اپ ڈیٹ کر سکتے ہیں۔ اوپر کی مؤثر تاریخ تازہ ترین ورژن کی شناخت کرے گی۔",
       "privacyContactTitle": "رازداری سے رابطہ کریں۔",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "PartMirror کا استعمال",
       "termsTitle": "استعمال کی شرائط",
       "termsIntro": "PartMirror استعمال کرکے، آپ ان شرائط اور Apple کے معیاری لائسنس یافتہ ایپلیکیشن کے اختتامی صارف کے لائسنس کے معاہدے سے اتفاق کرتے ہیں۔",
@@ -5999,7 +6234,7 @@
       "termsChangesTitle": "تبدیلیاں اور خاتمہ",
       "termsChangesBody": "ہم خصوصیات کو بہتر، تبدیل، معطل یا بند کر سکتے ہیں اور ان شرائط کو اپ ڈیٹ کر سکتے ہیں۔ آپ کسی بھی وقت PartMirror کا استعمال بند کر سکتے ہیں۔",
       "termsContactTitle": "ان شرائط کے بارے میں سوالات",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple معیاری EULA",
       "legalTranslationNote": "ترجمے سہولت کے لیے فراہم کیے گئے ہیں۔ اگر ترجمہ شدہ ورژن انگریزی ورژن سے متصادم ہے، تو انگریزی ورژن کنٹرول کرتا ہے جہاں قانون کی طرف سے اجازت ہے۔",
       "footerRights": "جملہ حقوق محفوظ ہیں۔",
@@ -6054,6 +6289,11 @@
         "position": 6,
         "headline": "Lưu mọi kiểu ở cùng một nơi",
         "supporting": "So sánh các ngôi tóc yêu thích bất cứ lúc nào"
+      },
+      {
+        "position": 7,
+        "headline": "So sánh",
+        "supporting": "So sánh các ngôi tóc yêu thích bất cứ lúc nào"
       }
     ],
     "messages": {
@@ -6073,7 +6313,7 @@
       "supportTitle": "PartMirror Hỗ trợ",
       "supportIntro": "Câu trả lời nhanh về cách thiết lập hướng dẫn máy ảnh, chụp ảnh và giữ ảnh của bạn ở chế độ riêng tư.",
       "contactTitle": "Liên hệ PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "Câu hỏi thường gặp",
       "faqCompatibilityQ": "iPhone nào được hỗ trợ?",
       "faqCompatibilityA": "PartMirror yêu cầu iOS 17 trở lên và iPhone có camera trước TrueDepth.",
@@ -6108,7 +6348,7 @@
       "privacyChangesTitle": "Những thay đổi đối với chính sách này",
       "privacyChangesBody": "Chúng tôi có thể cập nhật chính sách này khi PartMirror thay đổi. Ngày có hiệu lực ở trên sẽ xác định phiên bản mới nhất.",
       "privacyContactTitle": "Liên hệ bảo mật",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "Sử dụng PartMirror",
       "termsTitle": "Điều khoản sử dụng",
       "termsIntro": "Bằng cách sử dụng PartMirror, bạn đồng ý với các điều khoản này và Thỏa thuận cấp phép người dùng cuối cho ứng dụng được cấp phép tiêu chuẩn của Apple.",
@@ -6127,7 +6367,7 @@
       "termsChangesTitle": "Thay đổi và chấm dứt",
       "termsChangesBody": "Chúng tôi có thể cải thiện, thay đổi, tạm dừng hoặc ngừng các tính năng và có thể cập nhật các điều khoản này. Bạn có thể ngừng sử dụng PartMirror bất kỳ lúc nào.",
       "termsContactTitle": "Câu hỏi về các điều khoản này",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple EULA tiêu chuẩn",
       "legalTranslationNote": "Các bản dịch được cung cấp để thuận tiện. Nếu phiên bản dịch xung đột với phiên bản tiếng Anh thì phiên bản tiếng Anh sẽ kiểm soát nếu được pháp luật cho phép.",
       "footerRights": "Mọi quyền được bảo lưu.",
@@ -6182,6 +6422,11 @@
         "position": 6,
         "headline": "集中保存你的所有造型",
         "supporting": "随时比较你喜爱的分缝"
+      },
+      {
+        "position": 7,
+        "headline": "对比",
+        "supporting": "随时比较你喜爱的分缝"
       }
     ],
     "messages": {
@@ -6201,7 +6446,7 @@
       "supportTitle": "PartMirror 支持",
       "supportIntro": "有关设置相机指南、捕捉外观以及保密照片的快速解答。",
       "contactTitle": "联系PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "常见问题",
       "faqCompatibilityQ": "支持哪些 iPhone？",
       "faqCompatibilityA": "PartMirror 需要 iOS 17 或更高版本以及带有 TrueDepth 前置摄像头的 iPhone。",
@@ -6236,7 +6481,7 @@
       "privacyChangesTitle": "本政策的变更",
       "privacyChangesBody": "我们可能会随着 PartMirror 的变化而更新本政策。上述生效日期将确定最新版本。",
       "privacyContactTitle": "隐私联系方式",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "使用 PartMirror",
       "termsTitle": "使用条款",
       "termsIntro": "使用 PartMirror 即表示您同意这些条款和 Apple 的标准许可应用程序最终用户许可协议。",
@@ -6255,7 +6500,7 @@
       "termsChangesTitle": "变更和终止",
       "termsChangesBody": "我们可能会改进、更改、暂停或终止功能，并可能更新这些条款。您可以随时停止使用 PartMirror。",
       "termsContactTitle": "关于这些条款的问题",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple 标准 EULA",
       "legalTranslationNote": "为方便起见，提供翻译。如果翻译版本与英文版本冲突，则在法律允许的情况下以英文版本为准。",
       "footerRights": "版权所有。",
@@ -6310,6 +6555,11 @@
         "position": 6,
         "headline": "將所有造型集中儲存",
         "supporting": "隨時比較你喜愛的分線"
+      },
+      {
+        "position": 7,
+        "headline": "比較",
+        "supporting": "隨時比較你喜愛的分線"
       }
     ],
     "messages": {
@@ -6329,7 +6579,7 @@
       "supportTitle": "PartMirror 支持",
       "supportIntro": "有關設定相機指南、捕捉外觀以及保密照片的快速解答。",
       "contactTitle": "聯絡PartMirror",
-      "contactPending": "support@partmirror.com",
+      "contactPending": "mite.appdev@gmail.com",
       "faqTitle": "常見問題",
       "faqCompatibilityQ": "支援哪些 iPhone？",
       "faqCompatibilityA": "PartMirror 需要 iOS 17 或更高版本以及帶有 TrueDepth 前置攝像頭的 iPhone。",
@@ -6364,7 +6614,7 @@
       "privacyChangesTitle": "本政策的變更",
       "privacyChangesBody": "我們可能會隨著 PartMirror 的變化而更新本政策。上述生效日期將確定最新版本。",
       "privacyContactTitle": "隱私聯絡方式",
-      "privacyContactPending": "support@partmirror.com",
+      "privacyContactPending": "mite.appdev@gmail.com",
       "termsEyebrow": "使用 PartMirror",
       "termsTitle": "使用條款",
       "termsIntro": "使用 PartMirror 即表示您同意這些條款和 Apple 的標準許可應用程式最終使用者許可協議。",
@@ -6383,7 +6633,7 @@
       "termsChangesTitle": "變更和終止",
       "termsChangesBody": "我們可能會改進、變更、暫停或終止功能，並可能更新這些條款。您可以隨時停止使用 PartMirror。",
       "termsContactTitle": "關於這些條款的問題",
-      "termsContactPending": "support@partmirror.com",
+      "termsContactPending": "mite.appdev@gmail.com",
       "appleEula": "Apple 標準 EULA",
       "legalTranslationNote": "為方便起見，提供翻譯。如果翻譯版本與英文版本衝突，則在法律允許的情況下以英文版本為準。",
       "footerRights": "版權所有。",
