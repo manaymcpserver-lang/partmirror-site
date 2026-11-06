@@ -160,7 +160,7 @@ const supportFaqKeys = [
   ['faqPrivacyQ', 'faqPrivacyA'],
 ] as const;
 
-const supportEmail = 'mite.appdev@gmail.com';
+const supportEmail = 'support@partmirror.com';
 
 function Support({ content }: { content: LocaleContent }) {
   const m = content.messages;
