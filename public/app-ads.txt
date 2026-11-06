@@ -1,4 +1,5 @@
 OWNERDOMAIN=partmirror.com
+facebook.com, 1137747035377481, DIRECT, c3e20eee3f780d68
 ironsrc.com, 697957, DIRECT
 google.com, pub-2376800842238061, DIRECT, f08c47fec0942fa0
 vungle.com, 6aea0f0e93f426c33e7a51ba, DIRECT, c107d686becd2d77
