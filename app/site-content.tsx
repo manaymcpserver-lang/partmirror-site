@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { AppStoreBadge, appStoreUrl } from './app-store-badge';
+import { guideEdition, guidePath } from './guide-catalog';
 import { LanguageSwitcher } from './language-switcher';
 import { AdvertisingPrivacy, privacyLanguage } from './advertising-privacy';
 import {
@@ -15,8 +16,7 @@ import {
 const appleEulaUrl = 'https://www.apple.com/legal/internet-services/itunes/dev/stdeula/';
 
 function GuidesLink({ locale }: { locale: string }) {
-  if (locale === 'pt-PT') return <Link href="/guides/pt-PT/">Guias de cabelo</Link>;
-  return <Link href="/guides/" lang="en">{locale.startsWith('en-') ? 'Hair guides' : 'Hair guides (EN)'}</Link>;
+  return <Link href={guidePath(locale)}>{guideEdition(locale).messages.nav}</Link>;
 }
 
 export function SiteHeader({ content, section }: { content: LocaleContent; section?: SiteSection }) {

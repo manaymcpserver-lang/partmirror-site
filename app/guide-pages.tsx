@@ -2,74 +2,28 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { AppStoreBadge } from './app-store-badge';
 import { localeContent } from './content';
-import { guides, type Guide } from './guide-content';
-import { guidesPt } from './guide-content-pt';
+import type { Guide } from './guide-content';
+import { defaultGuideLocale, guideEdition, guideLocales, guidePath, guidePathForTopic } from './guide-catalog';
+import { LanguageSwitcher } from './language-switcher';
 import { SiteFooter, SiteHeader } from './site-content';
 
-const editions = {
-  en: {
-    locale: 'en-US', path: '/guides/', guides,
-    title: 'Hair Parting Guides',
-    description: 'Learn to make a straight middle part, try a side part, or change your part with simple techniques you can use at home.',
-    brand: 'PartMirror guides', language: 'Read in Portuguese',
-    questions: 'Common questions', sources: 'Further reading', more: 'More hair parting guides',
-    download: 'Check your part with PartMirror',
-    downloadText: 'Use the live guide to line up your part, then compare saved looks on a compatible iPhone.',
-  },
-  'pt-PT': {
-    locale: 'pt-PT', path: '/guides/pt-PT/', guides: guidesPt,
-    title: 'Guias para fazer a risca no cabelo',
-    description: 'Aprende a fazer uma risca direita ao meio, a experimentar a risca ao lado e a mudar a risca em casa.',
-    brand: 'Guias PartMirror', language: 'Ler em inglês',
-    questions: 'Perguntas frequentes', sources: 'Para saber mais', more: 'Mais guias sobre a risca do cabelo',
-    download: 'Confere a tua risca com o PartMirror',
-    downloadText: 'Alinha a risca com a guia em tempo real e compara os looks que guardaste num iPhone compatível.',
-  },
-};
-
-export type GuideLanguage = keyof typeof editions;
-
-function otherLanguage(language: GuideLanguage): GuideLanguage {
-  return language === 'en' ? 'pt-PT' : 'en';
-}
-
-export function guidePath(language: GuideLanguage, slug?: string) {
-  return slug ? `${editions[language].path}${slug}/` : editions[language].path;
-}
-
-export function guideParams(language: GuideLanguage) {
-  return editions[language].guides.map(({ slug }) => ({ slug }));
-}
-
-export function getGuide(language: GuideLanguage, slug: string) {
-  return editions[language].guides.find((guide) => guide.slug === slug);
-}
-
-function counterpartSlug(language: GuideLanguage, slug: string) {
-  const guide = getGuide(language, slug);
-  return editions[otherLanguage(language)].guides.find((item) => item.topic === guide?.topic)?.slug;
-}
-
-export function guideMetadata(language: GuideLanguage, slug?: string): Metadata {
-  const edition = editions[language];
-  const guide = slug ? getGuide(language, slug) : undefined;
-  const { title, description } = guide ?? edition;
-  const url = guidePath(language, slug);
-  const other = otherLanguage(language);
-  const alternative = guidePath(other, slug ? counterpartSlug(language, slug) : undefined);
+export function guideMetadata(locale: string, guide?: Guide): Metadata {
+  const { title, description } = guide ?? guideEdition(locale).messages;
+  const url = guidePath(locale, guide?.slug);
+  const languages = Object.fromEntries(guideLocales.map((language) => [language, guidePathForTopic(language, guide?.topic)]));
 
   return {
     title,
     description,
-    alternates: { canonical: url, languages: { [language]: url, [other]: alternative } },
+    alternates: { canonical: url, languages: { ...languages, 'x-default': languages[defaultGuideLocale] } },
     openGraph: { title, description, url, type: guide ? 'article' : 'website', siteName: 'PartMirror' },
   };
 }
 
-function GuideFrame({ language, children }: { language: GuideLanguage; children: React.ReactNode }) {
-  const content = localeContent(editions[language].locale);
+function GuideFrame({ locale, children }: { locale: string; children: React.ReactNode }) {
+  const content = localeContent(locale);
   return (
-    <main lang={language}>
+    <main lang={locale} dir={content.direction}>
       <SiteHeader content={content} />
       {children}
       <SiteFooter content={content} />
@@ -77,30 +31,36 @@ function GuideFrame({ language, children }: { language: GuideLanguage; children:
   );
 }
 
-function LanguageLink({ language, slug }: { language: GuideLanguage; slug?: string }) {
-  const other = otherLanguage(language);
+function GuideLanguagePicker({ locale, topic }: { locale: string; topic?: Guide['topic'] }) {
+  const content = localeContent(locale);
   return (
-    <Link className="guide-language" href={guidePath(other, slug ? counterpartSlug(language, slug) : undefined)} hrefLang={other}>
-      {editions[language].language}
-    </Link>
+    <div className="guide-language">
+      <LanguageSwitcher
+        currentLocale={locale}
+        label={content.messages.languageLabel}
+        options={guideLocales.map((language) => ({
+          locale: language, language: localeContent(language).language, href: guidePathForTopic(language, topic),
+        }))}
+      />
+    </div>
   );
 }
 
-export function GuideIndex({ language }: { language: GuideLanguage }) {
-  const edition = editions[language];
+export function GuideIndex({ locale }: { locale: string }) {
+  const { messages, guides } = guideEdition(locale);
   return (
-    <GuideFrame language={language}>
+    <GuideFrame locale={locale}>
       <div className="document-page">
         <header className="document-hero guide-hero">
-          <p className="eyebrow">{edition.brand}</p>
-          <h1>{edition.title}</h1>
-          <p>{edition.description}</p>
-          <LanguageLink language={language} />
+          <p className="eyebrow">{messages.brand}</p>
+          <h1>{messages.title}</h1>
+          <p>{messages.description}</p>
+          <GuideLanguagePicker locale={locale} />
         </header>
         <ul className="guide-list">
-          {edition.guides.map((guide) => (
+          {guides.map((guide) => (
             <li key={guide.slug}>
-              <Link href={guidePath(language, guide.slug)}>
+              <Link href={guidePath(locale, guide.slug)}>
                 <h2>{guide.title}</h2>
                 <p>{guide.description}</p>
               </Link>
@@ -112,16 +72,16 @@ export function GuideIndex({ language }: { language: GuideLanguage }) {
   );
 }
 
-export function GuideArticle({ language, guide }: { language: GuideLanguage; guide: Guide }) {
-  const edition = editions[language];
+export function GuideArticle({ locale, guide }: { locale: string; guide: Guide }) {
+  const { messages, guides } = guideEdition(locale);
   return (
-    <GuideFrame language={language}>
+    <GuideFrame locale={locale}>
       <article className="document-page">
         <header className="document-hero guide-hero">
-          <p className="eyebrow"><Link href={edition.path}>{edition.brand}</Link></p>
+          <p className="eyebrow"><Link href={guidePath(locale)}>{messages.brand}</Link></p>
           <h1>{guide.title}</h1>
           <p>{guide.description}</p>
-          <LanguageLink language={language} slug={guide.slug} />
+          <GuideLanguagePicker locale={locale} topic={guide.topic} />
         </header>
         <div className="guide-body">
           {guide.sections.map(({ heading, paragraphs }) => (
@@ -131,7 +91,7 @@ export function GuideArticle({ language, guide }: { language: GuideLanguage; gui
             </section>
           ))}
           <section>
-            <h2>{edition.questions}</h2>
+            <h2>{messages.questions}</h2>
             {guide.faqs.map(({ question, answer }) => (
               <div className="guide-answer" key={question}>
                 <h3>{question}</h3>
@@ -141,22 +101,22 @@ export function GuideArticle({ language, guide }: { language: GuideLanguage; gui
           </section>
           {guide.sources?.length ? (
             <section>
-              <h2>{edition.sources}</h2>
+              <h2>{messages.sources}</h2>
               <ul className="guide-links">
                 {guide.sources.map(({ label, url }) => <li key={url}><a href={url}>{label}</a></li>)}
               </ul>
             </section>
           ) : null}
           <aside className="guide-download" aria-labelledby="guide-download-title">
-            <h2 id="guide-download-title">{edition.download}</h2>
-            <p>{edition.downloadText}</p>
-            <AppStoreBadge locale={edition.locale} />
+            <h2 id="guide-download-title">{messages.download}</h2>
+            <p>{messages.downloadText}</p>
+            <AppStoreBadge locale={locale} />
           </aside>
           <nav aria-labelledby="related-guides-title">
-            <h2 id="related-guides-title">{edition.more}</h2>
+            <h2 id="related-guides-title">{messages.more}</h2>
             <ul className="guide-links">
-              {edition.guides.filter((item) => item.slug !== guide.slug).map((item) => (
-                <li key={item.slug}><Link href={guidePath(language, item.slug)}>{item.title}</Link></li>
+              {guides.filter((item) => item.slug !== guide.slug).map((item) => (
+                <li key={item.slug}><Link href={guidePath(locale, item.slug)}>{item.title}</Link></li>
               ))}
             </ul>
           </nav>

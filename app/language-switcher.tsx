@@ -3,16 +3,16 @@
 import { useRouter } from 'next/navigation';
 import type { SiteSection } from './content';
 
-type LanguageOption = { locale: string; language: string };
+type LanguageOption = { locale: string; language: string; href?: string };
 
 export function LanguageSwitcher({
   currentLocale,
-  currentSection,
+  currentSection = 'home',
   label,
   options,
 }: {
   currentLocale: string;
-  currentSection: SiteSection;
+  currentSection?: SiteSection;
   label: string;
   options: LanguageOption[];
 }) {
@@ -26,7 +26,8 @@ export function LanguageSwitcher({
         value={currentLocale}
         onChange={(event) => {
           const suffix = currentSection === 'home' ? '' : `/${currentSection}`;
-          router.push(`/${event.target.value}${suffix}`);
+          const option = options.find(({ locale }) => locale === event.target.value);
+          if (option) router.push(option.href ?? `/${option.locale}${suffix}`);
         }}
       >
         {options.map((option) => (
