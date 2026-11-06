@@ -236,7 +236,7 @@ function LegalDocument({ content, kind }: { content: LocaleContent; kind: 'priva
       <header className="document-hero">
         <p className="eyebrow">{isPrivacy ? m.privacyEyebrow : m.termsEyebrow}</p>
         <h1>{isPrivacy ? m.privacyTitle : m.termsTitle}</h1>
-        <p className="effective-date">{isPrivacy ? (privacyLanguage(content.locale) === 'pt' ? 'Atualizada em 5 de novembro de 2026' : 'Updated November 5, 2026') : m.effectiveDate}</p>
+        <p className="effective-date">{isPrivacy ? (privacyLanguage(content.locale) === 'pt' ? 'Atualizada em 6 de novembro de 2026' : 'Updated November 6, 2026') : m.effectiveDate}</p>
         <p>{isPrivacy ? (privacyLanguage(content.locale) === 'pt' ? 'Privacidade no dispositivo e publicidade opcional, por versão da app.' : 'On-device privacy and optional advertising, by app version.') : m.termsIntro}</p>
         {isPrivacy && <Link className="legal-link" href="/privacy/android/">PartMirror Android · Privacy Policy (English)</Link>}
         {!isPrivacy && (

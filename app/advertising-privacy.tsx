@@ -3,7 +3,7 @@ type PolicySection = { title: string; body: string };
 const english: PolicySection[] = [
   {
     title: 'Which version this policy covers',
-    body: 'The advertising provisions below apply to the advertising-enabled iPhone edition, PartMirror iOS 1.1.3 and later, when available. iOS 1.1.2 and earlier do not include these third-party advertising SDKs; their earlier policy remains available below. Android has a separate privacy policy. This update does not mean that an advertising-enabled version has already been published.',
+    body: 'The advertising provisions below apply to the advertising-enabled iPhone edition, PartMirror iOS 1.1.3 and later, when available. iOS 1.1.2 and earlier do not include these third-party advertising SDKs; their earlier policy remains available below. Android has a separate privacy policy.',
   },
   {
     title: 'Camera, face measurements and saved looks',
@@ -11,7 +11,7 @@ const english: PolicySection[] = [
   },
   {
     title: 'Optional partner advertising',
-    body: 'The advertising-enabled edition uses Unity LevelPlay mediation, Unity advertising services (including ironSource/iSX where supplied through mediation) and Liftoff Monetize (Vungle). Where the app requires prior consent for contextual ads, it asks before initializing partner advertising. In iOS 1.1.4, users who decline that choice can review it or use Ad-Free. In other supported regions, contextual ads are available without this initial prompt. A bundled Nonlate promotion can appear when a partner banner is unavailable. Verified AdFree access removes partner advertisements and the local promotion. The app also suppresses ad requests while subscription access is unresolved.',
+    body: 'The advertising-enabled edition uses Unity LevelPlay mediation, Unity advertising services (including ironSource/iSX where supplied through mediation) and Liftoff Monetize (Vungle). PartMirror iOS 1.1.5, when available, also uses Meta Audience Network for banners. Where the app requires prior consent for contextual ads, it asks before initializing partner advertising. In iOS 1.1.4, users who decline that choice can review it or use Ad-Free. In other supported regions, contextual ads are available without this initial prompt. A bundled Nonlate promotion can appear when a partner banner is unavailable. Verified AdFree access removes partner advertisements and the local promotion. The app also suppresses ad requests while subscription access is unresolved.',
   },
   {
     title: 'Information handled by advertising services',
@@ -19,7 +19,7 @@ const english: PolicySection[] = [
   },
   {
     title: 'Advertising choice and tracking permission',
-    body: 'The choice to use contextual partner ads is separate from optional ad personalization. Versions that offer personalization ask whether you allow Unity, ironSource and Liftoff to use and share your advertising identifier and ad interactions to personalize and measure ads across companies’ apps and websites. Personalized ad requests require both that choice and Apple’s App Tracking Transparency permission. If either is absent, the app sends restrictive consent and sale/sharing signals to LevelPlay and continues with contextual ads where permitted. Refusing personalization or tracking does not affect access to the camera. To withdraw personalization, open Settings → Privacy → Ad privacy in PartMirror or turn off tracking in iOS Settings. PartMirror does not supply alternative identity tokens, email hashes or camera-derived identifiers for advertising.',
+    body: 'The choice to use contextual partner ads is separate from optional ad personalization. Versions that offer personalization ask whether you allow the advertising partners for your version to use and share your advertising identifier and ad interactions to personalize and measure ads across companies’ apps and websites. Personalized ad requests require both that choice and Apple’s App Tracking Transparency permission. If either is absent, the app sends restrictive consent and sale/sharing signals to LevelPlay and continues with contextual ads where permitted. Refusing personalization or tracking does not affect access to the camera. To withdraw personalization, open Settings → Privacy → Ad privacy in PartMirror or turn off tracking in iOS Settings. PartMirror does not supply alternative identity tokens, email hashes or camera-derived identifiers for advertising.',
   },
   {
     title: 'Withdrawing permission and retention',
@@ -38,7 +38,7 @@ const english: PolicySection[] = [
 const portuguese: PolicySection[] = [
   {
     title: 'A que versão se aplica esta política',
-    body: 'As disposições sobre publicidade abaixo aplicam-se à edição de iPhone com anúncios, PartMirror iOS 1.1.3 e posteriores, quando disponível. O iOS 1.1.2 e anteriores não incluem estes SDKs de publicidade de terceiros; a política anterior continua disponível abaixo. O Android tem uma política separada. Esta atualização não significa que a versão com anúncios já tenha sido publicada.',
+    body: 'As disposições sobre publicidade abaixo aplicam-se à edição de iPhone com anúncios, PartMirror iOS 1.1.3 e posteriores, quando disponível. O iOS 1.1.2 e anteriores não incluem estes SDKs de publicidade de terceiros; a política anterior continua disponível abaixo. O Android tem uma política separada.',
   },
   {
     title: 'Câmara, medições faciais e looks guardados',
@@ -46,7 +46,7 @@ const portuguese: PolicySection[] = [
   },
   {
     title: 'Publicidade opcional de parceiros',
-    body: 'A edição com anúncios usa a mediação Unity LevelPlay, serviços de publicidade Unity (incluindo ironSource/iSX quando fornecidos pela mediação) e Liftoff Monetize (Vungle). Onde a app exige consentimento prévio para anúncios contextuais, pergunta antes de iniciar a publicidade dos parceiros. No iOS 1.1.4, quem recusar pode rever a escolha ou usar Ad-Free. Nas outras regiões suportadas, os anúncios contextuais estão disponíveis sem esse pedido inicial. Uma promoção Nonlate incluída na app pode aparecer quando o banner de um parceiro estiver indisponível. O acesso AdFree verificado remove anúncios de parceiros e a promoção local. A app também suspende os pedidos de anúncios enquanto o acesso à subscrição não estiver resolvido.',
+    body: 'A edição com anúncios usa a mediação Unity LevelPlay, serviços de publicidade Unity (incluindo ironSource/iSX quando fornecidos pela mediação) e Liftoff Monetize (Vungle). O PartMirror para iOS 1.1.5, quando disponível, também usa a Meta Audience Network para banners. Onde a app exige consentimento prévio para anúncios contextuais, pergunta antes de iniciar a publicidade dos parceiros. No iOS 1.1.4, quem recusar pode rever a escolha ou usar Ad-Free. Nas outras regiões suportadas, os anúncios contextuais estão disponíveis sem esse pedido inicial. Uma promoção Nonlate incluída na app pode aparecer quando o banner de um parceiro estiver indisponível. O acesso AdFree verificado remove anúncios de parceiros e a promoção local. A app também suspende os pedidos de anúncios enquanto o acesso à subscrição não estiver resolvido.',
   },
   {
     title: 'Informação tratada pelos serviços de publicidade',
@@ -54,7 +54,7 @@ const portuguese: PolicySection[] = [
   },
   {
     title: 'Escolha de publicidade e permissão de rastreamento',
-    body: 'A escolha de anúncios contextuais de parceiros é separada da personalização opcional. Nas versões que oferecem personalização, a app pergunta se permites que a Unity, a ironSource e a Liftoff usem e partilhem o identificador de publicidade e as tuas interações com anúncios para personalizar e medir anúncios entre apps e sites de várias empresas. Os pedidos personalizados exigem essa escolha e a autorização App Tracking Transparency da Apple. Se faltar uma delas, a app envia ao LevelPlay sinais restritivos de consentimento e de venda ou partilha e continua a pedir anúncios contextuais onde for permitido. Recusar a personalização ou o rastreamento não altera o acesso à câmara. Para desativar a personalização, abre Definições → Privacidade → Privacidade dos anúncios no PartMirror ou desativa o rastreamento nas definições do iOS. O PartMirror não fornece tokens alternativos de identidade, hashes de email ou identificadores derivados da câmara para publicidade.',
+    body: 'A escolha de anúncios contextuais de parceiros é separada da personalização opcional. Nas versões que oferecem personalização, a app pergunta se permites que os parceiros de publicidade da tua versão usem e partilhem o identificador de publicidade e as tuas interações com anúncios para personalizar e medir anúncios entre apps e sites de várias empresas. Os pedidos personalizados exigem essa escolha e a autorização App Tracking Transparency da Apple. Se faltar uma delas, a app envia ao LevelPlay sinais restritivos de consentimento e de venda ou partilha e continua a pedir anúncios contextuais onde for permitido. Recusar a personalização ou o rastreamento não altera o acesso à câmara. Para desativar a personalização, abre Definições → Privacidade → Privacidade dos anúncios no PartMirror ou desativa o rastreamento nas definições do iOS. O PartMirror não fornece tokens alternativos de identidade, hashes de email ou identificadores derivados da câmara para publicidade.',
   },
   {
     title: 'Retirar a permissão e conservação dos dados',
@@ -94,6 +94,7 @@ export function AdvertisingPrivacy({ locale }: { locale: string }) {
             <h2>{pt ? 'Políticas dos parceiros e contacto' : 'Partner policies and contact'}</h2>
             <p><a href="https://unity.com/legal/privacy-policy">Unity / LevelPlay / ironSource</a></p>
             <p><a href="https://liftoff.io/privacy-policy/">Liftoff Monetize / Vungle</a></p>
+            <p><a href="https://www.facebook.com/privacy/policy/">Meta Audience Network (iOS 1.1.5+)</a></p>
             <p><a href="mailto:support@partmirror.com">support@partmirror.com</a></p>
           </div>
         </section>
