@@ -16,7 +16,7 @@ const sections = [
   ['Google Play subscriptions', 'Google Play processes PartMirror Ad-Free purchases, renewals, cancellation and subscription management. PartMirror uses Google Play purchase records and purchase tokens to verify, acknowledge, restore and apply ad-free access. We do not operate a purchase server, receive payment-card details or create a PartMirror account. Verified subscribers do not receive banner ads; privacy/consent services and ARCore may still process their own service data.'],
   ['Security and retention', 'Google documents encryption in transit for AdMob data (TLS) and ARCore data on Google Play devices (HTTPS). PartMirror does not receive or retain the live tracking data or your private My Looks library on our servers. Google controls retention of data collected by its services under its policies; we cannot promise automatic deletion or directly delete that service data for you. Android privacy controls and Google account privacy tools can be used to manage applicable Google data.'],
   ['Audience', 'PartMirror for Android is intended for people aged 13 and older and is not directed to children under 13.'],
-  ['Policy updates and contact', 'This policy applies to the Android app, including closed-test versions. We may update it as the app changes and will update the effective date. Questions about privacy can be sent to mite.appdev@gmail.com.'],
+  ['Policy updates and contact', 'This policy applies to the Android app, including closed-test versions. We may update it as the app changes and will update the effective date. Questions about privacy can be sent to support@partmirror.com.'],
 ];
 
 export default function AndroidPrivacyPage() {

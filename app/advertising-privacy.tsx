@@ -31,7 +31,7 @@ const english: PolicySection[] = [
   },
   {
     title: 'Website, audience and policy changes',
-    body: 'PartMirror is a general-audience utility and is not designed specifically for children. This website does not run the app’s advertising SDKs; hosting services may process ordinary request and security logs. We may update this policy when the app or its providers change. The version and platform scope above determines which advertising provisions apply. Contact the developer, Manay Mite, at mite.appdev@gmail.com for questions about PartMirror’s processing. Provider privacy policies and request channels are linked below.',
+    body: 'PartMirror is a general-audience utility and is not designed specifically for children. This website does not run the app’s advertising SDKs; hosting services may process ordinary request and security logs. We may update this policy when the app or its providers change. The version and platform scope above determines which advertising provisions apply. Contact the developer, Manay Mite, at support@partmirror.com for questions about PartMirror’s processing. Provider privacy policies and request channels are linked below.',
   },
 ];
 
@@ -66,7 +66,7 @@ const portuguese: PolicySection[] = [
   },
   {
     title: 'Site, público e alterações à política',
-    body: 'O PartMirror é uma utilidade para o público geral e não foi concebido especificamente para crianças. Este site não executa os SDKs de publicidade da app; o alojamento pode tratar registos normais de pedidos e segurança. Podemos atualizar a política quando a app ou os fornecedores mudarem. O âmbito de versão e plataforma acima determina que disposições de publicidade se aplicam. Para questões sobre o tratamento de dados pelo PartMirror, contacta o programador Manay Mite em mite.appdev@gmail.com. As políticas e os canais de pedidos dos fornecedores estão ligados abaixo.',
+    body: 'O PartMirror é uma utilidade para o público geral e não foi concebido especificamente para crianças. Este site não executa os SDKs de publicidade da app; o alojamento pode tratar registos normais de pedidos e segurança. Podemos atualizar a política quando a app ou os fornecedores mudarem. O âmbito de versão e plataforma acima determina que disposições de publicidade se aplicam. Para questões sobre o tratamento de dados pelo PartMirror, contacta o programador Manay Mite em support@partmirror.com. As políticas e os canais de pedidos dos fornecedores estão ligados abaixo.',
   },
 ];
 
@@ -94,7 +94,7 @@ export function AdvertisingPrivacy({ locale }: { locale: string }) {
             <h2>{pt ? 'Políticas dos parceiros e contacto' : 'Partner policies and contact'}</h2>
             <p><a href="https://unity.com/legal/privacy-policy">Unity / LevelPlay / ironSource</a></p>
             <p><a href="https://liftoff.io/privacy-policy/">Liftoff Monetize / Vungle</a></p>
-            <p><a href="mailto:mite.appdev@gmail.com">mite.appdev@gmail.com</a></p>
+            <p><a href="mailto:support@partmirror.com">support@partmirror.com</a></p>
           </div>
         </section>
       </div>
