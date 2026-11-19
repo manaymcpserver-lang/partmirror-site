@@ -1,10 +1,12 @@
 export type Guide = {
-  topic: 'middle' | 'side' | 'change' | 'compare' | 'iphone' | 'curly' | 'box-braids';
+  topic: 'middle' | 'side' | 'change' | 'compare' | 'iphone' | 'curly' | 'box-braids'
+    | 'natural' | 'zigzag' | 'diagonal' | 'cornrows' | 'side-ponytail';
   slug: string;
   title: string;
   description: string;
   updatedOn?: string;
   showAppDownload?: boolean;
+  relatedTopics?: Guide['topic'][];
   sections: { heading: string; paragraphs: string[] }[];
   faqs: { question: string; answer: string }[];
   sources?: { label: string; url: string }[];

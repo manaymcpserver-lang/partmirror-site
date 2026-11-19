@@ -80,6 +80,9 @@ export function GuideIndex({ locale }: { locale: string }) {
 
 export function GuideArticle({ locale, guide }: { locale: string; guide: Guide }) {
   const { messages, guides } = guideEdition(locale);
+  const related = guides.filter((item) =>
+    item.topic !== guide.topic && (guide.relatedTopics?.includes(item.topic) ?? true),
+  );
   return (
     <GuideFrame locale={locale}>
       <article className="document-page">
@@ -123,7 +126,7 @@ export function GuideArticle({ locale, guide }: { locale: string; guide: Guide }
           <nav aria-labelledby="related-guides-title">
             <h2 id="related-guides-title">{messages.more}</h2>
             <ul className="guide-links">
-              {guides.filter((item) => item.slug !== guide.slug).map((item) => (
+              {related.map((item) => (
                 <li key={item.slug}><Link href={guidePath(locale, item.slug)}>{item.title}</Link></li>
               ))}
             </ul>
