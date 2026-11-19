@@ -35,11 +35,14 @@ export function localeContent(locale: string): LocaleContent {
 }
 
 export function sectionPath(locale: string, section: SiteSection): string {
-  return section === 'home' ? `/${locale}` : `/${locale}/${section}`;
+  if (section === 'home') return locale === 'en-US' ? '/' : `/${locale}/`;
+  return `/${locale}/${section}`;
 }
 
 export function languageAlternates(section: SiteSection): Record<string, string> {
-  return Object.fromEntries(
+  const alternates = Object.fromEntries(
     supportedLocales.map((locale) => [locale, `https://partmirror.com${sectionPath(locale, section)}`]),
   );
+  if (section === 'home') alternates['x-default'] = alternates['en-US'];
+  return alternates;
 }

@@ -11,10 +11,11 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   if (!isSupportedLocale(locale)) return {};
   const content = localeContent(locale);
+  const languages = languageAlternates('home');
   return {
     title: content.appName,
     description: content.promotionalText,
-    alternates: { canonical: `/${locale}`, languages: languageAlternates('home') },
+    alternates: { canonical: languages[locale], languages },
   };
 }
 
