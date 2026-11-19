@@ -3,19 +3,23 @@ import Link from 'next/link';
 import { AppStoreBadge } from './app-store-badge';
 import { localeContent } from './content';
 import type { Guide } from './guide-content';
-import { defaultGuideLocale, guideEdition, guideLocales, guidePath, guidePathForTopic } from './guide-catalog';
+import { defaultGuideLocale, guideEdition, guideLocalesForTopic, guidePath, guidePathForTopic } from './guide-catalog';
 import { LanguageSwitcher } from './language-switcher';
 import { SiteFooter, SiteHeader } from './site-content';
 
 export function guideMetadata(locale: string, guide?: Guide): Metadata {
   const { title, description } = guide ?? guideEdition(locale).messages;
   const url = guidePath(locale, guide?.slug);
-  const languages = Object.fromEntries(guideLocales.map((language) => [language, guidePathForTopic(language, guide?.topic)]));
+  const locales = guideLocalesForTopic(guide?.topic);
+  const languages = Object.fromEntries(locales.map((language) => [language, guidePathForTopic(language, guide?.topic)]));
 
   return {
     title,
     description,
-    alternates: { canonical: url, languages: { ...languages, 'x-default': languages[defaultGuideLocale] } },
+    alternates: {
+      canonical: url,
+      languages: locales.length > 1 ? { ...languages, 'x-default': languages[defaultGuideLocale] } : undefined,
+    },
     openGraph: { title, description, url, type: guide ? 'article' : 'website', siteName: 'PartMirror' },
   };
 }
@@ -32,13 +36,15 @@ function GuideFrame({ locale, children }: { locale: string; children: React.Reac
 }
 
 function GuideLanguagePicker({ locale, topic }: { locale: string; topic?: Guide['topic'] }) {
+  const locales = guideLocalesForTopic(topic);
+  if (locales.length < 2) return null;
   const content = localeContent(locale);
   return (
     <div className="guide-language">
       <LanguageSwitcher
         currentLocale={locale}
         label={content.messages.languageLabel}
-        options={guideLocales.map((language) => ({
+        options={locales.map((language) => ({
           locale: language, language: localeContent(language).language, href: guidePathForTopic(language, topic),
         }))}
       />
@@ -107,11 +113,13 @@ export function GuideArticle({ locale, guide }: { locale: string; guide: Guide }
               </ul>
             </section>
           ) : null}
-          <aside className="guide-download" aria-labelledby="guide-download-title">
-            <h2 id="guide-download-title">{messages.download}</h2>
-            <p>{messages.downloadText}</p>
-            <AppStoreBadge locale={locale} />
-          </aside>
+          {guide.showAppDownload !== false && (
+            <aside className="guide-download" aria-labelledby="guide-download-title">
+              <h2 id="guide-download-title">{messages.download}</h2>
+              <p>{messages.downloadText}</p>
+              <AppStoreBadge locale={locale} />
+            </aside>
+          )}
           <nav aria-labelledby="related-guides-title">
             <h2 id="related-guides-title">{messages.more}</h2>
             <ul className="guide-links">

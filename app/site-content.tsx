@@ -22,7 +22,11 @@ function GuidesLink({ locale }: { locale: string }) {
 export function SiteHeader({ content, section }: { content: LocaleContent; section?: SiteSection }) {
   const m = content.messages;
   const locale = content.locale;
-  const options = supportedLocales.map((key) => ({ locale: key, language: locales[key].language }));
+  const options = supportedLocales.map((key) => ({
+    locale: key,
+    language: locales[key].language,
+    href: sectionPath(key, section ?? 'home'),
+  }));
 
   return (
     <header className="site-header">
@@ -76,7 +80,7 @@ function Home({ content }: { content: LocaleContent }) {
     <>
       <section className="hero">
         <div className="hero-copy">
-          <p className="eyebrow">{m.eyebrow}</p>
+          <p className="eyebrow">{content.locale === 'en-US' ? 'Live hair parting guide for iPhone' : m.eyebrow}</p>
           <h1>{m.headlineOne}<br />{m.headlineTwo}</h1>
           <p className="lede">{content.promotionalText}</p>
           <div className="hero-actions">

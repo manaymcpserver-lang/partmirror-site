@@ -2,6 +2,7 @@ import { isSupportedLocale, supportedLocales } from './content';
 import { guides, type Guide } from './guide-content';
 import { guidesPt } from './guide-content-pt';
 import translations from './guide-translations.json';
+import { usGuides } from './guide-content-us';
 
 const english = {
   title: 'Hair Parting Guides',
@@ -26,7 +27,16 @@ type Edition = { messages: typeof english; guides: Guide[] };
 export const defaultGuideLocale = 'en-US';
 export const guideLocales = supportedLocales;
 
+const usEdition: Edition = {
+  messages: {
+    ...english,
+    description: 'Learn to make a straight middle part, try a side part, part curly hair for volume, or section your own hair for box braids.',
+  },
+  guides: [...guides, ...usGuides],
+};
+
 export function guideEdition(locale: string): Edition {
+  if (locale === defaultGuideLocale) return usEdition;
   if (locale.startsWith('en-')) return { messages: english, guides };
   if (locale === 'pt-PT') return { messages: portuguese, guides: guidesPt };
   if (!Object.hasOwn(translations, locale)) throw new Error(`Missing guide edition: ${locale}`);
@@ -46,6 +56,11 @@ export function guideForEntry(entry: string) {
   if (entry !== defaultGuideLocale && isSupportedLocale(entry)) return { locale: entry };
   const guide = getGuide(defaultGuideLocale, entry);
   return guide ? { locale: defaultGuideLocale, guide } : undefined;
+}
+
+export function guideLocalesForTopic(topic?: Guide['topic']) {
+  if (!topic) return guideLocales;
+  return guideLocales.filter((locale) => guideEdition(locale).guides.some((guide) => guide.topic === topic));
 }
 
 export function guidePathForTopic(locale: string, topic?: Guide['topic']) {

@@ -1,8 +1,10 @@
 export type Guide = {
-  topic: 'middle' | 'side' | 'change' | 'compare' | 'iphone';
+  topic: 'middle' | 'side' | 'change' | 'compare' | 'iphone' | 'curly' | 'box-braids';
   slug: string;
   title: string;
   description: string;
+  updatedOn?: string;
+  showAppDownload?: boolean;
   sections: { heading: string; paragraphs: string[] }[];
   faqs: { question: string; answer: string }[];
   sources?: { label: string; url: string }[];
@@ -12,8 +14,9 @@ export const guides: Guide[] = [
   {
     topic: 'middle',
     slug: 'how-to-part-your-hair-in-the-middle',
-    title: 'How to part your hair in the middle',
-    description: 'Use a mirror and a comb to find your center line, make a middle part, and adjust it to the way your hair naturally falls.',
+    title: 'How to part your hair straight down the middle',
+    description: 'Find your center line, make a straight middle part, and see how to extend it down the back for braids or pigtails.',
+    updatedOn: '2026-11-19',
     sections: [
       {
         heading: 'Find the starting point at your hairline',
@@ -27,6 +30,13 @@ export const guides: Guide[] = [
         paragraphs: [
           'With a tail comb, follow your center line gently from the hairline toward the crown. Lift the hair to each side as you go, then smooth it away from the part. For a softer line or curls that already fall in clumps, make the same separation with a fingertip and move whole clumps where you can.',
           'Check from the front and with a second mirror or a photo from slightly above. If one section crosses the part, move that section on its own. A short, clear line at the front may be all you need for the look you want.',
+        ],
+      },
+      {
+        heading: 'Part the back of your hair down the middle',
+        paragraphs: [
+          'If you need two sections for braids or pigtails, angle a second mirror so you can see your crown and nape. Clip one side where the front part ends. Find the middle of your nape and trace upward to meet the part at the crown.',
+          'Clip the other side and look at where the two lines meet. If they meet at an angle, reopen just that short stretch and move the strands that cross it. Check from behind before tying both sides.',
         ],
       },
       {
@@ -81,7 +91,8 @@ export const guides: Guide[] = [
     topic: 'change',
     slug: 'how-to-change-your-hair-part',
     title: 'How to change your hair part',
-    description: 'Try a different hair part over two days, see how it settles, and adjust the line around a cowlick if your roots keep reopening.',
+    description: 'Try a new hair part and learn how to work around a cowlick at the front or crown when your old part keeps reopening.',
+    updatedOn: '2026-11-19',
     sections: [
       {
         heading: 'Choose where you want the new part to sit',
@@ -98,9 +109,10 @@ export const guides: Guide[] = [
         ],
       },
       {
-        heading: 'Work around a cowlick',
+        heading: 'How to part your hair with a cowlick',
         paragraphs: [
-          'A cowlick is a patch where the roots grow in a different direction from the nearby hair. Lift the section gently, let it settle, and see where the hair opens. If the cowlick sits at the front, try starting the new part near that opening. If it is at the crown, keep your preferred starting point at the hairline and let the back of the part bend toward the natural separation.',
+          'A cowlick is a patch where the roots grow in a different direction from the nearby hair. Lift the section gently, let it settle, and see where the hair opens. For a cowlick at the front, make a short test part beside that opening. Release the front pieces and see whether the new part holds or a second line opens. If you see two lines, move your starting point closer to the natural opening and check again.',
+          'For a cowlick at the crown, start the part where you want it at your hairline. As you get near the whorl, let the line bend toward the opening or end the part just before the whorl. Check the result from above with a second mirror or a photo.',
           'PartMirror can help you repeat the same offset and compare saved photos. Use the guide as a reference, then see how your actual hair settles around the cowlick.',
         ],
       },
@@ -152,8 +164,9 @@ export const guides: Guide[] = [
   {
     topic: 'iphone',
     slug: 'free-hair-parting-app-for-iphone',
-    title: 'A free hair-parting guide app for iPhone',
-    description: 'Use PartMirror’s live guide to position a middle, left, or right hair part and save looks to compare on a compatible iPhone.',
+    title: 'How to use PartMirror’s live hair parting guide',
+    description: 'Set up PartMirror on iPhone, choose a guide shape, and save photos to compare your middle, left, or right hair parts.',
+    updatedOn: '2026-11-19',
     sections: [
       {
         heading: 'See where a part would sit before using your comb',
