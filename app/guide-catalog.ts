@@ -30,7 +30,7 @@ export const guideLocales = supportedLocales;
 const usEdition: Edition = {
   messages: {
     ...english,
-    description: 'Learn to make a straight middle part, try a side part, part curly hair for volume, or section your own hair for box braids.',
+    description: 'Find your natural hair part, try a middle, side, or zigzag part, and learn to section your hair for box braids or cornrows.',
   },
   guides: [...guides, ...usGuides],
 };
