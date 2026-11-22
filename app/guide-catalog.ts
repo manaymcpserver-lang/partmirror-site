@@ -35,9 +35,12 @@ const usEdition: Edition = {
   guides: [...guides, ...usGuides],
 };
 
+const allLocaleTopics = ['natural', 'curly', 'box-braids'];
+const sharedEnglishGuides = [...guides, ...usGuides.filter(({ topic }) => allLocaleTopics.includes(topic))];
+
 export function guideEdition(locale: string): Edition {
   if (locale === defaultGuideLocale) return usEdition;
-  if (locale.startsWith('en-')) return { messages: english, guides };
+  if (locale.startsWith('en-')) return { messages: english, guides: sharedEnglishGuides };
   if (locale === 'pt-PT') return { messages: portuguese, guides: guidesPt };
   if (!Object.hasOwn(translations, locale)) throw new Error(`Missing guide edition: ${locale}`);
   return (translations as Record<string, Edition>)[locale];
