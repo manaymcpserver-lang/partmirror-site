@@ -178,4 +178,156 @@ export const guidesPt: Guide[] = [
       { label: 'PartMirror na App Store · Funcionalidades e compatibilidade', url: 'https://apps.apple.com/pt/app/id6806834490' },
     ],
   },
+  {
+    "topic": "natural",
+    "slug": "como-encontrar-a-risca-natural",
+    "title": "Como encontrar a risca natural do cabelo",
+    "description": "Vê onde o cabelo se separa sozinho junto à testa e encontra a risca que se mantém com menos retoques.",
+    "updatedOn": "2026-11-22",
+    "relatedTopics": [
+      "change",
+      "side",
+      "curly"
+    ],
+    "sections": [
+      {
+        "heading": "Observa onde o cabelo se separa junto à testa",
+        "paragraphs": [
+          "Comece com o cabelo acabado de lavar ou com a raiz ligeiramente humedecida em redor da madeixa habitual. Retire todos os ganchos e use os dedos para afastar o cabelo da testa. Empurre-o suavemente para a frente e deixe-o cair. Procure o local junto à linha do cabelo onde as raízes começam a separar-se.",
+          "Repita o movimento uma ou duas vezes. Se a mesma abertura continuar a aparecer, trace o primeiro centímetro dessa linha com o dedo e veja onde as raízes querem ir mais para trás. Com caracóis ou espirais, mova o cabelo pela raiz e deixe os comprimentos assentarem em tufos."
+        ]
+      },
+      {
+        "heading": "Verifique se o seu estilo habitual está a segurar a parte antiga",
+        "paragraphs": [
+          "Se secar sempre o cabelo no mesmo local, verifique novamente após a lavagem antes de o prender com ganchos ou produto. Deixe-o assentar com a cabeça erguida. Uma linha que permanece visível depois de soltar o cabelo pode ser mais fácil de usar do que uma que fecha assim que o solta.",
+          "Se vir duas aberturas, teste uma de cada vez. Faça uma pequena parte na frente, deixe as raízes secarem e compare a facilidade com que cada lado fica no lugar durante o dia."
+        ]
+      },
+      {
+        "heading": "Dê espaço ao cabelo para acompanhar o giro da coroa",
+        "paragraphs": [
+          "A linha do cabelo e a coroa podem puxar em diferentes direções. Mantenha a abertura desejada na frente e deixe a linha curvar ou terminar à medida que se aproxima do verticilo. Uma foto logo acima pode ajudá-lo a ver como as duas áreas se ligam."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "O cabelo pode ter mais do que uma parte natural?",
+        "answer": "Sim. Poderá ver alguns locais onde as raízes se separam facilmente. Experimente cada um e veja qual mantém o formato desejado com menos estilo."
+      },
+      {
+        "question": "Devo dividir o cabelo à esquerda ou à direita?",
+        "answer": "Teste os dois lados. Veja qual a linha que fica aberta quando solta o cabelo e qual a direção que dá a varredura ou sustentação desejada."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Colega Barbeiro sobre como encontrar uma peça que siga o seu topete",
+        "url": "https://www.fellowbarber.com/blogs/read/use-your-cowlick-to-determine-your-part"
+      }
+    ]
+  },
+  {
+    "topic": "curly",
+    "slug": "como-fazer-a-risca-em-cabelo-encaracolado",
+    "title": "Como fazer a risca em cabelo encaracolado",
+    "description": "Faz a risca ao meio ou ao lado sem desfazer os caracóis. Confirma a posição e o volume depois de as raízes secarem.",
+    "updatedOn": "2026-11-22",
+    "sections": [
+      {
+        "heading": "Comece com o cabelo húmido para uma parte mais definida",
+        "paragraphs": [
+          "Depois de desembaraçar, deixe os caracóis assentarem e procure a abertura perto da linha do cabelo. Utilize a ponta do dedo para separar as raízes, um pequeno trecho de cada vez. Se um caracol cruzar a linha, mova toda a madeixa para o lado onde cai mais facilmente.",
+          "Para uma linha mais nítida, trace-a com a ponta lisa de um pente e, em seguida, utilize os dedos para colocar os caracóis de cada lado. Uma parte curta perto da frente pode emoldurar o seu rosto enquanto deixa os caracóis da parte superior juntos."
+        ]
+      },
+      {
+        "heading": "Experimente uma risca lateral para mais suporte nas raízes",
+        "paragraphs": [
+          "Comece fora do centro e levante alguns caracóis para o lado mais cheio. Experimente o mesmo movimento do outro lado e deixe o cabelo assentar antes de decidir. Também pode afastar um pouco a parte da sua abertura normal para ver se as raízes ficam mais em pé.",
+          "Aguarde até que as raízes estejam secas antes de avaliar o formato. Se o lado mais cheio cair sobre o rosto, mova o ponto de partida um pouco mais perto do centro ou prenda um caracol frontal atrás da orelha."
+        ]
+      },
+      {
+        "heading": "Faça uma parte do meio sem perder o padrão de ondulação",
+        "paragraphs": [
+          "Coloque-se de frente para um espelho com a cabeça nivelada e alinhe o início da madeixa com o espaço entre as sobrancelhas. Abra a linha com a ponta dos dedos. Se uma moita perto da coroa quiser cair sobre ela, deixe a frente centrada e deixe a linha suavizar mais para trás.",
+          "Entre lavagens, pulverize apenas as raízes em redor da peça, se resistirem ao movimento. Deixe-os secar novamente antes de verificar se a nova colocação se mantém."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Deve separar o cabelo encaracolado molhado ou seco?",
+        "answer": "Use o cabelo húmido quando quiser redefinir a linha durante a modelação. Em caracóis secos, use os dedos para deslocar tufos inteiros se apenas quiser mudar a forma ou adicionar suporte."
+      },
+      {
+        "question": "Como se separa o cabelo encaracolado sem pente?",
+        "answer": "Utilize a ponta do dedo para abrir as raízes em secções curtas. Mova cada moita como uma unidade e pare onde os cachos começam a passar pela linha."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Dicas da Academia Americana de Dermatologia para cuidar do cabelo encaracolado",
+        "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/curly-hair-care"
+      }
+    ],
+    "relatedTopics": [
+      "natural",
+      "middle",
+      "side"
+    ]
+  },
+  {
+    "topic": "box-braids",
+    "slug": "como-dividir-o-cabelo-para-box-braids",
+    "title": "Como dividir o cabelo para fazer box braids",
+    "description": "Usa dois espelhos e um pente de cabo fino para separar o cabelo em filas a partir da nuca e dividir cada fila em quadrados.",
+    "showAppDownload": false,
+    "updatedOn": "2026-11-22",
+    "sections": [
+      {
+        "heading": "Prepara dois espelhos e prende o cabelo por secções",
+        "paragraphs": [
+          "Reúna um pente de cauda liso, clipes de corte e um segundo espelho. Coloque o segundo espelho onde consiga ver a parte de trás da sua cabeça no primeiro espelho e ainda assim mantenha as duas mãos livres. Toque num dos lados da cabeça para verificar em que direção a sua mão se move no reflexo.",
+          "Desembarace o cabelo, divida-o em madeixas manejáveis e prenda as madeixas acima da nuca para fora do caminho. Decida se quer tranças mais pequenas ou maiores. Utilize a quantidade de cabelo da primeira caixa como referência para as próximas secções."
+        ]
+      },
+      {
+        "heading": "Separe uma fileira na nuca",
+        "paragraphs": [
+          "Utilize a pega pontiaguda de um pente para criar uma divisão horizontal logo acima da nuca. Comece no centro e desenhe a linha para um lado e repita do outro lado. Utilize um gancho de cabelo para segurar a parte superior do cabelo no lugar. Olhe para as duas extremidades da linha nos espelhos.",
+          "Se a fila cair ou subir de um dos lados, segure o cabelo acima dela e refaça esse pequeno trecho. Utilize o pente para mover quaisquer fios perdidos de volta para a sua secção antes de dividir a linha em caixas."
+        ]
+      },
+      {
+        "heading": "Divida a linha em caixas e trabalhe para cima",
+        "paragraphs": [
+          "Marque o centro da linha para planear como as caixas caberão em cada lado. Utilize peças verticais curtas para fazer as caixas. Se a última secção for uma madeixa fina, ajuste as divisórias anteriores para que as secções na borda tenham cabelo suficiente para entrançar confortavelmente.",
+          "Prenda cada secção solta com um clipe ou faça uma trança antes de abrir a linha seguinte. Para uma grelha alinhada, coloque as divisórias da linha seguinte acima das que se encontram abaixo. Para um padrão escalonado, coloque uma divisória acima do meio de uma caixa na linha abaixo. Verifique o layout quando chegar à parte mais larga da cabeça, onde pode haver espaço para outra caixa."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Como vê a parte de trás do seu cabelo ao separá-lo?",
+        "answer": "Incline um espelho atrás de si para que o seu reflexo seja visível num espelho à sua frente. Uma foto por trás também ajuda a verificar uma linha inteira antes de a entrançar."
+      },
+      {
+        "question": "Todas as caixas têm de ter o mesmo tamanho?",
+        "answer": "Procure uma quantidade semelhante de cabelo por trança. Ajuste a largura de uma caixa em que o seu cabelo seja mais denso ou mais fino, especialmente à volta da linha do cabelo."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Tutorial de PATTERN Beauty para fazer box braids em si",
+        "url": "https://patternbeauty.com/blogs/news/how-to-do-box-braids-on-yourself"
+      }
+    ],
+    "relatedTopics": [
+      "curly",
+      "middle"
+    ]
+  },
 ];
