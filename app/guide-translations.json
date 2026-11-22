@@ -1717,7 +1717,7 @@
   "es-ES": {
     "messages": {
       "title": "Guías para hacer la raya del pelo",
-      "description": "Aprenda a hacer una raya media recta, pruebe con una raya lateral o cambie su raya con técnicas simples que puede usar en casa.",
+      "description": "Aprende a encontrar tu raya natural, hacer la raya en medio o al lado y preparar el pelo para box braids.",
       "brand": "PartMirror guías",
       "nav": "Guías de peinado",
       "questions": "Preguntas comunes",
@@ -1954,6 +1954,157 @@
           {
             "question": "¿PartMirror recomienda una raya en el cabello según la forma de mi cara?",
             "answer": "PartMirror muestra la ubicación que eliges en la cámara en vivo. Puedes utilizar esas referencias para probar y comparar las despedidas que te gusten."
+          }
+        ]
+      },
+      {
+        "topic": "natural",
+        "slug": "como-encontrar-la-raya-natural-del-pelo",
+        "title": "Cómo encontrar la raya natural del pelo",
+        "description": "Descubre dónde se separa el pelo por sí solo y comprueba qué raya se mantiene cuando sueltas las raíces.",
+        "updatedOn": "2026-11-22",
+        "relatedTopics": [
+          "change",
+          "side",
+          "curly"
+        ],
+        "sections": [
+          {
+            "heading": "Observa dónde se abre el pelo junto a la frente",
+            "paragraphs": [
+              "Quita las pinzas y humedece un poco las raíces si la raya de siempre sigue muy marcada. Lleva el pelo hacia atrás con los dedos y empújalo suavemente hacia delante con la palma. Suéltalo con la cabeza erguida y fíjate en el primer hueco que aparece en el nacimiento del pelo.",
+              "Repite el movimiento un par de veces. Si el hueco aparece en el mismo sitio, abre con un dedo los primeros centímetros de la raya. Comprueba si el pelo sigue separándose por esa línea hacia atrás. Si tienes rizos, mueve las raíces con los dedos y deja que los mechones caigan juntos."
+            ]
+          },
+          {
+            "heading": "Distingue la raya natural de la que haces al peinarte",
+            "paragraphs": [
+              "Si siempre te secas el pelo con la raya en el mismo sitio, repite la prueba después de lavarlo y antes de usar productos de fijación. Si aparecen dos líneas, prueba una cada vez. Deja secar las raíces y comprueba cuál sigue abierta sin que tengas que recolocar los mechones."
+            ]
+          },
+          {
+            "heading": "Deja que la raya se adapte al remolino de la coronilla",
+            "paragraphs": [
+              "El pelo puede abrirse en un sitio delante y girar en otra dirección en la coronilla. Conserva el punto de partida que te gusta y deja que la línea se curve un poco o termine antes del remolino. Una foto tomada desde arriba te ayudará a ver dónde cambia de dirección."
+            ]
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Puedo tener más de una raya natural?",
+            "answer": "Sí. El pelo puede separarse con facilidad en varios puntos. Prueba cada uno y fíjate en cuál conserva la forma que quieres con menos retoques."
+          },
+          {
+            "question": "¿Cómo sé si me va mejor la raya a la izquierda o a la derecha?",
+            "answer": "Prueba ambos lados. Suelta el pelo y compara qué raya se mantiene abierta y hacia dónde caen los mechones de delante."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Manual de peluquería del Departamento de Educación de Sudáfrica (en inglés)",
+            "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=d3UAQztuLV0%3D&mid=10805&portalid=0&tabid=3214"
+          }
+        ]
+      },
+      {
+        "topic": "curly",
+        "slug": "como-hacer-la-raya-en-pelo-rizado",
+        "title": "Cómo hacer la raya en el pelo rizado",
+        "description": "Hazte la raya en medio o al lado, conserva la forma de los rizos y ajusta el volumen cuando se sequen las raíces.",
+        "updatedOn": "2026-11-22",
+        "relatedTopics": [
+          "natural",
+          "middle",
+          "side"
+        ],
+        "sections": [
+          {
+            "heading": "Separa el pelo húmedo para dibujar una raya más definida",
+            "paragraphs": [
+              "Una vez desenredado el pelo, deja que los rizos caigan y busca una abertura cerca de la frente. Separa las raíces con la punta del dedo, por tramos cortos. Si un rizo cruza la línea, llévalo entero al lado donde cae con menos tensión.",
+              "Para marcar más la raya, dibújala con la punta lisa de un peine de cola y coloca los rizos con los dedos. Si solo quieres despejar los mechones de delante, basta con una raya corta. Así los rizos de la coronilla conservan su forma."
+            ]
+          },
+          {
+            "heading": "Prueba la raya al lado para dar volumen a las raíces",
+            "paragraphs": [
+              "Empieza un poco a un lado del centro y pasa unos cuantos rizos al lado donde queda más pelo. Repite la prueba en el otro lado y deja que se asienten. Si buscas más altura, desplaza la raya un poco con respecto a la abertura habitual.",
+              "Espera a que se sequen las raíces antes de valorar el resultado. Si los rizos te caen sobre los ojos, acerca la raya al centro o sujeta un mechón detrás de la oreja."
+            ]
+          },
+          {
+            "heading": "Haz una raya en medio sin deshacer los rizos",
+            "paragraphs": [
+              "Colócate frente al espejo con la cabeza recta y alinea el comienzo de la raya con el punto entre las cejas. Ábrela con los dedos. Si un rizo en la coronilla cruza la separación, puedes dejar la parte delantera centrada y hacer la parte de atrás menos marcada.",
+              "Entre lavados, humedece solo las raíces que quieras recolocar. Deja que vuelvan a secarse para comprobar si la raya se mantiene."
+            ]
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Es mejor hacer la raya con el pelo rizado húmedo o seco?",
+            "answer": "El pelo húmedo facilita volver a trazar la raya. Con el pelo seco, mueve rizos enteros con los dedos si solo quieres cambiar la caída o ganar algo de volumen."
+          },
+          {
+            "question": "¿Cómo hago la raya en el pelo rizado sin peine?",
+            "answer": "Abre las raíces con un dedo por tramos cortos y desplaza cada rizo entero. Termina la raya donde los mechones empiecen a tirar de un lado a otro."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Consejos de la Academia Americana de Dermatología para el pelo rizado (en inglés)",
+            "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/curly-hair-care"
+          }
+        ]
+      },
+      {
+        "topic": "box-braids",
+        "slug": "como-dividir-el-pelo-para-box-braids",
+        "title": "Cómo dividir el pelo para hacerte box braids",
+        "description": "Usa dos espejos, un peine de cola y pinzas para trazar filas desde la nuca y dividirlas en secciones para trenzar.",
+        "updatedOn": "2026-11-22",
+        "showAppDownload": false,
+        "relatedTopics": [
+          "curly",
+          "middle"
+        ],
+        "sections": [
+          {
+            "heading": "Coloca los espejos y prepara el pelo",
+            "paragraphs": [
+              "Coloca un espejo detrás de ti y ajusta el ángulo hasta que veas la nuca en el espejo de delante. Deja ambos espejos apoyados para tener las manos libres. Toca un lado de la cabeza para orientarte en el reflejo.",
+              "Desenreda el pelo por secciones, recoge con pinzas la parte de arriba y deja libre una franja en la nuca. Decide el grosor de las trenzas y usa la cantidad de pelo de la primera sección como referencia para las siguientes."
+            ]
+          },
+          {
+            "heading": "Traza la primera fila en la nuca",
+            "paragraphs": [
+              "Dibuja una raya horizontal con la cola del peine. Empieza en el centro y avanza hacia un lado. Vuelve al centro y traza la otra mitad. Sujeta el pelo que queda por encima para poder comparar los dos extremos de la fila.",
+              "Si uno queda más alto que el otro, corrige ese tramo. Aparta los pelos que crucen la raya antes de dividir la fila."
+            ]
+          },
+          {
+            "heading": "Haz los cuadrados y organiza la fila siguiente",
+            "paragraphs": [
+              "Marca el centro de la fila y haz rayas verticales cortas para formar los cuadrados. Si junto a la oreja queda una sección demasiado estrecha, reparte ese espacio entre los últimos cuadrados. Ajusta su tamaño según la densidad del pelo y evita apretar las raíces al trenzar.",
+              "Sujeta o trenza cada sección antes de abrir otra fila. Para una cuadrícula, traza las divisiones sobre las de abajo. Para un patrón alternado, haz que cada división coincida con el centro de un cuadrado de la fila anterior. Revisa cuántas secciones caben a medida que la cabeza se ensancha."
+            ]
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Cómo me veo la nuca para hacer las divisiones?",
+            "answer": "Usa un espejo fijo delante y otro detrás. Si te cuesta comprobar si una fila está recta, haz una foto desde atrás antes de trenzar."
+          },
+          {
+            "question": "¿Todas las secciones deben tener el mismo tamaño?",
+            "answer": "Busca una cantidad de pelo parecida en cada trenza. Puedes dejar secciones algo más anchas en las zonas menos densas."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Tutorial de PATTERN Beauty para hacerte box braids (en inglés)",
+            "url": "https://patternbeauty.com/blogs/news/how-to-do-box-braids-on-yourself"
           }
         ]
       }
@@ -2697,7 +2848,7 @@
   "fr-FR": {
     "messages": {
       "title": "Guides pour tracer sa raie",
-      "description": "Apprenez à faire une raie droite au milieu, essayez une raie sur le côté ou changez votre raie avec des techniques simples que vous pouvez utiliser à la maison.",
+      "description": "Trouvez votre raie naturelle, essayez la raie au milieu ou sur le côté et apprenez à préparer vos cheveux pour des box braids.",
       "brand": "Guides PartMirror",
       "nav": "Guides coiffure",
       "questions": "Questions courantes",
@@ -2934,6 +3085,157 @@
           {
             "question": "Est-ce que PartMirror recommande une raie des cheveux en fonction de la forme de mon visage ?",
             "answer": "PartMirror affiche l'emplacement que vous choisissez dans la caméra en direct. Vous pouvez utiliser ces références pour tester et comparer les séparations que vous aimez sur vous-même."
+          }
+        ]
+      },
+      {
+        "topic": "natural",
+        "slug": "comment-trouver-sa-raie-naturelle",
+        "title": "Comment trouver sa raie naturelle",
+        "description": "Repérez l’endroit où vos cheveux se séparent spontanément et vérifiez si la raie tient une fois les racines sèches.",
+        "updatedOn": "2026-11-22",
+        "relatedTopics": [
+          "change",
+          "side",
+          "curly"
+        ],
+        "sections": [
+          {
+            "heading": "Repérez la séparation à la naissance des cheveux",
+            "paragraphs": [
+              "Retirez les pinces et humidifiez légèrement les racines si votre raie habituelle est encore bien marquée. Ramenez les cheveux vers l’arrière avec les doigts, puis poussez-les doucement vers l’avant avec la paume. Relâchez-les en gardant la tête droite. Regardez où ils commencent à se séparer près du front.",
+              "Refaites le geste deux fois. Si la même ouverture revient, suivez-la du bout du doigt sur quelques centimètres, puis observez la direction des racines plus loin. Sur cheveux bouclés ou crépus, bougez les mèches à la racine et laissez les longueurs retomber ensemble."
+            ]
+          },
+          {
+            "heading": "Vérifiez si votre coiffage maintient l’ancienne raie",
+            "paragraphs": [
+              "Si vous séchez toujours vos cheveux avec la raie au même endroit, refaites le test après le shampoing, avant de poser des pinces ou du gel. Si deux séparations apparaissent, essayez-les l’une après l’autre. Laissez sécher les racines et observez laquelle reste en place au fil de la journée."
+            ]
+          },
+          {
+            "heading": "Suivez l’implantation des cheveux au sommet du crâne",
+            "paragraphs": [
+              "Un épi peut dévier la raie vers l’arrière. Gardez le départ qui vous plaît au niveau du front, puis laissez la ligne s’incurver ou s’arrêter juste avant l’épi. Prenez une photo du dessus pour voir où la raie change de direction."
+            ]
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Peut-on avoir plusieurs raies naturelles ?",
+            "answer": "Oui. Les racines peuvent se séparer facilement à plusieurs endroits. Essayez chaque emplacement et voyez lequel demande le moins de retouches."
+          },
+          {
+            "question": "De quel côté porter sa raie ?",
+            "answer": "Essayez les deux côtés et relâchez vos cheveux. Comparez la tenue de chaque raie et regardez comment les mèches encadrent votre visage."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Manuel de coiffure du ministère sud-africain de l’Éducation (en anglais)",
+            "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=d3UAQztuLV0%3D&mid=10805&portalid=0&tabid=3214"
+          }
+        ]
+      },
+      {
+        "topic": "curly",
+        "slug": "comment-faire-une-raie-sur-cheveux-boucles",
+        "title": "Comment faire une raie sur cheveux bouclés",
+        "description": "Tracez votre raie au milieu ou sur le côté, gardez vos boucles bien dessinées et ajustez le volume à la racine.",
+        "updatedOn": "2026-11-22",
+        "relatedTopics": [
+          "natural",
+          "middle",
+          "side"
+        ],
+        "sections": [
+          {
+            "heading": "Tracez la raie sur cheveux humides pour mieux la définir",
+            "paragraphs": [
+              "Après le démêlage, laissez vos boucles retomber et repérez où elles se séparent près du front. Ouvrez la raie aux racines du bout du doigt, quelques centimètres à la fois. Si une mèche boucle par-dessus la ligne, déplacez-la en entier vers le côté où elle tombe le plus facilement.",
+              "Pour une ligne plus nette, suivez-la avec l’extrémité lisse d’un peigne à queue, puis placez vos boucles avec les doigts. Une courte raie devant suffit à dégager le visage tout en gardant les boucles groupées au sommet du crâne."
+            ]
+          },
+          {
+            "heading": "Décalez la raie pour donner du volume aux racines",
+            "paragraphs": [
+              "Faites une raie légèrement décentrée et basculez quelques boucles vers le côté le plus fourni. Essayez ensuite l’autre côté. Décalez aussi la ligne de quelques millimètres par rapport à votre raie habituelle pour voir si les racines se soulèvent davantage.",
+              "Attendez que les racines soient sèches pour juger du volume. Si les cheveux tombent devant les yeux, rapprochez la raie du milieu ou glissez une mèche derrière l’oreille."
+            ]
+          },
+          {
+            "heading": "Faites une raie au milieu en gardant la forme des boucles",
+            "paragraphs": [
+              "Face au miroir, gardez la tête droite et alignez le départ de la raie sur l’espace entre vos sourcils. Séparez les cheveux avec les doigts. Si une boucle recouvre la ligne vers l’arrière, gardez le départ centré et laissez la séparation s’estomper au sommet du crâne.",
+              "Entre deux shampoings, humidifiez légèrement les racines autour de la raie si elles reprennent leur ancienne position. Laissez-les sécher avant de vérifier la tenue."
+            ]
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Faut-il faire sa raie sur cheveux bouclés humides ou secs ?",
+            "answer": "Sur cheveux humides, vous pouvez redessiner la raie. Sur cheveux secs, déplacez les boucles entières du bout des doigts pour modifier le volume ou la façon dont elles retombent."
+          },
+          {
+            "question": "Comment faire une raie sur cheveux bouclés sans peigne ?",
+            "answer": "Ouvrez la raie aux racines avec l’index, par petits tronçons. Déplacez chaque mèche en entier et arrêtez-vous là où les boucles commencent à tirer."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Conseils de l’Académie américaine de dermatologie pour les cheveux bouclés (en anglais)",
+            "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/curly-hair-care"
+          }
+        ]
+      },
+      {
+        "topic": "box-braids",
+        "slug": "comment-separer-ses-cheveux-pour-des-box-braids",
+        "title": "Comment séparer ses cheveux pour des box braids",
+        "description": "Avec deux miroirs, un peigne à queue et des pinces, tracez des rangées depuis la nuque et divisez-les en carrés.",
+        "updatedOn": "2026-11-22",
+        "showAppDownload": false,
+        "relatedTopics": [
+          "curly",
+          "middle"
+        ],
+        "sections": [
+          {
+            "heading": "Installez les miroirs et préparez les mèches",
+            "paragraphs": [
+              "Placez un miroir derrière vous et orientez-le jusqu’à voir votre nuque dans celui de devant. Posez les deux miroirs sur des supports stables pour garder les mains libres. Touchez un côté de votre tête pour vous repérer dans le reflet.",
+              "Démêlez les cheveux par sections, puis relevez ceux du dessus avec des pinces pour dégager la nuque. Choisissez la grosseur des tresses et utilisez la quantité de cheveux du premier carré comme repère pour les suivants."
+            ]
+          },
+          {
+            "heading": "Tracez la première rangée à la nuque",
+            "paragraphs": [
+              "Avec la queue du peigne, tracez une ligne horizontale au-dessus de la nuque. Partez du milieu et avancez d’un côté, puis revenez au milieu pour tracer l’autre moitié. Relevez les cheveux au-dessus de la rangée et comparez les deux extrémités dans les miroirs.",
+              "Si la ligne descend d’un côté, retracez cette portion. Replacez les cheveux qui dépassent de chaque côté avant de diviser la rangée."
+            ]
+          },
+          {
+            "heading": "Divisez la rangée en carrés et remontez",
+            "paragraphs": [
+              "Repérez le milieu de la rangée, puis tracez de courtes raies verticales. S’il ne reste qu’une mèche très fine près de l’oreille, redistribuez l’espace entre les derniers carrés. Ajustez chaque section à la densité des cheveux pour tresser sans tirer à la racine.",
+              "Maintenez chaque section avec une pince ou tressez-la avant de passer à la rangée suivante. Pour une grille régulière, alignez les séparations verticales. Pour des carrés en quinconce, placez la séparation au-dessus du milieu d’un carré de la rangée précédente. Adaptez le nombre de carrés quand la tête s’élargit."
+            ]
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Comment voir la nuque quand on fait ses box braids soi-même ?",
+            "answer": "Placez un miroir derrière vous de façon à voir son reflet dans celui de devant. Une photo prise de dos peut aussi aider à vérifier une rangée entière avant de tresser."
+          },
+          {
+            "question": "Les carrés doivent-ils tous avoir la même taille ?",
+            "answer": "Cherchez surtout à répartir une quantité de cheveux comparable dans chaque tresse. Vous pouvez élargir légèrement les sections là où les cheveux sont moins denses."
+          }
+        ],
+        "sources": [
+          {
+            "label": "Tutoriel de PATTERN Beauty pour faire ses propres box braids (en anglais)",
+            "url": "https://patternbeauty.com/blogs/news/how-to-do-box-braids-on-yourself"
           }
         ]
       }
