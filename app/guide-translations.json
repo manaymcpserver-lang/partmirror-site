@@ -6753,10 +6753,10 @@
   },
   "id": {
     "messages": {
-      "title": "Panduan Membelah Rambut",
-      "description": "Belajar membuat belahan rambut tengah lurus, mencoba belahan rambut samping, atau mengubah belahan rambut dengan teknik sederhana yang bisa Anda gunakan di rumah.",
-      "brand": "PartMirror panduan",
-      "nav": "Panduan membelah rambut",
+      "title": "Panduan Belahan Rambut",
+      "description": "Temukan belahan alami rambut, coba belah tengah atau samping, dan pelajari cara membagi rambut untuk kepang.",
+      "brand": "Panduan PartMirror",
+      "nav": "Panduan belahan rambut",
       "questions": "Pertanyaan umum",
       "sources": "Bacaan lebih lanjut",
       "more": "Panduan belahan rambut lainnya",
@@ -6856,58 +6856,64 @@
       {
         "topic": "change",
         "slug": "how-to-change-your-hair-part",
-        "title": "Cara mengubah belahan rambut Anda",
-        "description": "Cobalah belahan rambut yang berbeda selama dua hari, lihat bagaimana hasilnya, dan sesuaikan garis di sekitar jilatan rambut jika akar rambut Anda terus terbuka kembali.",
+        "title": "Cara mengubah belahan rambut saat ada pusaran",
+        "description": "Pindahkan belahan ke tengah atau samping dan atur arah jatuh rambut jika belahan lama muncul lagi atau garisnya berubah di sekitar pusaran.",
         "sections": [
           {
-            "heading": "Pilih di mana Anda ingin belahan rambut baru berada",
+            "heading": "Tentukan posisi belahan baru",
             "paragraphs": [
-              "Sapu rambut Anda ke belakang dengan lembut dan biarkan hingga menemukan belahan rambut alami Anda. Putuskan apakah Anda ingin menggesernya sedikit, memindahkannya dari tengah ke samping, atau berpindah sisi. Pisahkan rambut di sepanjang garis baru Anda dengan jari atau ujung sisir dan lihat di mana letak bagian depannya saat Anda melepaskannya.",
-              "Jika belahan rambut lama terus terbuka kembali, basahi sedikit akar di sana dan pisahkan kembali rambut. Biarkan mengering di tempatnya. Klip yang longgar dapat menahan bagian saat dipasang. Jika Anda lebih suka mengeringkan rambut, gunakan pengaturan panas rendah dan arahkan aliran udara ke arah rambut rontok yang Anda inginkan."
+              "Sisir rambut ke belakang dengan lembut, lalu lepaskan untuk melihat belahan alami. Geser garis sedikit, pindahkan ke tengah, atau coba sisi sebaliknya. Pisahkan rambut dengan jari atau ujung sisir runcing, lalu lihat bagaimana rambut di bagian depan jatuh.",
+              "Jika belahan lama muncul lagi, lembapkan akar di sekitar garis lama, buat belahan baru, lalu tahan dengan jepit rambut sampai kering. Jika memakai pengering rambut, pilih suhu rendah dan arahkan aliran udara sesuai arah jatuh rambut yang Anda inginkan."
             ]
           },
           {
-            "heading": "Cobalah dua penempatan selama dua hari",
+            "heading": "Bandingkan dua posisi",
             "paragraphs": [
-              "Pada hari pertama, ikuti bukaan alami dan ambil foto setelah rambut Anda ditata. Pada hari kedua, gerakkan sedikit belahan rambut ke arah posisi yang Anda inginkan. Pertahankan jumlah produk dan sisa rutinitas penataan rambut Anda semirip mungkin, lalu ambil foto lain dari sudut yang sama.",
-              "Bandingkan tampilan masing-masing dan seberapa sering Anda ingin menyesuaikannya. Jika posisi kedua terangkat atau terbelah, lain kali cobalah perubahan yang lebih kecil. Anggaplah dua hari itu sebagai cara untuk membandingkan penempatan. Pola pertumbuhan Anda tetap sama."
+              "Ambil satu foto dengan belahan lama dan satu lagi dengan belahan baru. Gunakan sudut, cahaya, dan produk penata rambut yang sama. Perhatikan posisi helai di sekitar wajah serta seberapa sering Anda perlu merapikan garisnya. Jika terlihat dua garis, coba geser belahan sedikit saja."
             ]
           },
           {
-            "heading": "Mengatasi masalah jambul",
+            "heading": "Sesuaikan garis di sekitar pusaran rambut",
             "paragraphs": [
-              "Rambut yang dijilat adalah bagian di mana akar tumbuh ke arah yang berbeda dari rambut di dekatnya. Angkat bagian tersebut dengan lembut, diamkan, dan lihat di mana rambut terbuka. Jika jilatan rambut berada di depan, coba mulai belahan rambut baru di dekat bukaan tersebut. Jika berada di bagian ubun-ubun, pertahankan titik awal pilihan Anda di garis rambut dan biarkan bagian belakang belahan rambut menekuk ke arah pemisahan alami.",
-              "PartMirror dapat membantu Anda mengulangi offset yang sama dan membandingkan foto yang disimpan. Gunakan panduan ini sebagai referensi, lalu lihat bagaimana rambut Anda yang sebenarnya menempel di sekitar jambul."
+              "Pusaran adalah bagian tempat rambut tumbuh melingkar atau mengarah berbeda dari rambut di sekitarnya. Bila pusaran ada di dekat dahi, buat belahan pendek di sebelahnya dan lihat apakah rambut kembali terbelah di garis lama.",
+              "Bila pusaran ada di puncak kepala, mulai belahan dari titik yang Anda inginkan di depan. Saat mendekati pusaran, belokkan garis mengikuti arah rambut atau akhiri belahan sebelum pusaran. Periksa dari atas dengan cermin kedua.",
+              "Gunakan garis panduan PartMirror sebagai acuan saat mengulang posisi belahan. Setelah rambut ditata, lihat arah jatuh helai di sekitar pusaran."
             ]
           }
         ],
         "faqs": [
           {
-            "question": "Bolehkah saya memakai rambut bagian tengah yang dibelah dengan kuncir kuda?",
-            "answer": "Ya. Coba mulai dari titik tengah dan biarkan garis melengkung di dekat jilatan rambut, atau geser sedikit garis di tempat rambut terbuka. Periksa bagaimana tampilan akhir belahan rambut dari depan dan atas."
+            "question": "Bisakah membuat belah tengah jika ada pusaran?",
+            "answer": "Bisa. Coba mulai dari tengah dekat dahi dan biarkan garis sedikit melengkung saat mendekati pusaran."
           },
           {
-            "question": "Bolehkah aku melatih rambutku dengan belahan berbeda dalam dua hari?",
-            "answer": "Anda dapat menguji penempatan yang berbeda selama dua hari dan menata rambut Anda ke dalamnya. Cowlick mencerminkan arah pertumbuhan akar Anda, yang penataannya tidak berubah secara permanen."
+            "question": "Apakah arah tumbuh rambut bisa berubah dalam dua hari?",
+            "answer": "Anda bisa mencoba belahan baru dalam dua hari. Arah tumbuh rambut dari akar tetap sama."
           },
           {
-            "question": "Haruskah aku menyibakkan rambut secara langsung melalui jilatan rambut?",
-            "answer": "Cobalah melalui bukaan alami dan tepat di sampingnya. Dimana rambut mudah rontok dapat berbeda antara cowlick depan dan crown whorl."
+            "question": "Perlukah belahan melewati tengah pusaran?",
+            "answer": "Coba garis di tempat rambut terbelah sendiri, lalu coba sedikit di sebelahnya. Pilih posisi yang lebih mudah bertahan setelah rambut dilepas."
           }
         ],
         "sources": [
           {
-            "label": "Panduan penata rambut Hair.com untuk mengubah belahan rambut Anda",
+            "label": "Panduan Hair.com untuk mengganti belahan rambut (bahasa Inggris)",
             "url": "https://www.hair.com/how-to-train-part.html"
           },
           {
-            "label": "Panduan Rekan Tukang Cukur untuk berpisah di sekitar jambul",
+            "label": "Saran Fellow Barber tentang belahan di sekitar pusaran rambut (bahasa Inggris)",
             "url": "https://www.fellowbarber.com/blogs/read/use-your-cowlick-to-determine-your-part"
           },
           {
-            "label": "Tip perawatan rambut American Academy of Dermatology",
+            "label": "Panduan perawatan rambut dari American Academy of Dermatology (bahasa Inggris)",
             "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips"
           }
+        ],
+        "updatedOn": "2026-11-24",
+        "relatedTopics": [
+          "natural",
+          "side",
+          "compare"
         ]
       },
       {
@@ -6997,9 +7003,9 @@
       {
         "topic": "natural",
         "slug": "how-to-find-your-natural-hair-part",
-        "title": "Cara menemukan belahan alami rambut",
-        "description": "Lihat di mana rambut Anda terpisah secara alami di dekat dahi Anda. Gunakan tes cepat untuk menemukan garis belahan rambut yang tetap pada tempatnya dengan penataan paling sedikit.",
-        "updatedOn": "2026-11-22",
+        "title": "Cara menentukan belahan alami rambut",
+        "description": "Temukan letak belahan alami rambut dengan menyisir rambut ke belakang, lalu periksa arah tumbuhnya di sekitar pusaran.",
+        "updatedOn": "2026-11-24",
         "relatedTopics": [
           "change",
           "side",
@@ -7007,39 +7013,38 @@
         ],
         "sections": [
           {
-            "heading": "Perhatikan di mana rambut Anda terpisah di dekat dahi",
+            "heading": "Cari belahan alami di dekat dahi",
             "paragraphs": [
-              "Mulailah dengan rambut yang baru dicuci atau dengan akar rambut yang sedikit dibasahi di sekitar bagian yang biasa Anda gunakan. Keluarkan klip apa pun dan gunakan jari Anda untuk menyapu rambut dari dahi Anda. Dorong perlahan ke depan dan biarkan jatuh. Carilah titik di dekat garis rambut tempat akar mulai terpisah.",
-              "Ulangi gerakan tersebut satu atau dua kali. Jika bukaan yang sama terus muncul, telusuri inci pertama garis tersebut dengan jari Anda, lalu lihat ke arah mana akar ingin bergerak lebih jauh ke belakang. Dengan ikal atau gulungan, gerakkan rambut di bagian akar dan biarkan panjangnya menggumpal."
+              "Lepas jepit rambut. Dengan jari atau sisir, arahkan rambut ke belakang, lalu dorong perlahan ke depan dan lepaskan. Perhatikan titik di dekat dahi tempat rambut mulai terbelah sendiri.",
+              "Ulangi sekali atau dua kali. Jika garis yang sama muncul, ikuti dari dahi ke belakang. Untuk rambut keriting, geser rambut di dekat akar dengan jari dan biarkan bentuk ikalnya tetap utuh."
             ]
           },
           {
-            "heading": "Periksa apakah gaya yang biasa Anda gunakan masih mempertahankan bagian lama",
+            "heading": "Periksa kembali setelah keramas",
             "paragraphs": [
-              "Jika Anda selalu mengeringkan rambut di tempat yang sama, periksa kembali setelah keramas sebelum menatanya dengan jepit atau produk. Biarkan ia menetap dengan kepala tegak. Garis yang tetap terlihat setelah Anda melepaskan rambut mungkin lebih mudah dikenakan daripada garis yang menutup segera setelah Anda melepaskannya.",
-              "Jika Anda melihat dua bukaan, uji satu per satu. Buatlah bagian pendek di bagian depan, biarkan akarnya mengering, dan bandingkan betapa mudahnya setiap sisi tetap di tempatnya sepanjang hari."
+              "Jika Anda selalu menata rambut dengan belahan yang sama, ulangi tes setelah keramas sebelum memakai jepit atau produk penata rambut. Bila muncul dua garis, coba keduanya secara bergantian dan lihat mana yang lebih mudah bertahan setelah rambut kering."
             ]
           },
           {
-            "heading": "Berikan ruang pada rambut untuk mengikuti lingkaran mahkota",
+            "heading": "Ikuti arah pusaran di puncak kepala",
             "paragraphs": [
-              "Garis rambut dan mahkota Anda bisa tertarik ke arah yang berbeda. Pertahankan bukaan yang Anda suka di depan, lalu biarkan garis melengkung atau berakhir saat Anda mendekati lingkaran. Foto sedikit di atas dapat membantu Anda melihat bagaimana kedua area tersebut terhubung."
+              "Belahan di dekat dahi dan pusaran di puncak kepala bisa mengarah ke sisi yang berbeda. Buat garis dari titik yang Anda sukai di depan, lalu biarkan garisnya melengkung atau berhenti sebelum pusaran. Periksa dari atas dengan cermin kedua atau foto."
             ]
           }
         ],
         "faqs": [
           {
-            "question": "Bisakah rambut memiliki lebih dari satu bagian alami?",
-            "answer": "Ya. Anda mungkin melihat beberapa tempat di mana akarnya mudah terpisah. Cobalah masing-masing dan lihat mana yang memiliki bentuk yang Anda inginkan dengan gaya paling sedikit."
+            "question": "Bisakah rambut punya lebih dari satu belahan alami?",
+            "answer": "Bisa. Coba tiap garis tempat rambut mudah terbelah, lalu pilih yang memberi bentuk yang Anda inginkan dengan sedikit penataan."
           },
           {
-            "question": "Haruskah saya membelah rambut saya ke kiri atau ke kanan?",
-            "answer": "Uji kedua sisi. Lihat garis mana yang tetap terbuka saat Anda melepaskan rambut dan arah mana yang memberikan sapuan atau pengangkatan yang Anda inginkan."
+            "question": "Sebaiknya belahan di kiri atau kanan?",
+            "answer": "Coba keduanya. Lepaskan rambut dan lihat di sisi mana garisnya bertahan serta bagaimana helai rambut membingkai wajah."
           }
         ],
         "sources": [
           {
-            "label": "Rekan Barber dalam menemukan bagian yang mengikuti cowlick Anda",
+            "label": "Saran Fellow Barber tentang belahan di sekitar pusaran rambut (bahasa Inggris)",
             "url": "https://www.fellowbarber.com/blogs/read/use-your-cowlick-to-determine-your-part"
           }
         ]
@@ -9532,10 +9537,10 @@
   },
   "ms": {
     "messages": {
-      "title": "Panduan Membelah Rambut",
-      "description": "Belajar membuat pemisahan rambut tengah lurus, cuba pemisahan rambut sisi, atau ubah pemisahan rambut anda dengan teknik mudah yang boleh anda gunakan di rumah.",
-      "brand": "PartMirror panduan",
-      "nav": "Panduan belah rambut",
+      "title": "Panduan Belahan Rambut",
+      "description": "Kenal pasti belahan semula jadi, cuba belahan tengah atau tepi dan pelajari cara membahagikan rambut untuk tocang.",
+      "brand": "Panduan PartMirror",
+      "nav": "Panduan belahan rambut",
       "questions": "Soalan biasa",
       "sources": "Bacaan lanjut",
       "more": "Lebih banyak panduan berpisah rambut",
@@ -9635,58 +9640,64 @@
       {
         "topic": "change",
         "slug": "how-to-change-your-hair-part",
-        "title": "Bagaimana untuk menukar perpisahan rambut anda",
-        "description": "Cuba pemisahan rambut yang berbeza selama dua hari, lihat cara ia mengendap dan laraskan garisan di sekeliling cowlick jika akar anda terus terbuka semula.",
+        "title": "Cara menukar belahan rambut jika ada pusaran",
+        "description": "Cuba belahan tengah atau tepi dan ketahui cara mengemaskan garisan jika belahan lama muncul semula atau rambut berubah arah di sekitar pusaran.",
         "sections": [
           {
-            "heading": "Pilih di mana anda mahu perpisahan rambut baru itu diletakkan",
+            "heading": "Pilih kedudukan belahan baharu",
             "paragraphs": [
-              "Sapu rambut anda ke belakang perlahan-lahan dan biarkan ia mengendap untuk mencari perpisahan rambut semula jadi anda. Tentukan sama ada anda mahu menganjaknya sedikit, bergerak dari tengah ke tepi atau tukar sisi. Pisahkan rambut di sepanjang garis baharu anda dengan jari anda atau ekor sikat dan lihat bahagian depan jatuh apabila anda melepaskannya.",
-              "Jika perpisahan rambut lama terus terbuka semula, lembapkan sedikit akar di situ dan pisahkan rambut itu semula. Biarkan ia kering di tempatnya. Klip yang longgar boleh menahan bahagian semasa ia ditetapkan. Jika anda lebih suka mengeringkan rambut, gunakan tetapan haba yang rendah dan arahkan aliran udara sepanjang jalan yang anda mahu rambut gugur."
+              "Sikat rambut ke belakang dan lepaskan untuk melihat belahan semula jadinya. Anjak sedikit garisan itu, cuba belahan tengah atau alihkannya ke tepi yang lain. Belah dengan jari atau hujung sikat dan lihat cara rambut di bahagian hadapan jatuh.",
+              "Jika belahan lama muncul semula, lembapkan pangkal rambut di sekitarnya, buat belahan baharu dan tahan rambut dengan penyepit sehingga kering. Jika menggunakan pengering rambut, pilih tetapan haba rendah dan halakan udara mengikut arah yang anda mahu rambut jatuh."
             ]
           },
           {
-            "heading": "Cuba dua peletakan selama dua hari",
+            "heading": "Bandingkan dua kedudukan",
             "paragraphs": [
-              "Pada hari pertama, ikuti pembukaan semula jadi dan ambil gambar selepas rambut anda mengendap. Pada hari kedua, gerakkan sedikit rambut yang dipisahkan ke arah kedudukan yang anda inginkan. Pastikan jumlah produk dan seluruh rutin penggayaan anda sama seperti yang anda boleh, kemudian ambil foto lain dari sudut yang sama.",
-              "Bandingkan penampilan setiap satu dan kekerapan anda ingin menyesuaikannya. Jika kedudukan kedua terangkat atau terbelah, cuba perubahan yang lebih kecil pada masa akan datang. Fikirkan dua hari itu sebagai cara untuk membandingkan peletakan. Corak pertumbuhan anda kekal sama."
+              "Ambil gambar belahan biasa dan belahan baharu dengan sudut, cahaya dan produk dandanan yang sama. Perhatikan jatuhan rambut di sekeliling muka dan kekerapan anda perlu mengemas garisan. Jika dua garisan terbentuk, cuba anjak belahan sedikit sahaja."
             ]
           },
           {
-            "heading": "Bekerja di sekitar cowlick",
+            "heading": "Laraskan belahan di sekitar pusaran rambut",
             "paragraphs": [
-              "Cowlick ialah tompok di mana akar tumbuh dalam arah yang berbeza daripada rambut berdekatan. Angkat bahagian itu perlahan-lahan, biarkan ia mengendap, dan lihat di mana rambut terbuka. Jika cowlick duduk di hadapan, cuba mulakan perpisahan rambut baharu berhampiran bukaan itu. Jika ia berada di mahkota, kekalkan titik permulaan pilihan anda pada garis rambut dan biarkan bahagian belakang perpisahan rambut bengkok ke arah pemisahan semula jadi.",
-              "PartMirror boleh membantu anda mengulangi offset yang sama dan membandingkan foto yang disimpan. Gunakan panduan sebagai rujukan, kemudian lihat bagaimana rambut sebenar anda menetap di sekitar cowlick."
+              "Pusaran rambut ialah bahagian tempat rambut tumbuh berpusing atau menghala ke arah yang berbeza. Jika pusaran itu berhampiran dahi, cuba mulakan belahan pendek di tepinya. Lepaskan rambut di hadapan dan lihat sama ada garisan kedua muncul.",
+              "Jika pusaran di ubun-ubun, mulakan belahan di tempat yang anda suka di hadapan. Lengkungkan garisan mengikut arah tumbuh rambut atau tamatkan belahan sebelum sampai ke pusaran. Semak dari atas menggunakan cermin kedua.",
+              "Guna garisan panduan PartMirror sebagai rujukan untuk mengulang kedudukan yang sama. Lihat bagaimana rambut jatuh di sekitar pusaran selepas didandan."
             ]
           }
         ],
         "faqs": [
           {
-            "question": "Bolehkah saya memakai rambut tengah berpisah dengan cowlick?",
-            "answer": "Ya. Cuba mulakan pada titik tengah dan biarkan garis melengkung berhampiran cowlick, atau alihkan garisan sedikit di tempat rambut terbuka. Semak bagaimana perpisahan rambut yang telah siap kelihatan dari hadapan dan atas."
+            "question": "Bolehkah saya buat belahan tengah jika ada pusaran rambut?",
+            "answer": "Boleh. Mulakan di tengah berhampiran dahi dan biarkan garisan melengkung sedikit apabila menghampiri pusaran."
           },
           {
-            "question": "Bolehkah saya melatih rambut saya untuk berpisah secara berbeza dalam masa dua hari?",
-            "answer": "Anda boleh menguji peletakan yang berbeza selama dua hari dan menggayakan rambut anda ke dalamnya. Cowlick mencerminkan arah pertumbuhan akar anda, yang gaya tidak berubah secara kekal."
+            "question": "Bolehkah arah tumbuh rambut berubah dalam dua hari?",
+            "answer": "Anda boleh mencuba belahan baharu dalam dua hari. Arah rambut tumbuh dari pangkalnya tetap sama."
           },
           {
-            "question": "Patutkah saya meletakkan belahan rambut terus melalui cowlick?",
-            "answer": "Cuba kedua-duanya melalui bukaan semula jadi dan di sebelahnya. Di mana rambut mudah gugur boleh berbeza antara cowlick depan dan crown whorl."
+            "question": "Perlukah belahan melalui tengah pusaran?",
+            "answer": "Cuba garisan tempat rambut terbelah sendiri dan satu lagi di sebelahnya. Pilih garisan yang lebih mudah kekal apabila rambut dilepaskan."
           }
         ],
         "sources": [
           {
-            "label": "Panduan penggaya rambut Hair.com untuk menukar perpisahan rambut anda",
+            "label": "Panduan Hair.com untuk menukar belahan rambut (bahasa Inggeris)",
             "url": "https://www.hair.com/how-to-train-part.html"
           },
           {
-            "label": "Panduan Fellow Barber untuk berpisah dengan seekor lembu jantan",
+            "label": "Petua Fellow Barber tentang belahan berhampiran pusaran rambut (bahasa Inggeris)",
             "url": "https://www.fellowbarber.com/blogs/read/use-your-cowlick-to-determine-your-part"
           },
           {
-            "label": "Petua penjagaan rambut American Academy of Dermatology",
+            "label": "Panduan penjagaan rambut daripada American Academy of Dermatology (bahasa Inggeris)",
             "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips"
           }
+        ],
+        "updatedOn": "2026-11-24",
+        "relatedTopics": [
+          "natural",
+          "side",
+          "compare"
         ]
       },
       {
@@ -9777,8 +9788,8 @@
         "topic": "natural",
         "slug": "how-to-find-your-natural-hair-part",
         "title": "Cara mencari belahan semula jadi rambut",
-        "description": "Lihat di mana rambut anda secara semula jadi berpisah berhampiran dahi anda. Gunakan ujian pantas untuk mencari garis pemisah rambut yang kekal pada tempatnya dengan gaya paling sedikit.",
-        "updatedOn": "2026-11-22",
+        "description": "Kenal pasti tempat rambut terbelah sendiri berhampiran dahi dan lihat bagaimana pusaran di ubun-ubun mempengaruhi garisan belahan.",
+        "updatedOn": "2026-11-24",
         "relatedTopics": [
           "change",
           "side",
@@ -9786,39 +9797,38 @@
         ],
         "sections": [
           {
-            "heading": "Perhatikan di mana rambut anda berpisah berhampiran dahi",
+            "heading": "Perhatikan belahan di bahagian dahi",
             "paragraphs": [
-              "Mulakan dengan rambut yang baru dicuci atau dengan akar yang dilembapkan sedikit di sekitar bahagian biasa anda. Keluarkan sebarang klip dan gunakan jari anda untuk menyapu rambut dari dahi anda. Dorong perlahan-lahan ke hadapan dan biarkan ia jatuh. Cari tempat berhampiran garis rambut anda di mana akar mula terpisah.",
-              "Ulangi gerakan sekali atau dua kali. Jika bukaan yang sama terus muncul, jejaki inci pertama garisan itu dengan jari anda dan kemudian lihat ke mana akar ingin pergi lebih jauh ke belakang. Dengan keriting atau gegelung, gerakkan rambut pada akar dan biarkan panjangnya mengendap dalam rumpun."
+              "Tanggalkan penyepit rambut. Sikat rambut ke belakang dengan perlahan, kemudian tolak sedikit ke hadapan dan lepaskan. Perhatikan tempat rambut mula terbelah sendiri berhampiran dahi.",
+              "Ulang sekali atau dua kali. Jika belahan muncul di tempat yang sama, ikut garisan itu dari hadapan ke belakang. Jika rambut anda kerinting, alihkan rambut di pangkal dengan jari dan biarkan bentuk kerintingnya."
             ]
           },
           {
-            "heading": "Semak sama ada penggayaan biasa anda memegang bahagian lama",
+            "heading": "Uji selepas mencuci rambut",
             "paragraphs": [
-              "Jika anda sentiasa mengeringkan rambut anda di tempat yang sama, semak semula selepas mencuci sebelum menetapkannya dengan klip atau produk. Biarkan ia selesai dengan kepala anda tegak. Garis yang kekal kelihatan selepas anda melepaskan rambut anda boleh lebih mudah dipakai daripada garis yang ditutup sebaik sahaja anda melepaskannya.",
-              "Jika anda melihat dua bukaan, uji satu demi satu. Buat bahagian pendek di bahagian depan, biarkan akar kering, dan bandingkan betapa mudahnya setiap sisi kekal pada tempatnya pada siang hari."
+              "Jika anda selalu mengeringkan rambut dengan belahan yang sama, ulang ujian selepas mencuci rambut, sebelum menggunakan penyepit atau produk dandanan. Jika ada dua garisan, cuba satu demi satu dan lihat yang mana lebih mudah kekal selepas rambut kering."
             ]
           },
           {
-            "heading": "Beri ruang rambut untuk mengikuti lingkaran mahkota",
+            "heading": "Ikut arah pusaran di ubun-ubun",
             "paragraphs": [
-              "Garis rambut dan mahkota anda boleh menarik ke arah yang berbeza. Pastikan bukaan yang anda suka di hadapan, kemudian biarkan garis melengkung atau tamat semasa anda menghampiri lingkaran. Foto dari atas sedikit boleh membantu anda melihat cara kedua-dua kawasan bersambung."
+              "Rambut di dahi dan di ubun-ubun boleh tumbuh dalam arah yang berbeza. Mulakan belahan di tempat yang anda suka di hadapan. Apabila menghampiri pusaran, lengkungkan garisan atau pendekkan belahan. Gunakan cermin kedua atau gambar dari atas untuk menyemaknya."
             ]
           }
         ],
         "faqs": [
           {
-            "question": "Bolehkah rambut mempunyai lebih daripada satu bahagian semula jadi?",
-            "answer": "ya. Anda mungkin melihat beberapa tempat di mana akarnya mudah berpisah. Cuba setiap satu dan lihat yang memegang bentuk yang anda inginkan dengan gaya yang paling sedikit."
+            "question": "Bolehkah rambut mempunyai lebih daripada satu belahan semula jadi?",
+            "answer": "Boleh. Cuba setiap garisan yang terbentuk dengan mudah dan pilih belahan yang anda suka serta mudah dikemaskan."
           },
           {
-            "question": "Adakah saya perlu membelah rambut saya di sebelah kiri atau kanan?",
-            "answer": "Uji kedua-dua belah pihak. Lihat baris mana yang kekal terbuka apabila anda melepaskan rambut dan arah mana yang memberi anda sapuan atau angkat yang anda inginkan."
+            "question": "Di sebelah kiri atau kanan patut saya belah rambut?",
+            "answer": "Cuba kedua-dua belah. Lepaskan rambut dan lihat belahan yang kekal serta cara rambut membingkai wajah."
           }
         ],
         "sources": [
           {
-            "label": "Rakan Tukang Gunting Rambut untuk mencari bahagian yang mengikuti cowlick anda",
+            "label": "Petua Fellow Barber tentang belahan berhampiran pusaran rambut (bahasa Inggeris)",
             "url": "https://www.fellowbarber.com/blogs/read/use-your-cowlick-to-determine-your-part"
           }
         ]
