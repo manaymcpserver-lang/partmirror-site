@@ -4,8 +4,8 @@ import {
   isSupportedLocale,
   languageAlternates,
   localeContent,
+  sectionPath,
   supportedLocales,
-  type SiteSection,
 } from '../../content';
 import { SiteContent } from '../../site-content';
 
@@ -35,8 +35,8 @@ export async function generateMetadata({
     title,
     description,
     alternates: {
-      canonical: `/${locale}/${section}`,
-      languages: languageAlternates(section as SiteSection),
+      canonical: sectionPath(locale, section),
+      languages: languageAlternates(section),
     },
   };
 }

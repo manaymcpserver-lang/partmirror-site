@@ -35,8 +35,8 @@ export function localeContent(locale: string): LocaleContent {
 }
 
 export function sectionPath(locale: string, section: SiteSection): string {
-  if (section === 'home') return locale === 'en-US' ? '/' : `/${locale}/`;
-  return `/${locale}/${section}`;
+  const base = locale === 'en-US' ? '/' : `/${locale}/`;
+  return section === 'home' ? base : `${base}${section}/`;
 }
 
 export function languageAlternates(section: SiteSection): Record<string, string> {
