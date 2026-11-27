@@ -1993,15 +1993,15 @@
   },
   "de-DE": {
     "messages": {
-      "title": "Haarscheitel richtig ziehen",
-      "description": "Lernen Sie, einen geraden Mittelscheitel zu machen, versuchen Sie es mit einem Seitenscheitel oder ändern Sie Ihren Haarscheitel mit einfachen Techniken, die Sie zu Hause anwenden können.",
-      "brand": "PartMirror Führer",
-      "nav": "Scheitel-Guides",
+      "title": "Anleitungen zum Haarscheitel",
+      "description": "Finde deinen natürlichen Scheitel, probiere einen Mittel- oder Seitenscheitel aus und passe ihn an deine Haarwirbel an.",
+      "brand": "PartMirror-Anleitungen",
+      "nav": "Scheitel-Anleitungen",
       "questions": "Häufige Fragen",
       "sources": "Weiterführende Literatur",
-      "more": "Weitere Haarscheitelanleitungen",
-      "download": "Überprüfen Sie Ihren Haarscheitel mit PartMirror",
-      "downloadText": "Verwenden Sie die Live-Anleitung, um Ihren Haarscheitel auszurichten, und vergleichen Sie dann gespeicherte Looks auf einem kompatiblen iPhone."
+      "more": "Weitere Anleitungen zum Haarscheitel",
+      "download": "Prüfe deinen Scheitel mit PartMirror",
+      "downloadText": "Richte deinen Scheitel an der Live-Hilfslinie aus und vergleiche deine gespeicherten Frisuren auf einem kompatiblen iPhone."
     },
     "guides": [
       {
@@ -2096,58 +2096,63 @@
       {
         "topic": "change",
         "slug": "how-to-change-your-hair-part",
-        "title": "So wechseln Sie Ihren Haarscheitel",
-        "description": "Probieren Sie zwei Tage lang einen anderen Haarscheitel aus, sehen Sie, wie er sich legt, und passen Sie die Linie um einen Haarkranz herum an, wenn sich Ihr Haaransatz immer wieder öffnet.",
+        "title": "Scheitel ändern und an Haarwirbel anpassen",
+        "description": "So legst du deinen Scheitel in die Mitte oder zur Seite und passt die Linie an, wenn das Haar zum alten Scheitel zurückfällt.",
         "sections": [
           {
-            "heading": "Wählen Sie, wo der neue Haarscheitel sitzen soll",
+            "heading": "Lege den neuen Scheitel fest",
             "paragraphs": [
-              "Streichen Sie Ihr Haar sanft nach hinten und lassen Sie es ruhen, um Ihren natürlichen Haarscheitel zu finden. Entscheiden Sie, ob Sie es leicht verschieben, von der Mitte zur Seite wechseln oder die Seite wechseln möchten. Trennen Sie die Haare entlang Ihrer neuen Linie mit Ihrem Finger oder der Spitze eines Kamms und sehen Sie, wohin die vorderen Abschnitte fallen, wenn Sie sie loslassen.",
-              "Wenn sich der alte Haarscheitel immer wieder öffnet, befeuchten Sie die Wurzeln dort leicht und trennen Sie die Haare erneut. Lassen Sie es an Ort und Stelle trocknen. Ein loser Clip kann einen Abschnitt beim Aushärten festhalten. Wenn Sie lieber föhnen möchten, verwenden Sie eine niedrige Hitzeeinstellung und richten Sie den Luftstrom in die Richtung, in die das Haar fallen soll."
+              "Streiche das Haar zurück und lass es locker fallen. Ziehe den neuen Scheitel mit dem Finger oder der Spitze eines Stielkamms. Beginne mit einer kleinen Verschiebung und prüfe, wie die vorderen Strähnen fallen.",
+              "Wenn sich der alte Scheitel wieder öffnet, feuchte den Ansatz dort leicht an und teile das Haar neu. Halte die Strähnen bei Bedarf mit einer Spange, bis sie trocken sind. Beim Föhnen hilft eine niedrige Temperatur. Richte den Luftstrom dorthin, wo das Haar liegen soll."
             ]
           },
           {
-            "heading": "Probieren Sie zwei Platzierungen an zwei Tagen aus",
+            "heading": "Vergleiche zwei Positionen",
             "paragraphs": [
-              "Verfolgen Sie am ersten Tag die natürliche Öffnung und machen Sie ein Foto, nachdem sich Ihr Haar gesetzt hat. Bewegen Sie am zweiten Tag den Haarscheitel leicht in Richtung der gewünschten Position. Halten Sie die Produktmenge und den Rest Ihrer Styling-Routine so ähnlich wie möglich und machen Sie dann ein weiteres Foto aus demselben Blickwinkel.",
-              "Vergleichen Sie, wie die einzelnen Elemente aussehen und wie oft Sie Lust hatten, sie anzupassen. Wenn sich die zweite Position anhebt oder teilt, versuchen Sie es beim nächsten Mal mit einer kleineren Änderung. Betrachten Sie die beiden Tage als eine Möglichkeit, die Platzierungen zu vergleichen. Ihr Wachstumsmuster bleibt gleich."
+              "Fotografiere den gewohnten und den neuen Scheitel bei gleichem Licht und aus demselben Winkel. Achte darauf, wie die Strähnen über der Stirn liegen und wie oft du den Scheitel richten musst. Wenn sich zwei Linien bilden, versuche es mit einer kleineren Verschiebung."
             ]
           },
           {
-            "heading": "Arbeiten Sie um einen Wirbel herum",
+            "heading": "Passe den Scheitel an den Haarwirbel an",
             "paragraphs": [
-              "Ein Wirbel ist eine Stelle, an der die Wurzeln in eine andere Richtung wachsen als die Haare in der Nähe. Heben Sie den Abschnitt vorsichtig an, lassen Sie ihn ruhen und sehen Sie, wo sich das Haar öffnet. Wenn die Haarkrone vorne sitzt, versuchen Sie, den neuen Haarscheitel in der Nähe dieser Öffnung zu beginnen. Wenn es am Scheitel ist, behalten Sie Ihren bevorzugten Ausgangspunkt am Haaransatz bei und lassen Sie die Rückseite des Haarscheitels in Richtung der natürlichen Trennung biegen.",
-              "PartMirror kann Ihnen dabei helfen, denselben Versatz zu wiederholen und gespeicherte Fotos zu vergleichen. Nutzen Sie die Anleitung als Referenz und sehen Sie dann, wie sich Ihr tatsächliches Haar um den Haarkranz legt."
+              "An einem Wirbel wächst das Haar am Ansatz in eine andere Richtung als das Haar daneben. Liegt der Wirbel an der Stirn, ziehe einen kurzen Scheitel direkt neben die Stelle, an der sich das Haar von selbst teilt. Prüfe nach dem Loslassen, ob eine zweite Linie entsteht.",
+              "Bei einem Wirbel am Oberkopf setze den Scheitel wie gewünscht an der Stirn an. Lass die Linie weiter hinten dem Wirbel folgen oder beende sie kurz davor. Mit der Hilfslinie von PartMirror kannst du den Startpunkt vorn wiederfinden. Prüfe den Verlauf hinten mit einem zweiten Spiegel oder einem Foto von oben."
             ]
           }
         ],
         "faqs": [
           {
-            "question": "Kann ich einen Mittelscheitel mit Wirbel tragen?",
-            "answer": "Ja. Versuchen Sie, in der Mitte zu beginnen und die Linie in der Nähe der Haarkrone krümmen zu lassen, oder verschieben Sie die Linie ein wenig an der Stelle, an der sich die Haare öffnen. Überprüfen Sie, wie der fertige Haarscheitel von vorne und oben aussieht."
+            "question": "Geht ein Mittelscheitel trotz Haarwirbel?",
+            "answer": "Ja. Beginne mittig an der Stirn. Lass den Scheitel in der Nähe des Wirbels leicht abbiegen oder beende ihn davor."
           },
           {
-            "question": "Kann ich meinen Haarscheitel in zwei Tagen anders trainieren?",
-            "answer": "Sie können zwei Tage lang eine andere Platzierung testen und Ihre Haare darin stylen. Ein Wirbel spiegelt die Wachstumsrichtung Ihrer Wurzeln wider, wobei sich das Styling nicht dauerhaft ändert."
+            "question": "Ändert sich die Wuchsrichtung nach zwei Tagen?",
+            "answer": "In zwei Tagen kannst du beurteilen, wie der neue Scheitel sitzt. Die Richtung, in der das Haar am Ansatz wächst, bleibt gleich."
           },
           {
-            "question": "Soll ich den Haarscheitel direkt durch den Wirbel stecken?",
-            "answer": "Versuchen Sie es sowohl durch die natürliche Öffnung als auch direkt daneben. Wo die Haare leicht ausfallen, kann zwischen einem vorderen Wirbel und einem Scheitelwirbel unterschieden werden."
+            "question": "Soll der Scheitel mitten durch den Wirbel laufen?",
+            "answer": "Probiere die Linie durch die natürliche Teilung und knapp daneben aus. Wähle die Stelle, an der sich die Strähnen am leichtesten legen."
           }
         ],
         "sources": [
           {
-            "label": "Der Stylisten-Leitfaden von Hair.com zum Ändern Ihres Haarscheitels",
+            "label": "Tipps von Hair.com zum Wechseln des Scheitels (Englisch)",
             "url": "https://www.hair.com/how-to-train-part.html"
           },
           {
-            "label": "Leitfaden von Fellow Barber zum Abschied um einen Wirbel",
+            "label": "Fellow Barber über den Scheitel am Haarwirbel (Englisch)",
             "url": "https://www.fellowbarber.com/blogs/read/use-your-cowlick-to-determine-your-part"
           },
           {
-            "label": "Haarpflegetipps der American Academy of Dermatology",
+            "label": "Haarpflegetipps der American Academy of Dermatology (Englisch)",
             "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips"
           }
+        ],
+        "updatedOn": "2026-11-27",
+        "relatedTopics": [
+          "natural",
+          "side",
+          "compare"
         ]
       },
       {
@@ -2238,8 +2243,8 @@
         "topic": "natural",
         "slug": "how-to-find-your-natural-hair-part",
         "title": "So findest du deinen natürlichen Scheitel",
-        "description": "Sehen Sie, wo sich Ihr Haar in der Nähe Ihrer Stirn auf natürliche Weise trennt. Verwenden Sie einen Schnelltest, um die Scheitellinie zu finden, die mit dem geringsten Styling an Ort und Stelle bleibt.",
-        "updatedOn": "2026-11-22",
+        "description": "Finde heraus, wo sich dein Haar am Ansatz von selbst teilt und wie der Haarwirbel am Oberkopf den Scheitel beeinflusst.",
+        "updatedOn": "2026-11-27",
         "relatedTopics": [
           "change",
           "side",
@@ -2247,39 +2252,38 @@
         ],
         "sections": [
           {
-            "heading": "Beachten Sie, wo sich Ihr Haar in der Nähe der Stirn trennt",
+            "heading": "Schau, wo sich dein Haar von selbst teilt",
             "paragraphs": [
-              "Beginnen Sie mit frisch gewaschenem Haar oder mit leicht angefeuchteten Haarwurzeln an der gewohnten Stelle. Nehmen Sie alle Klammern heraus und streichen Sie die Haare mit den Fingern aus Ihrer Stirn. Schieben Sie es vorsichtig nach vorne und lassen Sie es fallen. Suchen Sie nach der Stelle in der Nähe Ihres Haaransatzes, an der sich die Wurzeln zu lösen beginnen.",
-              "Wiederholen Sie die Bewegung ein- oder zweimal. Wenn die gleiche Öffnung immer wieder auftaucht, zeichnen Sie den ersten Zentimeter dieser Linie mit Ihrem Finger nach und sehen Sie dann, wo die Wurzeln weiter nach hinten gehen wollen. Bewegen Sie bei Locken oder Spiralen das Haar am Ansatz und lassen Sie die Längen in Büscheln ruhen."
+              "Nimm Haarspangen heraus und streiche das Haar mit den Fingern nach hinten. Schiebe es sanft nach vorn und lass es los. Achte darauf, wo sich das Haar über der Stirn am Ansatz teilt.",
+              "Wenn sich dieselbe Linie erneut zeigt, folge ihr mit einer Fingerspitze ein Stück nach hinten. Teile Locken mit den Fingern am Ansatz und lass die einzelnen Lockensträhnen zusammen."
             ]
           },
           {
-            "heading": "Prüfen Sie, ob Ihr gewohntes Styling dem Altteil Halt gibt",
+            "heading": "Wiederhole den Test nach dem Waschen",
             "paragraphs": [
-              "Wenn Sie Ihr Haar immer an der gleichen Stelle trocknen, überprüfen Sie es nach dem Waschen noch einmal, bevor Sie es mit Klammern oder Produkt fixieren. Lassen Sie es mit aufrechtem Kopf ruhen. Eine Linie, die sichtbar bleibt, nachdem Sie Ihre Haare losgelassen haben, kann einfacher zu tragen sein als eine, die sich schließt, sobald Sie Ihre Haare loslassen.",
-              "Wenn Sie zwei Öffnungen sehen, testen Sie eine nach der anderen. Machen Sie vorne einen kurzen Teil, lassen Sie die Wurzeln trocknen und vergleichen Sie, wie leicht jede Seite tagsüber an Ort und Stelle bleibt."
+              "Wenn du deinen Scheitel immer an derselben Stelle trocknest, prüfe ihn nach dem Waschen noch einmal, bevor du Spangen oder Stylingprodukte verwendest. Wenn zwei Linien entstehen, probiere sie nacheinander aus. Schau, welche Linie nach dem Trocknen besser hält."
             ]
           },
           {
-            "heading": "Geben Sie dem Haar Raum, um einem Kronenwirbel zu folgen",
+            "heading": "Berücksichtige den Wirbel am Oberkopf",
             "paragraphs": [
-              "Ihr Haaransatz und Ihr Scheitel können in verschiedene Richtungen ziehen. Lassen Sie vorne die Öffnung, die Ihnen gefällt, und lassen Sie die Linie dann krümmen oder enden, wenn Sie sich dem Wirbel nähern. Ein Foto von etwas oben kann Ihnen helfen, die Verbindung zwischen den beiden Bereichen zu erkennen."
+              "Das Haar über der Stirn kann anders fallen als am Wirbel. Setze den Scheitel vorn an der Stelle an, die dir gefällt. Lass die Linie am Wirbel der Wuchsrichtung folgen oder beende den Scheitel kurz davor. Prüfe den Verlauf auf einem Foto von oben."
             ]
           }
         ],
         "faqs": [
           {
-            "question": "Können Haare mehr als einen natürlichen Teil haben?",
-            "answer": "Ja. Möglicherweise sehen Sie einige Stellen, an denen sich die Wurzeln leicht lösen. Probieren Sie jedes aus und finden Sie heraus, welches mit dem geringsten Styling die gewünschte Form behält."
+            "question": "Kann ich mehr als einen natürlichen Scheitel haben?",
+            "answer": "Ja. Das Haar kann sich am Ansatz an mehreren Stellen leicht teilen. Probiere sie einzeln aus und schau, welche bei deiner Frisur am besten hält."
           },
           {
-            "question": "Soll ich meine Haare links oder rechts scheiteln?",
-            "answer": "Testen Sie beide Seiten. Sehen Sie, welche Linie offen bleibt, wenn Sie das Haar loslassen, und welche Richtung Ihnen den gewünschten Schwung oder Auftrieb verleiht."
+            "question": "Soll ich den Scheitel links oder rechts ziehen?",
+            "answer": "Probiere beide Seiten aus. Lass die Strähnen los und schau, welche Linie sichtbar bleibt und wie das Haar dein Gesicht umrahmt."
           }
         ],
         "sources": [
           {
-            "label": "Friseurkollege über die Suche nach einem Teil, das Ihrem Wirbel folgt",
+            "label": "Fellow Barber über den Scheitel am Haarwirbel (Englisch)",
             "url": "https://www.fellowbarber.com/blogs/read/use-your-cowlick-to-determine-your-part"
           }
         ]
@@ -9947,15 +9951,15 @@
   },
   "nl-NL": {
     "messages": {
-      "title": "Gidsen voor haarscheiding",
-      "description": "Leer hoe u een rechte middenscheiding kunt maken, probeer een zijscheiding, of verander uw haarscheiding met eenvoudige technieken die u thuis kunt gebruiken.",
-      "brand": "PartMirror gidsen",
-      "nav": "Haarscheidingsgeleiders",
+      "title": "Gidsen voor je haarscheiding",
+      "description": "Vind je natuurlijke haarscheiding, probeer een midden- of zijscheiding en ontdek hoe je rekening houdt met een haarwervel.",
+      "brand": "PartMirror-gidsen",
+      "nav": "Gidsen voor je haarscheiding",
       "questions": "Algemene vragen",
       "sources": "Verder lezen",
-      "more": "Meer haarscheidingsgidsen",
-      "download": "Controleer je haarscheiding met PartMirror",
-      "downloadText": "Gebruik de livegids om uw haarscheiding uit te lijnen en vergelijk vervolgens de opgeslagen looks op een compatibele iPhone."
+      "more": "Meer gidsen voor je haarscheiding",
+      "download": "Bekijk je haarscheiding met PartMirror",
+      "downloadText": "Lijn je scheiding uit met de hulplijn op een geschikte iPhone en vergelijk de kapsels die je hebt opgeslagen."
     },
     "guides": [
       {
@@ -10050,58 +10054,63 @@
       {
         "topic": "change",
         "slug": "how-to-change-your-hair-part",
-        "title": "Hoe u uw haarscheiding kunt veranderen",
-        "description": "Probeer gedurende twee dagen een andere haarscheiding, kijk hoe deze blijft zitten, en pas de lijn rond een kuif aan als je wortels steeds weer opengaan.",
+        "title": "Zo verander je je haarscheiding bij een haarwervel",
+        "description": "Probeer een midden- of zijscheiding en pas de lijn aan als je haar terugvalt naar de oude scheiding.",
         "sections": [
           {
-            "heading": "Kies waar je de nieuwe haarscheiding wilt hebben",
+            "heading": "Kies waar je nieuwe scheiding begint",
             "paragraphs": [
-              "Veeg je haar voorzichtig naar achteren en laat het tot rust komen, zodat je natuurlijke haarscheiding zichtbaar wordt. Bepaal of je het iets wilt verschuiven, van het midden naar de zijkant wilt verplaatsen of van kant wilt wisselen. Scheid het haar langs je nieuwe lijn met je vinger of de staart van een kam en kijk waar de voorste secties vallen als je ze loslaat.",
-              "Als de oude haarscheiding steeds weer opengaat, maak de wortels daar dan licht vochtig en scheid het haar weer. Laat het op zijn plaats drogen. Een losse clip kan een sectie vasthouden terwijl deze wordt vastgezet. Als je liever föhnt, gebruik dan een lage temperatuurstand en richt de luchtstroom in de richting waarin je wilt dat het haar valt."
+              "Strijk je haar naar achteren en laat het vallen. Verplaats je scheiding eerst een klein stukje. Trek de lijn met je vinger of de punt van een puntkam en kijk hoe de voorste plukken vallen.",
+              "Komt de oude scheiding terug, maak dan de haaraanzet rond die lijn licht vochtig. Trek de nieuwe scheiding en zet de plukken zo nodig met een speldje vast tot ze droog zijn. Gebruik je een föhn, kies dan een lage temperatuur en richt de lucht de kant op waarin je het haar wilt laten vallen."
             ]
           },
           {
-            "heading": "Probeer twee plaatsingen gedurende twee dagen",
+            "heading": "Vergelijk de twee scheidingen",
             "paragraphs": [
-              "Volg op de eerste dag de natuurlijke opening en maak een foto nadat je haar tot rust is gekomen. Verplaats op dag twee de haarscheiding iets naar de gewenste positie. Houd de hoeveelheid product en de rest van je stylingroutine zo vergelijkbaar mogelijk, en maak vervolgens nog een foto vanuit dezelfde hoek.",
-              "Vergelijk hoe elk eruit ziet en hoe vaak je zin had om het aan te passen. Als de tweede positie stijgt of splitst, probeer dan de volgende keer een kleinere verandering. Beschouw de twee dagen als een manier om plaatsingen te vergelijken. Je groeipatroon blijft hetzelfde."
+              "Maak een foto van je gewone scheiding en een van de nieuwe. Gebruik dezelfde hoek en hetzelfde licht. Kijk hoe de plukken langs je gezicht vallen en hoe vaak je de lijn moet bijwerken. Verschijnen er twee lijnen, schuif de nieuwe scheiding dan iets terug."
             ]
           },
           {
-            "heading": "Werk rond een kuif",
+            "heading": "Pas de scheiding aan bij een haarwervel",
             "paragraphs": [
-              "Een kuiflik is een plek waar de wortels in een andere richting groeien dan het nabijgelegen haar. Til de sectie voorzichtig op, laat hem rusten en kijk waar het haar opengaat. Als de kuif aan de voorkant zit, probeer dan de nieuwe haarscheiding bij die opening te beginnen. Als het bij de kruin is, houd dan het startpunt van uw voorkeur bij de haarlijn en laat de achterkant van de haarscheiding naar de natuurlijke scheiding buigen.",
-              "Met PartMirror kunt u dezelfde offset herhalen en opgeslagen foto's vergelijken. Gebruik de gids als referentie en kijk hoe uw eigenlijke haar zich rond de kuif nestelt."
+              "Bij een haarwervel groeit je haar in een andere richting dan de plukken eromheen. Zit de wervel bij je voorhoofd, begin dan met een korte scheiding naast de plek waar je haar vanzelf uit elkaar valt. Laat de plukken los en kijk of er een tweede lijn ontstaat.",
+              "Zit de wervel bij je kruin, begin dan vooraan waar je wilt. Laat de scheiding achteraan meebuigen of laat haar vóór de wervel eindigen. Met de hulplijn van PartMirror kun je het beginpunt vooraan terugvinden. Controleer de lijn bij je kruin met een tweede spiegel of een foto van bovenaf."
             ]
           }
         ],
         "faqs": [
           {
-            "question": "Kan ik een middenhaarscheiding met een kuif dragen?",
-            "answer": "Ja. Probeer in het midden te beginnen en de lijn rond de kuif te laten buigen, of verschuif de lijn een beetje waar het haar opengaat. Controleer hoe de afgewerkte haarscheiding er van voren en van boven uitziet."
+            "question": "Kan ik met een haarwervel een middenscheiding dragen?",
+            "answer": "Ja. Begin in het midden bij je voorhoofd en laat de scheiding bij de wervel iets buigen of stop net vóór de wervel."
           },
           {
-            "question": "Kan ik mijn haar trainen om in twee dagen anders te scheiden?",
-            "answer": "Je kunt gedurende twee dagen een andere plaatsing testen en je haar daarin stylen. Een kuif weerspiegelt de richting van de wortelgroei, welke styling niet permanent verandert."
+            "question": "Kan ik de groeirichting van mijn haar in twee dagen veranderen?",
+            "answer": "Twee dagen is genoeg om een andere scheiding uit te proberen. De richting waarin je haar groeit, blijft hetzelfde."
           },
           {
-            "question": "Moet ik de haarscheiding rechtstreeks door de kuif steken?",
-            "answer": "Probeer zowel door de natuurlijke opening als ernaast. Waar het haar gemakkelijk valt, kan verschillen tussen een voorkuif en een kruinkrans."
+            "question": "Moet de scheiding midden door de haarwervel lopen?",
+            "answer": "Probeer de lijn waar je haar vanzelf uit elkaar valt en de lijn vlak ernaast. Kies de positie waarin je haar het makkelijkst blijft liggen."
           }
         ],
         "sources": [
           {
-            "label": "Hair.com's stylistengids voor het veranderen van uw haarscheiding",
+            "label": "Tips van Hair.com voor een andere scheiding (Engels)",
             "url": "https://www.hair.com/how-to-train-part.html"
           },
           {
-            "label": "Collega-kappergids voor afscheid rond een kuif",
+            "label": "Fellow Barber over een scheiding bij een haarwervel (Engels)",
             "url": "https://www.fellowbarber.com/blogs/read/use-your-cowlick-to-determine-your-part"
           },
           {
-            "label": "Haarverzorgingstips van de American Academy of Dermatology",
+            "label": "Haarverzorgingstips van de American Academy of Dermatology (Engels)",
             "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips"
           }
+        ],
+        "updatedOn": "2026-11-27",
+        "relatedTopics": [
+          "natural",
+          "side",
+          "compare"
         ]
       },
       {
@@ -10192,8 +10201,8 @@
         "topic": "natural",
         "slug": "how-to-find-your-natural-hair-part",
         "title": "Zo vind je je natuurlijke haarscheiding",
-        "description": "Kijk waar uw haar op natuurlijke wijze gescheiden is, vlakbij uw voorhoofd. Gebruik een snelle test om de haarscheidingslijn te vinden die bij de minste styling op zijn plaats blijft.",
-        "updatedOn": "2026-11-22",
+        "description": "Ontdek waar je haar bij je voorhoofd vanzelf uit elkaar valt en hoe de haarwervel bij je kruin de scheiding beïnvloedt.",
+        "updatedOn": "2026-11-27",
         "relatedTopics": [
           "change",
           "side",
@@ -10201,39 +10210,38 @@
         ],
         "sections": [
           {
-            "heading": "Let op waar je haar gescheiden is bij het voorhoofd",
+            "heading": "Kijk waar je haar vanzelf uit elkaar valt",
             "paragraphs": [
-              "Begin met haar dat vers is gewassen of met de wortels licht vochtig gemaakt rond uw gebruikelijke deel. Haal eventuele clips eruit en gebruik je vingers om het haar van je voorhoofd weg te vegen. Duw het voorzichtig naar voren en laat het vallen. Zoek naar de plek vlakbij je haarlijn waar de wortels beginnen te scheiden.",
-              "Herhaal de beweging een of twee keer. Als dezelfde opening blijft verschijnen, trek dan met je vinger de eerste centimeter van die lijn over en kijk dan waar de wortels verder terug willen gaan. Bij krullen of spoelen beweegt u het haar bij de wortels en laat u de lengtes in bosjes zitten."
+              "Haal speldjes uit je haar en strijk het met je vingers naar achteren. Duw het voorzichtig naar voren en laat het los. Kijk waar het haar bij je voorhoofd vanzelf uit elkaar valt.",
+              "Volg die lijn met je vingertop een stukje naar achteren. Heb je krullen, verdeel het haar dan met je vingers bij de aanzet en laat de krullen als plukjes bij elkaar."
             ]
           },
           {
-            "heading": "Controleer of uw gebruikelijke styling het oude onderdeel vasthoudt",
+            "heading": "Doe de proef na het wassen",
             "paragraphs": [
-              "Als je je haar altijd op dezelfde plek droogt, controleer het dan na het wassen opnieuw voordat je het met clips of een product fixeert. Laat het tot rust komen met uw hoofd rechtop. Een lijn die zichtbaar blijft nadat u uw haar loslaat, kan gemakkelijker te dragen zijn dan een lijn die sluit zodra u uw haar loslaat.",
-              "Als u twee openingen ziet, test dan één voor één. Maak een kort deel aan de voorkant, laat de wortels drogen en vergelijk hoe gemakkelijk elke kant overdag op zijn plaats blijft."
+              "Droog je je haar altijd met dezelfde scheiding? Herhaal de proef na het wassen, voordat je speldjes of stylingproducten gebruikt. Zie je twee lijnen, probeer ze dan één voor één. Kijk welke na het drogen het makkelijkst blijft zitten."
             ]
           },
           {
-            "heading": "Geef het haar de ruimte om een kroonkrans te volgen",
+            "heading": "Volg de groeirichting bij je kruin",
             "paragraphs": [
-              "Je haarlijn en kruin kunnen in verschillende richtingen trekken. Houd de gewenste opening aan de voorkant en laat de lijn buigen of eindigen als je de krans nadert. Een foto van iets bovenaf kan u helpen te zien hoe de twee gebieden met elkaar verbonden zijn."
+              "Je haar kan bij je voorhoofd een andere kant op vallen dan bij je kruin. Begin vooraan op de plek die je prettig vindt. Laat de lijn dichter bij de kruin meebuigen met de haarwervel of stop net ervoor. Bekijk de scheiding op een foto van bovenaf."
             ]
           }
         ],
         "faqs": [
           {
-            "question": "Kan haar meer dan één natuurlijk deel hebben?",
-            "answer": "Ja. Mogelijk zie je een paar plaatsen waar de wortels gemakkelijk loskomen. Probeer ze allemaal en kijk welke de gewenste vorm heeft met de minste styling."
+            "question": "Kan ik meer dan één natuurlijke scheiding hebben?",
+            "answer": "Ja. Je haar kan op meer plekken bij de aanzet vanzelf uit elkaar vallen. Probeer ze en kijk bij welke lijn je het minst hoeft bij te sturen."
           },
           {
-            "question": "Moet ik mijn haar links of rechts scheiden?",
-            "answer": "Test beide kanten. Kijk welke lijn open blijft als je het haar loslaat en welke richting je de gewenste beweging of lift geeft."
+            "question": "Moet ik mijn scheiding links of rechts dragen?",
+            "answer": "Probeer beide kanten. Laat je haar los en kijk welke lijn zichtbaar blijft en hoe de plukken rond je gezicht vallen."
           }
         ],
         "sources": [
           {
-            "label": "Collega-kapper over het vinden van een onderdeel dat je kuif volgt",
+            "label": "Fellow Barber over een scheiding bij een haarwervel (Engels)",
             "url": "https://www.fellowbarber.com/blogs/read/use-your-cowlick-to-determine-your-part"
           }
         ]
