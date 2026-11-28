@@ -1596,13 +1596,13 @@
   },
   "da": {
     "messages": {
-      "title": "Hårskillevejledninger",
-      "description": "Lær at lave en glat mellemhårskilning, prøv en sidehårafskilning, eller skift din hårskilning med simple teknikker, du kan bruge derhjemme.",
-      "brand": "PartMirror guider",
+      "title": "Guider til din skilning",
+      "description": "Find din naturlige skilning, prøv en midter- eller sideskilning, og se, hvordan du kan tage højde for en hårhvirvel.",
+      "brand": "PartMirror-guider",
       "nav": "Hårskilningsguider",
       "questions": "Almindelige spørgsmål",
       "sources": "Yderligere læsning",
-      "more": "Flere hårskilningsguider",
+      "more": "Flere guider til din skilning",
       "download": "Tjek din hårskilning med PartMirror",
       "downloadText": "Brug liveguiden til at opstille din hårskilning, og sammenlign derefter gemte looks på en kompatibel iPhone."
     },
@@ -1699,58 +1699,63 @@
       {
         "topic": "change",
         "slug": "how-to-change-your-hair-part",
-        "title": "Sådan ændrer du din hårskilning",
-        "description": "Prøv en anden hårskilning over to dage, se hvordan det sætter sig, og juster linjen omkring en cowlick, hvis dine rødder bliver ved med at åbne sig igen.",
+        "title": "Sådan ændrer du din skilning, når du har en hårhvirvel",
+        "description": "Prøv en midter- eller sideskilning, og tilpas linjen, hvis håret falder tilbage i den gamle skilning.",
         "sections": [
           {
-            "heading": "Vælg, hvor du vil have den nye hårskilning til at sidde",
+            "heading": "Vælg, hvor den nye skilning skal begynde",
             "paragraphs": [
-              "Fej dit hår forsigtigt tilbage og lad det falde til ro for at finde din naturlige hårskilning. Beslut om du vil flytte den lidt, flytte fra midten til siden eller skifte side. Adskil håret langs din nye linje med din finger eller halen på en kam og se, hvor de forreste sektioner falder, når du slipper dem.",
-              "Hvis den gamle hårskæring bliver ved med at åbne sig igen, fugt rødderne let der og adskille håret igen. Lad det tørre på plads. En løs klips kan holde en sektion, mens den sætter sig. Hvis du foretrækker at føntørre, skal du bruge en lav varmeindstilling og rette luftstrømmen hen ad den vej, du vil have håret til at falde."
+              "Stryg håret bagud og lad det falde. Flyt først skilningen en smule. Lav linjen med fingeren eller spidsen af en spidskam, og se, hvordan håret falder ved panden.",
+              "Kommer den gamle skilning tilbage, så fugt håret let ved rødderne langs den gamle linje. Lav den nye skilning igen, og hold håret på plads med et spænde, mens det tørrer. Bruger du en føntørrer, så vælg lav varme og ret luften den vej, håret skal falde."
             ]
           },
           {
-            "heading": "Prøv to placeringer over to dage",
+            "heading": "Sammenlign to skilninger",
             "paragraphs": [
-              "På dag ét, følg den naturlige åbning og tag et billede, efter dit hår har sat sig. På dag to skal du flytte hårskilningen lidt mod den position, du ønsker. Hold mængden af ​​produkt og resten af ​​din stylingrutine så ens som du kan, og tag derefter endnu et billede fra samme vinkel.",
-              "Sammenlign hvordan hver ser ud, og hvor ofte du havde lyst til at justere den. Hvis den anden position løfter sig eller deler sig, så prøv en mindre ændring næste gang. Tænk på de to dage som en måde at sammenligne placeringer på. Dit vækstmønster forbliver det samme."
+              "Tag et billede af hver skilning i samme lys og fra samme vinkel. Se, hvordan håret falder ved ansigtet, og hvor tit du skal rette linjen. Deler håret sig to steder, så flyt den nye skilning lidt tættere på den gamle."
             ]
           },
           {
-            "heading": "Arbejd omkring en cowlick",
+            "heading": "Tilpas linjen ved hårhvirvlen",
             "paragraphs": [
-              "En cowlick er et plaster, hvor rødderne vokser i en anden retning end det nærliggende hår. Løft forsigtigt sektionen, lad den sætte sig, og se, hvor håret åbner sig. Hvis cowlick sidder forrest, så prøv at starte den nye hårskilning nær den åbning. Hvis det er ved kronen, så hold dit foretrukne udgangspunkt ved hårgrænsen og lad bagsiden af ​​hårskilningen bøje sig mod den naturlige adskillelse.",
-              "PartMirror kan hjælpe dig med at gentage den samme offset og sammenligne gemte billeder. Brug guiden som reference, og se, hvordan dit faktiske hår sætter sig omkring cowlicken."
+              "Sidder hvirvlen ved panden, så lav en kort skilning lige ved siden af det sted, hvor håret naturligt deler sig. Slip håret og se, om der opstår en ekstra linje.",
+              "Sidder hvirvlen ved issen, så begynd, hvor du vil, foran. Lad den bageste del af linjen følge hvirvlen eller slutte lige før den. Find samme startpunkt med PartMirrors hjælpelinje, og se linjen bagtil med et ekstra spejl eller et billede ovenfra."
             ]
           }
         ],
         "faqs": [
           {
-            "question": "Kan jeg bære en mellemhårsskilning med en cowlick?",
-            "answer": "Ja. Prøv at starte ved midtpunktet og lade linjen bue i nærheden af ​​cowlick, eller skift linjen lidt, hvor håret åbner sig. Tjek hvordan den færdige hårskilning ser ud forfra og ovenfra."
+            "question": "Kan jeg have midterskilning med en hårhvirvel?",
+            "answer": "Ja. Begynd midt ved hårgrænsen og lad linjen bøje lidt eller stoppe lige før hvirvlen."
           },
           {
-            "question": "Kan jeg træne mit hår til at skilles anderledes på to dage?",
-            "answer": "Du kan teste en anden placering over to dage og style dit hår ind i det. Et cowlick afspejler din rodvækstretning, hvilken styling ikke ændres permanent."
+            "question": "Kan hårets vækstretning ændres på to dage?",
+            "answer": "Du kan afprøve en ny skilning på to dage. Den retning, håret vokser i ved rødderne, ændrer sig ikke."
           },
           {
-            "question": "Skal jeg lægge hårskæringen direkte gennem cowlick'en?",
-            "answer": "Prøv både gennem den naturlige åbning og lige ved siden af ​​den. Hvor håret let falder af, kan være forskelligt mellem en frontcowlick og en krone."
+            "question": "Skal skilningen gå gennem hvirvlen?",
+            "answer": "Prøv både det sted, hvor håret deler sig af sig selv, og lige ved siden af. Vælg det sted, hvor håret bliver liggende, når du slipper det."
           }
         ],
         "sources": [
           {
-            "label": "Hair.coms stylistguide til ændring af din hårskilning",
+            "label": "Hair.com om at ændre skilningen (engelsk)",
             "url": "https://www.hair.com/how-to-train-part.html"
           },
           {
-            "label": "Fellow Barbers guide til at skille sig af med en cowlick",
+            "label": "Fellow Barber om skilning ved en hårhvirvel (engelsk)",
             "url": "https://www.fellowbarber.com/blogs/read/use-your-cowlick-to-determine-your-part"
           },
           {
-            "label": "American Academy of Dermatology tips til hårpleje",
+            "label": "Hårplejeråd fra American Academy of Dermatology (engelsk)",
             "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips"
           }
+        ],
+        "updatedOn": "2026-11-28",
+        "relatedTopics": [
+          "natural",
+          "side",
+          "compare"
         ]
       },
       {
@@ -1841,8 +1846,8 @@
         "topic": "natural",
         "slug": "how-to-find-your-natural-hair-part",
         "title": "Sådan finder du din naturlige skilning",
-        "description": "Se, hvor dit hår naturligt adskilles nær din pande. Brug en hurtig test for at finde den hårskillelinje, der bliver på plads med mindst styling.",
-        "updatedOn": "2026-11-22",
+        "description": "Se, hvor håret deler sig af sig selv ved panden, og hvordan en hårhvirvel ved issen påvirker skilningen.",
+        "updatedOn": "2026-11-28",
         "relatedTopics": [
           "change",
           "side",
@@ -1850,39 +1855,37 @@
         ],
         "sections": [
           {
-            "heading": "Læg mærke til, hvor dit hår adskiller sig nær panden",
+            "heading": "Se, hvor håret deler sig ved panden",
             "paragraphs": [
-              "Start med nyvasket hår eller med rødderne let fugtet omkring din sædvanlige del. Tag eventuelle clips ud og brug fingrene til at feje håret væk fra din pande. Skub den forsigtigt fremad og lad den falde. Kig efter stedet nær din hårgrænse, hvor rødderne begynder at skille sig.",
-              "Gentag bevægelsen en eller to gange. Hvis den samme åbning bliver ved med at dukke op, skal du spore den første tomme af den linje med din finger og derefter se, hvor rødderne vil gå længere tilbage. Med krøller eller spoler flyttes håret ved rødderne og lad længderne sætte sig i klumper."
+              "Fjern hårspænderne og stryg håret bagud med fingrene. Skub det forsigtigt fremad og slip. Læg mærke til, hvor håret deler sig ved hårgrænsen. Hvis den samme linje dukker op igen, så følg den et lille stykke bagud med fingeren."
             ]
           },
           {
-            "heading": "Tjek, om din sædvanlige styling holder den gamle del",
+            "heading": "Prøv igen efter hårvask",
             "paragraphs": [
-              "Hvis du altid tørrer dit hår samme sted, så tjek igen efter en vask, før du sætter det med clips eller produkt. Lad det sætte sig med hovedet oprejst. En linje, der forbliver synlig, når du slipper dit hår, kan være lettere at bære end en, der lukker sig, så snart du giver slip.",
-              "Hvis du ser to åbninger, test en ad gangen. Lav en kort del foran, lad rødderne tørre, og sammenlign, hvor let hver side bliver på plads i løbet af dagen."
+              "Hvis du tit tørrer håret med den samme skilning, så prøv igen efter hårvask, før du bruger spænder eller stylingprodukter. Ser du to linjer, så prøv dem én ad gangen og se, hvilken der holder bedst, når håret er tørt."
             ]
           },
           {
-            "heading": "Giv håret plads til at følge en krone",
+            "heading": "Følg hårhvirvlen ved issen",
             "paragraphs": [
-              "Din hårgrænse og krone kan trække i forskellige retninger. Hold den åbning, du kan lide, foran, og lad derefter linjen bue eller ende, når du nærmer dig hvirvelen. Et billede lidt ovenfra kan hjælpe dig med at se, hvordan de to områder forbindes."
+              "Håret kan falde i forskellig retning ved panden og issen. Begynd skilningen, hvor du vil have den foran. Lad linjen bøje med hårets retning eller slutte lige før hvirvlen. Se linjen på et billede taget ovenfra."
             ]
           }
         ],
         "faqs": [
           {
-            "question": "Kan hår have mere end én naturlig del?",
-            "answer": "Ja. Du kan se nogle få steder, hvor rødderne let skilles. Prøv hver enkelt og se, hvilken der holder den form, du ønsker, med den mindste styling."
+            "question": "Kan jeg have mere end én naturlig skilning?",
+            "answer": "Ja. Håret kan dele sig let flere steder. Prøv dem hver for sig og se, hvilken der kræver mindst tilretning."
           },
           {
-            "question": "Skal jeg skille mit hår til venstre eller højre?",
-            "answer": "Test begge sider. Se hvilken linje der forbliver åben, når du slipper håret, og hvilken retning giver dig det sweep eller løft, du ønsker."
+            "question": "Skal min skilning ligge til venstre eller højre?",
+            "answer": "Prøv begge sider. Slip håret og se, hvor skilningen bliver liggende, og hvordan håret falder omkring ansigtet."
           }
         ],
         "sources": [
           {
-            "label": "Frisørkollega om at finde en del, der følger din cowlick",
+            "label": "Fellow Barber om skilning ved en hårhvirvel (engelsk)",
             "url": "https://www.fellowbarber.com/blogs/read/use-your-cowlick-to-determine-your-part"
           }
         ]
@@ -10352,13 +10355,13 @@
   },
   "no": {
     "messages": {
-      "title": "Hårskilleguider",
-      "description": "Lær å lage en rett mellomhåravskilning, prøv en sidehåravskjed, eller endre håravskillelsen med enkle teknikker du kan bruke hjemme.",
-      "brand": "PartMirror guider",
+      "title": "Guider til hårskill",
+      "description": "Finn den naturlige skillen din, prøv midtskill eller sideskill og se hvordan du kan ta hensyn til en hårvirvel.",
+      "brand": "PartMirror-guider",
       "nav": "Hårskilleguider",
       "questions": "Vanlige spørsmål",
       "sources": "Ytterligere lesing",
-      "more": "Flere håravskillelsesguider",
+      "more": "Flere guider til hårskill",
       "download": "Sjekk håravskjeden med PartMirror",
       "downloadText": "Bruk den direktesendte guiden til å sette opp hårskillet ditt, og sammenlign deretter lagrede utseende på en kompatibel iPhone."
     },
@@ -10455,58 +10458,63 @@
       {
         "topic": "change",
         "slug": "how-to-change-your-hair-part",
-        "title": "Hvordan endre hårskillet",
-        "description": "Prøv en annen håravskjed i løpet av to dager, se hvordan det legger seg, og juster linjen rundt en cowlick hvis røttene dine fortsetter å åpne seg igjen.",
+        "title": "Slik bytter du hårskill når du har en hårvirvel",
+        "description": "Prøv en midtskill eller sideskill og juster linjen hvis håret faller tilbake i den gamle skillen.",
         "sections": [
           {
-            "heading": "Velg hvor du vil at den nye håravskjeden skal sitte",
+            "heading": "Velg hvor den nye skillen skal begynne",
             "paragraphs": [
-              "Fei håret ditt forsiktig tilbake og la det sette seg for å finne din naturlige håravskjed. Bestem om du vil flytte den litt, flytte fra midten til siden eller bytte side. Skill håret langs den nye linjen med fingeren eller halen på en kam og se hvor de fremre delene faller når du slipper dem.",
-              "Hvis den gamle håravskjeden fortsetter å åpne seg igjen, fukt røttene lett der og separer håret igjen. La det tørke på plass. En løs klips kan holde en seksjon mens den setter seg. Hvis du foretrekker å føne, bruk en lav varmeinnstilling og rett luftstrømmen langs veien du vil at håret skal falle."
+              "Stryk håret bakover og la det falle. Start med å flytte skillen litt. Lag linjen med fingeren eller spissen på en spisskam, og se hvordan håret faller foran.",
+              "Hvis den gamle skillen kommer tilbake, fukter du håret lett ved røttene langs linjen og lager den nye skillen på nytt. Hold håret på plass med en spenne mens det tørker. Bruk lav varme hvis du føner, og rett lufta dit du vil at håret skal falle."
             ]
           },
           {
-            "heading": "Prøv to plasseringer over to dager",
+            "heading": "Sammenlign de to skillene",
             "paragraphs": [
-              "På dag én, følg den naturlige åpningen og ta et bilde etter at håret har satt seg. På dag to flytter du hårskillet litt mot den posisjonen du ønsker. Hold mengden produkt og resten av stylingrutinen så lik du kan, og ta deretter et nytt bilde fra samme vinkel.",
-              "Sammenlign hvordan hver ser ut og hvor ofte du fikk lyst til å justere den. Hvis den andre posisjonen heves eller deler seg, prøv en mindre endring neste gang. Tenk på de to dagene som en måte å sammenligne plasseringer på. Vekstmønsteret ditt forblir det samme."
+              "Ta et bilde av hver skill i samme lys og fra samme vinkel. Se hvordan håret faller rundt ansiktet, og hvor ofte du må rette på skillen. Hvis du får to linjer, kan du flytte den nye litt nærmere den gamle."
             ]
           },
           {
-            "heading": "Arbeid rundt en cowlick",
+            "heading": "Tilpass linjen ved hårvirvelen",
             "paragraphs": [
-              "En cowlick er en lapp hvor røttene vokser i en annen retning enn det nærliggende håret. Løft delen forsiktig, la den sette seg, og se hvor håret åpner seg. Hvis cowlick sitter foran, prøv å starte den nye håravskillelsen nær den åpningen. Hvis det er ved kronen, hold ditt foretrukne utgangspunkt ved hårfestet og la baksiden av hårskillet bøye seg mot den naturlige separasjonen.",
-              "PartMirror kan hjelpe deg å gjenta den samme forskyvningen og sammenligne lagrede bilder. Bruk guiden som referanse, og se deretter hvordan håret ditt legger seg rundt cowlicken."
+              "Hvis virvelen er nær pannen, kan du lage en kort skill rett ved siden av stedet der håret deler seg naturlig. Slipp håret og se om det dannes en ekstra linje.",
+              "Hvis virvelen sitter ved kronen, kan du begynne skillen der du vil foran. Bøy den bakre delen med virvelen eller avslutt rett før den. Bruk ledelinjen i PartMirror til å finne igjen startpunktet og sjekk linjen bak med et ekstra speil eller et bilde ovenfra."
             ]
           }
         ],
         "faqs": [
           {
-            "question": "Kan jeg bruke en mellomhårsavskjed med en cowlick?",
-            "answer": "Ja. Prøv å starte ved midtpunktet og la linjen bue i nærheten av cowlick, eller forskyv linjen litt der håret åpner seg. Sjekk hvordan den ferdige håravskjeden ser ut forfra og over."
+            "question": "Kan jeg ha midtskill med en hårvirvel?",
+            "answer": "Ja. Begynn midt ved hårfestet og la linjen bøye seg litt ved virvelen eller stoppe før den."
           },
           {
-            "question": "Kan jeg trene håret mitt til å skilles annerledes på to dager?",
-            "answer": "Du kan teste en annen plassering over to dager og style håret ditt inn i det. En cowlick reflekterer rotens vekstretning, hvilken styling ikke endres permanent."
+            "question": "Kan hårets vekstretning endres på to dager?",
+            "answer": "Du kan prøve en ny skill i løpet av to dager. Retningen håret vokser i ved røttene, forblir den samme."
           },
           {
-            "question": "Bør jeg sette hårspalten direkte gjennom cowlick?",
-            "answer": "Prøv både gjennom den naturlige åpningen og like ved den. Hvor håret lett faller kan være forskjellig mellom en front cowlick og en krone."
+            "question": "Bør skillen gå gjennom hårvirvelen?",
+            "answer": "Prøv der håret deler seg av seg selv, og rett ved siden av. Velg den linjen som holder best når du slipper håret."
           }
         ],
         "sources": [
           {
-            "label": "Hair.coms stylistguide for å endre hårskillet ditt",
+            "label": "Hair.com om å bytte hårskill (engelsk)",
             "url": "https://www.hair.com/how-to-train-part.html"
           },
           {
-            "label": "Fellow Barbers guide til avskjed rundt en cowlick",
+            "label": "Fellow Barber om hårskill ved en hårvirvel (engelsk)",
             "url": "https://www.fellowbarber.com/blogs/read/use-your-cowlick-to-determine-your-part"
           },
           {
-            "label": "Hårpleietips fra American Academy of Dermatology",
+            "label": "Hårpleieråd fra American Academy of Dermatology (engelsk)",
             "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips"
           }
+        ],
+        "updatedOn": "2026-11-28",
+        "relatedTopics": [
+          "natural",
+          "side",
+          "compare"
         ]
       },
       {
@@ -10596,9 +10604,9 @@
       {
         "topic": "natural",
         "slug": "how-to-find-your-natural-hair-part",
-        "title": "Slik finner du den naturlige hårskillen din",
-        "description": "Se hvor håret ditt naturlig skiller seg nær pannen. Bruk en rask test for å finne hårskillelinjen som holder seg på plass med minst mulig styling.",
-        "updatedOn": "2026-11-22",
+        "title": "Slik finner du den naturlige skillen din",
+        "description": "Se hvor håret deler seg av seg selv ved pannen, og hvordan en hårvirvel ved kronen påvirker skillen.",
+        "updatedOn": "2026-11-28",
         "relatedTopics": [
           "change",
           "side",
@@ -10606,39 +10614,37 @@
         ],
         "sections": [
           {
-            "heading": "Legg merke til hvor håret ditt skiller seg nær pannen",
+            "heading": "Se hvor håret deler seg ved pannen",
             "paragraphs": [
-              "Start med nyvasket hår eller med røttene lett fuktet rundt din vanlige del. Ta ut eventuelle klips og bruk fingrene til å feie håret vekk fra pannen. Skyv den forsiktig fremover og la den falle. Se etter stedet nær hårfestet der røttene begynner å skille seg.",
-              "Gjenta bevegelsen en eller to ganger. Hvis den samme åpningen fortsetter å dukke opp, spor den første tommen av den linjen med fingeren og se hvor røttene vil gå lenger tilbake. Med krøller eller spoler, flytt håret ved røttene og la lengdene legge seg i klumper."
+              "Ta ut hårspennene og stryk håret bakover med fingrene. Skyv det varsomt fram og slipp. Se hvor håret deler seg langs hårfestet. Hvis den samme linjen viser seg igjen, følger du den et lite stykke bakover med en finger."
             ]
           },
           {
-            "heading": "Sjekk om din vanlige styling holder den gamle delen",
+            "heading": "Prøv på nytt etter hårvask",
             "paragraphs": [
-              "Hvis du alltid tørker håret på samme sted, sjekk igjen etter en vask før du setter det med klips eller produkt. La det sette seg med hodet oppreist. En linje som forblir synlig etter at du slipper håret, kan være lettere å ha på seg enn en som lukkes så snart du slipper taket.",
-              "Hvis du ser to åpninger, test en om gangen. Lag en kort del foran, la røttene tørke, og sammenlign hvor lett hver side holder seg på plass i løpet av dagen."
+              "Hvis du ofte tørker håret med den samme skillen, kan du prøve igjen etter hårvask, før du bruker spenner eller stylingprodukter. Hvis du ser to linjer, prøver du én om gangen og ser hvilken som holder best etter at håret har tørket."
             ]
           },
           {
-            "heading": "Gi håret plass til å følge en krone",
+            "heading": "Følg hårvirvelen ved kronen",
             "paragraphs": [
-              "Hårfestet og kronen kan trekke i forskjellige retninger. Hold åpningen du liker foran, og la så linjen bue eller slutte når du nærmer deg virvlen. Et bilde litt ovenfor kan hjelpe deg å se hvordan de to områdene henger sammen."
+              "Håret kan falle i ulik retning ved pannen og kronen. La skillen begynne der du vil foran. Nær virvelen kan du la linjen bøye seg med håret eller stoppe like før virvelen. Sjekk linjen med et bilde ovenfra."
             ]
           }
         ],
         "faqs": [
           {
-            "question": "Kan håret ha mer enn én naturlig del?",
-            "answer": "Ja. Du kan se noen få steder hvor røttene lett skilles. Prøv hver og en og se hvilken som holder formen du vil ha med minst mulig styling."
+            "question": "Kan jeg ha mer enn én naturlig skill?",
+            "answer": "Ja. Håret kan dele seg lett flere steder. Prøv dem én om gangen og se hvilken som krever minst justering."
           },
           {
-            "question": "Bør jeg dele håret på venstre eller høyre side?",
-            "answer": "Test begge sider. Se hvilken linje som forblir åpen når du slipper håret og hvilken retning som gir deg det sveipet eller løftet du ønsker."
+            "question": "Bør skillen ligge til venstre eller høyre?",
+            "answer": "Prøv begge sider. Slipp håret og se hvor skillen holder seg, og hvordan håret faller rundt ansiktet."
           }
         ],
         "sources": [
           {
-            "label": "Frisørkollega om å finne en del som følger cowlicken din",
+            "label": "Fellow Barber om hårskill ved en hårvirvel (engelsk)",
             "url": "https://www.fellowbarber.com/blogs/read/use-your-cowlick-to-determine-your-part"
           }
         ]
@@ -13925,13 +13931,13 @@
   },
   "sv": {
     "messages": {
-      "title": "Håravskiljningsguider",
-      "description": "Lär dig göra en rak mellanhårsavskiljning, prova en sidohårsavskiljning eller ändra din håravskiljning med enkla tekniker som du kan använda hemma.",
-      "brand": "PartMirror guider",
+      "title": "Guider för din bena",
+      "description": "Hitta din naturliga bena, prova en mittbena eller sidbena och se hur du kan anpassa benan efter en hårvirvel.",
+      "brand": "PartMirror-guider",
       "nav": "Håravskiljningsguider",
       "questions": "Vanliga frågor",
       "sources": "Ytterligare läsning",
-      "more": "Fler håravskiljningsguider",
+      "more": "Fler guider om benor",
       "download": "Kontrollera din håravskiljning med PartMirror",
       "downloadText": "Använd liveguiden för att rada upp din håravskiljning och jämför sedan sparade utseenden på en kompatibel iPhone."
     },
@@ -14028,58 +14034,63 @@
       {
         "topic": "change",
         "slug": "how-to-change-your-hair-part",
-        "title": "Hur du ändrar din håravskiljning",
-        "description": "Prova en annan håravskiljning under två dagar, se hur det lägger sig och justera linjen runt en cowlick om dina rötter fortsätter att öppna sig igen.",
+        "title": "Så byter du bena när du har en hårvirvel",
+        "description": "Prova en ny mittbena eller sidbena och justera linjen om håret faller tillbaka i den gamla benan.",
         "sections": [
           {
-            "heading": "Välj var du vill att den nya håravskiljningen ska sitta",
+            "heading": "Välj den nya benans läge",
             "paragraphs": [
-              "Sopa tillbaka ditt hår försiktigt och låt det sätta sig för att hitta din naturliga håravskiljning. Bestäm om du vill flytta den något, flytta från mitten till sidan eller byta sida. Separera håret längs din nya linje med fingret eller svansen på en kam och se var de främre delarna faller när du släpper dem.",
-              "Om den gamla håravskiljningen fortsätter att öppnas igen, fukta lätt rötterna där och separera håret igen. Låt det torka på plats. En lös klämma kan hålla en sektion när den sätts. Om du föredrar att föna, använd en låg värmeinställning och rikta luftflödet längs den väg du vill att håret ska falla."
+              "Stryk håret bakåt och låt det falla. Börja med att flytta benan en liten bit. Använd fingret eller spetsen på en pinnkam och se hur håret faller vid pannan.",
+              "Om den gamla benan kommer tillbaka, fukta hårrötterna runt den linjen och gör den nya benan igen. Håll håret på plats med ett spänne tills det torkar. Om du fönar, använd låg värme och rikta luften dit du vill att håret ska falla."
             ]
           },
           {
-            "heading": "Prova två placeringar under två dagar",
+            "heading": "Jämför benorna i samma ljus",
             "paragraphs": [
-              "På dag ett, följ den naturliga öppningen och ta ett foto efter att ditt hår har satt sig. På dag två, flytta håravskiljningen något mot den position du vill ha. Håll mängden produkt och resten av din stylingrutin så lika du kan och ta sedan ett nytt foto från samma vinkel.",
-              "Jämför hur var och en ser ut och hur ofta du kände för att justera den. Om den andra positionen lyfts eller splittras, prova en mindre förändring nästa gång. Tänk på de två dagarna som ett sätt att jämföra placeringar. Ditt tillväxtmönster förblir detsamma."
+              "Fotografera den vanliga och den nya benan från samma vinkel. Titta på hur håret ramar in ansiktet och hur ofta du behöver rätta till benan. Om det blir två linjer, flytta den nya benan lite närmare den gamla."
             ]
           },
           {
-            "heading": "Arbeta runt en cowlick",
+            "heading": "Anpassa benan vid hårvirveln",
             "paragraphs": [
-              "En cowlick är en lapp där rötterna växer i en annan riktning än det närliggande håret. Lyft försiktigt delen, låt den sätta sig och se var håret öppnar sig. Om cowlicken sitter längst fram, prova att starta den nya håravskiljningen nära den öppningen. Om det är vid kronan, håll din föredragna utgångspunkt vid hårfästet och låt baksidan av håravskiljningen böjas mot den naturliga separationen.",
-              "PartMirror kan hjälpa dig att upprepa samma offset och jämföra sparade foton. Använd guiden som referens och se sedan hur ditt faktiska hår lägger sig runt cowlicken."
+              "Om virveln sitter vid pannan, prova en kort bena precis intill stället där håret delar sig naturligt. Släpp håret och se om en andra linje dyker upp.",
+              "Om virveln sitter vid hjässan kan du börja där du vill framtill. Låt sedan linjen svänga med hårets växtriktning eller sluta före virveln. Använd PartMirrors guidelinje för att hitta tillbaka till startpunkten vid pannan och kontrollera linjen baktill med en andra spegel eller ett foto uppifrån."
             ]
           }
         ],
         "faqs": [
           {
-            "question": "Kan jag bära en mellanhårsdel med en cowlick?",
-            "answer": "Ja. Försök att börja i mitten och låt linjen böja sig nära cowlicken, eller flytta linjen lite där håret öppnar sig. Kolla hur den färdiga håravskiljningen ser ut framifrån och ovanifrån."
+            "question": "Kan jag ha mittbena trots en hårvirvel?",
+            "answer": "Ja. Börja mitt vid hårfästet och låt linjen svänga något eller sluta före virveln."
           },
           {
-            "question": "Kan jag träna mitt hår att skiljas annorlunda på två dagar?",
-            "answer": "Du kan testa en annan placering under två dagar och styla ditt hår i det. En cowlick reflekterar din rottillväxtriktning, vilken styling inte ändras permanent."
+            "question": "Kan hårets växtriktning ändras på två dagar?",
+            "answer": "Du kan testa en ny bena på två dagar. Hårets växtriktning vid rötterna är densamma."
           },
           {
-            "question": "Ska jag lägga håravskiljningen direkt genom cowlicken?",
-            "answer": "Prova både genom den naturliga öppningen och precis bredvid den. Var håret lätt faller kan skilja sig mellan en främre cowlick och en crowl."
+            "question": "Ska benan gå genom hårvirveln?",
+            "answer": "Prova linjen där håret delar sig och precis bredvid. Välj den bena där håret ligger bäst när du släpper det."
           }
         ],
         "sources": [
           {
-            "label": "Hair.coms stylistguide för att ändra din håravskiljning",
+            "label": "Hair.com om att byta bena (engelska)",
             "url": "https://www.hair.com/how-to-train-part.html"
           },
           {
-            "label": "Fellow Barbers guide till avsked runt en cowlick",
+            "label": "Fellow Barber om att lägga benan vid en hårvirvel (engelska)",
             "url": "https://www.fellowbarber.com/blogs/read/use-your-cowlick-to-determine-your-part"
           },
           {
-            "label": "Hårvårdstips från American Academy of Dermatology",
+            "label": "Hårvårdsråd från American Academy of Dermatology (engelska)",
             "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips"
           }
+        ],
+        "updatedOn": "2026-11-28",
+        "relatedTopics": [
+          "natural",
+          "side",
+          "compare"
         ]
       },
       {
@@ -14170,8 +14181,8 @@
         "topic": "natural",
         "slug": "how-to-find-your-natural-hair-part",
         "title": "Så hittar du din naturliga bena",
-        "description": "Se var ditt hår separerar naturligt nära din panna. Använd ett snabbtest för att hitta den håravskiljningslinje som håller sig på plats med minst styling.",
-        "updatedOn": "2026-11-22",
+        "description": "Se var håret delar sig av sig självt vid pannan och hur benan följer hårets växtriktning vid hjässan.",
+        "updatedOn": "2026-11-28",
         "relatedTopics": [
           "change",
           "side",
@@ -14179,39 +14190,37 @@
         ],
         "sections": [
           {
-            "heading": "Lägg märke till var ditt hår separerar nära pannan",
+            "heading": "Se var håret delar sig vid pannan",
             "paragraphs": [
-              "Börja med håret nytvättat eller med rötterna lätt fuktade runt din vanliga del. Ta ut eventuella klämmor och använd fingrarna för att sopa bort håret från pannan. Skjut den försiktigt framåt och låt den falla. Leta efter platsen nära din hårfäste där rötterna börjar separera.",
-              "Upprepa rörelsen en eller två gånger. Om samma öppning fortsätter att dyka upp, spåra den första tum av den linjen med fingret och se sedan var rötterna vill gå längre tillbaka. Med lockar eller spolar, flytta håret vid rötterna och låt längderna lägga sig i klumpar."
+              "Ta bort eventuella hårspännen. Stryk håret bakåt med fingrarna, för det försiktigt framåt och släpp. Titta var håret delar sig självt vid hårfästet. Om samma linje kommer tillbaka, följ den en bit bakåt med ett finger."
             ]
           },
           {
-            "heading": "Kontrollera om din vanliga styling håller den gamla delen",
+            "heading": "Gör om testet efter hårtvätten",
             "paragraphs": [
-              "Om du alltid torkar håret på samma ställe, kontrollera igen efter en tvätt innan du sätter in det med clips eller produkt. Låt det lägga sig med huvudet upprätt. En linje som förblir synlig efter att du släppt håret kan vara lättare att bära än en som stänger så fort du släpper taget.",
-              "Om du ser två öppningar, testa en i taget. Gör en kort del framtill, låt rötterna torka och jämför hur lätt varje sida håller sig på plats under dagen."
+              "Om du brukar torka håret med samma bena, testa igen efter en tvätt innan du använder hårspännen eller stylingprodukter. Om två linjer syns, prova en i taget och se vilken som håller bäst när håret har torkat."
             ]
           },
           {
-            "heading": "Ge håret utrymme att följa en kronspiral",
+            "heading": "Följ hårvirveln vid hjässan",
             "paragraphs": [
-              "Ditt hårfäste och din krona kan dra åt olika håll. Behåll den öppning du gillar längst fram, låt sedan linjen kröka eller sluta när du närmar dig virveln. Ett foto från något ovan kan hjälpa dig att se hur de två områdena ansluter."
+              "Håret kan falla åt olika håll vid pannan och hjässan. Börja benan där du vill ha den framtill och låt den svänga med hårvirveln eller sluta strax före den. Ta ett foto uppifrån för att se linjen tydligare."
             ]
           }
         ],
         "faqs": [
           {
-            "question": "Kan håret ha mer än en naturlig del?",
-            "answer": "Ja. Du kan se några ställen där rötterna lätt separeras. Prova var och en och se vilken som håller formen du vill ha med minst styling."
+            "question": "Kan jag ha mer än en naturlig bena?",
+            "answer": "Ja. Håret kan dela sig lätt på flera ställen. Prova dem var för sig och se vilken som kräver minst justering."
           },
           {
-            "question": "Ska jag dela håret åt vänster eller höger?",
-            "answer": "Testa båda sidor. Se vilken linje som förblir öppen när du släpper håret och vilken riktning som ger dig det svep eller lyft du vill ha."
+            "question": "Ska jag lägga benan till vänster eller höger?",
+            "answer": "Prova båda sidor. Släpp håret och se var benan håller sig och hur håret faller runt ansiktet."
           }
         ],
         "sources": [
           {
-            "label": "Frisörkollegan om att hitta en del som följer din cowlick",
+            "label": "Fellow Barber om att lägga benan vid en hårvirvel (engelska)",
             "url": "https://www.fellowbarber.com/blogs/read/use-your-cowlick-to-determine-your-part"
           }
         ]
